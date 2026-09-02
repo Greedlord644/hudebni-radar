@@ -3,6 +3,8 @@ name: Update music radar
 on:
   push:
     branches: [main]
+  repository_dispatch:
+    types: [cron-job]
   schedule:
     - cron: "*/5 * * * *"
   workflow_dispatch:
