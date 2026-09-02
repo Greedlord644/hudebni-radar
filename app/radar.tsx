@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { ArrowUpRight, CalendarDays, Link2, MapPin, Radio, Sparkles } from "lucide-react";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Button } from "@/components/ui/button";
@@ -10,12 +10,13 @@ type Ad = { id: string; title: string; url: string; date: string; location: stri
 type RadarData = { updatedAt: string; windowDays: number; singerSeeking: Ad[]; interesting: Ad[] };
 const date = new Intl.DateTimeFormat("cs-CZ", { day: "numeric", month: "long", year: "numeric" });
 
-function AdCard({ ad, featured = false }: { ad: Ad; featured?: boolean }) {
+function AdCard({ ad, isNew = false }: { ad: Ad; isNew?: boolean }) {
   return (
-    <article className={`group relative overflow-hidden rounded-2xl border p-5 transition hover:-translate-y-0.5 hover:border-cyan-400/40 hover:bg-white/[0.055] ${featured ? "border-cyan-400/30 bg-cyan-400/[0.055]" : "border-white/10 bg-white/[0.035]"}`}>
+    <article className={`group relative overflow-hidden rounded-2xl border p-5 transition hover:-translate-y-0.5 hover:border-cyan-400/40 hover:bg-white/[0.055] ${isNew ? "border-cyan-300/45 bg-cyan-300/[0.075] shadow-[inset_3px_0_0_rgba(103,232,249,0.65)]" : "border-white/10 bg-white/[0.035]"}`}>
       <div className="mb-4 flex flex-wrap items-center gap-2 text-sm text-slate-400">
         <span className="inline-flex items-center gap-1.5"><CalendarDays className="size-4" />{date.format(new Date(ad.date))}</span><span className="text-slate-700">•</span>
         <span className="inline-flex items-center gap-1.5"><MapPin className="size-4" />{ad.location}</span>
+        {isNew && <span className="rounded-full border border-cyan-300/35 bg-cyan-300/15 px-2.5 py-1 text-xs font-bold uppercase tracking-wide text-cyan-200">Nový</span>}
         <span className="ml-auto rounded-full border border-white/10 bg-black/20 px-2.5 py-1 text-xs font-semibold text-slate-300">shoda {ad.score}%</span>
       </div>
       <h2 className="pr-8 text-xl font-semibold leading-snug tracking-tight text-white">{ad.title}</h2>
@@ -63,6 +64,24 @@ function Filters({ ads, active, onToggle, onClear }: { ads: Ad[]; active: Set<Fi
 export function Radar({ data }: { data: RadarData }) {
   const [filters, setFilters] = useState<Set<FilterKey>>(() => new Set());
   const [sort, setSort] = useState("newest");
+  const [newIds, setNewIds] = useState<Set<string>>(() => new Set());
+  const allIds = useMemo(() => [...new Set([...data.singerSeeking, ...data.interesting].map((ad) => ad.id))], [data.singerSeeking, data.interesting]);
+  const idsSignature = allIds.join(",");
+  useEffect(() => {
+    const storageKey = "hudebni-radar-seen-ads-v1";
+    const stored = window.localStorage.getItem(storageKey);
+    if (stored === null) {
+      window.localStorage.setItem(storageKey, JSON.stringify(allIds));
+      return;
+    }
+    try {
+      const seen = new Set<string>(JSON.parse(stored));
+      setNewIds(new Set(allIds.filter((id) => !seen.has(id))));
+      window.localStorage.setItem(storageKey, JSON.stringify([...new Set([...seen, ...allIds])].slice(-1000)));
+    } catch {
+      window.localStorage.setItem(storageKey, JSON.stringify(allIds));
+    }
+  }, [idsSignature]);
   const filteredInteresting = useMemo(() => {
     const result = data.interesting.filter((ad) => [...filters].every((filter) => matchesFilter(ad, filter)));
     return [...result].sort(sort === "score" ? (a, b) => b.score - a.score || Date.parse(b.date) - Date.parse(a.date) : (a, b) => Date.parse(b.date) - Date.parse(a.date) || b.score - a.score);
@@ -83,12 +102,12 @@ export function Radar({ data }: { data: RadarData }) {
           <div className="shrink-0 text-sm leading-6 text-slate-500"><span className="block font-semibold text-slate-300">Poslední kontrola</span>{date.format(new Date(data.updatedAt))} · okno {data.windowDays} dní</div>
         </header>
         <Tabs defaultValue="singer" className="gap-6">
-          <TabsList className="h-auto w-full justify-start gap-1 overflow-x-auto rounded-xl border border-white/10 bg-white/[0.04] p-1.5 sm:w-fit">
+          <TabsList className="h-auto w-full flex-wrap justify-start gap-1 overflow-visible rounded-xl border border-white/10 bg-white/[0.04] p-1.5 sm:w-fit">
             <TabsTrigger value="singer" className="min-h-10 gap-2 rounded-lg px-4 text-sm data-[state=active]:bg-cyan-300 data-[state=active]:text-slate-950"><Sparkles className="size-4" />Zpěv hledá <span className="rounded-full bg-black/10 px-2 py-0.5 text-xs">{data.singerSeeking.length}</span></TabsTrigger>
             <TabsTrigger value="interesting" className="min-h-10 gap-2 rounded-lg px-4 text-sm data-[state=active]:bg-cyan-300 data-[state=active]:text-slate-950">Obecně zajímavé <span className="rounded-full bg-black/10 px-2 py-0.5 text-xs">{data.interesting.length}</span></TabsTrigger>
           </TabsList>
-          <TabsContent value="singer" className="space-y-4"><div className="mb-5"><h2 className="text-2xl font-semibold tracking-tight text-white">Zpěv hledá kapelu nebo projekt</h2><p className="mt-1 text-slate-400">Pouze Praha a Středočeský kraj; bez coverů, tribute a zábavových kapel.</p></div>{data.singerSeeking.length ? data.singerSeeking.map((ad, i) => <AdCard key={ad.id} ad={ad} featured={i === 0} />) : <EmptyState singer />}</TabsContent>
-          <TabsContent value="interesting" className="space-y-4"><div className="mb-5 flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between"><div><h2 className="text-2xl font-semibold tracking-tight text-white">Obecně zajímavé inzeráty</h2><p className="mt-1 text-slate-400">Moderní rock a metal, vlastní tvorba a nové projekty vhodné ke sledování, propojení nebo podpoře.</p></div><div className="shrink-0"><label className="mb-1.5 block text-sm font-semibold text-slate-400">Řazení</label><Select value={sort} onValueChange={setSort}><SelectTrigger className="min-w-44 border-white/10 bg-white/[0.035] text-slate-200"><SelectValue /></SelectTrigger><SelectContent className="border-white/10 bg-[#111821] text-slate-100"><SelectItem value="newest">Nejnovější</SelectItem><SelectItem value="score">Nejvyšší shoda</SelectItem></SelectContent></Select></div></div><Filters ads={data.interesting} active={filters} onToggle={toggleFilter} onClear={() => setFilters(new Set())} />{filteredInteresting.length ? filteredInteresting.map((ad, i) => <AdCard key={ad.id} ad={ad} featured={i === 0} />) : <EmptyState />}</TabsContent>
+          <TabsContent value="singer" className="space-y-4"><div className="mb-5"><h2 className="text-2xl font-semibold tracking-tight text-white">Zpěv hledá kapelu nebo projekt</h2><p className="mt-1 text-slate-400">Pouze Praha a Středočeský kraj; bez coverů, tribute a zábavových kapel.</p></div>{data.singerSeeking.length ? data.singerSeeking.map((ad) => <AdCard key={ad.id} ad={ad} isNew={newIds.has(ad.id)} />) : <EmptyState singer />}</TabsContent>
+          <TabsContent value="interesting" className="space-y-4"><div className="mb-5 flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between"><div><h2 className="text-2xl font-semibold tracking-tight text-white">Obecně zajímavé inzeráty</h2><p className="mt-1 text-slate-400">Moderní rock a metal, vlastní tvorba a nové projekty vhodné ke sledování, propojení nebo podpoře.</p></div><div className="shrink-0"><label className="mb-1.5 block text-sm font-semibold text-slate-400">Řazení</label><Select value={sort} onValueChange={setSort}><SelectTrigger className="min-w-44 border-white/10 bg-white/[0.035] text-slate-200"><SelectValue /></SelectTrigger><SelectContent className="border-white/10 bg-[#111821] text-slate-100"><SelectItem value="newest">Nejnovější</SelectItem><SelectItem value="score">Nejvyšší shoda</SelectItem></SelectContent></Select></div></div><Filters ads={data.interesting} active={filters} onToggle={toggleFilter} onClear={() => setFilters(new Set())} />{filteredInteresting.length ? filteredInteresting.map((ad) => <AdCard key={ad.id} ad={ad} isNew={newIds.has(ad.id)} />) : <EmptyState />}</TabsContent>
         </Tabs>
       </div>
     </main>
