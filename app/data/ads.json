@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T19:01:21.015324+00:00",
+  "updatedAt": "2026-09-02T19:11:02.275391+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -24,6 +24,29 @@
     }
   ],
   "interesting": [
+    {
+      "id": "779842",
+      "title": "Hledáme kytaristku",
+      "url": "https://hudebnibazar.cz/hledame-kytaristku/ID779842/",
+      "date": "2026-09-02T21:02:00+02:00",
+      "location": "Praha 3",
+      "author": "Stepan.Lutansky",
+      "excerpt": "Ahoj, jsme začínající kapela z Prahy. Žánr, kterým naše kapela kráčí je: nu metal, alt metal, hard rock a metalcore. Všem členům je okolo 19-20 let. Hledáme kytaristku (věkové rozmezí 17-21 let), která vyplní naše prázdné místo. Stojíme o týmovou hráčku, která s naším kytaristou bude ochotna sdílet nápady a tvořit. Oceňujeme…",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Nu-metal",
+        "Alt-metal"
+      ],
+      "isPrague": true,
+      "score": 100,
+      "reasons": [
+        "nu metal",
+        "alt metal",
+        "odkaz na profil / ukázku",
+        "Praha 3"
+      ]
+    },
     {
       "id": "772011",
       "title": "Hledám zpěváka/zpěvačku - Praha",
