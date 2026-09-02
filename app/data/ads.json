@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T15:20:59.256119+00:00",
+  "updatedAt": "2026-09-02T15:31:11.832095+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -24,6 +24,30 @@
     }
   ],
   "interesting": [
+    {
+      "id": "772011",
+      "title": "Hledám zpěváka/zpěvačku - Praha",
+      "url": "https://hudebnibazar.cz/hledam-zpevaka-zpevacku-praha/ID772011/",
+      "date": "2026-09-02T17:27:00+02:00",
+      "location": "Praha 8",
+      "author": "Egi",
+      "excerpt": "Ahoj, jsem basák/kytarista a hledám zpěváka/zpěvačku z Prahy do nové autorské kapely (indie, alternative rock, anglické texty), věkově cca 22-32 let. Mně je 29, mám za sebou hraní ve dvou kapelách. Jsem k dispozici na WhatsApp, Instagramu, Facebooku nebo přes formulář níže :-) https://www.facebook.com/egermaj/…",
+      "externalLinks": [
+        "https://www.facebook.com/egermaj/",
+        "https://www.instagram.com/egimusick/"
+      ],
+      "influences": [],
+      "genres": [
+        "Alt-rock"
+      ],
+      "isPrague": true,
+      "score": 100,
+      "reasons": [
+        "alternative rock",
+        "odkaz na profil / ukázku",
+        "Praha 8"
+      ]
+    },
     {
       "id": "779795",
       "title": "Death metalová kapela hledá bubeníka",
