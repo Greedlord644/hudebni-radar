@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T12:22:30.172122+00:00",
+  "updatedAt": "2026-09-02T13:58:23.127872+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -24,6 +24,45 @@
     }
   ],
   "interesting": [
+    {
+      "id": "779777",
+      "title": "ZPĚVAČKA Z BRNA HLEDÁ KAPELU",
+      "url": "https://hudebnibazar.cz/zpevacka-z-brna-hleda-kapelu/ID779777/",
+      "date": "2026-09-02T15:51:00+02:00",
+      "location": "Brno",
+      "author": "Klara.Berisha",
+      "excerpt": "Hledám holky do kapely! Ahoj, moje jméno je Klára Berisha, jsem zpěvačka z Brna (možná si mě pamatujete ze SuperStar 2020) a hledám k sobě šikovné hudebnice, které se chtějí spojit a vytvořit nadupanou čistě ženskou kapelu! Žánrově to chci směřovat do R&B, Popu, Soulu a Funky. Cílem je postavit profesionální a vizuálně i…",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "score": 75,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "Brno"
+      ]
+    },
+    {
+      "id": "760198",
+      "title": "Metalcore/Hardcore projekt v Praze",
+      "url": "https://hudebnibazar.cz/metalcore-hardcore-projekt-v-praze/ID760198/",
+      "date": "2026-09-02T14:47:00+02:00",
+      "location": "Praha 6",
+      "author": "Shoe.Gaze",
+      "excerpt": "Hledám členy do metalcorovýho/hardcorovýho projektu styl FFO: starší Kublai Khan TX, Fox Lake - Cokoliv od nich, My Ticket Home - Strangers Only, Stray From The Path - Od Only Death is Real, Zuko, Veinfm, XweaponX, World of Pleasure, Varials (znalejm dojde, že to je primárně nu metalcore) Nejde o nic komplexního, není to show…",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Nu-metal"
+      ],
+      "isPrague": true,
+      "score": 94,
+      "reasons": [
+        "nu metal",
+        "Praha 6"
+      ]
+    },
     {
       "id": "775914",
       "title": "Hledáme Baskytaristu/Baskytaristku do Modern Metal Kapely",
