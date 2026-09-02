@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T07:55:25.754642+00:00",
+  "updatedAt": "2026-09-02T12:22:30.172122+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -24,6 +24,53 @@
     }
   ],
   "interesting": [
+    {
+      "id": "775914",
+      "title": "Hledáme Baskytaristu/Baskytaristku do Modern Metal Kapely",
+      "url": "https://hudebnibazar.cz/hledame-baskytaristu-baskytaristku-do-modern-metal-kapely/ID775914/",
+      "date": "2026-09-02T13:32:00+02:00",
+      "location": "Ostrava",
+      "author": "Vitek.Krizek",
+      "excerpt": "Zdravím Kytarista (17), bubeník (16) a zpěvačka (19) hledají baskytaristu/baskytaristku do modern metalové kapely ve stylu : Bad Omens, Dayseeker, Spiritbox, The Plot In You, Bring Me The Horizon a Normandie. Hrajeme v nízkém ladění Drop C# až po Drop F. Ideální by bylo kdybys měl/a 5 strunnou baskytaru (není podmínkou). Věk…",
+      "externalLinks": [],
+      "influences": [
+        "Bring Me The Horizon",
+        "Bad Omens",
+        "Spiritbox",
+        "The Plot In You",
+        "Dayseeker",
+        "Normandie"
+      ],
+      "genres": [
+        "Modern metal"
+      ],
+      "isPrague": false,
+      "score": 100,
+      "reasons": [
+        "Bring Me The Horizon",
+        "Bad Omens",
+        "odkaz na profil / ukázku",
+        "Ostrava"
+      ]
+    },
+    {
+      "id": "771377",
+      "title": "HLEDÁM AUTORSKÝ BAND",
+      "url": "https://hudebnibazar.cz/hledam-autorsky-band/ID771377/",
+      "date": "2026-09-02T11:47:00+02:00",
+      "location": "Praha 4",
+      "author": "Gogen.77",
+      "excerpt": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím. Jen aktivní kapely z Prahy.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "score": 69,
+      "reasons": [
+        "Praha 4",
+        "lokální networking"
+      ]
+    },
     {
       "id": "779676",
       "title": "Hledá se kytarista a klávesista",
@@ -359,35 +406,6 @@
         "Architects",
         "odkaz na profil / ukázku",
         "Praha 10"
-      ]
-    },
-    {
-      "id": "775914",
-      "title": "Hledáme Baskytaristu/Baskytaristku do Modern Metal Kapely",
-      "url": "https://hudebnibazar.cz/hledame-baskytaristu-baskytaristku-do-modern-metal-kapely/ID775914/",
-      "date": "2026-08-27T22:50:00+02:00",
-      "location": "Ostrava",
-      "author": "Vitek.Krizek",
-      "excerpt": "Zdravím Kytarista (17), bubeník (16) a zpěvačka (19) hledají baskytaristu/baskytaristku do modern metalové kapely ve stylu : Bad Omens, Dayseeker, Spiritbox, The Plot In You, Bring Me The Horizon a Normandie. Hrajeme v nízkém ladění Drop C# až po Drop F. Ideální by bylo kdybys měl/a 5 strunnou baskytaru (není podmínkou). Věk…",
-      "externalLinks": [],
-      "influences": [
-        "Bring Me The Horizon",
-        "Bad Omens",
-        "Spiritbox",
-        "The Plot In You",
-        "Dayseeker",
-        "Normandie"
-      ],
-      "genres": [
-        "Modern metal"
-      ],
-      "isPrague": false,
-      "score": 100,
-      "reasons": [
-        "Bring Me The Horizon",
-        "Bad Omens",
-        "odkaz na profil / ukázku",
-        "Ostrava"
       ]
     },
     {
