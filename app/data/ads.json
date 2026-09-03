@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T11:02:02.223322+00:00",
+  "updatedAt": "2026-09-03T11:13:28.696156+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -333,11 +333,10 @@
       "genres": [],
       "isPrague": true,
       "source": "Hudební bazar",
-      "score": 80,
+      "score": 100,
       "reasons": [
-        "Praha 9",
-        "lokální networking",
-        "podrobný inzerát"
+        "hledá produkci / pomoc se skladbami",
+        "Praha 9"
       ]
     },
     {
@@ -683,9 +682,9 @@
       ],
       "isPrague": false,
       "source": "Bandmate",
-      "score": 70,
+      "score": 100,
       "reasons": [
-        "grunge",
+        "hledá produkci / pomoc se skladbami",
         "Brno"
       ]
     },
