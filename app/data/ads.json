@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T11:13:28.696156+00:00",
+  "updatedAt": "2026-09-03T11:17:21.972820+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -333,10 +333,11 @@
       "genres": [],
       "isPrague": true,
       "source": "Hudební bazar",
-      "score": 100,
+      "score": 80,
       "reasons": [
-        "hledá produkci / pomoc se skladbami",
-        "Praha 9"
+        "Praha 9",
+        "lokální networking",
+        "podrobný inzerát"
       ]
     },
     {
