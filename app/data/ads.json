@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T21:12:16.298562+00:00",
+  "updatedAt": "2026-09-03T21:21:32.118291+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -48,6 +48,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:780042",
+      "title": "Sludgecore/Blackened Sludge",
+      "url": "https://hudebnibazar.cz/sludgecore-blackened-sludge/ID780042/",
+      "date": "2026-09-03T23:17:00+02:00",
+      "location": "Hradec Králové",
+      "author": "Stanislav.Folkl2",
+      "excerpt": "Zdarec! Kytarista a zpívající bubeník hledají basáka do nově vzniklého projektu. Měl bys mít vlastní aparát a chuť hrát 1x týdně ve zkušebně, pak když bude materiál tak live akce... Stylově groove, sludge metal :-D Zkušebna v Poděbradech...věk není podmínkou! PS: chceme hrát hodně podladěný! Tvůj zpěv výhodou(řev) Budeme se…",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "Hradec Králové"
+      ]
+    },
     {
       "id": "hudebnibazar:780041",
       "title": "Kytarista hledá kapelu",
