@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T04:10:56.294810+00:00",
+  "updatedAt": "2026-09-03T04:20:53.604129+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -24,6 +24,25 @@
     }
   ],
   "interesting": [
+    {
+      "id": "760057",
+      "title": "Kytarista do bigbítu",
+      "url": "https://hudebnibazar.cz/kytarista-do-bigbitu/ID760057/",
+      "date": "2026-09-03T06:18:00+02:00",
+      "location": "Rychnov nad Kněžnou",
+      "author": "Jiri.Nedomlel",
+      "excerpt": "Kapela 4watty hledá do svých řad schopného kytaristu! Hrajeme především rockové zábavy, pivní slavnosti, motosrazy a další akce, kde má zábavový bigbít svoje místo. Nehledáme hvězdu s egem, ale parťáka, který má chuť hrát, bavit lidi a být součástí fungující kapely. Co nabízíme: * dobrou partu a pohodovou atmosféru, *…",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "score": 69,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "Rychnov nad Kněžnou"
+      ]
+    },
     {
       "id": "779842",
       "title": "Hledáme kytaristku",
