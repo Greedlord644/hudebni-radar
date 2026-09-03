@@ -57,7 +57,15 @@ GENRE_FILTERS = {
     "Grunge": ["grunge"],
 }
 DISCOVERY_TERMS = GENRES + ["metal", "rock", "hardcore", "electro"]
-HARD_EXCLUDES = ["zábavová", "zabavova", "tribute", "revival", "cover band", "dechovka", "cimbál", "country kapel", "jazzov", "soulov"]
+# These are disqualifiers, not negative scoring signals. Ads for commercial
+# entertainment/cover projects are outside the radar even if they also mention
+# a preferred genre, Prague or one of the owner's reference bands.
+HARD_EXCLUDES = [
+    "zábavová", "zabavova", "zábavovka", "zabavovka", "zábavy", "zabavy",
+    "pivní slavnosti", "pivni slavnosti", "motosraz", "moto sraz",
+    "bigbít", "bigbit", "big beat", "tribute", "revival", "cover band",
+    "dechovka", "cimbál", "country kapel", "jazzov", "soulov",
+]
 SINGER_EXCLUDES = HARD_EXCLUDES + ["čistě žensk", "ženskou kapelu", "jen muzikantky"]
 QUALITY = ["vlastní tvor", "autorsk", "nahráv", "koncert", "zkušeb", "projekt", "album", "singl", "ambice", "spolehliv", "dlouhodob"]
 SEEKER = [r"zpěvačk[ay]\s+hled", r"zpěvák\s+hled", r"jsem\s+(?:zpěvačka|zpěvák)", r"zpívám.*hled", r"jako\s+zpěvačk[ae].*(?:přidat|hled)"]
@@ -75,6 +83,10 @@ DISCOVERY_SEEDS = [
 
 def plain(value: str) -> str:
     return " ".join(value.lower().replace("–", "-").split())
+
+def is_hard_excluded(value: str) -> bool:
+    normalized = plain(value)
+    return any(term in normalized for term in HARD_EXCLUDES)
 
 def matched_influences(value: str) -> list[str]:
     normalized = plain(value)
@@ -135,6 +147,7 @@ def local(location: str, text: str) -> bool:
 
 def singer_score(title: str, text: str, location: str) -> tuple[int, list[str]]:
     value = plain(text)
+    if is_hard_excluded(value): return 0, []
     if any(re.search(pattern, plain(title)) for pattern in WANTED): return 0, []
     if not any(re.search(pattern, value) for pattern in SEEKER): return 0, []
     if not local(location, value) or any(x in value for x in SINGER_EXCLUDES) or explicit_age_over_40(value): return 0, []
@@ -149,6 +162,7 @@ def singer_score(title: str, text: str, location: str) -> tuple[int, list[str]]:
 
 def interesting_score(text: str, location: str) -> tuple[int, list[str]]:
     value = plain(text)
+    if is_hard_excluded(value): return 0, []
     influence = matched_influences(value)
     genres = [x for x in GENRES if x in value]
     priority_genres = [x for x in PRIORITY_GENRES if x in value]
@@ -185,7 +199,6 @@ def interesting_score(text: str, location: str) -> tuple[int, list[str]]:
     if linked: score += 12
     if prague: score += 8
     if len(value) >= 450: score += 7
-    if any(x in value for x in HARD_EXCLUDES): score -= 28
     reasons = (genres[:2] + (["odkaz na profil / ukázku"] if linked else []) + (["vlastní tvorba"] if any("tvor" in x or "autorsk" in x for x in quality) else []) + ([location] if location != "Neuvedeno" else []))
     return (min(99, score), reasons[:4]) if score >= 58 else (0, [])
 
@@ -232,7 +245,7 @@ def main() -> None:
     cutoff = datetime.now(timezone.utc) - timedelta(days=WINDOW_DAYS)
     def merge(group: str, fresh: dict) -> list[dict]:
         combined = {ad["id"]: ad for ad in previous.get(group, []) if ad["id"] not in evaluated_ids}; combined.update(fresh)
-        kept = [ad for ad in combined.values() if datetime.fromisoformat(ad["date"]).astimezone(timezone.utc) >= cutoff]
+        kept = [ad for ad in combined.values() if datetime.fromisoformat(ad["date"]).astimezone(timezone.utc) >= cutoff and not is_hard_excluded(f"{ad.get('title', '')} {ad.get('excerpt', '')}")]
         return sorted(kept, key=lambda ad: (ad["date"], ad["score"]), reverse=True)
     result = {"updatedAt": datetime.now(timezone.utc).isoformat(), "windowDays": WINDOW_DAYS, "singerSeeking": merge("singerSeeking", singer), "interesting": merge("interesting", interesting)}
     DATA.write_text(json.dumps(result, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
