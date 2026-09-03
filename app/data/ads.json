@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T10:34:05.933037+00:00",
+  "updatedAt": "2026-09-03T10:39:24.764428+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -281,32 +281,6 @@
         "Linkin Park",
         "Ghost",
         "Žďár nad Sázavou"
-      ]
-    },
-    {
-      "id": "hudebnibazar:779659",
-      "title": "Hledáme bubeníka",
-      "url": "https://hudebnibazar.cz/hledame-bubenika/ID779659/",
-      "date": "2026-09-02T06:11:00+02:00",
-      "location": "Praha 7",
-      "author": "Jan.Vydra",
-      "excerpt": "Pražská kapela SambalBand hledá bubeníka. Hrajeme směs vlastní tvorby a coverů - rock, grunge, blues. Jde o přátelský hobby projekt. Naše album zde: https://sambalband.com/album web tady: https://sambalband.com/ Kontakt: Honza",
-      "externalLinks": [
-        "https://sambalband.com/album",
-        "https://sambalband.com/"
-      ],
-      "influences": [],
-      "genres": [
-        "Grunge"
-      ],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 81,
-      "reasons": [
-        "grunge",
-        "odkaz na profil / ukázku",
-        "vlastní tvorba",
-        "Praha 7"
       ]
     },
     {
@@ -678,52 +652,6 @@
       ]
     },
     {
-      "id": "midi:258395",
-      "title": "Hledáme kytaru do kapely Foton",
-      "url": "https://www.midi.cz/inzerat/258395/hledame-kytaru-do-kapely-foton/",
-      "date": "2026-08-12T13:04:00+02:00",
-      "location": "Brno",
-      "author": "Jakub Staněk",
-      "excerpt": "Ahoj! V kapele Foton zrovna dáváme dohromady novou sestavu a hledáme kytaristu, který s námi do toho šlápne. Aktuálně u nás najdeš zpěv/housle, saxofon, trumpetu, klávesy a basu. Co tě u nás čeká a co vlastně hrajem? Hrajeme výhradně české i zahraniční covery (od Ewy Farne přes Bruna Marse až po rock'n'roll nebo nějakou…",
-      "externalLinks": [
-        "https://www.facebook.com/kapelafoton"
-      ],
-      "influences": [],
-      "genres": [],
-      "isPrague": false,
-      "source": "MIDI.cz",
-      "score": 81,
-      "reasons": [
-        "podrobný inzerát",
-        "jasný projekt / zkušenosti",
-        "odkaz na profil / ukázku",
-        "Brno"
-      ]
-    },
-    {
-      "id": "midi:258394",
-      "title": "Hledáme bubeníka do kapely Foton",
-      "url": "https://www.midi.cz/inzerat/258394/hledame-bubenika-do-kapely-foton/",
-      "date": "2026-08-12T13:00:00+02:00",
-      "location": "Brno",
-      "author": "Jakub Staněk",
-      "excerpt": "Čau! V kapele Foton (Jevíčko) zrovna procházíme přestavbou sestavy a stavíme novou partu. Jako klíčový prvek teď hledáme bubeníka, se kterým nám to bude šlapat. Co vlastně hrajem. Držíme se coverů a baví nás žánrová pestrost – v setlistu máme pop, rock, rock'n'roll, ale klidně i folk nebo jazz. Aktuálně je nás v kapele pět:…",
-      "externalLinks": [
-        "https://www.facebook.com/kapelafoton"
-      ],
-      "influences": [],
-      "genres": [],
-      "isPrague": false,
-      "source": "MIDI.cz",
-      "score": 81,
-      "reasons": [
-        "podrobný inzerát",
-        "jasný projekt / zkušenosti",
-        "odkaz na profil / ukázku",
-        "Brno"
-      ]
-    },
-    {
       "id": "midi:258393",
       "title": "Hledáme vokál do kapely Foton",
       "url": "https://www.midi.cz/inzerat/258393/hledame-vokal-do-kapely-foton/",
@@ -894,29 +822,6 @@
       "reasons": [
         "alt rock",
         "Teplice"
-      ]
-    },
-    {
-      "id": "midi:258171",
-      "title": "Vokální sextet hledá tenor/vyšší baryton (pop, jazz, covery)",
-      "url": "https://www.midi.cz/inzerat/258171/vokalni-sextet-hleda-tenor-vyssi-baryton-pop-jazz-covery/",
-      "date": "2026-07-20T14:33:00+02:00",
-      "location": "Jižní Morava",
-      "author": "Kavasi",
-      "excerpt": "A cappella sextet z Vyškova hledá tenor / vyšší baryton! Do sehrané koncertní vokální skupiny hledáme nového člena. Jsme šestihlasá a cappella skupina s téměř desetiletou historií, pravidelně koncertujeme a máme za sebou i zahraniční vystoupení (USA, Švýcarsko...). Hledáme zpěváka, který: * má zkušenosti se sborovým nebo…",
-      "externalLinks": [
-        "https://www.za5acapella.cz/"
-      ],
-      "influences": [],
-      "genres": [],
-      "isPrague": false,
-      "source": "MIDI.cz",
-      "score": 87,
-      "reasons": [
-        "podrobný inzerát",
-        "jasný projekt / zkušenosti",
-        "odkaz na profil / ukázku",
-        "Jižní Morava"
       ]
     },
     {
