@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T19:11:28.953733+00:00",
+  "updatedAt": "2026-09-03T19:21:35.469748+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -48,6 +48,45 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:742788",
+      "title": "Black Metal project",
+      "url": "https://hudebnibazar.cz/black-metal-project/ID742788/",
+      "date": "2026-09-03T21:14:00+02:00",
+      "location": "Praha 1",
+      "author": "Burster",
+      "excerpt": "Ahoj, Jsem zkušený vokalista (10+ let v extrémním metalu, 5 studiových alb) hledám muzikanty pro nový Black Metal projekt. Cílem je vybudovat stabilní sestavu s potenciálem studiové tvorby i živého hraní. Zároveň jsem otevřený i menší spolupráci (např. kytara/basa), pokud si hudebně i lidsky sedneme. Inspiračně se pohybuji…",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 80,
+      "reasons": [
+        "Praha 1",
+        "lokální networking",
+        "podrobný inzerát"
+      ]
+    },
+    {
+      "id": "hudebnibazar:780023",
+      "title": "Kytarista hleda kapelu",
+      "url": "https://hudebnibazar.cz/kytarista-hleda-kapelu/ID780023/",
+      "date": "2026-09-03T21:13:00+02:00",
+      "location": "Praha 5",
+      "author": "Vaclav.Kebrle",
+      "excerpt": "Ahoj jsem kytarista/pianista je mi 19 a hraju uz 7 let hledam lidi do kapely nebo klidne se pridam do uz fungujici kapely mam rad vic rock dokazu hrat i sola takze kdyby mel nekdo zajem budu rad kdyz napisete",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Praha 5",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:778918",
       "title": "Mladý kreativní bubeník hledá rockovou kapelu",
