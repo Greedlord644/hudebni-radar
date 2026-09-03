@@ -10,6 +10,7 @@ import time
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
+from urllib.parse import quote_plus
 from zoneinfo import ZoneInfo
 import xml.etree.ElementTree as ET
 
@@ -79,6 +80,7 @@ DISCOVERY_SEEDS = [
     "https://hudebnibazar.cz/hledame-bubenika/ID775768/",
     "https://hudebnibazar.cz/hledame-zpevaka-na-nu-metal/ID772038/",
     "https://hudebnibazar.cz/hledam-shoegaze-nu-metal-kapelu-vek-16-20-praha/ID777343/",
+    "https://hudebnibazar.cz/hledame-kytaristku/ID779842/",
 ]
 
 def plain(value: str) -> str:
@@ -100,6 +102,21 @@ def has_external_link(value: str) -> bool:
     normalized = plain(value)
     services = ["http://", "https://", "www.", "instagram", "facebook", "youtube", "youtu.be", "spotify", "bandzone", "soundcloud", "tiktok"]
     return any(service in normalized for service in services)
+
+def social_links_from_text(value: str) -> list[str]:
+    links = []
+    # A standalone @handle is overwhelmingly used as an Instagram contact in
+    # these ads. The negative lookbehind prevents matching the domain part of
+    # an e-mail address.
+    instagram_handles = re.findall(r"(?<![\w.+-])@([a-z0-9._]{1,30})\b", value, re.IGNORECASE)
+    instagram_handles += re.findall(r"\b(?:instagram|insta|ig)\b\s*(?::|[-–]|je)?\s*@?([a-z0-9._]{1,30})\b", value, re.IGNORECASE)
+    links.extend(f"https://instagram.com/{handle}" for handle in instagram_handles)
+
+    facebook_usernames = re.findall(r"(?:facebook|fb)\s*(?:profil|kontakt)?\s*[:\-]\s*@?([a-z0-9._-]{3,60})\b", value, re.IGNORECASE)
+    links.extend(f"https://facebook.com/{username}" for username in facebook_usernames)
+    facebook_names = re.findall(r"(?:facebook(?:ové)?\s+(?:jméno|jmeno)|na\s+facebooku\s+jako)\s*[:\-]?\s*([^\n,;]{3,80})", value, re.IGNORECASE)
+    links.extend(f"https://www.facebook.com/search/top?q={quote_plus(name.strip())}" for name in facebook_names)
+    return list(dict.fromkeys(links))
 
 def fetch(session: requests.Session, url: str) -> str:
     response = session.get(url, timeout=35)
@@ -123,9 +140,7 @@ def parse_detail(html: str, fallback_title: str) -> dict:
             link = re.sub(r"youtube\.com/embed/([^?]+).*", r"youtube.com/watch?v=\1", link)
             links.append(link)
     links.extend(re.findall(r"https?://[^\s]+", description))
-    instagram = re.search(r"instagram\s*:\s*@?([\w.]+)", description, re.IGNORECASE)
-    if instagram:
-        links.append(f"https://instagram.com/{instagram.group(1)}")
+    links.extend(social_links_from_text(description))
     links = list(dict.fromkeys(link.rstrip(".,;)") for link in links))
     return {
         "title": title_el.get_text(" ", strip=True) if title_el else fallback_title,
