@@ -78,6 +78,12 @@ SINGER_EXCLUDES = HARD_EXCLUDES + ["čistě žensk", "ženskou kapelu", "jen muz
 QUALITY = ["vlastní tvor", "autorsk", "nahráv", "koncert", "zkušeb", "projekt", "album", "singl", "ambice", "spolehliv", "dlouhodob"]
 SEEKER = [r"zpěvačk[ay]\s+hled", r"zpěvák\s+hled", r"jsem\s+(?:zpěvačka|zpěvák)", r"zpívám.*hled", r"jako\s+zpěvačk[ae].*(?:přidat|hled)"]
 WANTED = [r"hledáme\s+(?:zpěváka|zpěvačku|vokalist)", r"hledám\s+(?:zpěváka|zpěvačku|vokalist)", r"singer wanted"]
+PRODUCTION_SEEKING = [
+    r"(?:hledám|hledáme|sháním|sháníme|potřebuji|potřebujeme)\s+(?:někoho[^.!?]{0,80})?(?:producent|produkci|aranžér|skladatel|mix|master|studio)",
+    r"(?:hledám|hledáme|sháním|sháníme|potřebuji|potřebujeme)[^.!?]{0,120}(?:aranž|sklád|složit|nahrát|nahrávání|zmixovat|mixing|mastering)",
+    r"(?:někoho|člověka|parťáka)[^.!?]{0,80}(?:pomohl|pomůže|pomáhal)[^.!?]{0,100}(?:písnič|skladb|song|aranž|produk|nahrá|mix|master)",
+    r"(?:pomoc|spoluprác)[^.!?]{0,60}(?:s\s+)?(?:produkc|aranž|sklád|nahráv|mix|master|dokončením\s+(?:písní|skladeb|songů|dem))",
+]
 
 # Regression examples supplied by the owner. The rules, not these URLs, decide
 # whether they are displayed; keeping them in discovery prevents RSS-window
@@ -296,6 +302,13 @@ def singer_score(title: str, text: str, location: str) -> tuple[int, list[str]]:
 
 def interesting_score(text: str, location: str) -> tuple[int, list[str]]:
     value = plain(text)
+    # Production work leads are a separate owner priority. A genuine request
+    # for help always wins; ads merely offering production services do not.
+    if any(re.search(pattern, value) for pattern in PRODUCTION_SEEKING):
+        reasons = ["hledá produkci / pomoc se skladbami"]
+        if has_external_link(value): reasons.append("odkaz na profil / ukázku")
+        if location != "Neuvedeno": reasons.append(location)
+        return 100, reasons[:4]
     if is_hard_excluded(value): return 0, []
     influence = matched_influences(value)
     genres = [x for x in GENRES if x in value]
@@ -358,10 +371,11 @@ def main() -> None:
         ad_id = (re.search(r"ID(\d+)", url) or [None, ""])[1]
         text = plain(title + " " + description)
         may_seek = any(re.search(p, text) for p in SEEKER)
+        may_production = any(re.search(p, text) for p in PRODUCTION_SEEKING)
         may_interest = bool(matched_influences(text)) or any(x in text for x in DISCOVERY_TERMS)
         quality_hits = sum(1 for marker in QUALITY if marker in text)
         may_quality = (len(text) >= 180 and quality_hits >= 2) or (has_external_link(text) and len(text) >= 150)
-        if ad_id and (may_seek or may_interest or may_quality): candidates.append((ad_id, title, description, url, item.findtext("pubDate", "")))
+        if ad_id and (may_seek or may_production or may_interest or may_quality): candidates.append((ad_id, title, description, url, item.findtext("pubDate", "")))
 
     for url in DISCOVERY_SEEDS:
         ad_id = (re.search(r"ID(\d+)", url) or [None, ""])[1]
