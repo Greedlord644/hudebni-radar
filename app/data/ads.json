@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T20:01:58.726310+00:00",
+  "updatedAt": "2026-09-03T20:11:37.036536+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -48,6 +48,25 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:765482",
+      "title": "Bubeník - Rhythm&Blues/Rock&Roll - Praha",
+      "url": "https://hudebnibazar.cz/bubenik-rhythm-blues-rock-roll-praha/ID765482/",
+      "date": "2026-09-03T22:02:00+02:00",
+      "location": "Praha 1",
+      "author": "Jiri.Hamouz",
+      "excerpt": "Sháním bubeníka, z Prahy či okolí, pro založení kapely. Myšlenka je hrát směsici blues a rock&rollu s agresivnějším zvukem alá Nick Curran. Bližší podrobnosti po zprávách.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Praha 1",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:742788",
       "title": "Black Metal project",
