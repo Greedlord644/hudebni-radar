@@ -20,8 +20,8 @@ from bs4 import BeautifulSoup
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "app" / "data" / "ads.json"
 RSS = "https://hudebnibazar.cz/inzerat/rss/?kategorie=210000"
-MIDI_URL = "https://www.midi.cz/kategorie/41/kapely/"
-SKYTAROU_URL = "https://www.skytarou.cz/inzerce-kytara.php?zobrazit=muzikanti"
+MIDI_URLS = ["https://www.midi.cz/kategorie/41/kapely/", "http://www.midi.cz/kategorie/41/kapely/"]
+SKYTAROU_URLS = ["http://skytarou.cz/inzerce-kytara.php?zobrazit=muzikanti", "https://www.skytarou.cz/inzerce-kytara.php?zobrazit=muzikanti"]
 BANDMATE_API = "https://nopibhycbaasthswzrov.supabase.co/rest/v1"
 BANDMATE_KEY = "sb_publishable_ciCNMBqmNutJQmZpXoP2Vg_-uJKuDyG"
 WINDOW_DAYS = 60
@@ -136,6 +136,13 @@ def external_links(value: str, soup=None) -> list[str]:
     links.extend(social_links_from_text(value))
     return list(dict.fromkeys(link.rstrip(".,;)") for link in links if link))[:5]
 
+def fetch_first(session: requests.Session, urls: list[str], timeout: int) -> tuple[str, str]:
+    errors = []
+    for url in urls:
+        try: return fetch(session, url, timeout=timeout), url
+        except requests.RequestException as exc: errors.append(f"{url}: {exc}")
+    raise requests.RequestException("; ".join(errors))
+
 def bandmate_candidates(session: requests.Session) -> list[dict]:
     headers = {"apikey": BANDMATE_KEY}
     response = session.get(
@@ -172,7 +179,8 @@ def bandmate_candidates(session: requests.Session) -> list[dict]:
     return result
 
 def midi_candidates(session: requests.Session) -> list[dict]:
-    soup = BeautifulSoup(fetch(session, MIDI_URL), "html.parser")
+    html, source_url = fetch_first(session, MIDI_URLS, timeout=20)
+    soup = BeautifulSoup(html, "html.parser")
     result = []
     for item in soup.select("#mainCol .item"):
         link = item.select_one("h2 a[href]")
@@ -188,7 +196,7 @@ def midi_candidates(session: requests.Session) -> list[dict]:
         description = desc.get_text("\n", strip=True)
         result.append({
             "id": f"midi:{match.group(1)}", "title": link.get_text(" ", strip=True),
-            "description": description, "url": urljoin(MIDI_URL, link["href"]),
+            "description": description, "url": urljoin(source_url, link["href"]),
             "date": datetime.strptime(date_el.get_text(" ", strip=True), "%d. %m. %Y %H:%M").replace(tzinfo=ZoneInfo("Europe/Prague")).isoformat(),
             "location": info.get("Region", "Neuvedeno"), "author": info.get("Inzerent", "Uživatel MIDI.cz").split("|")[0].strip(),
             "externalLinks": external_links(description, item), "source": "MIDI.cz",
@@ -197,7 +205,8 @@ def midi_candidates(session: requests.Session) -> list[dict]:
 
 def skytarou_candidates(session: requests.Session) -> list[dict]:
     """Parse the legacy listing defensively; the site is occasionally slow."""
-    soup = BeautifulSoup(fetch(session, SKYTAROU_URL, timeout=18), "html.parser")
+    html, source_url = fetch_first(session, SKYTAROU_URLS, timeout=15)
+    soup = BeautifulSoup(html, "html.parser")
     result, seen = [], set()
     for detail in soup.find_all("a", string=re.compile(r"Detail", re.I)):
         href = detail.get("href") or ""
@@ -209,7 +218,7 @@ def skytarou_candidates(session: requests.Session) -> list[dict]:
         text = container.get_text("\n", strip=True)
         date_match = re.search(r"(\d{1,2}\.\d{1,2}\.\d{4})(?:\s+(\d{1,2}:\d{2}))?", text)
         if not date_match: continue
-        absolute = urljoin(SKYTAROU_URL, href)
+        absolute = urljoin(source_url, href)
         identity = re.search(r"(?:editovat|id)=(\d+)", absolute, re.I)
         ad_id = identity.group(1) if identity else str(abs(hash(absolute)))
         if ad_id in seen: continue
