@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-03T07:31:10.420871+00:00",
+  "updatedAt": "2026-09-03T07:36:28.393696+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
-      "id": "761523",
+      "id": "hudebnibazar:761523",
       "title": "Zpěvačka hledá kapelu :)",
       "url": "https://hudebnibazar.cz/zpevacka-hleda-kapelu/ID761523/",
       "date": "2026-09-02T01:08:00+02:00",
@@ -14,6 +14,7 @@
       "influences": [],
       "genres": [],
       "isPrague": true,
+      "source": "Hudební bazar",
       "score": 75,
       "reasons": [
         "zpěv hledá",
@@ -21,11 +22,34 @@
         "vlastní tvorba",
         "podrobný inzerát"
       ]
+    },
+    {
+      "id": "bandmate:ea08dab8-dc33-4c0f-abc0-1cf09d863fdb",
+      "title": "Zpěvačka hledá hudební produkci",
+      "url": "https://bandmate.cz/inzerat/zp-va-ka-hled-hudebn-produkci-np5EZP",
+      "date": "2026-08-10T19:16:24.318332+00:00",
+      "location": "Brno",
+      "author": "Serpentina",
+      "excerpt": "Zpěvačka hledá hudební produkci 🐍 Hledám producenta/producentku Jsem začínající zpěvačka a autorka a hledám někoho, kdo by se mnou chtěl hudebně rozvíjet můj projekt Serpentina. Mám vlastní texty, melodie a představu o směru – alternativní/temnější rock, grunge, melancholie a ženská energie. Ačkoliv se úplně nechci omezovat…",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Grunge"
+      ],
+      "isPrague": false,
+      "source": "Bandmate",
+      "score": 73,
+      "reasons": [
+        "zpěv hledá",
+        "Brno",
+        "grunge",
+        "podrobný inzerát"
+      ]
     }
   ],
   "interesting": [
     {
-      "id": "779888",
+      "id": "hudebnibazar:779888",
       "title": "Kapela Rocket grom the Grave hledá basáka",
       "url": "https://hudebnibazar.cz/kapela-rocket-grom-the-grave-hleda-basaka/ID779888/",
       "date": "2026-09-03T09:07:00+02:00",
@@ -36,6 +60,7 @@
       "influences": [],
       "genres": [],
       "isPrague": true,
+      "source": "Hudební bazar",
       "score": 78,
       "reasons": [
         "Praha 13",
@@ -43,7 +68,7 @@
       ]
     },
     {
-      "id": "778812",
+      "id": "hudebnibazar:778812",
       "title": "Nový Demo Song",
       "url": "https://hudebnibazar.cz/novy-demo-song/ID778812/",
       "date": "2026-09-03T09:04:00+02:00",
@@ -59,6 +84,7 @@
         "Emo"
       ],
       "isPrague": false,
+      "source": "Hudební bazar",
       "score": 67,
       "reasons": [
         "emo",
@@ -67,7 +93,7 @@
       ]
     },
     {
-      "id": "779842",
+      "id": "hudebnibazar:779842",
       "title": "Hledáme kytaristku",
       "url": "https://hudebnibazar.cz/hledame-kytaristku/ID779842/",
       "date": "2026-09-02T21:02:00+02:00",
@@ -83,6 +109,7 @@
         "Alt-metal"
       ],
       "isPrague": true,
+      "source": "Hudební bazar",
       "score": 100,
       "reasons": [
         "nu metal",
@@ -92,13 +119,13 @@
       ]
     },
     {
-      "id": "772011",
+      "id": "hudebnibazar:772011",
       "title": "Hledám zpěváka/zpěvačku - Praha",
       "url": "https://hudebnibazar.cz/hledam-zpevaka-zpevacku-praha/ID772011/",
       "date": "2026-09-02T17:27:00+02:00",
       "location": "Praha 8",
       "author": "Egi",
-      "excerpt": "Ahoj, jsem basák/kytarista a hledám zpěváka/zpěvačku z Prahy do nové autorské kapely (indie, alternative rock, anglické texty), věkově cca 22-32 let. Mně je 29, mám za sebou hraní ve dvou kapelách. Jsem k dispozici na WhatsApp, Instagramu, Facebooku nebo přes formulář níže :-) https://www.facebook.com/egermaj/…",
+      "excerpt": "Ahoj, jsem basák/kytarista a hledám zpěváka/zpěvačku z Prahy do nové autorské kapely (indie, alternative rock, anglické texty), věkově cca 22-32 let. Mně je 29, mám za sebou hraní ve dvou kapelách. Jsem k dispozici na , Instagramu, Facebooku nebo přes formulář níže :-) https://www.facebook.com/egermaj/…",
       "externalLinks": [
         "https://www.facebook.com/egermaj/",
         "https://www.instagram.com/egimusick/",
@@ -109,6 +136,7 @@
         "Alt-rock"
       ],
       "isPrague": true,
+      "source": "Hudební bazar",
       "score": 100,
       "reasons": [
         "alternative rock",
@@ -117,7 +145,7 @@
       ]
     },
     {
-      "id": "779795",
+      "id": "hudebnibazar:779795",
       "title": "Death metalová kapela hledá bubeníka",
       "url": "https://hudebnibazar.cz/death-metalova-kapela-hleda-bubenika/ID779795/",
       "date": "2026-09-02T16:44:00+02:00",
@@ -131,6 +159,7 @@
       "influences": [],
       "genres": [],
       "isPrague": true,
+      "source": "Hudební bazar",
       "score": 87,
       "reasons": [
         "Praha 7",
@@ -139,7 +168,7 @@
       ]
     },
     {
-      "id": "779777",
+      "id": "hudebnibazar:779777",
       "title": "ZPĚVAČKA Z BRNA HLEDÁ KAPELU",
       "url": "https://hudebnibazar.cz/zpevacka-z-brna-hleda-kapelu/ID779777/",
       "date": "2026-09-02T15:51:00+02:00",
@@ -150,6 +179,7 @@
       "influences": [],
       "genres": [],
       "isPrague": false,
+      "source": "Hudební bazar",
       "score": 75,
       "reasons": [
         "podrobný inzerát",
@@ -158,7 +188,7 @@
       ]
     },
     {
-      "id": "760198",
+      "id": "hudebnibazar:760198",
       "title": "Metalcore/Hardcore projekt v Praze",
       "url": "https://hudebnibazar.cz/metalcore-hardcore-projekt-v-praze/ID760198/",
       "date": "2026-09-02T14:47:00+02:00",
@@ -171,6 +201,7 @@
         "Nu-metal"
       ],
       "isPrague": true,
+      "source": "Hudební bazar",
       "score": 94,
       "reasons": [
         "nu metal",
@@ -178,7 +209,7 @@
       ]
     },
     {
-      "id": "775914",
+      "id": "hudebnibazar:775914",
       "title": "Hledáme Baskytaristu/Baskytaristku do Modern Metal Kapely",
       "url": "https://hudebnibazar.cz/hledame-baskytaristu-baskytaristku-do-modern-metal-kapely/ID775914/",
       "date": "2026-09-02T13:32:00+02:00",
@@ -201,6 +232,7 @@
         "Modern metal"
       ],
       "isPrague": false,
+      "source": "Hudební bazar",
       "score": 100,
       "reasons": [
         "Bring Me The Horizon",
@@ -210,7 +242,7 @@
       ]
     },
     {
-      "id": "771377",
+      "id": "hudebnibazar:771377",
       "title": "HLEDÁM AUTORSKÝ BAND",
       "url": "https://hudebnibazar.cz/hledam-autorsky-band/ID771377/",
       "date": "2026-09-02T11:47:00+02:00",
@@ -221,6 +253,7 @@
       "influences": [],
       "genres": [],
       "isPrague": true,
+      "source": "Hudební bazar",
       "score": 69,
       "reasons": [
         "Praha 4",
@@ -228,7 +261,7 @@
       ]
     },
     {
-      "id": "779676",
+      "id": "hudebnibazar:779676",
       "title": "Hledá se kytarista a klávesista",
       "url": "https://hudebnibazar.cz/hleda-se-kytarista-a-klavesista/ID779676/",
       "date": "2026-09-02T08:33:00+02:00",
@@ -242,6 +275,7 @@
       ],
       "genres": [],
       "isPrague": false,
+      "source": "Hudební bazar",
       "score": 99,
       "reasons": [
         "Linkin Park",
@@ -250,13 +284,13 @@
       ]
     },
     {
-      "id": "779659",
+      "id": "hudebnibazar:779659",
       "title": "Hledáme bubeníka",
       "url": "https://hudebnibazar.cz/hledame-bubenika/ID779659/",
       "date": "2026-09-02T06:11:00+02:00",
       "location": "Praha 7",
       "author": "Jan.Vydra",
-      "excerpt": "Pražská kapela SambalBand hledá bubeníka. Hrajeme směs vlastní tvorby a coverů - rock, grunge, blues. Jde o přátelský hobby projekt. Naše album zde: https://sambalband.com/album web tady: https://sambalband.com/ Kontakt: Honza 603426008 - janvydra@gmail.com",
+      "excerpt": "Pražská kapela SambalBand hledá bubeníka. Hrajeme směs vlastní tvorby a coverů - rock, grunge, blues. Jde o přátelský hobby projekt. Naše album zde: https://sambalband.com/album web tady: https://sambalband.com/ Kontakt: Honza",
       "externalLinks": [
         "https://sambalband.com/album",
         "https://sambalband.com/"
@@ -266,6 +300,7 @@
         "Grunge"
       ],
       "isPrague": true,
+      "source": "Hudební bazar",
       "score": 81,
       "reasons": [
         "grunge",
@@ -275,7 +310,7 @@
       ]
     },
     {
-      "id": "761523",
+      "id": "hudebnibazar:761523",
       "title": "Zpěvačka hledá kapelu :)",
       "url": "https://hudebnibazar.cz/zpevacka-hleda-kapelu/ID761523/",
       "date": "2026-09-02T01:08:00+02:00",
@@ -286,6 +321,7 @@
       "influences": [],
       "genres": [],
       "isPrague": true,
+      "source": "Hudební bazar",
       "score": 77,
       "reasons": [
         "Praha 5",
@@ -294,7 +330,7 @@
       ]
     },
     {
-      "id": "776772",
+      "id": "hudebnibazar:776772",
       "title": "Hledám muzikantky, které chtějí založit ženskou kapelu",
       "url": "https://hudebnibazar.cz/hledam-muzikantky-ktere-chteji-zalozit-zenskou-kapelu/ID776772/",
       "date": "2026-09-02T01:08:00+02:00",
@@ -305,6 +341,7 @@
       "influences": [],
       "genres": [],
       "isPrague": true,
+      "source": "Hudební bazar",
       "score": 71,
       "reasons": [
         "Praha 5",
@@ -313,7 +350,7 @@
       ]
     },
     {
-      "id": "737275",
+      "id": "hudebnibazar:737275",
       "title": "Studio pro Zkoušky/nahrávání/koncerty/trénin",
       "url": "https://hudebnibazar.cz/studio-pro-zkousky-nahravani-koncerty-trenin/ID737275/",
       "date": "2026-09-01T21:28:00+02:00",
@@ -324,6 +361,7 @@
       "influences": [],
       "genres": [],
       "isPrague": true,
+      "source": "Hudební bazar",
       "score": 80,
       "reasons": [
         "Praha 9",
@@ -332,7 +370,7 @@
       ]
     },
     {
-      "id": "750233",
+      "id": "hudebnibazar:750233",
       "title": "HLEDÁM ZPĚVÁKA (alt. metal, art-rock a elektronika)",
       "url": "https://hudebnibazar.cz/hledam-zpevaka-alt-metal-art-rock-a-elektronika/ID750233/",
       "date": "2026-09-01T20:08:00+02:00",
@@ -349,6 +387,7 @@
         "Elektronika"
       ],
       "isPrague": true,
+      "source": "Hudební bazar",
       "score": 79,
       "reasons": [
         "elektronika",
@@ -357,7 +396,7 @@
       ]
     },
     {
-      "id": "761277",
+      "id": "hudebnibazar:761277",
       "title": "SINGER WANTED, ROCK/FOLK ROCK",
       "url": "https://hudebnibazar.cz/singer-wanted-rock-folk-rock/ID761277/",
       "date": "2026-09-01T19:55:00+02:00",
@@ -368,6 +407,7 @@
       "influences": [],
       "genres": [],
       "isPrague": true,
+      "source": "Hudební bazar",
       "score": 66,
       "reasons": [
         "Praha 1",
@@ -375,7 +415,7 @@
       ]
     },
     {
-      "id": "766146",
+      "id": "hudebnibazar:766146",
       "title": "Hledáme bubeníka do kapely TixTide",
       "url": "https://hudebnibazar.cz/hledame-bubenika-do-kapely-tixtide/ID766146/",
       "date": "2026-09-01T18:28:00+02:00",
@@ -386,6 +426,7 @@
       "influences": [],
       "genres": [],
       "isPrague": false,
+      "source": "Hudební bazar",
       "score": 78,
       "reasons": [
         "podrobný inzerát",
@@ -519,7 +560,7 @@
       "date": "2026-08-31T12:16:00+02:00",
       "location": "Hradec Králové",
       "author": "Erwing.Heller",
-      "excerpt": "Hledáme lead kytaristu do naší kapely Gribber. Jsme bubeník a kytarista/zpěvák a máme zkušebnu v okolí Hradce Králové nebo Pardubice. Hrajeme post-blackmetal/blackgaze. Brzy plánujeme vydat EP a následně máme v plánu také album. Pokud máš zájem, napiš mi na WhatsApp: 608 028 231. https://www.youtube.com/watch?v=LM_yJmzjHIs",
+      "excerpt": "Hledáme lead kytaristu do naší kapely Gribber. Jsme bubeník a kytarista/zpěvák a máme zkušebnu v okolí Hradce Králové nebo Pardubice. Hrajeme post-blackmetal/blackgaze. Brzy plánujeme vydat EP a následně máme v plánu také album. Pokud máš zájem, napiš mi na WhatsApp: https://www.youtube.com/watch?v=LM_yJmzjHIs",
       "externalLinks": [
         "https://www.youtube.com/watch?v=LhwxRnedtIY",
         "https://www.youtube.com/watch?v=LM_yJmzjHIs"
@@ -536,7 +577,7 @@
       ]
     },
     {
-      "id": "775768",
+      "id": "hudebnibazar:775768",
       "title": "Hledáme bubeníka",
       "url": "https://hudebnibazar.cz/hledame-bubenika/ID775768/",
       "date": "2026-08-30T10:02:00+02:00",
@@ -556,6 +597,7 @@
       ],
       "genres": [],
       "isPrague": true,
+      "source": "Hudební bazar",
       "score": 100,
       "reasons": [
         "Bad Omens",
@@ -565,7 +607,52 @@
       ]
     },
     {
-      "id": "777343",
+      "id": "bandmate:c16c8305-4ed9-49bf-ad3e-5f454f00675b",
+      "title": "INSCRIPTION HLEDÁ KYTARISTU",
+      "url": "https://bandmate.cz/inzerat/inscription-hled-kytaristu-Ir29BV",
+      "date": "2026-08-26T17:54:11.155973+00:00",
+      "location": "Praha",
+      "author": "InscriptionBand",
+      "excerpt": "INSCRIPTION HLEDÁ KYTARISTU Po odchodu našeho kytaristy hledáme novou posilu! O nás: - Převážně melodický death metal, ve starších věcech vliv thrash metalu - Máme vydané EP a aktuálně nahráváme první album - Máme vlastní zkušebnu a chystáme in-ear rack Ty 🫵 - Schopný zahrát přesně rychlé a složité riffy - Mít chuť hrát…",
+      "externalLinks": [
+        "https://www.youtube.com/@band.inscription",
+        "https://instagram.com/band.inscription"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Bandmate",
+      "score": 94,
+      "reasons": [
+        "Praha",
+        "lokální networking",
+        "odkaz na profil / ukázku",
+        "podrobný inzerát"
+      ]
+    },
+    {
+      "id": "bandmate:145d3d87-300c-4aa1-a30d-e5be3263dc6a",
+      "title": "Sample, synth creator",
+      "url": "https://bandmate.cz/inzerat/sample-synth-creator-Ll0VPn",
+      "date": "2026-08-21T12:37:42.591657+00:00",
+      "location": "Slaný",
+      "author": "Martin Korbel",
+      "excerpt": "Sample, synth creator Hledám syntch, sampler creatora pro nový projekt nu-metalového rázu. Ode mne ti pošlu bicí, kytary a basu v částech kde jsou a budou + MIDI všeho. Od tebe očekávám vytvoření melodií, a celkově synth podkldu pro zpěv a případnou další úpravu. Nabízím 1/6 celkových výdělků po odečtení výdajů na produkci, a…",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Nu-metal"
+      ],
+      "isPrague": false,
+      "source": "Bandmate",
+      "score": 88,
+      "reasons": [
+        "nu-metal",
+        "Slaný"
+      ]
+    },
+    {
+      "id": "hudebnibazar:777343",
       "title": "hledám shoegaze/nu metal kapelu (vek 16-20, Praha)",
       "url": "https://hudebnibazar.cz/hledam-shoegaze-nu-metal-kapelu-vek-16-20-praha/ID777343/",
       "date": "2026-08-20T00:34:00+02:00",
@@ -582,6 +669,7 @@
         "Nu-metal"
       ],
       "isPrague": true,
+      "source": "Hudební bazar",
       "score": 100,
       "reasons": [
         "Linkin Park",
@@ -590,7 +678,92 @@
       ]
     },
     {
-      "id": "772038",
+      "id": "bandmate:ea08dab8-dc33-4c0f-abc0-1cf09d863fdb",
+      "title": "Zpěvačka hledá hudební produkci",
+      "url": "https://bandmate.cz/inzerat/zp-va-ka-hled-hudebn-produkci-np5EZP",
+      "date": "2026-08-10T19:16:24.318332+00:00",
+      "location": "Brno",
+      "author": "Serpentina",
+      "excerpt": "Zpěvačka hledá hudební produkci 🐍 Hledám producenta/producentku Jsem začínající zpěvačka a autorka a hledám někoho, kdo by se mnou chtěl hudebně rozvíjet můj projekt Serpentina. Mám vlastní texty, melodie a představu o směru – alternativní/temnější rock, grunge, melancholie a ženská energie. Ačkoliv se úplně nechci omezovat…",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Grunge"
+      ],
+      "isPrague": false,
+      "source": "Bandmate",
+      "score": 70,
+      "reasons": [
+        "grunge",
+        "Brno"
+      ]
+    },
+    {
+      "id": "bandmate:b423ac98-97fc-4144-9192-ebe4a5aa783c",
+      "title": "Hledáme zpěvačku - Praha - HC/punk/pop",
+      "url": "https://bandmate.cz/inzerat/hled-me-zp-va-ku-praha-hc-punk-pop-74B9Uw",
+      "date": "2026-08-03T05:29:22.071059+00:00",
+      "location": "Praha",
+      "author": "Kukí",
+      "excerpt": "Hledáme zpěvačku - Praha - HC/punk/pop Zakládáme novou kapelu ve složení kytara, basa, bicí. Inspirujeme se kapelou Blood Command. Taková energická směs punku, hardcoru a popu. Máme vlastní zkušebnu v Praze a každý pár let hraní v různých kapelách. Hledáme zpěvačku, která zvládne čistý zpěv, ideálně i scream. Důležitá je pro…",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Bandmate",
+      "score": 74,
+      "reasons": [
+        "Praha",
+        "lokální networking",
+        "podrobný inzerát"
+      ]
+    },
+    {
+      "id": "bandmate:e5c17429-acab-44ed-905e-0321013bb6f3",
+      "title": "ZPĚVAČKA HLEDÁ ZKUŠENĚJŠÍHO MUZIKANTA Z PARDUBIC A OKOLÍ PRO AUTORSKOU SPOLUPRÁCI",
+      "url": "https://bandmate.cz/inzerat/zp-va-ka-hled-zku-en-j-ho-muzikanta-z-pardubic-a-okol-pro-au-W0DW5O",
+      "date": "2026-08-01T19:34:25.512689+00:00",
+      "location": "Pardubice",
+      "author": "Jana Holomková",
+      "excerpt": "ZPĚVAČKA HLEDÁ ZKUŠENĚJŠÍHO MUZIKANTA Z PARDUBIC A OKOLÍ PRO AUTORSKOU SPOLUPRÁCI Zdravím všechny hudebníky! Bydlím kousek od Pardubic a od roku 2011 se věnuji skládání vlastních textů a melodií v žánru pop. Zpívám zatím spíše amatérsky, ale ráda bych své písničky posunula dál. Hledám zkušenějšího kytaristu nebo klávesistu…",
+      "externalLinks": [
+        "https://facebook.com/www.facebook.com"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Bandmate",
+      "score": 81,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Pardubice"
+      ]
+    },
+    {
+      "id": "bandmate:acc3b338-a3f3-47f7-b746-f57dd227a1c8",
+      "title": "Hledáme basáka do začínající rock/alt rock/hard rock apod. kapely",
+      "url": "https://bandmate.cz/inzerat/hled-me-bas-ka-do-za-naj-c-rock-alt-rock-hard-rock-apod-kape-Ls8yZO",
+      "date": "2026-07-22T13:25:48.007225+00:00",
+      "location": "Teplice",
+      "author": "Calidia Snow",
+      "excerpt": "Hledáme basáka do začínající rock/alt rock/hard rock apod. kapely Ahoj, jsme začínající mladá, zatím tříčlenná skupina (zpěv, bicí, kytara), věkově 26–32, hledající spolehlivého basáka, který se chce zlepšovat, experimentovat a hrát a podílet se na vlastní tvorbě. Žánrově rock/alt. rock apod., nejsme vyloženě vyhranění. Nejsme…",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Alt-rock"
+      ],
+      "isPrague": false,
+      "source": "Bandmate",
+      "score": 88,
+      "reasons": [
+        "alt rock",
+        "Teplice"
+      ]
+    },
+    {
+      "id": "hudebnibazar:772038",
       "title": "HLEDÁME ZPĚVÁKA NA NU METAL",
       "url": "https://hudebnibazar.cz/hledame-zpevaka-na-nu-metal/ID772038/",
       "date": "2026-07-16T23:31:00+02:00",
@@ -606,10 +779,32 @@
         "Alt-metal"
       ],
       "isPrague": false,
+      "source": "Hudební bazar",
       "score": 99,
       "reasons": [
         "Linkin Park",
         "Brno"
+      ]
+    },
+    {
+      "id": "bandmate:85040369-8357-4479-a40c-1a9363ab424e",
+      "title": "deftones anyone?",
+      "url": "https://bandmate.cz/inzerat/deftones-anyone-Gqkwkl",
+      "date": "2026-07-08T11:27:21.803076+00:00",
+      "location": "Praha",
+      "author": "David Černý",
+      "excerpt": "deftones anyone? Prog rock, prog metal, alt metal, stoner.. deftones, prefect circle, black peaks, arcane roots, qotsa.. ---- Hudba, kde se střídáji dizonantni pasáže plný napětí a snový soundscapes, který pohladí po duši. Těžký riffy a vokaly, který utkví v hlavě. Promyšlený netuctový groovy, klidně i lichý rytmy, netradiční…",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Alt-metal"
+      ],
+      "isPrague": true,
+      "source": "Bandmate",
+      "score": 94,
+      "reasons": [
+        "alt metal",
+        "Praha"
       ]
     }
   ]
