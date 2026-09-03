@@ -103,6 +103,14 @@ def is_hard_excluded(value: str) -> bool:
     normalized = plain(value)
     return any(term in normalized for term in HARD_EXCLUDES)
 
+def is_production_seeking(value: str) -> bool:
+    normalized = plain(value)
+    direct_request = re.search(r"(?:hledám|hledáme|sháním|sháníme|potřebuji|potřebujeme)\s+(?:někoho[^.!?]{0,50})?(?:producent|produkci|aranžér|skladatel|mix|master|studio)", normalized)
+    offering_service = re.search(r"nabízím[^.!?]{0,100}(?:školení|služb|produk|nahráv|mix|master|studio)", normalized)
+    if offering_service and not direct_request:
+        return False
+    return bool(direct_request or any(re.search(pattern, normalized) for pattern in PRODUCTION_SEEKING[1:]))
+
 def matched_influences(value: str) -> list[str]:
     normalized = plain(value)
     return [name for name, aliases in INFLUENCES.items() if any(alias in normalized for alias in aliases)]
@@ -304,7 +312,7 @@ def interesting_score(text: str, location: str) -> tuple[int, list[str]]:
     value = plain(text)
     # Production work leads are a separate owner priority. A genuine request
     # for help always wins; ads merely offering production services do not.
-    if any(re.search(pattern, value) for pattern in PRODUCTION_SEEKING):
+    if is_production_seeking(value):
         reasons = ["hledá produkci / pomoc se skladbami"]
         if has_external_link(value): reasons.append("odkaz na profil / ukázku")
         if location != "Neuvedeno": reasons.append(location)
@@ -371,7 +379,7 @@ def main() -> None:
         ad_id = (re.search(r"ID(\d+)", url) or [None, ""])[1]
         text = plain(title + " " + description)
         may_seek = any(re.search(p, text) for p in SEEKER)
-        may_production = any(re.search(p, text) for p in PRODUCTION_SEEKING)
+        may_production = is_production_seeking(text)
         may_interest = bool(matched_influences(text)) or any(x in text for x in DISCOVERY_TERMS)
         quality_hits = sum(1 for marker in QUALITY if marker in text)
         may_quality = (len(text) >= 180 and quality_hits >= 2) or (has_external_link(text) and len(text) >= 150)
