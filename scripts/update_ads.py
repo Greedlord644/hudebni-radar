@@ -125,6 +125,11 @@ def social_links_from_text(value: str) -> list[str]:
 def fetch(session: requests.Session, url: str, timeout: int = 35) -> str:
     response = session.get(url, timeout=timeout)
     response.raise_for_status()
+    # Some older Czech classifieds (notably MIDI.cz) serve UTF-8 HTML while
+    # omitting the charset from the HTTP header. Requests then defaults to
+    # ISO-8859-1 and produces mojibake such as "HledĂ¡me".
+    if not response.encoding or response.encoding.lower().replace("_", "-") in {"iso-8859-1", "latin-1"}:
+        response.encoding = response.apparent_encoding or "utf-8"
     time.sleep(float(os.getenv("RADAR_DELAY", "0.35")))
     return response.text
 
