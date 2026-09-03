@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T07:01:15.047943+00:00",
+  "updatedAt": "2026-09-03T07:11:02.037469+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -24,6 +24,48 @@
     }
   ],
   "interesting": [
+    {
+      "id": "779888",
+      "title": "Kapela Rocket grom the Grave hledá basáka",
+      "url": "https://hudebnibazar.cz/kapela-rocket-grom-the-grave-hleda-basaka/ID779888/",
+      "date": "2026-09-03T09:07:00+02:00",
+      "location": "Praha 13",
+      "author": "Antonin.Kudlac",
+      "excerpt": "Kapela Rocket from the Grave (garage-psychedelic-postpunk) z Prahy hledá basáka. Hrajeme vlastní tvorbu, máme za sebou zatím jeden koncert (festival), další koncerty před námi. Máme vlastní zkušebnu, zkoušíme 1x týdně. Sháníme spolehlivého basáka s vlastním nástrojem, který má chuť hrát zajímavou hudbu.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "score": 78,
+      "reasons": [
+        "Praha 13",
+        "lokální networking"
+      ]
+    },
+    {
+      "id": "778812",
+      "title": "Nový Demo Song",
+      "url": "https://hudebnibazar.cz/novy-demo-song/ID778812/",
+      "date": "2026-09-03T09:04:00+02:00",
+      "location": "Brno",
+      "author": "Reincarnate.To.Beast",
+      "excerpt": "Čáu, naše kapela vydala nový Demo Single: Než Bouře Skončí. Budeme rádi za každou odezvu. https://m.youtube.com/watch?v=f1mXZ-F8cXY&list=RDf1mXZ-F8cXY&start_radio=1&pp=oAcB",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=f1mXZ-F8cXY&list=RDf1mXZ-F8cXY&start_radio=1&pp=oAcB",
+        "https://m.youtube.com/watch?v=f1mXZ-F8cXY&list=RDf1mXZ-F8cXY&start_radio=1&pp=oAcB"
+      ],
+      "influences": [],
+      "genres": [
+        "Emo"
+      ],
+      "isPrague": false,
+      "score": 67,
+      "reasons": [
+        "emo",
+        "odkaz na profil / ukázku",
+        "Brno"
+      ]
+    },
     {
       "id": "779842",
       "title": "Hledáme kytaristku",
