@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T10:51:34.757713+00:00",
+  "updatedAt": "2026-09-03T11:02:02.223322+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -48,6 +48,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:777996",
+      "title": "Trubka do kapely!",
+      "url": "https://hudebnibazar.cz/trubka-do-kapely/ID777996/",
+      "date": "2026-09-03T12:56:00+02:00",
+      "location": "Praha 7",
+      "author": "David.Kliz",
+      "excerpt": "Čau, do nové kapely hledáme trubku, žánrově soul/funk/pop, viz spotify odkaz níže. V plánu je hrát tvorbu typu Amy Winehouse, Stevie Wonder, Sharon Jones, ale i nějakou modernu, časem možná i autorskou tvorbu, až nacítíme feeling. Věkově jsme spíše mladší (20-35) let. Pokud nevíš co s volným časem a podobná hudba tě baví, dej…",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 81,
+      "reasons": [
+        "Praha 7",
+        "lokální networking",
+        "odkaz na profil / ukázku"
+      ]
+    },
     {
       "id": "hudebnibazar:779888",
       "title": "Kapela Rocket grom the Grave hledá basáka",
