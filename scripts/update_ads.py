@@ -10,7 +10,7 @@ import time
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
-from urllib.parse import quote_plus
+from urllib.parse import quote_plus, urljoin
 from zoneinfo import ZoneInfo
 import xml.etree.ElementTree as ET
 
@@ -20,6 +20,10 @@ from bs4 import BeautifulSoup
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "app" / "data" / "ads.json"
 RSS = "https://hudebnibazar.cz/inzerat/rss/?kategorie=210000"
+MIDI_URL = "https://www.midi.cz/kategorie/41/kapely/"
+SKYTAROU_URL = "https://www.skytarou.cz/inzerce-kytara.php?zobrazit=muzikanti"
+BANDMATE_API = "https://nopibhycbaasthswzrov.supabase.co/rest/v1"
+BANDMATE_KEY = "sb_publishable_ciCNMBqmNutJQmZpXoP2Vg_-uJKuDyG"
 WINDOW_DAYS = 60
 UA = "HudebniRadar/1.0 (public-interest music ad index)"
 
@@ -118,11 +122,109 @@ def social_links_from_text(value: str) -> list[str]:
     links.extend(f"https://www.facebook.com/search/top?q={quote_plus(name.strip())}" for name in facebook_names)
     return list(dict.fromkeys(links))
 
-def fetch(session: requests.Session, url: str) -> str:
-    response = session.get(url, timeout=35)
+def fetch(session: requests.Session, url: str, timeout: int = 35) -> str:
+    response = session.get(url, timeout=timeout)
     response.raise_for_status()
     time.sleep(float(os.getenv("RADAR_DELAY", "0.35")))
     return response.text
+
+def external_links(value: str, soup=None) -> list[str]:
+    links = []
+    if soup:
+        links.extend(a.get("href") for a in soup.select("a[href]") if (a.get("href") or "").startswith("http"))
+    links.extend(re.findall(r"https?://[^\s<>]+", value))
+    links.extend(social_links_from_text(value))
+    return list(dict.fromkeys(link.rstrip(".,;)") for link in links if link))[:5]
+
+def bandmate_candidates(session: requests.Session) -> list[dict]:
+    headers = {"apikey": BANDMATE_KEY}
+    response = session.get(
+        f"{BANDMATE_API}/listings",
+        params={"select": "*", "active": "eq.true", "order": "bumped_at.desc.nullslast,created_at.desc", "limit": "250"},
+        headers=headers, timeout=25,
+    )
+    response.raise_for_status()
+    rows = response.json()
+    user_ids = sorted({row.get("user_id") for row in rows if row.get("user_id")})
+    names = {}
+    if user_ids:
+        profiles = session.get(
+            f"{BANDMATE_API}/profiles",
+            params={"select": "id,name", "id": f"in.({','.join(user_ids)})"},
+            headers=headers, timeout=25,
+        )
+        profiles.raise_for_status()
+        names = {profile["id"]: profile.get("name") or "Uživatel Bandmate" for profile in profiles.json()}
+    result = []
+    for row in rows:
+        title, body = row.get("title") or "", row.get("body") or ""
+        public_id = row.get("public_id")
+        slug = re.sub(r"[^a-z0-9]+", "-", plain(title))[:60].strip("-") or "inzerat"
+        url = f"https://bandmate.cz/inzerat/{slug}-{public_id}" if public_id else f"https://bandmate.cz/listings?id={row['id']}"
+        text = " ".join(filter(None, [title, body, row.get("genre"), row.get("tag")]))
+        result.append({
+            "id": f"bandmate:{row['id']}", "title": title, "description": text, "url": url,
+            # created_at intentionally wins over bumped_at: a bump must not masquerade as a new ad.
+            "date": row.get("created_at"), "location": row.get("city") or "Neuvedeno",
+            "author": names.get(row.get("user_id"), "Uživatel Bandmate"),
+            "externalLinks": external_links(body), "source": "Bandmate",
+        })
+    return result
+
+def midi_candidates(session: requests.Session) -> list[dict]:
+    soup = BeautifulSoup(fetch(session, MIDI_URL), "html.parser")
+    result = []
+    for item in soup.select("#mainCol .item"):
+        link = item.select_one("h2 a[href]")
+        date_el = item.select_one("p.date strong")
+        desc = item.select_one(".popisInzeratu")
+        if not link or not date_el or not desc: continue
+        match = re.search(r"/inzerat/(\d+)/", link.get("href", ""))
+        if not match: continue
+        info = {}
+        for row in item.select(".table_info tr"):
+            cells = row.select("td")
+            if len(cells) >= 2: info[cells[0].get_text(" ", strip=True).rstrip(":")] = cells[1].get_text(" ", strip=True)
+        description = desc.get_text("\n", strip=True)
+        result.append({
+            "id": f"midi:{match.group(1)}", "title": link.get_text(" ", strip=True),
+            "description": description, "url": urljoin(MIDI_URL, link["href"]),
+            "date": datetime.strptime(date_el.get_text(" ", strip=True), "%d. %m. %Y %H:%M").replace(tzinfo=ZoneInfo("Europe/Prague")).isoformat(),
+            "location": info.get("Region", "Neuvedeno"), "author": info.get("Inzerent", "Uživatel MIDI.cz").split("|")[0].strip(),
+            "externalLinks": external_links(description, item), "source": "MIDI.cz",
+        })
+    return result
+
+def skytarou_candidates(session: requests.Session) -> list[dict]:
+    """Parse the legacy listing defensively; the site is occasionally slow."""
+    soup = BeautifulSoup(fetch(session, SKYTAROU_URL, timeout=18), "html.parser")
+    result, seen = [], set()
+    for detail in soup.find_all("a", string=re.compile(r"Detail", re.I)):
+        href = detail.get("href") or ""
+        container = detail
+        for parent in detail.parents:
+            text = parent.get_text(" ", strip=True)
+            if re.search(r"\d{1,2}\.\d{1,2}\.\d{4}", text) and 80 <= len(text) <= 2500:
+                container = parent; break
+        text = container.get_text("\n", strip=True)
+        date_match = re.search(r"(\d{1,2}\.\d{1,2}\.\d{4})(?:\s+(\d{1,2}:\d{2}))?", text)
+        if not date_match: continue
+        absolute = urljoin(SKYTAROU_URL, href)
+        identity = re.search(r"(?:editovat|id)=(\d+)", absolute, re.I)
+        ad_id = identity.group(1) if identity else str(abs(hash(absolute)))
+        if ad_id in seen: continue
+        seen.add(ad_id)
+        lines = [line.strip() for line in text.splitlines() if line.strip()]
+        title = next((line for line in lines if len(line) >= 4 and not re.match(r"^(Hledám|Nabízím|Detail)$", line, re.I)), lines[0] if lines else "Inzerát")
+        locality = next((line for line in reversed(lines) if any(x in plain(line) for x in ["praha", "středoč", "brno", "morav", "česko", "vysočina", "liberec", "zlín", "plzeň"])), "Neuvedeno")
+        stamp = " ".join(x for x in date_match.groups() if x)
+        fmt = "%d.%m.%Y %H:%M" if date_match.group(2) else "%d.%m.%Y"
+        result.append({
+            "id": f"skytarou:{ad_id}", "title": title, "description": text, "url": absolute,
+            "date": datetime.strptime(stamp, fmt).replace(tzinfo=ZoneInfo("Europe/Prague")).isoformat(),
+            "location": locality, "author": "Uživatel S kytarou", "externalLinks": external_links(text, container), "source": "S kytarou",
+        })
+    return result
 
 def parse_detail(html: str, fallback_title: str) -> dict:
     soup = BeautifulSoup(html, "html.parser")
@@ -218,7 +320,13 @@ def interesting_score(text: str, location: str) -> tuple[int, list[str]]:
     return (min(99, score), reasons[:4]) if score >= 58 else (0, [])
 
 def summarize(text: str, limit: int = 330) -> str:
-    clean = " ".join(text.split())
+    # The generated JSON is public. Contact details stay only on the original
+    # ad page; the radar publishes names, locations and public profile/media links.
+    clean = re.sub(r"\b[\w.+-]+@[\w.-]+\.[a-z]{2,}\b", "", text, flags=re.IGNORECASE)
+    clean = re.sub(r"\b[\w.+-]+\s*(?:\(\s*zavináč\s*\)|\[\s*zavináč\s*\]|zavináč)\s*[\w.-]+(?:\.[a-z]{2,})?\b", "", clean, flags=re.IGNORECASE)
+    clean = re.sub(r"(?<!\w)(?:\+?420[\s.-]*)?(?:\d[\s.-]*){9}(?!\w)", "", clean)
+    clean = re.sub(r"\b(?:tel(?:efon)?|mobil|whatsapp|e-?mail)\s*[:：-]?\s*(?=$|[,;|])", "", clean, flags=re.IGNORECASE)
+    clean = " ".join(clean.split())
     if len(clean) <= limit: return clean
     return clean[:limit].rsplit(" ", 1)[0] + "…"
 
@@ -244,23 +352,48 @@ def main() -> None:
             candidates.append((ad_id, "", "", url, ""))
 
     singer, interesting = {}, {}
-    evaluated_ids = {item[0] for item in candidates}
+    evaluated_ids = {value for item in candidates for value in (item[0], f"hudebnibazar:{item[0]}")}
     for ad_id, title, short, url, pubdate in candidates:
         try: detail = parse_detail(fetch(session, url), title)
         except requests.RequestException as exc:
             print(f"Skipping {url}: {exc}"); continue
         text = f"{detail['title']} {detail['description']} {' '.join(detail['externalLinks'])}"
         ad_date = detail["inserted"] or (parsedate_to_datetime(pubdate).isoformat() if pubdate else datetime.now(timezone.utc).isoformat())
-        base = {"id": ad_id, "title": detail["title"], "url": url, "date": ad_date, "location": detail["location"], "author": detail["author"], "excerpt": summarize(detail["description"] or short), "externalLinks": detail["externalLinks"], "influences": matched_influences(text), "genres": matched_genre_labels(text), "isPrague": "praha" in plain(detail["location"])}
+        base = {"id": f"hudebnibazar:{ad_id}", "title": detail["title"], "url": url, "date": ad_date, "location": detail["location"], "author": detail["author"], "excerpt": summarize(detail["description"] or short), "externalLinks": detail["externalLinks"], "influences": matched_influences(text), "genres": matched_genre_labels(text), "isPrague": "praha" in plain(detail["location"]), "source": "Hudební bazar"}
         score, reasons = singer_score(detail["title"], text, detail["location"])
-        if score: singer[ad_id] = {**base, "score": score, "reasons": reasons}
+        if score: singer[base["id"]] = {**base, "score": score, "reasons": reasons}
         score, reasons = interesting_score(text, detail["location"])
-        if score: interesting[ad_id] = {**base, "score": score, "reasons": reasons}
+        if score: interesting[base["id"]] = {**base, "score": score, "reasons": reasons}
+
+    # Every source is isolated: a temporary outage must not prevent the other
+    # three sources from updating or delete the last successfully seen items.
+    for loader in (bandmate_candidates, midi_candidates, skytarou_candidates):
+        try:
+            source_ads = loader(session)
+        except (requests.RequestException, ValueError, TypeError) as exc:
+            print(f"Source {loader.__name__} unavailable: {exc}")
+            continue
+        for ad in source_ads:
+            evaluated_ids.add(ad["id"])
+            text = f"{ad['title']} {ad['description']} {' '.join(ad['externalLinks'])}"
+            base = {
+                "id": ad["id"], "title": ad["title"], "url": ad["url"], "date": ad["date"],
+                "location": ad["location"], "author": ad["author"], "excerpt": summarize(ad["description"]),
+                "externalLinks": ad["externalLinks"], "influences": matched_influences(text),
+                "genres": matched_genre_labels(text), "isPrague": "praha" in plain(ad["location"]), "source": ad["source"],
+            }
+            score, reasons = singer_score(ad["title"], text, ad["location"])
+            if score: singer[ad["id"]] = {**base, "score": score, "reasons": reasons}
+            score, reasons = interesting_score(text, ad["location"])
+            if score: interesting[ad["id"]] = {**base, "score": score, "reasons": reasons}
 
     cutoff = datetime.now(timezone.utc) - timedelta(days=WINDOW_DAYS)
     def merge(group: str, fresh: dict) -> list[dict]:
         combined = {ad["id"]: ad for ad in previous.get(group, []) if ad["id"] not in evaluated_ids}; combined.update(fresh)
         kept = [ad for ad in combined.values() if datetime.fromisoformat(ad["date"]).astimezone(timezone.utc) >= cutoff and not is_hard_excluded(f"{ad.get('title', '')} {ad.get('excerpt', '')}")]
+        for ad in kept:
+            ad["excerpt"] = summarize(ad.get("excerpt", ""))
+            ad["externalLinks"] = [link for link in ad.get("externalLinks", []) if link.startswith(("http://", "https://"))][:5]
         return sorted(kept, key=lambda ad: (ad["date"], ad["score"]), reverse=True)
     result = {"updatedAt": datetime.now(timezone.utc).isoformat(), "windowDays": WINDOW_DAYS, "singerSeeking": merge("singerSeeking", singer), "interesting": merge("interesting", interesting)}
     DATA.write_text(json.dumps(result, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
