@@ -69,6 +69,8 @@ HARD_EXCLUDES = [
     "zábavová", "zabavova", "zábavovka", "zabavovka", "zábavy", "zabavy",
     "pivní slavnosti", "pivni slavnosti", "motosraz", "moto sraz",
     "bigbít", "bigbit", "big beat", "tribute", "revival", "cover band",
+    "covery", "coverů", "coveru", "coverová", "coverova", "coverové", "coverove",
+    "převzaté skladby", "prevzate skladby", "převzaté písně", "prevzate pisne",
     "dechovka", "cimbál", "country kapel", "jazzov", "soulov",
 ]
 SINGER_EXCLUDES = HARD_EXCLUDES + ["čistě žensk", "ženskou kapelu", "jen muzikantky"]
