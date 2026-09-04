@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T13:41:36.000445+00:00",
+  "updatedAt": "2026-09-04T13:51:37.468575+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -48,6 +48,29 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:780148",
+      "title": "Looking for a DRUMMER!",
+      "url": "https://hudebnibazar.cz/looking-for-a-drummer/ID780148/",
+      "date": "2026-09-04T15:48:00+02:00",
+      "location": "Praha 3",
+      "author": "Nikita.Malygin",
+      "excerpt": "Drummer Wanted: Join Our Metal Band! ? We are an English-speaking, up-and-coming metal band on the hunt for a dedicated drummer to complete our lineup. Above all, we are looking for someone who genuinely loves metal, enjoys the creative process, and wants to build something heavy with a tight-knit, friendly crew. We value good…",
+      "externalLinks": [
+        "https://open.spotify.com/artist/6C4yw7Uk8eMWBdzgMH7Dcz?si=8a607ce0b0434083"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 83,
+      "reasons": [
+        "Praha 3",
+        "lokální networking",
+        "odkaz na profil / ukázku",
+        "podrobný inzerát"
+      ]
+    },
     {
       "id": "hudebnibazar:780127",
       "title": "HLEDÁ SE ZPĚVÁK - PRAHA - POP ROCK",
