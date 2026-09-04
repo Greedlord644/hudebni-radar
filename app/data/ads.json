@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T18:31:53.780347+00:00",
+  "updatedAt": "2026-09-04T18:41:35.898559+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -48,6 +48,29 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:780196",
+      "title": "Black'n'roll ze studia shání bubenici, bubeníka na stage",
+      "url": "https://hudebnibazar.cz/black-n-roll-ze-studia-shani-bubenici-bubenika-na-stage/ID780196/",
+      "date": "2026-09-04T20:35:00+02:00",
+      "location": "Náchod",
+      "author": "Jan.Hamersky2",
+      "excerpt": "Je nám jedno, jestli hraješ jednoduše nebo složitě. Stačí, když si sedneme a budeš vědět, kdy a jak co (ne)trefit. Chceme z převážně studiového projektu vykřesat koncertní power trio. Kytaru s vokálem máme, basu taky, ale chybí nám pohon. Dole je ukázka. Kdyby Ti to přišlo zajímavý, piš. Okresy Náchod, Trutnov, prosím.)",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=Xboq_JmrusU&pp=ygUOYWJiw6kgdmFnYWJ1bmQ%3D"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 78,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Náchod"
+      ]
+    },
     {
       "id": "hudebnibazar:763205",
       "title": "Zpěvačka hledá kapelu Ostrava",
