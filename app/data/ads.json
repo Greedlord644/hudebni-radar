@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T15:52:18.344346+00:00",
+  "updatedAt": "2026-09-04T16:02:06.765296+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -48,6 +48,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:763205",
+      "title": "Zpěvačka hledá kapelu Ostrava",
+      "url": "https://hudebnibazar.cz/zpevacka-hleda-kapelu-ostrava/ID763205/",
+      "date": "2026-09-04T17:54:00+02:00",
+      "location": "Ostrava",
+      "author": "Sim.17",
+      "excerpt": "Ahoj, jsem 24letá zpěvačka s dlouholetou praxí ve zpěvu a hledám fungující kapelu nebo lidi pro nový projekt. Žánrově mě to táhne nejvíce k popu, rock-popu. Hledám partu spolehlivých muzikantů, kteří chtějí tvořit, makat na repertoáru a koncertovat. K dispozici mam zkušebnu v Ostravě a bubeníka.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 72,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "Ostrava"
+      ]
+    },
     {
       "id": "hudebnibazar:780148",
       "title": "Looking for a DRUMMER!",
