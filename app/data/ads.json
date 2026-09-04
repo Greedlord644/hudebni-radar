@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T06:32:21.222758+00:00",
+  "updatedAt": "2026-09-04T06:41:28.062023+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -48,6 +48,27 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:759428",
+      "title": "Hledáme zpěvačku do nové kapely",
+      "url": "https://hudebnibazar.cz/hledame-zpevacku-do-nove-kapely/ID759428/",
+      "date": "2026-09-04T08:39:00+02:00",
+      "location": "Praha 4",
+      "author": "Richard.Grey",
+      "excerpt": "Máme vlastní repertoár v angličtině. Hudba se stylově blíží synthpopu, darkwave a indie dreampopu. Silné melodie, hloubavé texty. Hledáme sebevědomý, emocionální projev a zajímavý hlas.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Emo"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 60,
+      "reasons": [
+        "emo",
+        "Praha 4"
+      ]
+    },
     {
       "id": "hudebnibazar:780042",
       "title": "Sludgecore/Blackened Sludge",
