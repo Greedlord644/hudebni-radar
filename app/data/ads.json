@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T08:52:14.962940+00:00",
+  "updatedAt": "2026-09-04T09:02:38.843585+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -48,6 +48,25 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:780088",
+      "title": "Zpěvačka hledá kytaristu pro akustické duo",
+      "url": "https://hudebnibazar.cz/zpevacka-hleda-kytaristu-pro-akusticke-duo/ID780088/",
+      "date": "2026-09-04T11:00:00+02:00",
+      "location": "Rychnov nad Kněžnou",
+      "author": "Katka.Sa",
+      "excerpt": "Ahoj všem, jsem začínající zpěvačka a ráda bych do budoucna našla nějakého kytaristu/kytaristku/pianistu/pianistku, se kterým bychom mohli vytvořit hudební duo. Je mi 30 let a pocházím z Rychnovska, od mala jsem chodila do pěveckého sboru. Poslední 2 roky jsem se ke zpěvu vrátila a začala navštěvovat soukromé lekce zpěvu. S…",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "podrobný inzerát",
+        "Rychnov nad Kněžnou"
+      ]
+    },
     {
       "id": "hudebnibazar:706552",
       "title": "HLEDÁME zpěváka pro projekt The Morphine",
