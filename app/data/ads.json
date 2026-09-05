@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T11:31:44.424357+00:00",
+  "updatedAt": "2026-09-05T11:41:31.581180+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -48,6 +48,25 @@
     }
   ],
   "interesting": [
+    {
+      "id": "bandmate:c55c94e5-67ec-4530-9942-bce923b9c73b",
+      "title": "Fagotista hleda kšefty v Praze a po celom Česku",
+      "url": "https://bandmate.cz/inzerat/fagotista-hleda-k-efty-v-praze-a-po-celom-esku-mST98j",
+      "date": "2026-09-05T11:32:39.33617+00:00",
+      "location": "Praha",
+      "author": "Mykola Sheremet",
+      "excerpt": "Fagotista hleda kšefty v Praze a po celom Česku Jmenuji se Mykola Sheremet. Jsem fagotista, student HAMU. Hrám na fagot už 14 rokov. Mam bohaté zkusenosti hry v různých orchestrech ( Videň, Bratislava, Praha), v komorne hre aj sólové (sólo s SoSR) klasika jiný",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Bandmate",
+      "score": 66,
+      "reasons": [
+        "Praha",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:770622",
       "title": "HLEDÁM AUTORSKÝ BAND",
