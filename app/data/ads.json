@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T19:21:37.117817+00:00",
+  "updatedAt": "2026-09-05T19:32:21.529256+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -48,6 +48,25 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:778525",
+      "title": "Housle - doplním partu/kapelu",
+      "url": "https://hudebnibazar.cz/housle-doplnim-partu-kapelu/ID778525/",
+      "date": "2026-09-05T21:27:00+02:00",
+      "location": "Praha 4",
+      "author": "B.G",
+      "excerpt": "S houslemi (případně s el.kytarou) doplním partu/kapelu, styl nejraději alespoň zčásti country music, ale i folk, blues, rock a další .... Hledám partu staršího věku, kde se nezkouší a o to víc se hraje ... Praha (případně i její bližší okolí s dobrým parkováním pro auto)",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Praha 4",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:778848",
       "title": "Hledám kapely na free nahrávání",
@@ -856,24 +875,6 @@
         "podrobný inzerát",
         "jasný projekt / zkušenosti",
         "Příbram"
-      ]
-    },
-    {
-      "id": "778525",
-      "title": "Housle - doplním partu/kapelu",
-      "url": "https://hudebnibazar.cz/housle-doplnim-partu-kapelu/ID778525/",
-      "date": "2026-08-31T18:43:00+02:00",
-      "location": "Praha 4",
-      "author": "B.G",
-      "excerpt": "S houslemi (případně s el.kytarou) doplním partu/kapelu, styl nejraději alespoň zčásti country music, ale i folk, blues, rock a další .... Hledám partu staršího věku, kde se nezkouší a o to víc se hraje ... Praha (případně i její bližší okolí s dobrým parkováním pro auto)",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "score": 66,
-      "reasons": [
-        "Praha 4",
-        "lokální networking"
       ]
     },
     {
