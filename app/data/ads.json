@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T14:02:33.827829+00:00",
+  "updatedAt": "2026-09-05T14:11:32.558551+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -48,6 +48,27 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:778848",
+      "title": "Hledám kapely na free nahrávání",
+      "url": "https://hudebnibazar.cz/hledam-kapely-na-free-nahravani/ID778848/",
+      "date": "2026-09-05T16:03:00+02:00",
+      "location": "Teplice",
+      "author": "Mat.Tie",
+      "excerpt": "Hledám kapely na nahrávání ZDARMA. Rock, punkrock, metal, hardcore, alternative… zkrátka všechno, u čeho sousedi začínají přemýšlet o stěhování. Nabízím balíček recording, mixing a mastering 1 skladby za cenu přesně 0 Kč (slovy nula korun českých). Háček? Potřebuju tvůj čas, nasazení, chuť udělat pořádnou nahrávku. Proč to…",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 87,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Teplice"
+      ]
+    },
     {
       "id": "bandmate:c55c94e5-67ec-4530-9942-bce923b9c73b",
       "title": "Fagotista hleda kšefty v Praze a po celom Česku",
