@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T17:52:18.882228+00:00",
+  "updatedAt": "2026-09-06T18:02:36.816217+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -48,6 +48,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:779385",
+      "title": "Hledá se zpěvák",
+      "url": "https://hudebnibazar.cz/hleda-se-zpevak/ID779385/",
+      "date": "2026-09-06T19:52:00+02:00",
+      "location": "Příbram",
+      "author": "Zdenek.Rousal",
+      "excerpt": "ROCK WINGS HLEDAJÍ ZPĚVÁKA! Kapela Rock Wings hledá do své sestavy zpěváka / frontmana. Hrajeme český i zahraniční rockový repertoár a hledáme někoho, kdo má dobrý hlas, energii a chuť stát před lidmi a být plnohodnotnou součástí kapely. Co hledáme: Zkušenosti se zpěvem a jistotu na pódiu. Schopnost zvládnout český i anglický…",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 78,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "Příbram"
+      ]
+    },
     {
       "id": "hudebnibazar:780559",
       "title": "Zpěvačka shání kapelu Praha",
@@ -1085,25 +1105,6 @@
         "lokální networking",
         "odkaz na profil / ukázku",
         "podrobný inzerát"
-      ]
-    },
-    {
-      "id": "779385",
-      "title": "Hledá se zpěvák",
-      "url": "https://hudebnibazar.cz/hleda-se-zpevak/ID779385/",
-      "date": "2026-08-31T20:33:00+02:00",
-      "location": "Příbram",
-      "author": "Zdenek.Rousal",
-      "excerpt": "ROCK WINGS HLEDAJÍ ZPĚVÁKA! Kapela Rock Wings hledá do své sestavy zpěváka / frontmana. Hrajeme český i zahraniční rockový repertoár a hledáme někoho, kdo má dobrý hlas, energii a chuť stát před lidmi a být plnohodnotnou součástí kapely. Co hledáme: Zkušenosti se zpěvem a jistotu na pódiu. Schopnost zvládnout český i anglický…",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": false,
-      "score": 78,
-      "reasons": [
-        "podrobný inzerát",
-        "jasný projekt / zkušenosti",
-        "Příbram"
       ]
     },
     {
