@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T23:42:15.292916+00:00",
+  "updatedAt": "2026-09-06T23:52:10.642255+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -48,6 +48,31 @@
     }
   ],
   "interesting": [
+    {
+      "id": "bandmate:c3d8ecc5-fe15-467c-b7c4-befb3e3648ad",
+      "title": "Singer / performer looking for musicians in Prague — R&B / Pop / Indie",
+      "url": "https://bandmate.cz/inzerat/singer-performer-looking-for-musicians-in-prague-r-b-pop-ind-4vzmOO",
+      "date": "2026-09-06T23:43:32.045892+00:00",
+      "location": "Brno",
+      "author": "Bibi Hall",
+      "excerpt": "Singer / performer looking for musicians in Prague — R&B / Pop / Indie Singer / performer looking for musicians in Prague — R&B / Pop / Indie I'm BIBI HALL slovak singer/songwriter and performer looking to create a serious band/project in Bratislava/Prague. I'm looking for a guitarist, bassist, drummer and/or keyboard player.…",
+      "externalLinks": [
+        "https://instagram.com/bibihall_",
+        "https://facebook.com/Bibiana"
+      ],
+      "influences": [],
+      "genres": [
+        "Emo"
+      ],
+      "isPrague": false,
+      "source": "Bandmate",
+      "score": 71,
+      "reasons": [
+        "emo",
+        "odkaz na profil / ukázku",
+        "Brno"
+      ]
+    },
     {
       "id": "hudebnibazar:780593",
       "title": "Hledáme bubeníka",
