@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T09:41:29.863793+00:00",
+  "updatedAt": "2026-09-06T09:52:09.929184+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -48,6 +48,27 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:780428",
+      "title": "HLEDÁME BUBENÍKA DO PROGRESIVNĚ-METALOVÉ KAPELY",
+      "url": "https://hudebnibazar.cz/hledame-bubenika-do-progresivne-metalove-kapely/ID780428/",
+      "date": "2026-09-06T11:42:00+02:00",
+      "location": "Liberec",
+      "author": "Marek.Havrda",
+      "excerpt": "Jsme začínající kapela z Liberce složená ze dvou kytaristů/zpěv a baskytaristy. Máme vlastní zkušebnu v centru Liberce a chceme dát dohromady sehranou sestavu, se kterou budeme moct postupně tvořit vlastní hudbu. Koho hledáme? - zkušenějšího bubeníka ideálně ve středoškolském věku - zájem o prog metal / alternativní metal /…",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Alt-metal"
+      ],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 88,
+      "reasons": [
+        "alternativní metal",
+        "Liberec"
+      ]
+    },
     {
       "id": "hudebnibazar:773145",
       "title": "Basák v Praze",
