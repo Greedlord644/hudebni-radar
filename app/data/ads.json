@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T17:22:14.886606+00:00",
+  "updatedAt": "2026-09-06T17:31:39.130889+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -48,6 +48,25 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:780559",
+      "title": "Zpěvačka shání kapelu Praha",
+      "url": "https://hudebnibazar.cz/zpevacka-shani-kapelu-praha/ID780559/",
+      "date": "2026-09-06T19:28:00+02:00",
+      "location": "Praha 4",
+      "author": "Anita.Jirovska",
+      "excerpt": "Zpěvačka klasiky chce naskočit konečně i do jiných žánrů. Základ - dávat hudbou dál. Návrhům se meze nekladou. Cokoliv kromě metal, punk,... Díky!",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Praha 4",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:780557",
       "title": "Hledáme Groove - Funk Basáka",
