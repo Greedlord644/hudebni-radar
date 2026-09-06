@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T19:22:10.559264+00:00",
+  "updatedAt": "2026-09-06T19:31:46.996463+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -48,6 +48,29 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:780586",
+      "title": "Zavedena metalova kapela hleda bubenika!",
+      "url": "https://hudebnibazar.cz/zavedena-metalova-kapela-hleda-bubenika/ID780586/",
+      "date": "2026-09-06T21:20:00+02:00",
+      "location": "Praha 3",
+      "author": "V.S5",
+      "excerpt": "Do zavedené metalové kapely hledáme bubeníka, který ovládá dvojšlapku, skankbeaty, blastbeaty a jiné druhy brambor. Jsme kapela Ewenay, osmičlenná banda se dvěma zpěváky a živými houslemi. Hrajeme energetickou hudbu, do které mícháme všechno možné. Věkově jsme mezi 25 a 36 lety. Náš cíl je hrát 2-3 kvalitní koncerty do měsíce…",
+      "externalLinks": [
+        "https://open.spotify.com/artist/4d69tmYaaoHDxzReB74emh"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 89,
+      "reasons": [
+        "Praha 3",
+        "lokální networking",
+        "odkaz na profil / ukázku",
+        "podrobný inzerát"
+      ]
+    },
     {
       "id": "hudebnibazar:744524",
       "title": "Zpěv",
