@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T07:51:36.583002+00:00",
+  "updatedAt": "2026-09-06T08:01:51.199201+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -48,6 +48,25 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:778157",
+      "title": "Kytarista",
+      "url": "https://hudebnibazar.cz/kytarista/ID778157/",
+      "date": "2026-09-06T09:55:00+02:00",
+      "location": "Praha-východ",
+      "author": "Karlos83.Sebesta",
+      "excerpt": "Ahoj hledáme kytaristu, jsme lidi kteří mají něco za sebou, rozhodně nejsme profíci a superstar co si na něco hrajou. Chceme hrát tvrdší muziku něco okolo hardcore mix punk, grind crossover groove, klidně rockové prvky a různě podle nálady... Místo nejlépe Praha... Chceme člověka s kamarádským, lidským a zodpovědným přístupem.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Praha-východ",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:767304",
       "title": "Hledáme zpěváka/zpěvačku",
