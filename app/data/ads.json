@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T09:02:38.638238+00:00",
+  "updatedAt": "2026-09-06T09:11:31.883644+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -48,6 +48,27 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:773145",
+      "title": "Basák v Praze",
+      "url": "https://hudebnibazar.cz/basak-v-praze/ID773145/",
+      "date": "2026-09-06T11:04:00+02:00",
+      "location": "Praha 4",
+      "author": "Petr.P",
+      "excerpt": "Basák hledá kapelu / projekt. Baví mě melodičtější věci (rock, pop, soul, jazz), ale nebráním se ani alternativě (post-rock, grunge, hip-hop, blues). Původně hraju na kytaru, ale teď se chci víc věnovat base a začít hrát živě. Pokud někoho takového hledáte, ozvěte se.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Grunge"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 63,
+      "reasons": [
+        "grunge",
+        "Praha 4"
+      ]
+    },
     {
       "id": "hudebnibazar:774889",
       "title": "HLEDÁME ZPĚV!",
