@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T13:22:07.343912+00:00",
+  "updatedAt": "2026-09-06T13:31:51.808967+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -48,6 +48,28 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:780479",
+      "title": "Hledáme Kapelu!!",
+      "url": "https://hudebnibazar.cz/hledame-kapelu/ID780479/",
+      "date": "2026-09-06T15:21:00+02:00",
+      "location": "Brno",
+      "author": "Edvard.Krcma",
+      "excerpt": "Já a můj kamarád hledáme rockovou/metalovou kapelu v našem věkovém rozmezí. Převážně bychom rádi skládali vlastní věci ale když bude třeba, tak i klidně zahrajeme nějakej ten cover :DDD Já (Edvard, 16 let): Hraji na kytaru, basu a bicí. Absolvuji kurz Lukáše Kočky. Rád bych hrál leadovou kytaru. Umím shreddovat, sweep pickovat…",
+      "externalLinks": [
+        "https://instagram.com/edvard_krcma"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 78,
+      "reasons": [
+        "podrobný inzerát",
+        "odkaz na profil / ukázku",
+        "Brno"
+      ]
+    },
     {
       "id": "hudebnibazar:738629",
       "title": "Hledám Bass do blackgaze Hradec Kralove",
