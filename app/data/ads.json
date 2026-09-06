@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T05:32:23.550156+00:00",
+  "updatedAt": "2026-09-06T05:41:33.973496+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -48,6 +48,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:767304",
+      "title": "Hledáme zpěváka/zpěvačku",
+      "url": "https://hudebnibazar.cz/hledame-zpevaka-zpevacku/ID767304/",
+      "date": "2026-09-06T07:37:00+02:00",
+      "location": "Frýdek-Místek",
+      "author": "Palo2",
+      "excerpt": "Trio vyhraných muzikantů( kytara,bicí,basa) hledá k sobě tvořivého muzikanta na post ZPĚVÁKA/ZPĚVAČKY Hrajeme od blues rocku po hard rock. Žadný cover,vlastní tvorba. Máme spoustu nahrávek a zpoustu zkušeností.... Zkušebna v Nýdku v Bystřici,ale bubeník dojíždí z Havířova... Těší se \" Ozzubená kola\".",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "Frýdek-Místek"
+      ]
+    },
     {
       "id": "hudebnibazar:778525",
       "title": "Housle - doplním partu/kapelu",
