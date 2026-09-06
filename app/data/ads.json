@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T14:01:49.666913+00:00",
+  "updatedAt": "2026-09-06T14:12:09.858564+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -48,6 +48,25 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:771034",
+      "title": "HLEDÁM AUTORSKÝ BAND",
+      "url": "https://hudebnibazar.cz/hledam-autorsky-band/ID771034/",
+      "date": "2026-09-06T16:03:00+02:00",
+      "location": "Praha 4",
+      "author": "Gogen.77",
+      "excerpt": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím. Jen aktivní kapely z Prahy.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "Praha 4",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:780486",
       "title": "Hledáme basáka do kapely 15 let",
