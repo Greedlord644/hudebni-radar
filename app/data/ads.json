@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T17:02:03.675891+00:00",
+  "updatedAt": "2026-09-06T17:12:16.546863+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -48,6 +48,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:780557",
+      "title": "Hledáme Groove - Funk Basáka",
+      "url": "https://hudebnibazar.cz/hledame-groove-funk-basaka/ID780557/",
+      "date": "2026-09-06T19:10:00+02:00",
+      "location": "Ostrava",
+      "author": "Petr.Svoboda4",
+      "excerpt": "Zdarec. Jsme parta z Ostravy hrající vlastní tvorbu, máme společný začínající projekt z kterého nám vypadl basák. Hrajeme Groove, Funk, fusion-crossover. Potřebujeme někoho kdo se nebojí tvořit. Kdo se nebojí jak tvrdého funku plného slapu, forem fusion - crossoveru, tak i procítěných věcí. Ale hlavně lidsky správného parťáka.…",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "Ostrava"
+      ]
+    },
     {
       "id": "hudebnibazar:771034",
       "title": "HLEDÁM AUTORSKÝ BAND",
