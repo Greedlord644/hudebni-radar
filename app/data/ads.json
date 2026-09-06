@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T11:21:29.762707+00:00",
+  "updatedAt": "2026-09-06T11:31:40.011975+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -1298,27 +1298,6 @@
       "reasons": [
         "Linkin Park",
         "Brno"
-      ]
-    },
-    {
-      "id": "bandmate:85040369-8357-4479-a40c-1a9363ab424e",
-      "title": "deftones anyone?",
-      "url": "https://bandmate.cz/inzerat/deftones-anyone-Gqkwkl",
-      "date": "2026-07-08T11:27:21.803076+00:00",
-      "location": "Praha",
-      "author": "David Černý",
-      "excerpt": "deftones anyone? Prog rock, prog metal, alt metal, stoner.. deftones, prefect circle, black peaks, arcane roots, qotsa.. ---- Hudba, kde se střídáji dizonantni pasáže plný napětí a snový soundscapes, který pohladí po duši. Těžký riffy a vokaly, který utkví v hlavě. Promyšlený netuctový groovy, klidně i lichý rytmy, netradiční…",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [
-        "Alt-metal"
-      ],
-      "isPrague": true,
-      "source": "Bandmate",
-      "score": 94,
-      "reasons": [
-        "alt metal",
-        "Praha"
       ]
     }
   ]
