@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T19:51:34.123564+00:00",
+  "updatedAt": "2026-09-06T20:02:27.084602+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -48,6 +48,28 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:780593",
+      "title": "Hledáme bubeníka",
+      "url": "https://hudebnibazar.cz/hledame-bubenika/ID780593/",
+      "date": "2026-09-06T21:59:00+02:00",
+      "location": "Praha 9",
+      "author": "Tomas.Roucka2",
+      "excerpt": "Heavy metalová kapela Soul Keeper hledá bubeníka. Více info do zpráv nebo po telefonu.",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=ytCfQFt7LJs"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 78,
+      "reasons": [
+        "Praha 9",
+        "lokální networking",
+        "odkaz na profil / ukázku"
+      ]
+    },
     {
       "id": "hudebnibazar:780586",
       "title": "Zavedena metalova kapela hleda bubenika!",
