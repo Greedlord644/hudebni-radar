@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T10:32:25.539390+00:00",
+  "updatedAt": "2026-09-06T10:42:10.411378+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -48,6 +48,30 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:738629",
+      "title": "Hledám lead kytaristu do blackgaze Hradec Kralove/Pardubice",
+      "url": "https://hudebnibazar.cz/hledam-lead-kytaristu-do-blackgaze-hradec-kralove-pardubice/ID738629/",
+      "date": "2026-09-06T12:33:00+02:00",
+      "location": "Hradec Králové",
+      "author": "Erwing.Heller",
+      "excerpt": "Hledáme lead kytaristu do naší kapely Gribber. Jsme bubeník a kytarista/zpěvák a máme zkušebnu v okolí Hradce Králové nebo Pardubice. Hrajeme post-blackmetal/blackgaze. Brzy plánujeme vydat EP a následně máme v plánu také album. Pokud máš zájem, napiš mi na WhatsApp: https://www.youtube.com/watch?v=LM_yJmzjHIs",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=LhwxRnedtIY",
+        "https://www.youtube.com/watch?v=LM_yJmzjHIs"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 78,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Hradec Králové"
+      ]
+    },
     {
       "id": "hudebnibazar:780428",
       "title": "HLEDÁME BUBENÍKA DO PROGRESIVNĚ-METALOVÉ KAPELY",
@@ -999,29 +1023,6 @@
       "reasons": [
         "emo",
         "Praha 10"
-      ]
-    },
-    {
-      "id": "738629",
-      "title": "Hledám lead kytaristu do blackgaze Hradec Kralove/Pardubice",
-      "url": "https://hudebnibazar.cz/hledam-lead-kytaristu-do-blackgaze-hradec-kralove-pardubice/ID738629/",
-      "date": "2026-08-31T12:16:00+02:00",
-      "location": "Hradec Králové",
-      "author": "Erwing.Heller",
-      "excerpt": "Hledáme lead kytaristu do naší kapely Gribber. Jsme bubeník a kytarista/zpěvák a máme zkušebnu v okolí Hradce Králové nebo Pardubice. Hrajeme post-blackmetal/blackgaze. Brzy plánujeme vydat EP a následně máme v plánu také album. Pokud máš zájem, napiš mi na WhatsApp: https://www.youtube.com/watch?v=LM_yJmzjHIs",
-      "externalLinks": [
-        "https://www.youtube.com/watch?v=LhwxRnedtIY",
-        "https://www.youtube.com/watch?v=LM_yJmzjHIs"
-      ],
-      "influences": [],
-      "genres": [],
-      "isPrague": false,
-      "score": 78,
-      "reasons": [
-        "podrobný inzerát",
-        "jasný projekt / zkušenosti",
-        "odkaz na profil / ukázku",
-        "Hradec Králové"
       ]
     },
     {
