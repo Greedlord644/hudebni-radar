@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T16:41:33.318434+00:00",
+  "updatedAt": "2026-09-07T16:51:41.714268+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -388,6 +388,26 @@
       "isPrague": true,
       "source": "Hudební bazar",
       "score": 69,
+      "reasons": [
+        "Praha 4",
+        "lokální networking"
+      ]
+    },
+    {
+      "id": "hudebnibazar:752990",
+      "title": "Baskytarista hleda kapelu",
+      "url": "https://hudebnibazar.cz/baskytarista-hleda-kapelu/ID752990/",
+      "date": "2026-09-06T15:58:00+02:00",
+      "location": "Praha 4",
+      "author": "Bass.Mm",
+      "excerpt": "Baskytarista 50 + hleda kapelu , pop , rock , blues , country ,classic metal , hodne odehrano a vybaveni mam",
+      "description": "Baskytarista 50 + hleda kapelu , pop , rock , blues , country ,classic metal , hodne odehrano a vybaveni mam",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 66,
       "reasons": [
         "Praha 4",
         "lokální networking"
