@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T05:51:31.822788+00:00",
+  "updatedAt": "2026-09-07T06:02:03.631002+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -48,6 +48,29 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:720493",
+      "title": "Hledáme bubeníka",
+      "url": "https://hudebnibazar.cz/hledame-bubenika/ID720493/",
+      "date": "2026-09-07T07:54:00+02:00",
+      "location": "Rokycany",
+      "author": "Veskarel",
+      "excerpt": "Zdravím, hledáme do bendu spoluhráče na bicí nástroje, hrajeme vlastní muziku a také kavry, v současné době nahráváme CD, hrajeme bluesrockovou muziku, dle zájmu pošlu nahrávky.",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=a2hY1DQzVmk&list=RDa2hY1DQzVmk&start_radio=1"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 75,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Rokycany"
+      ]
+    },
     {
       "id": "hudebnibazar:780613",
       "title": "Lucky Sparks",
