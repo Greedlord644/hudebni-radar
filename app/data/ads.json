@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T08:51:36.862100+00:00",
+  "updatedAt": "2026-09-07T09:02:37.526786+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -69,6 +69,30 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:727629",
+      "title": "Hledáme kytaristu / kytaristku",
+      "url": "https://hudebnibazar.cz/hledame-kytaristu-kytaristku/ID727629/",
+      "date": "2026-09-07T10:52:00+02:00",
+      "location": "Kroměříž",
+      "author": "Tomas.Holomel",
+      "excerpt": "Kapela Rousing Numbers z Hulína hledá kytaristu / kytaristku. Nabízíme zodpovědný přístup, zkušenosti s koncerty i nahráváním a plnou podporu. Více informací rádi poskytneme.",
+      "description": "Kapela Rousing Numbers z Hulína hledá kytaristu / kytaristku. Nabízíme zodpovědný přístup, zkušenosti s koncerty i nahráváním a plnou podporu. Více informací rádi poskytneme.",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=UY0mnvwFb50"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 78,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Kroměříž"
+      ]
+    },
     {
       "id": "hudebnibazar:778748",
       "title": "Obsidian Grace is looking for live shows / support slots",
