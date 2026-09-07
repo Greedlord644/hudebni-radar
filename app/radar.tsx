@@ -7,7 +7,7 @@ import { Button } from "@/components/ui/button";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { Switch } from "@/components/ui/switch";
 
-type Ad = { id: string; title: string; url: string; date: string; location: string; author: string; excerpt: string; score: number; reasons: string[]; externalLinks?: string[]; influences?: string[]; genres?: string[]; isPrague?: boolean; source?: string };
+type Ad = { id: string; title: string; url: string; date: string; location: string; author: string; excerpt: string; description?: string; score: number; reasons: string[]; externalLinks?: string[]; influences?: string[]; genres?: string[]; isPrague?: boolean; source?: string };
 type RadarData = { updatedAt: string; windowDays: number; singerSeeking: Ad[]; interesting: Ad[] };
 type Section = "singer" | "interesting";
 type SavedAd = { ad: Ad; sections: Section[] };
@@ -26,6 +26,9 @@ function adKey(ad: Ad) {
 }
 
 function AdCard({ ad, isRead, isSaved, onRead, onSave }: { ad: Ad; isRead: boolean; isSaved: boolean; onRead: () => void; onSave: () => void }) {
+  const [expanded, setExpanded] = useState(false);
+  const fullText = ad.description?.trim() || ad.excerpt;
+  const canExpand = fullText.length > ad.excerpt.length || fullText.includes("\n");
   return <article className={`group relative overflow-hidden rounded-2xl border p-5 transition hover:-translate-y-0.5 ${isRead ? "border-white/8 bg-white/[0.02] opacity-75 hover:opacity-100" : "border-cyan-300/45 bg-cyan-300/[0.075] shadow-[inset_3px_0_0_rgba(103,232,249,0.65)] hover:border-cyan-300/65"}`}>
     <div className="mb-4 flex flex-wrap items-center gap-2 text-sm text-slate-400">
       <span className="inline-flex items-center gap-1.5"><CalendarDays className="size-4" />{date.format(new Date(ad.date))}</span><span className="text-slate-700">•</span>
@@ -36,7 +39,8 @@ function AdCard({ ad, isRead, isSaved, onRead, onSave }: { ad: Ad; isRead: boole
       <span className="ml-auto rounded-full border border-white/10 bg-black/20 px-2.5 py-1 text-xs font-semibold text-slate-300">shoda {ad.score}%</span>
     </div>
     <h2 className="pr-8 text-xl font-semibold leading-snug tracking-tight text-white">{ad.title}</h2>
-    <p className="mt-3 line-clamp-3 max-w-3xl leading-7 text-slate-300">{ad.excerpt}</p>
+    <p className={`mt-3 max-w-3xl whitespace-pre-line leading-7 text-slate-300 ${expanded ? "" : "line-clamp-3"}`}>{expanded ? fullText : ad.excerpt}</p>
+    {canExpand && <button type="button" onClick={() => setExpanded((value) => !value)} aria-expanded={expanded} className="mt-2 text-sm font-semibold text-cyan-300 outline-none hover:text-cyan-200 focus-visible:rounded focus-visible:ring-2 focus-visible:ring-cyan-300">{expanded ? "Skrýt celý text" : "Číst dále"}</button>}
     <div className="mt-4 flex flex-wrap gap-2">{ad.reasons.map((reason) => <span key={reason} className="rounded-full bg-white/[0.07] px-3 py-1 text-xs font-medium text-slate-300">{reason}</span>)}</div>
     {!!ad.externalLinks?.length && <div className="mt-4 flex flex-wrap gap-2">{ad.externalLinks.map((link) => <a key={link} href={link} target="_blank" rel="noreferrer" className="inline-flex items-center gap-1.5 rounded-lg border border-cyan-300/20 bg-cyan-300/[0.06] px-3 py-1.5 text-sm font-semibold text-cyan-200 hover:bg-cyan-300/[0.12]"><Link2 className="size-3.5" />{link.includes("youtube") || link.includes("youtu.be") ? "YouTube" : link.includes("instagram") ? "Instagram" : link.includes("facebook") ? "Facebook" : link.includes("spotify") ? "Spotify" : "Externí odkaz"}</a>)}</div>}
     <div className="mt-5 flex flex-wrap items-center gap-2 border-t border-white/8 pt-4 text-sm">
