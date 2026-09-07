@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T18:42:10.917988+00:00",
+  "updatedAt": "2026-09-07T18:51:32.693465+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -69,6 +69,33 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:772011",
+      "title": "Hledám zpěváka/zpěvačku - Praha",
+      "url": "https://hudebnibazar.cz/hledam-zpevaka-zpevacku-praha/ID772011/",
+      "date": "2026-09-07T20:42:00+02:00",
+      "location": "Praha 8",
+      "author": "Egi",
+      "excerpt": "Ahoj, jsem basák/kytarista a hledám zpěváka/zpěvačku z Prahy do nové autorské kapely (indie, alternative rock, anglické texty), věkově cca 22-32 let. Mně je 29, mám za sebou hraní ve dvou kapelách. Jsem k dispozici na , Instagramu, Facebooku nebo přes formulář níže :-) https://www.facebook.com/egermaj/…",
+      "description": "Ahoj, jsem basák/kytarista a hledám zpěváka/zpěvačku z Prahy do nové autorské kapely (indie, alternative rock, anglické texty), věkově cca 22-32 let. Mně je 29, mám za sebou hraní ve dvou kapelách.\nJsem k dispozici na , Instagramu, Facebooku nebo přes formulář níže :-)\nhttps://www.facebook.com/egermaj/\nhttps://www.instagram.com/egimusick/",
+      "externalLinks": [
+        "https://www.facebook.com/egermaj/",
+        "https://www.instagram.com/egimusick/",
+        "https://instagram.com/.com"
+      ],
+      "influences": [],
+      "genres": [
+        "Alt-rock"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 100,
+      "reasons": [
+        "alternative rock",
+        "odkaz na profil / ukázku",
+        "Praha 8"
+      ]
+    },
     {
       "id": "hudebnibazar:780647",
       "title": "Looking for female vocals for prog. metal project",
@@ -1075,32 +1102,6 @@
         "alt metal",
         "odkaz na profil / ukázku",
         "Praha 3"
-      ]
-    },
-    {
-      "id": "hudebnibazar:772011",
-      "title": "Hledám zpěváka/zpěvačku - Praha",
-      "url": "https://hudebnibazar.cz/hledam-zpevaka-zpevacku-praha/ID772011/",
-      "date": "2026-09-02T17:27:00+02:00",
-      "location": "Praha 8",
-      "author": "Egi",
-      "excerpt": "Ahoj, jsem basák/kytarista a hledám zpěváka/zpěvačku z Prahy do nové autorské kapely (indie, alternative rock, anglické texty), věkově cca 22-32 let. Mně je 29, mám za sebou hraní ve dvou kapelách. Jsem k dispozici na , Instagramu, Facebooku nebo přes formulář níže :-) https://www.facebook.com/egermaj/…",
-      "externalLinks": [
-        "https://www.facebook.com/egermaj/",
-        "https://www.instagram.com/egimusick/",
-        "https://instagram.com/.com"
-      ],
-      "influences": [],
-      "genres": [
-        "Alt-rock"
-      ],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 100,
-      "reasons": [
-        "alternative rock",
-        "odkaz na profil / ukázku",
-        "Praha 8"
       ]
     },
     {
