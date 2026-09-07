@@ -76,7 +76,7 @@ HARD_EXCLUDES = [
 ]
 SINGER_EXCLUDES = HARD_EXCLUDES + ["čistě žensk", "ženskou kapelu", "jen muzikantky"]
 QUALITY = ["vlastní tvor", "autorsk", "nahráv", "koncert", "zkušeb", "projekt", "album", "singl", "ambice", "spolehliv", "dlouhodob"]
-SEEKER = [r"zpěvačk[ay]\s+hled", r"zpěvák\s+hled", r"jsem\s+(?:zpěvačka|zpěvák)", r"zpívám.*hled", r"jako\s+zpěvačk[ae].*(?:přidat|hled)"]
+SEEKER = [r"zpěvačk[ay]\s+(?:hled|shán)", r"zpěvák\s+(?:hled|shán)", r"vokalist(?:ka)?\s+(?:hled|shán)", r"jsem\s+(?:zpěvačka|zpěvák)", r"zpívám.*(?:hled|shán)", r"jako\s+zpěvačk[ae].*(?:přidat|hled|shán)"]
 WANTED = [r"hledáme\s+(?:zpěváka|zpěvačku|vokalist)", r"hledám\s+(?:zpěváka|zpěvačku|vokalist)", r"singer wanted"]
 PRODUCTION_SEEKING = [
     r"(?:hledám|hledáme|sháním|sháníme|potřebuji|potřebujeme)\s+(?:někoho[^.!?]{0,80})?(?:producent|produkci|aranžér|skladatel|mix|master|studio)",
@@ -357,14 +357,18 @@ def interesting_score(text: str, location: str) -> tuple[int, list[str]]:
     reasons = (genres[:2] + (["odkaz na profil / ukázku"] if linked else []) + (["vlastní tvorba"] if any("tvor" in x or "autorsk" in x for x in quality) else []) + ([location] if location != "Neuvedeno" else []))
     return (min(99, score), reasons[:4]) if score >= 58 else (0, [])
 
-def summarize(text: str, limit: int = 330) -> str:
+def sanitize_public_text(text: str) -> str:
     # The generated JSON is public. Contact details stay only on the original
     # ad page; the radar publishes names, locations and public profile/media links.
     clean = re.sub(r"\b[\w.+-]+@[\w.-]+\.[a-z]{2,}\b", "", text, flags=re.IGNORECASE)
     clean = re.sub(r"\b[\w.+-]+\s*(?:\(\s*zavináč\s*\)|\[\s*zavináč\s*\]|zavináč)\s*[\w.-]+(?:\.[a-z]{2,})?\b", "", clean, flags=re.IGNORECASE)
     clean = re.sub(r"(?<!\w)(?:\+?420[\s.-]*)?(?:\d[\s.-]*){9}(?!\w)", "", clean)
     clean = re.sub(r"\b(?:tel(?:efon)?|mobil|whatsapp|e-?mail)\s*[:：-]?\s*(?=$|[,;|])", "", clean, flags=re.IGNORECASE)
-    clean = " ".join(clean.split())
+    lines = [" ".join(line.split()) for line in clean.splitlines()]
+    return "\n".join(line for line in lines if line).strip()
+
+def summarize(text: str, limit: int = 330) -> str:
+    clean = " ".join(sanitize_public_text(text).split())
     if len(clean) <= limit: return clean
     return clean[:limit].rsplit(" ", 1)[0] + "…"
 
@@ -398,7 +402,8 @@ def main() -> None:
             print(f"Skipping {url}: {exc}"); continue
         text = f"{detail['title']} {detail['description']} {' '.join(detail['externalLinks'])}"
         ad_date = detail["inserted"] or (parsedate_to_datetime(pubdate).isoformat() if pubdate else datetime.now(timezone.utc).isoformat())
-        base = {"id": f"hudebnibazar:{ad_id}", "title": detail["title"], "url": url, "date": ad_date, "location": detail["location"], "author": detail["author"], "excerpt": summarize(detail["description"] or short), "externalLinks": detail["externalLinks"], "influences": matched_influences(text), "genres": matched_genre_labels(text), "isPrague": "praha" in plain(detail["location"]), "source": "Hudební bazar"}
+        description = sanitize_public_text(detail["description"] or short)
+        base = {"id": f"hudebnibazar:{ad_id}", "title": detail["title"], "url": url, "date": ad_date, "location": detail["location"], "author": detail["author"], "excerpt": summarize(description), "description": description, "externalLinks": detail["externalLinks"], "influences": matched_influences(text), "genres": matched_genre_labels(text), "isPrague": "praha" in plain(detail["location"]), "source": "Hudební bazar"}
         score, reasons = singer_score(detail["title"], text, detail["location"])
         if score: singer[base["id"]] = {**base, "score": score, "reasons": reasons}
         score, reasons = interesting_score(text, detail["location"])
@@ -417,7 +422,7 @@ def main() -> None:
             text = f"{ad['title']} {ad['description']} {' '.join(ad['externalLinks'])}"
             base = {
                 "id": ad["id"], "title": ad["title"], "url": ad["url"], "date": ad["date"],
-                "location": ad["location"], "author": ad["author"], "excerpt": summarize(ad["description"]),
+                "location": ad["location"], "author": ad["author"], "excerpt": summarize(ad["description"]), "description": sanitize_public_text(ad["description"]),
                 "externalLinks": ad["externalLinks"], "influences": matched_influences(text),
                 "genres": matched_genre_labels(text), "isPrague": "praha" in plain(ad["location"]), "source": ad["source"],
             }
@@ -432,6 +437,7 @@ def main() -> None:
         kept = [ad for ad in combined.values() if datetime.fromisoformat(ad["date"]).astimezone(timezone.utc) >= cutoff and not is_hard_excluded(f"{ad.get('title', '')} {ad.get('excerpt', '')}")]
         for ad in kept:
             ad["excerpt"] = summarize(ad.get("excerpt", ""))
+            if ad.get("description"): ad["description"] = sanitize_public_text(ad["description"])
             ad["externalLinks"] = [link for link in ad.get("externalLinks", []) if link.startswith(("http://", "https://"))][:5]
         return sorted(kept, key=lambda ad: (ad["date"], ad["score"]), reverse=True)
     result = {"updatedAt": datetime.now(timezone.utc).isoformat(), "windowDays": WINDOW_DAYS, "singerSeeking": merge("singerSeeking", singer), "interesting": merge("interesting", interesting)}
