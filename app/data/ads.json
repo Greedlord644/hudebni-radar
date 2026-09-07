@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T05:11:33.521273+00:00",
+  "updatedAt": "2026-09-07T05:22:09.800104+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -48,6 +48,29 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:780613",
+      "title": "Lucky Sparks",
+      "url": "https://hudebnibazar.cz/lucky-sparks/ID780613/",
+      "date": "2026-09-07T07:19:00+02:00",
+      "location": "Praha 10",
+      "author": "Artur.Fulop",
+      "excerpt": "?⚡ LUCKY SPARKS HLEDAJÍ BUBENÍKA! ⚡? Pražská punk rock’n’rollová kapela hledá zkušeného bubeníka! ? ?? kytara – Němec ?? basa – Maďar ?? zpěv – Češka ? bicí – možná TY! Věk neřešíme. Amatéra ale nehledáme. Potřebujeme někoho, kdo umí hrát, má energii, je spolehlivý a chce to dělat naplno. ?? Společný jazyk: čeština ? Koncerty a…",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=Znz0GqCd0VE"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 92,
+      "reasons": [
+        "Praha 10",
+        "lokální networking",
+        "odkaz na profil / ukázku",
+        "podrobný inzerát"
+      ]
+    },
     {
       "id": "bandmate:c3d8ecc5-fe15-467c-b7c4-befb3e3648ad",
       "title": "Singer / performer looking for musicians in Prague — R&B / Pop / Indie",
