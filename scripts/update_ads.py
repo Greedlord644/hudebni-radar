@@ -362,7 +362,7 @@ def sanitize_public_text(text: str) -> str:
     # ad page; the radar publishes names, locations and public profile/media links.
     clean = re.sub(r"\b[\w.+-]+@[\w.-]+\.[a-z]{2,}\b", "", text, flags=re.IGNORECASE)
     clean = re.sub(r"\b[\w.+-]+\s*(?:\(\s*zavináč\s*\)|\[\s*zavináč\s*\]|zavináč)\s*[\w.-]+(?:\.[a-z]{2,})?\b", "", clean, flags=re.IGNORECASE)
-    clean = re.sub(r"(?<!\w)(?:\+?420[\s.-]*)?(?:\d[\s.-]*){9}(?!\w)", "", clean)
+    clean = re.sub(r"(?<!\w)\+?(?:\d[\s()./-]*){9,15}(?!\w)", "", clean)
     clean = re.sub(r"\b(?:tel(?:efon)?|mobil|whatsapp|e-?mail)\s*[:：-]?\s*(?=$|[,;|])", "", clean, flags=re.IGNORECASE)
     lines = [" ".join(line.split()) for line in clean.splitlines()]
     return "\n".join(line for line in lines if line).strip()
