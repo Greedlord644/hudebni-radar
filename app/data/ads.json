@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T07:52:15.183908+00:00",
+  "updatedAt": "2026-09-07T08:02:32.789891+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -69,6 +69,30 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:778748",
+      "title": "Obsidian Grace is looking for live shows / support slots",
+      "url": "https://hudebnibazar.cz/obsidian-grace-is-looking-for-live-shows-support-slots/ID778748/",
+      "date": "2026-09-07T09:55:00+02:00",
+      "location": "Praha 5",
+      "author": "Andrei.Sotov",
+      "excerpt": "Obsidian Grace (gothic / melodic metal) from Prague is looking for opportunities to perform at concerts, festivals, or join lineups as a support band. We currently have ~45 minutes of original material, fully rehearsed and ready for live performance. We’re easy to work with, reliable, and open to different formats of shows. You…",
+      "description": "Obsidian Grace (gothic / melodic metal) from Prague is looking for opportunities to perform at concerts, festivals, or join lineups as a support band.\nWe currently have ~45 minutes of original material, fully rehearsed and ready for live performance.\nWe’re easy to work with, reliable, and open to different formats of shows.\nYou can listen to our music here:\nhttps://obsidiangrace.com/music\nIf you have a suitable event or slot, feel free to message me.",
+      "externalLinks": [
+        "https://obsidiangrace.com/music"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 83,
+      "reasons": [
+        "Praha 5",
+        "lokální networking",
+        "odkaz na profil / ukázku",
+        "podrobný inzerát"
+      ]
+    },
     {
       "id": "hudebnibazar:720493",
       "title": "Hledáme bubeníka",
