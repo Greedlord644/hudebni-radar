@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-08T21:51:34.277300+00:00",
+  "updatedAt": "2026-09-08T22:02:36.114046+00:00",
   "windowDays": 60,
   "singerSeeking": [
+    {
+      "id": "hudebnibazar:761523",
+      "title": "Zpěvačka hledá kapelu :)",
+      "url": "https://hudebnibazar.cz/zpevacka-hleda-kapelu/ID761523/",
+      "date": "2026-09-09T00:00:00+02:00",
+      "location": "Praha 5",
+      "author": "Tereza.X",
+      "excerpt": "Ahoj, rozkoukávám se po pražské kapele, která hledá zpěvačku a se kterou bychom si hudebně i lidsky sedli. Zpívám pop/rock, ale nebráním se ani jiným žánrům, baví mě elektro, liquid dnb, indie rock, hip hop; mám v lásce fakt spoustu žánrů. Nemám sice za sebou studia nebo velké arény, ale po letech zpívání se už nepovažuju ani…",
+      "description": "Ahoj, rozkoukávám se po pražské kapele, která hledá zpěvačku a se kterou bychom si hudebně i lidsky sedli.\nZpívám pop/rock, ale nebráním se ani jiným žánrům, baví mě elektro, liquid dnb, indie rock, hip hop; mám v lásce fakt spoustu žánrů. Nemám sice za sebou studia nebo velké arény, ale po letech zpívání se už nepovažuju ani za úplnou amatérku (mám taky dlouhodobě skvělou lektorku zpěvu). Zpívala jsem roky v kapele a mám i nějaké zkušenosti se skládáním vlastní tvorby.\nÚplně nejbáječnější by bylo, kdyby se jednalo o kapelu mix muži/ženy ve věku 25–45 let s vlastní tvorbou. Budu ráda, když se ozvete a zjistíme, jestli jsme na podobné vlně. Ukázky zpěvu ráda pošlu.\nTěším se!\nTereza",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 75,
+      "reasons": [
+        "zpěv hledá",
+        "Praha 5",
+        "vlastní tvorba",
+        "podrobný inzerát"
+      ]
+    },
     {
       "id": "hudebnibazar:780559",
       "title": "Zpěvačka shání kapelu Praha",
@@ -20,27 +42,6 @@
       "reasons": [
         "zpěv hledá",
         "Praha 4"
-      ]
-    },
-    {
-      "id": "hudebnibazar:761523",
-      "title": "Zpěvačka hledá kapelu :)",
-      "url": "https://hudebnibazar.cz/zpevacka-hleda-kapelu/ID761523/",
-      "date": "2026-09-02T01:08:00+02:00",
-      "location": "Praha 5",
-      "author": "Tereza.X",
-      "excerpt": "Ahoj, rozkoukávám se po pražské kapele, která hledá zpěvačku a se kterou bychom si hudebně i lidsky sedli. Zpívám pop/rock, ale nebráním se ani jiným žánrům, baví mě elektro, liquid dnb, indie rock, hip hop; mám v lásce fakt spoustu žánrů. Nemám sice za sebou studia nebo velké arény, ale po letech zpívání se už nepovažuju ani…",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 75,
-      "reasons": [
-        "zpěv hledá",
-        "Praha 5",
-        "vlastní tvorba",
-        "podrobný inzerát"
       ]
     },
     {
@@ -69,6 +70,48 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:761523",
+      "title": "Zpěvačka hledá kapelu :)",
+      "url": "https://hudebnibazar.cz/zpevacka-hleda-kapelu/ID761523/",
+      "date": "2026-09-09T00:00:00+02:00",
+      "location": "Praha 5",
+      "author": "Tereza.X",
+      "excerpt": "Ahoj, rozkoukávám se po pražské kapele, která hledá zpěvačku a se kterou bychom si hudebně i lidsky sedli. Zpívám pop/rock, ale nebráním se ani jiným žánrům, baví mě elektro, liquid dnb, indie rock, hip hop; mám v lásce fakt spoustu žánrů. Nemám sice za sebou studia nebo velké arény, ale po letech zpívání se už nepovažuju ani…",
+      "description": "Ahoj, rozkoukávám se po pražské kapele, která hledá zpěvačku a se kterou bychom si hudebně i lidsky sedli.\nZpívám pop/rock, ale nebráním se ani jiným žánrům, baví mě elektro, liquid dnb, indie rock, hip hop; mám v lásce fakt spoustu žánrů. Nemám sice za sebou studia nebo velké arény, ale po letech zpívání se už nepovažuju ani za úplnou amatérku (mám taky dlouhodobě skvělou lektorku zpěvu). Zpívala jsem roky v kapele a mám i nějaké zkušenosti se skládáním vlastní tvorby.\nÚplně nejbáječnější by bylo, kdyby se jednalo o kapelu mix muži/ženy ve věku 25–45 let s vlastní tvorbou. Budu ráda, když se ozvete a zjistíme, jestli jsme na podobné vlně. Ukázky zpěvu ráda pošlu.\nTěším se!\nTereza",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 77,
+      "reasons": [
+        "Praha 5",
+        "lokální networking",
+        "podrobný inzerát"
+      ]
+    },
+    {
+      "id": "hudebnibazar:776772",
+      "title": "Hledám muzikantky, které chtějí založit ženskou kapelu",
+      "url": "https://hudebnibazar.cz/hledam-muzikantky-ktere-chteji-zalozit-zenskou-kapelu/ID776772/",
+      "date": "2026-09-09T00:00:00+02:00",
+      "location": "Praha 5",
+      "author": "Tereza.X",
+      "excerpt": "Už je to nějaký čas, co se rozkoukávám po kapele, ke které bych se jako zpěvačka mohla přidat, a rozhodla jsem se, že tomu zkusím jít naproti trochu jinak :) Hraješ na nějaký hudební nástroj a chtěla by ses přidat k založení vlastního čistě ženského/holčičího uskupení? Tak mi napiš a můžeme si posdílet naše představy. Žánrově…",
+      "description": "Už je to nějaký čas, co se rozkoukávám po kapele, ke které bych se jako zpěvačka mohla přidat, a rozhodla jsem se, že tomu zkusím jít naproti trochu jinak :)\nHraješ na nějaký hudební nástroj a chtěla by ses přidat k založení vlastního čistě ženského/holčičího uskupení? Tak mi napiš a můžeme si posdílet naše představy.\nŽánrově se nějak nespecifikuju, ale zpívám melodicky a nejsem úplně na tvorbu metalu a moc hard muziky, sedí mi spíš melodičtější skladby. Mám nějaké základní zkušenosti se skládáním vlastní hudby, ale nic velkého, takže pokud ty je máš, tak je to super na druhou – ale není to žádná podmínka. Můžeme na ty věci přicházet společně.\nO mně: Zpívám už řadu let („vede“ mě skvělá lektorka), zpívala jsem s kapelou a ukázky svého hlasu ráda pošlu, ať zjistíš, jestli ti to sedí do ucha. Zároveň ale nejsem profesionální zpěvačka, která by brala za vystoupení peníze - aby byl jasný můj \"level\" :) Je pro mě důležité si sednout i osobnostně, přece jen spolu budeme trávit nějaký čas a fajn atmosféra v kapele mezi členkami je podle mě takový dobrý základ.\nBudu se těšit!\nTereza",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 71,
+      "reasons": [
+        "Praha 5",
+        "lokální networking",
+        "podrobný inzerát"
+      ]
+    },
     {
       "id": "hudebnibazar:775914",
       "title": "Hledáme Baskytaristu/Baskytaristku do Modern Metal Kapely",
@@ -1358,46 +1401,6 @@
       "reasons": [
         "nu metal",
         "Praha 6"
-      ]
-    },
-    {
-      "id": "hudebnibazar:761523",
-      "title": "Zpěvačka hledá kapelu :)",
-      "url": "https://hudebnibazar.cz/zpevacka-hleda-kapelu/ID761523/",
-      "date": "2026-09-02T01:08:00+02:00",
-      "location": "Praha 5",
-      "author": "Tereza.X",
-      "excerpt": "Ahoj, rozkoukávám se po pražské kapele, která hledá zpěvačku a se kterou bychom si hudebně i lidsky sedli. Zpívám pop/rock, ale nebráním se ani jiným žánrům, baví mě elektro, liquid dnb, indie rock, hip hop; mám v lásce fakt spoustu žánrů. Nemám sice za sebou studia nebo velké arény, ale po letech zpívání se už nepovažuju ani…",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 77,
-      "reasons": [
-        "Praha 5",
-        "lokální networking",
-        "podrobný inzerát"
-      ]
-    },
-    {
-      "id": "hudebnibazar:776772",
-      "title": "Hledám muzikantky, které chtějí založit ženskou kapelu",
-      "url": "https://hudebnibazar.cz/hledam-muzikantky-ktere-chteji-zalozit-zenskou-kapelu/ID776772/",
-      "date": "2026-09-02T01:08:00+02:00",
-      "location": "Praha 5",
-      "author": "Tereza.X",
-      "excerpt": "Už je to nějaký čas, co se rozkoukávám po kapele, ke které bych se jako zpěvačka mohla přidat, a rozhodla jsem se, že tomu zkusím jít naproti trochu jinak :) Hraješ na nějaký hudební nástroj a chtěla by ses přidat k založení vlastního čistě ženského/holčičího uskupení? Tak mi napiš a můžeme si posdílet naše představy. Žánrově…",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 71,
-      "reasons": [
-        "Praha 5",
-        "lokální networking",
-        "podrobný inzerát"
       ]
     },
     {
