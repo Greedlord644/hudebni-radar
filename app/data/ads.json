@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T07:22:10.146946+00:00",
+  "updatedAt": "2026-09-08T07:31:53.214315+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -69,6 +69,27 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:766146",
+      "title": "Hledáme bubeníka do kapely TixTide",
+      "url": "https://hudebnibazar.cz/hledame-bubenika-do-kapely-tixtide/ID766146/",
+      "date": "2026-09-08T09:26:00+02:00",
+      "location": "Liberec",
+      "author": "Ilja.K",
+      "excerpt": "Jsme parta muzikantů hrající vlastní tvorbu na pomezí hard rocku a heavy metalu a hledáme spolehlivého bubeníka, který by se stal plnohodnotnou součástí kapely. Náš současný bubeník je výrazně vytížený v jiné kapele, a proto nám komplikovaněji vychází koncertování i pravidelné fungování kapely. Hledáme někoho, kdo bere muziku…",
+      "description": "Jsme parta muzikantů hrající vlastní tvorbu na pomezí hard rocku a heavy metalu a hledáme spolehlivého bubeníka, který by se stal plnohodnotnou součástí kapely. Náš současný bubeník je výrazně vytížený v jiné kapele, a proto nám komplikovaněji vychází koncertování i pravidelné fungování kapely.\nHledáme někoho, kdo bere muziku vážně, chodí na zkoušky připravený, mezi zkouškami na sobě pracuje a je na něj spoleh. Nehledáme profesionála za každou cenu, ale člověka se zápalem pro hudbu a chutí posouvat kapelu dál.\nMáme vlastní vybavenou zkušebnu nedaleko Kněžmosta, vlastní bicí soupravu k dispozici a v kapele jsou muzikanti z okolí Liberce, Jablonce nad Nisou i Mladoboleslavska. Naším cílem je pravidelně zkoušet, vystupovat naživo a posouvat vlastní tvorbu dál.\nPokud tě nabídka zaujala, ozvi se. Rádi pošleme ukázky naší tvorby a probereme vše osobně.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 78,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "Liberec"
+      ]
+    },
     {
       "id": "hudebnibazar:771377",
       "title": "HLEDÁM AUTORSKÝ BAND",
@@ -1326,26 +1347,6 @@
       "reasons": [
         "Praha 1",
         "lokální networking"
-      ]
-    },
-    {
-      "id": "hudebnibazar:766146",
-      "title": "Hledáme bubeníka do kapely TixTide",
-      "url": "https://hudebnibazar.cz/hledame-bubenika-do-kapely-tixtide/ID766146/",
-      "date": "2026-09-01T18:28:00+02:00",
-      "location": "Liberec",
-      "author": "Ilja.K",
-      "excerpt": "Jsme parta muzikantů hrající vlastní tvorbu na pomezí hard rocku a heavy metalu a hledáme spolehlivého bubeníka, který by se stal plnohodnotnou součástí kapely. Náš současný bubeník je výrazně vytížený v jiné kapele, a proto nám komplikovaněji vychází koncertování i pravidelné fungování kapely. Hledáme někoho, kdo bere muziku…",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": false,
-      "source": "Hudební bazar",
-      "score": 78,
-      "reasons": [
-        "podrobný inzerát",
-        "jasný projekt / zkušenosti",
-        "Liberec"
       ]
     },
     {
