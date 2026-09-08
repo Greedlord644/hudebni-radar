@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T17:21:31.538813+00:00",
+  "updatedAt": "2026-09-08T17:32:29.726890+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -69,6 +69,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:761277",
+      "title": "SINGER WANTED, ROCK/FOLK ROCK",
+      "url": "https://hudebnibazar.cz/singer-wanted-rock-folk-rock/ID761277/",
+      "date": "2026-09-08T19:28:00+02:00",
+      "location": "Praha 1",
+      "author": "Petr.Burke",
+      "excerpt": "Looking for SINGER, NEW SONGS, ROCK, FOLK ROCK, BLUES ROCK. New songs. Hledá se ZPĚVÁK, ROCK, FOLK ROCK, BLUES ROCK. Chci dělat nové songy, rock, folk rock, blues rock.",
+      "description": "Looking for SINGER, NEW SONGS, ROCK, FOLK ROCK, BLUES ROCK. New songs.\nHledá se ZPĚVÁK, ROCK, FOLK ROCK, BLUES ROCK. Chci dělat nové songy, rock, folk rock, blues rock.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Praha 1",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:768324",
       "title": "Melodic hardcore - hledáme parťáky",
@@ -1399,25 +1419,6 @@
         "elektronika",
         "odkaz na profil / ukázku",
         "Praha 10"
-      ]
-    },
-    {
-      "id": "hudebnibazar:761277",
-      "title": "SINGER WANTED, ROCK/FOLK ROCK",
-      "url": "https://hudebnibazar.cz/singer-wanted-rock-folk-rock/ID761277/",
-      "date": "2026-09-01T19:55:00+02:00",
-      "location": "Praha 1",
-      "author": "Petr.Burke",
-      "excerpt": "Looking for SINGER, NEW SONGS, ROCK, FOLK ROCK, BLUES ROCK. New songs. Hledá se ZPĚVÁK, ROCK, FOLK ROCK, BLUES ROCK. Chci dělat nové songy, rock, folk rock, blues rock.",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 66,
-      "reasons": [
-        "Praha 1",
-        "lokální networking"
       ]
     },
     {
