@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T22:22:13.318228+00:00",
+  "updatedAt": "2026-09-08T22:31:43.756879+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,28 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:775643",
+      "title": "Kytarista hledá | Olomouc",
+      "url": "https://hudebnibazar.cz/kytarista-hleda-olomouc/ID775643/",
+      "date": "2026-09-09T00:21:00+02:00",
+      "location": "Olomouc",
+      "author": "Elektrickej.Kytarista",
+      "excerpt": "Je mi 22 let a hledám kapelu v Olomouci nebo okolí. Hraju především rock, alt-rock a pop. Mám zkušenosti z několika kapel a přibližně 30 odehraných koncertů. Hledám kapelu, která chce hlavně hrát. Jsem otevřený i záskokům nebo občasnému hraní. Pokud sháníte kytaristu, případně víte o někom, kdo ho hledá, napište.",
+      "description": "Je mi 22 let a hledám kapelu v Olomouci nebo okolí.\nHraju především rock, alt-rock a pop.\nMám zkušenosti z několika kapel a přibližně 30 odehraných koncertů.\nHledám kapelu, která chce hlavně hrát. Jsem otevřený i záskokům nebo občasnému hraní.\nPokud sháníte kytaristu, případně víte o někom, kdo ho hledá, napište.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Alt-rock"
+      ],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 88,
+      "reasons": [
+        "alt-rock",
+        "Olomouc"
+      ]
+    },
     {
       "id": "hudebnibazar:761523",
       "title": "Zpěvačka hledá kapelu :)",
