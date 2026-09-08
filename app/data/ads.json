@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T14:51:31.980477+00:00",
+  "updatedAt": "2026-09-08T15:02:43.744941+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -69,6 +69,30 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:780946",
+      "title": "Hledá se Bubeník",
+      "url": "https://hudebnibazar.cz/hleda-se-bubenik/ID780946/",
+      "date": "2026-09-08T16:52:00+02:00",
+      "location": "Tábor",
+      "author": "Zdenek.Koutensky",
+      "excerpt": "Ahoj, Hledá se BUBENÍK Jsme Punk-Rock kapela System Shutdown a hledáme nového BUBENÍKA. Jsme z TÁBORA a máme vlastní tvorbu. Náš bubeník odchází z rodiných důvodů...... Máme prostory na hraní a zkouší se cca 1x týdně.",
+      "description": "Ahoj, Hledá se BUBENÍK\nJsme Punk-Rock kapela System Shutdown a hledáme nového BUBENÍKA.\nJsme z TÁBORA a máme vlastní tvorbu.\nNáš bubeník odchází z rodiných důvodů......\nMáme prostory na hraní a zkouší se cca 1x týdně.",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=32tRAOt5xnA"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 75,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Tábor"
+      ]
+    },
     {
       "id": "hudebnibazar:780891",
       "title": "Hledáme bubeníka v NuMetal/core project",
