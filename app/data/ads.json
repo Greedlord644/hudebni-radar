@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T19:21:33.806239+00:00",
+  "updatedAt": "2026-09-08T19:32:28.014158+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -69,6 +69,40 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:775914",
+      "title": "Hledáme Baskytaristu/Baskytaristku do Modern Metal Kapely",
+      "url": "https://hudebnibazar.cz/hledame-baskytaristu-baskytaristku-do-modern-metal-kapely/ID775914/",
+      "date": "2026-09-08T21:29:00+02:00",
+      "location": "Ostrava",
+      "author": "Vitek.Krizek",
+      "excerpt": "Zdravím Kytarista (17) a bubeník (16) hledají baskytaristu/baskytaristku do modern metalové kapely ve stylu : Bad Omens, Dayseeker, Spiritbox, The Plot In You, Bring Me The Horizon a Normandie. Hrajeme v nízkém ladění Drop C# až po Drop F. Ideální by bylo kdybys měl/a 5 strunnou baskytaru (není podmínkou). Věk okolo 14-21 let.…",
+      "description": "Zdravím\nKytarista (17) a bubeník (16) hledají baskytaristu/baskytaristku do modern metalové kapely ve stylu : Bad Omens, Dayseeker, Spiritbox, The Plot In You, Bring Me The Horizon a Normandie.\nHrajeme v nízkém ladění Drop C# až po Drop F.\nIdeální by bylo kdybys měl/a 5 strunnou baskytaru (není podmínkou).\nVěk okolo 14-21 let.\nZkušebnu máme v Ostravě a zkoušky bývají co týden o víkendu podle domluvy.\nPokud bys měl/a zájem tak klidně napiš, nejlépe na Instagram\n@vitothecross nebo @damianstross\nNíže je odkaz na naší nahrávku.",
+      "externalLinks": [
+        "https://instagram.com/vitothecross",
+        "https://instagram.com/damianstross"
+      ],
+      "influences": [
+        "Bring Me The Horizon",
+        "Bad Omens",
+        "Spiritbox",
+        "The Plot In You",
+        "Dayseeker",
+        "Normandie"
+      ],
+      "genres": [
+        "Modern metal"
+      ],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 100,
+      "reasons": [
+        "Bring Me The Horizon",
+        "Bad Omens",
+        "odkaz na profil / ukázku",
+        "Ostrava"
+      ]
+    },
     {
       "id": "hudebnibazar:754140",
       "title": "Hledáme kytaristu do kapely",
@@ -1324,40 +1358,6 @@
       "reasons": [
         "nu metal",
         "Praha 6"
-      ]
-    },
-    {
-      "id": "hudebnibazar:775914",
-      "title": "Hledáme Baskytaristu/Baskytaristku do Modern Metal Kapely",
-      "url": "https://hudebnibazar.cz/hledame-baskytaristu-baskytaristku-do-modern-metal-kapely/ID775914/",
-      "date": "2026-09-02T13:32:00+02:00",
-      "location": "Ostrava",
-      "author": "Vitek.Krizek",
-      "excerpt": "Zdravím Kytarista (17) a bubeník (16) hledají baskytaristu/baskytaristku do modern metalové kapely ve stylu : Bad Omens, Dayseeker, Spiritbox, The Plot In You, Bring Me The Horizon a Normandie. Hrajeme v nízkém ladění Drop C# až po Drop F. Ideální by bylo kdybys měl/a 5 strunnou baskytaru (není podmínkou). Věk okolo 14-21 let.…",
-      "description": "Zdravím\nKytarista (17) a bubeník (16) hledají baskytaristu/baskytaristku do modern metalové kapely ve stylu : Bad Omens, Dayseeker, Spiritbox, The Plot In You, Bring Me The Horizon a Normandie.\nHrajeme v nízkém ladění Drop C# až po Drop F.\nIdeální by bylo kdybys měl/a 5 strunnou baskytaru (není podmínkou).\nVěk okolo 14-21 let.\nZkušebnu máme v Ostravě a zkoušky bývají co týden o víkendu podle domluvy.\nPokud bys měl/a zájem tak klidně napiš, nejlépe na Instagram\n@vitothecross nebo @damianstross\nNíže je odkaz na naší nahrávku.",
-      "externalLinks": [
-        "https://instagram.com/vitothecross",
-        "https://instagram.com/damianstross"
-      ],
-      "influences": [
-        "Bring Me The Horizon",
-        "Bad Omens",
-        "Spiritbox",
-        "The Plot In You",
-        "Dayseeker",
-        "Normandie"
-      ],
-      "genres": [
-        "Modern metal"
-      ],
-      "isPrague": false,
-      "source": "Hudební bazar",
-      "score": 100,
-      "reasons": [
-        "Bring Me The Horizon",
-        "Bad Omens",
-        "odkaz na profil / ukázku",
-        "Ostrava"
       ]
     },
     {
