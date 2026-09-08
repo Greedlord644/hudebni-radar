@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T16:22:15.101928+00:00",
+  "updatedAt": "2026-09-08T16:31:44.476046+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -69,6 +69,28 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:768324",
+      "title": "Melodic hardcore - hledáme parťáky",
+      "url": "https://hudebnibazar.cz/melodic-hardcore-hledame-partaky/ID768324/",
+      "date": "2026-09-08T18:22:00+02:00",
+      "location": "Plzeň",
+      "author": "Martin.Pisek2",
+      "excerpt": "Nově vznikající plzeňská melodic hardcore kapela založená zkušenými hráči hledá basáka, bubeníka a sólovou kytaru. Věk kolem 20–35. Co to obnáší a co plánujeme: vlastní anglická tvorba, pravidelné zkoušky ve vlastní zkušebně v Plzni, snahu koncertovat po ČR a občas v zahraničí, v co nejbližší době studio a první nahrávky.…",
+      "description": "Nově vznikající plzeňská melodic hardcore kapela založená zkušenými hráči hledá basáka, bubeníka a sólovou kytaru.\nVěk kolem 20–35.\nCo to obnáší a co plánujeme: vlastní anglická tvorba, pravidelné zkoušky ve vlastní zkušebně v Plzni, snahu koncertovat po ČR a občas v zahraničí, v co nejbližší době studio a první nahrávky.\nHrajeme a tvoříme ve stylu melodic hardcore (stylově např. Landmvrks, ADTR, Close your eyes atp.) — víš, do čeho jdeš.\nVlastní nástroj a vybavení jsou základ, in ear a digitalizace vítány.\nHledáme spolehlivé, rozumné lidi, kteří chtějí reálně hrát a chápou, že kapela něco stojí.\nOčekáváme kolektivní finanční podporu zázemí, tvorby, merche a nahrávek.\nDej vědět pokud máš zájem, demo pošleme.\nPiš na:",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Emo"
+      ],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 71,
+      "reasons": [
+        "emo",
+        "Plzeň"
+      ]
+    },
     {
       "id": "hudebnibazar:780946",
       "title": "Hledá se Bubeník",
