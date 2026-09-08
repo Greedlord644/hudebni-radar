@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T18:21:30.630901+00:00",
+  "updatedAt": "2026-09-08T18:31:54.242484+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -69,6 +69,31 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:754140",
+      "title": "Hledáme kytaristu do kapely",
+      "url": "https://hudebnibazar.cz/hledame-kytaristu-do-kapely/ID754140/",
+      "date": "2026-09-08T20:29:00+02:00",
+      "location": "Praha 9",
+      "author": "Nela.Sobotkova",
+      "excerpt": "Hledáme lead kytaristu do kapely. Hrajeme pop punk/alt rock. Jsme z Prahy, věk kolem 18 let. Tvoříme vlastní hudbu, náš instagram: @theunsilenced.official. Napiš!",
+      "description": "Hledáme lead kytaristu do kapely. Hrajeme pop punk/alt rock. Jsme z Prahy, věk kolem 18 let. Tvoříme vlastní hudbu, náš instagram: @theunsilenced.official.\nNapiš!",
+      "externalLinks": [
+        "https://instagram.com/theunsilenced.official"
+      ],
+      "influences": [],
+      "genres": [
+        "Alt-rock"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 100,
+      "reasons": [
+        "alt rock",
+        "odkaz na profil / ukázku",
+        "Praha 9"
+      ]
+    },
     {
       "id": "hudebnibazar:761277",
       "title": "SINGER WANTED, ROCK/FOLK ROCK",
