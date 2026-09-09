@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T13:42:14.573344+00:00",
+  "updatedAt": "2026-09-09T13:52:15.934524+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,30 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:781087",
+      "title": "Kapela Rocket Bunny hledá basáka!",
+      "url": "https://hudebnibazar.cz/kapela-rocket-bunny-hleda-basaka/ID781087/",
+      "date": "2026-09-09T15:48:00+02:00",
+      "location": "Brno",
+      "author": "Jan.Dolezal3",
+      "excerpt": "Punk rocková kapela Rocket Bunny hledá do svých řad náhradu za odcházejícího basáka. Fungujeme od roku 2017 a máme za sebou dvě EP a řadu koncertů. Máme v plánu pracovat na nové tvorbě a co nejdříve se vrátit ke koncertování. Hledáme ideálně někoho z Brna či okolí se zápalem pro punk rockovou hudbu, kdo má chuť aktivně hrát a…",
+      "description": "Punk rocková kapela Rocket Bunny hledá do svých řad náhradu za odcházejícího basáka. Fungujeme od roku 2017 a máme za sebou dvě EP a řadu koncertů. Máme v plánu pracovat na nové tvorbě a co nejdříve se vrátit ke koncertování.\nHledáme ideálně někoho z Brna či okolí se zápalem pro punk rockovou hudbu, kdo má chuť aktivně hrát a podílet se na chodu kapely.\nVšechny odkazy na naši hudbu a sociální sítě najdeš zde:\nhttps://linktr.ee/rocketbunnyband\nPokud tě to zaujalo, napiš nám do zpráv. Rádi ti pošleme víc informací a můžeme se domluvit na nezávazném setkání nebo zkoušce.",
+      "externalLinks": [
+        "https://linktr.ee/rocketbunnyband"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 81,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Brno"
+      ]
+    },
     {
       "id": "hudebnibazar:777996",
       "title": "Trubka do kapely!",
