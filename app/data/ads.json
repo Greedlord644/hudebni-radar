@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T14:11:31.792656+00:00",
+  "updatedAt": "2026-09-09T14:21:41.319746+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,50 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:780148",
+      "title": "Looking for a DRUMMER!",
+      "url": "https://hudebnibazar.cz/looking-for-a-drummer/ID780148/",
+      "date": "2026-09-09T16:18:00+02:00",
+      "location": "Praha 3",
+      "author": "Nikita.Malygin",
+      "excerpt": "Drummer Wanted: Join Our Metal Band! ? We are an English-speaking, up-and-coming metal band on the hunt for a dedicated drummer to complete our lineup. Above all, we are looking for someone who genuinely loves metal, enjoys the creative process, and wants to build something heavy with a tight-knit, friendly crew. We value good…",
+      "description": "Drummer Wanted: Join Our Metal Band! ?\nWe are an English-speaking, up-and-coming metal band on the hunt for a dedicated drummer to complete our lineup.\nAbove all, we are looking for someone who genuinely loves metal, enjoys the creative process, and wants to build something heavy with a tight-knit, friendly crew. We value good chemistry, consistency, and a drama-free attitude just as much as chops behind the kit.\nWhat we offer:\nA collaborative, ego-free environment where everyone has a voice\nOriginal material already in the works\nBig plans for rehearsals, recording, and live shows\nCheck out our music:\nListen to our current tracks on Spotify: https://open.spotify.com/artist/6C4yw7Uk8eMWBdzgMH7Dcz?si=8a607ce0b0434083\nIf the sound clicks with you and you’re ready to jam, shoot us a DM with a quick intro (and any audio or video clips of your playing, if you have them). Let's make some noise! ?",
+      "externalLinks": [
+        "https://open.spotify.com/artist/6C4yw7Uk8eMWBdzgMH7Dcz?si=8a607ce0b0434083"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 83,
+      "reasons": [
+        "Praha 3",
+        "lokální networking",
+        "odkaz na profil / ukázku",
+        "podrobný inzerát"
+      ]
+    },
+    {
+      "id": "hudebnibazar:765482",
+      "title": "Bubeník - Rhythm&Blues/Rock&Roll - Praha",
+      "url": "https://hudebnibazar.cz/bubenik-rhythm-blues-rock-roll-praha/ID765482/",
+      "date": "2026-09-09T16:17:00+02:00",
+      "location": "Rakovník",
+      "author": "Jiri.Hamouz",
+      "excerpt": "Sháním bubeníka, z Prahy či okolí, pro založení kapely. Myšlenka je hrát směsici blues a rock&rollu s agresivnějším zvukem alá Nick Curran. Bližší podrobnosti po zprávách.",
+      "description": "Sháním bubeníka, z Prahy či okolí, pro založení kapely. Myšlenka je hrát směsici blues a rock&rollu s agresivnějším zvukem alá Nick Curran. Bližší podrobnosti po zprávách.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Rakovník",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:781087",
       "title": "Kapela Rocket Bunny hledá basáka!",
@@ -1068,29 +1112,6 @@
       ]
     },
     {
-      "id": "hudebnibazar:780148",
-      "title": "Looking for a DRUMMER!",
-      "url": "https://hudebnibazar.cz/looking-for-a-drummer/ID780148/",
-      "date": "2026-09-04T15:48:00+02:00",
-      "location": "Praha 3",
-      "author": "Nikita.Malygin",
-      "excerpt": "Drummer Wanted: Join Our Metal Band! ? We are an English-speaking, up-and-coming metal band on the hunt for a dedicated drummer to complete our lineup. Above all, we are looking for someone who genuinely loves metal, enjoys the creative process, and wants to build something heavy with a tight-knit, friendly crew. We value good…",
-      "externalLinks": [
-        "https://open.spotify.com/artist/6C4yw7Uk8eMWBdzgMH7Dcz?si=8a607ce0b0434083"
-      ],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 83,
-      "reasons": [
-        "Praha 3",
-        "lokální networking",
-        "odkaz na profil / ukázku",
-        "podrobný inzerát"
-      ]
-    },
-    {
       "id": "hudebnibazar:780127",
       "title": "HLEDÁ SE ZPĚVÁK - PRAHA - POP ROCK",
       "url": "https://hudebnibazar.cz/hleda-se-zpevak-praha-pop-rock/ID780127/",
@@ -1254,25 +1275,6 @@
       "reasons": [
         "alt rock",
         "Praha 4"
-      ]
-    },
-    {
-      "id": "hudebnibazar:765482",
-      "title": "Bubeník - Rhythm&Blues/Rock&Roll - Praha",
-      "url": "https://hudebnibazar.cz/bubenik-rhythm-blues-rock-roll-praha/ID765482/",
-      "date": "2026-09-03T22:02:00+02:00",
-      "location": "Praha 1",
-      "author": "Jiri.Hamouz",
-      "excerpt": "Sháním bubeníka, z Prahy či okolí, pro založení kapely. Myšlenka je hrát směsici blues a rock&rollu s agresivnějším zvukem alá Nick Curran. Bližší podrobnosti po zprávách.",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 66,
-      "reasons": [
-        "Praha 1",
-        "lokální networking"
       ]
     },
     {
