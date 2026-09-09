@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T13:02:05.623428+00:00",
+  "updatedAt": "2026-09-09T13:11:38.303073+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,27 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:777996",
+      "title": "Trubka do kapely!",
+      "url": "https://hudebnibazar.cz/trubka-do-kapely/ID777996/",
+      "date": "2026-09-09T15:08:00+02:00",
+      "location": "Praha 7",
+      "author": "David.Kliz",
+      "excerpt": "Čau, do nové kapely hledáme trubku, žánrově soul/funk/pop, viz spotify odkaz níže. V plánu je hrát tvorbu typu Amy Winehouse, Stevie Wonder, Sharon Jones, ale i nějakou modernu, časem možná i autorskou tvorbu, až nacítíme feeling. Věkově jsme spíše mladší (20-35) let. Pokud nevíš co s volným časem a podobná hudba tě baví, dej…",
+      "description": "Čau,\ndo nové kapely hledáme trubku, žánrově soul/funk/pop, viz spotify odkaz níže. V plánu je hrát tvorbu typu Amy Winehouse, Stevie Wonder, Sharon Jones, ale i nějakou modernu, časem možná i autorskou tvorbu, až nacítíme feeling. Věkově jsme spíše mladší (20-35) let. Pokud nevíš co s volným časem a podobná hudba tě baví, dej určitě vědět!",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 81,
+      "reasons": [
+        "Praha 7",
+        "lokální networking",
+        "odkaz na profil / ukázku"
+      ]
+    },
     {
       "id": "hudebnibazar:762845",
       "title": "Extreme vocalist is looking for a band",
@@ -1290,26 +1311,6 @@
         "jasný projekt / zkušenosti",
         "odkaz na profil / ukázku",
         "Karviná"
-      ]
-    },
-    {
-      "id": "hudebnibazar:777996",
-      "title": "Trubka do kapely!",
-      "url": "https://hudebnibazar.cz/trubka-do-kapely/ID777996/",
-      "date": "2026-09-03T12:56:00+02:00",
-      "location": "Praha 7",
-      "author": "David.Kliz",
-      "excerpt": "Čau, do nové kapely hledáme trubku, žánrově soul/funk/pop, viz spotify odkaz níže. V plánu je hrát tvorbu typu Amy Winehouse, Stevie Wonder, Sharon Jones, ale i nějakou modernu, časem možná i autorskou tvorbu, až nacítíme feeling. Věkově jsme spíše mladší (20-35) let. Pokud nevíš co s volným časem a podobná hudba tě baví, dej…",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 81,
-      "reasons": [
-        "Praha 7",
-        "lokální networking",
-        "odkaz na profil / ukázku"
       ]
     },
     {
