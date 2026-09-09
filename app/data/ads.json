@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T22:01:55.565954+00:00",
+  "updatedAt": "2026-09-09T22:11:40.643438+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,28 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:780041",
+      "title": "Kytarista hledá kapelu",
+      "url": "https://hudebnibazar.cz/kytarista-hleda-kapelu/ID780041/",
+      "date": "2026-09-10T00:03:00+02:00",
+      "location": "Praha 4",
+      "author": "Krystof.Novak2",
+      "excerpt": "Zdravím. Jsem kytarista (Praha, 20 let). Hráč, dovolím si říct průměrný, spíše rytmický než sólový. Jsem flexibilní, co se lazení a žánrů týče. Hraju/poslouchám hlavně death metal, metalcore, shoegaze a alt rock. Spíše bych preferoval připojit se k něčemu už \"zajetýmu\". Menší zkušenosti s vystupováním mám také, něco málo i…",
+      "description": "Zdravím. Jsem kytarista (Praha, 20 let). Hráč, dovolím si říct průměrný, spíše rytmický než sólový. Jsem flexibilní, co se lazení a žánrů týče. Hraju/poslouchám hlavně death metal, metalcore, shoegaze a alt rock. Spíše bych preferoval připojit se k něčemu už \"zajetýmu\". Menší zkušenosti s vystupováním mám také, něco málo i uzpívám.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Alt-rock"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 94,
+      "reasons": [
+        "alt rock",
+        "Praha 4"
+      ]
+    },
     {
       "id": "hudebnibazar:706552",
       "title": "HLEDÁME zpěváka pro projekt The Morphine",
@@ -1279,27 +1301,6 @@
         "podrobný inzerát",
         "jasný projekt / zkušenosti",
         "Hradec Králové"
-      ]
-    },
-    {
-      "id": "hudebnibazar:780041",
-      "title": "Kytarista hledá kapelu",
-      "url": "https://hudebnibazar.cz/kytarista-hleda-kapelu/ID780041/",
-      "date": "2026-09-03T23:01:00+02:00",
-      "location": "Praha 4",
-      "author": "Krystof.Novak2",
-      "excerpt": "Zdravím. Jsem kytarista (Praha, 20 let). Hráč, dovolím si říct průměrný, spíše rytmický než sólový. Jsem flexibilní, co se lazení a žánrů týče. Hraju/poslouchám hlavně death metal, metalcore, shoegaze a alt rock. Spíše bych preferoval připojit se k něčemu už \"zajetýmu\". Menší zkušenosti s vystupováním mám také, něco málo i…",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [
-        "Alt-rock"
-      ],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 94,
-      "reasons": [
-        "alt rock",
-        "Praha 4"
       ]
     },
     {
