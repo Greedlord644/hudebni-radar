@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T21:11:37.187113+00:00",
+  "updatedAt": "2026-09-09T21:21:39.167359+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,34 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:706552",
+      "title": "HLEDÁME zpěváka pro projekt The Morphine",
+      "url": "https://hudebnibazar.cz/hledame-zpevaka-pro-projekt-the-morphine/ID706552/",
+      "date": "2026-09-09T23:13:00+02:00",
+      "location": "Olomouc",
+      "author": "Petr.Zatloukal3",
+      "excerpt": "DRUM, BASS, SAX, HLEDÁ ZPĚVÁKA/ZPĚVAČKU (alt) v angličtině. pro projekt : THE M O R P H I N E (ikonická US blues-rocková alternativa devadesátek) viz: https://cs.wikipedia.org/wiki/Morphine YouTube: https://www.youtube.com/watch?v=EthwxA_2lFQ&ab_channel=RHINO https://www.youtube.com/watch?v=IZ1T3x2fEiU&ab_channel=RHINO…",
+      "description": "DRUM, BASS, SAX, HLEDÁ ZPĚVÁKA/ZPĚVAČKU (alt)\nv angličtině.\npro projekt : THE M O R P H I N E\n(ikonická US blues-rocková alternativa devadesátek)\nviz:\nhttps://cs.wikipedia.org/wiki/Morphine\nYouTube:\nhttps://www.youtube.com/watch?v=EthwxA_2lFQ&ab_channel=RHINO\nhttps://www.youtube.com/watch?v=IZ1T3x2fEiU&ab_channel=RHINO\nhttps://www.youtube.com/watch?v=3xz4umNws0s&ab_channel=RHINO\nhttps://www.youtube.com/watch?v=BgvBWR0Tr7I&ab_channel=tincture0\nhttps://www.youtube.com/watch?v=dhPhiKG2bJw\nProsím, prostuduj vše pozorně a ozvi se ...\nNAJDEME STEJNÉ ŠÍLENCE? následná vlastní tvorba vycházející z uvedené hudby vítána...\nMám bicí, basu, sax a zkušenosti (aktivně hrajeme), PA+mix, a zatím jen provizorní zkušebnu v Olo.\nPetr :o)",
+      "externalLinks": [
+        "https://cs.wikipedia.org/wiki/Morphine",
+        "https://www.youtube.com/watch?v=EthwxA_2lFQ&ab_channel=RHINO",
+        "https://www.youtube.com/watch?v=IZ1T3x2fEiU&ab_channel=RHINO",
+        "https://www.youtube.com/watch?v=3xz4umNws0s&ab_channel=RHINO",
+        "https://www.youtube.com/watch?v=BgvBWR0Tr7I&ab_channel=tincture0"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 87,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Olomouc"
+      ]
+    },
     {
       "id": "hudebnibazar:778918",
       "title": "Mladý kreativní bubeník hledá rockovou kapelu",
@@ -1210,33 +1238,6 @@
       "reasons": [
         "podrobný inzerát",
         "Rychnov nad Kněžnou"
-      ]
-    },
-    {
-      "id": "hudebnibazar:706552",
-      "title": "HLEDÁME zpěváka pro projekt The Morphine",
-      "url": "https://hudebnibazar.cz/hledame-zpevaka-pro-projekt-the-morphine/ID706552/",
-      "date": "2026-09-04T09:39:00+02:00",
-      "location": "Olomouc",
-      "author": "Petr.Zatloukal3",
-      "excerpt": "DRUM, BASS, SAX, HLEDÁ ZPĚVÁKA/ZPĚVAČKU (alt) v angličtině. pro projekt : THE M O R P H I N E (ikonická US blues-rocková alternativa devadesátek) viz: https://cs.wikipedia.org/wiki/Morphine YouTube: https://www.youtube.com/watch?v=EthwxA_2lFQ&ab_channel=RHINO https://www.youtube.com/watch?v=IZ1T3x2fEiU&ab_channel=RHINO…",
-      "externalLinks": [
-        "https://cs.wikipedia.org/wiki/Morphine",
-        "https://www.youtube.com/watch?v=EthwxA_2lFQ&ab_channel=RHINO",
-        "https://www.youtube.com/watch?v=IZ1T3x2fEiU&ab_channel=RHINO",
-        "https://www.youtube.com/watch?v=3xz4umNws0s&ab_channel=RHINO",
-        "https://www.youtube.com/watch?v=BgvBWR0Tr7I&ab_channel=tincture0"
-      ],
-      "influences": [],
-      "genres": [],
-      "isPrague": false,
-      "source": "Hudební bazar",
-      "score": 87,
-      "reasons": [
-        "podrobný inzerát",
-        "jasný projekt / zkušenosti",
-        "odkaz na profil / ukázku",
-        "Olomouc"
       ]
     },
     {
