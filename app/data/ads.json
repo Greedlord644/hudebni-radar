@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T11:24:45.818927+00:00",
+  "updatedAt": "2026-09-10T11:31:50.835108+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,29 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:781259",
+      "title": "HLEDÁM BLACKMETALOVÉHO BUBENÍKA",
+      "url": "https://hudebnibazar.cz/hledam-blackmetaloveho-bubenika/ID781259/",
+      "date": "2026-09-10T13:27:00+02:00",
+      "location": "Praha 9",
+      "author": "Kristian.Broz",
+      "excerpt": "Hledám bubeníka do BM/Post BM projektu MO-AD v Praze. Info v přiložené fotografii.",
+      "description": "Hledám bubeníka do BM/Post BM projektu MO-AD v Praze. Info v přiložené fotografii.",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=hqd6guqXh6s&list=RDMMhqd6guqXh6s&start_radio=1"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 81,
+      "reasons": [
+        "Praha 9",
+        "lokální networking",
+        "odkaz na profil / ukázku"
+      ]
+    },
     {
       "id": "hudebnibazar:759428",
       "title": "Hledáme zpěvačku do nové kapely",
