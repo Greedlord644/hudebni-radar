@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T19:22:15.217461+00:00",
+  "updatedAt": "2026-09-10T19:32:35.154845+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:778525",
+      "title": "Housle - doplním partu/kapelu - country, folk, rock ...",
+      "url": "https://hudebnibazar.cz/housle-doplnim-partu-kapelu-country-folk-rock/ID778525/",
+      "date": "2026-09-10T21:23:00+02:00",
+      "location": "Praha 4",
+      "author": "B.G",
+      "excerpt": "S houslemi (případně s el.kytarou) doplním partu/kapelu, styl nejraději country music, ale i folk, blues, rock a další .... Hledám partu staršího věku, kde se nezkouší a o to víc se hraje ... Praha (případně i její bližší okolí s dobrým parkováním pro auto)",
+      "description": "S houslemi (případně s el.kytarou) doplním partu/kapelu, styl nejraději country music, ale i folk, blues, rock a další .... Hledám partu staršího věku, kde se nezkouší a o to víc se hraje ... Praha (případně i její bližší okolí s dobrým parkováním pro auto)",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Praha 4",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:769759",
       "title": "Hledám partu rockerů...",
@@ -1169,26 +1189,6 @@
         "podrobný inzerát",
         "jasný projekt / zkušenosti",
         "Frýdek-Místek"
-      ]
-    },
-    {
-      "id": "hudebnibazar:778525",
-      "title": "Housle - doplním partu/kapelu - country, folk, rock ...",
-      "url": "https://hudebnibazar.cz/housle-doplnim-partu-kapelu-country-folk-rock/ID778525/",
-      "date": "2026-09-05T21:27:00+02:00",
-      "location": "Praha 4",
-      "author": "B.G",
-      "excerpt": "S houslemi (případně s el.kytarou) doplním partu/kapelu, styl nejraději alespoň zčásti country music, ale i folk, blues, rock a další .... Hledám partu staršího věku, kde se nezkouší a o to víc se hraje ... Praha (případně i její bližší okolí s dobrým parkováním pro auto)",
-      "description": "S houslemi (případně s el.kytarou) doplním partu/kapelu, styl nejraději alespoň zčásti country music, ale i folk, blues, rock a další .... Hledám partu staršího věku, kde se nezkouší a o to víc se hraje ... Praha (případně i její bližší okolí s dobrým parkováním pro auto)",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 66,
-      "reasons": [
-        "Praha 4",
-        "lokální networking"
       ]
     },
     {
