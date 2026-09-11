@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T10:11:53.758938+00:00",
+  "updatedAt": "2026-09-11T10:22:53.402297+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,28 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:773145",
+      "title": "Basák v Praze",
+      "url": "https://hudebnibazar.cz/basak-v-praze/ID773145/",
+      "date": "2026-09-11T12:13:00+02:00",
+      "location": "Praha 4",
+      "author": "Petr.P",
+      "excerpt": "Basák hledá kapelu / projekt. Baví mě melodičtější věci (rock, pop, soul, jazz), ale nebráním se ani alternativě (post-rock, grunge, hip-hop, blues). Původně hraju na kytaru, ale teď se chci víc věnovat base a začít hrát živě. Pokud někoho takového hledáte, ozvěte se.",
+      "description": "Basák hledá kapelu / projekt.\nBaví mě melodičtější věci (rock, pop, soul, jazz), ale nebráním se ani alternativě (post-rock, grunge, hip-hop, blues).\nPůvodně hraju na kytaru, ale teď se chci víc věnovat base a začít hrát živě.\nPokud někoho takového hledáte, ozvěte se.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Grunge"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 63,
+      "reasons": [
+        "grunge",
+        "Praha 4"
+      ]
+    },
     {
       "id": "hudebnibazar:778848",
       "title": "Hledám kapely na free nahrávání",
@@ -1172,28 +1194,6 @@
       "reasons": [
         "alternativní metal",
         "Liberec"
-      ]
-    },
-    {
-      "id": "hudebnibazar:773145",
-      "title": "Basák v Praze",
-      "url": "https://hudebnibazar.cz/basak-v-praze/ID773145/",
-      "date": "2026-09-06T11:04:00+02:00",
-      "location": "Praha 4",
-      "author": "Petr.P",
-      "excerpt": "Basák hledá kapelu / projekt. Baví mě melodičtější věci (rock, pop, soul, jazz), ale nebráním se ani alternativě (post-rock, grunge, hip-hop, blues). Původně hraju na kytaru, ale teď se chci víc věnovat base a začít hrát živě. Pokud někoho takového hledáte, ozvěte se.",
-      "description": "Basák hledá kapelu / projekt.\nBaví mě melodičtější věci (rock, pop, soul, jazz), ale nebráním se ani alternativě (post-rock, grunge, hip-hop, blues).\nPůvodně hraju na kytaru, ale teď se chci víc věnovat base a začít hrát živě.\nPokud někoho takového hledáte, ozvěte se.",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [
-        "Grunge"
-      ],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 63,
-      "reasons": [
-        "grunge",
-        "Praha 4"
       ]
     },
     {
