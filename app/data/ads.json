@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T11:51:41.148844+00:00",
+  "updatedAt": "2026-09-11T12:02:27.740735+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,28 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:703932",
+      "title": "Hledáme saxofonistu/ku, trumpetistu/ku střední Morava, Brno",
+      "url": "https://hudebnibazar.cz/hledame-saxofonistu-ku-trumpetistu-ku-stredni-morava-brno/ID703932/",
+      "date": "2026-09-11T13:58:00+02:00",
+      "location": "Olomouc",
+      "author": "David.Drbal",
+      "excerpt": "Ahoj. Kapela hrající vlastní pop/rockovou autorskou tvorbu. Setlist hotov. K dispozici notové podklady. Pro živé hraní jsou dechové party bohatší oproti nahrávce. Dvě desky a více zde: www.kapelanavlnach.cz .. Budeme se těšit. David .. tel/",
+      "description": "Ahoj. Kapela hrající vlastní pop/rockovou autorskou tvorbu. Setlist hotov. K dispozici notové podklady. Pro živé hraní jsou dechové party bohatší oproti nahrávce. Dvě desky a více zde: www.kapelanavlnach.cz .. Budeme se těšit. David .. tel/",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 78,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Olomouc"
+      ]
+    },
     {
       "id": "hudebnibazar:773145",
       "title": "Basák v Praze",
