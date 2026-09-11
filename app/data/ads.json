@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T07:31:55.126856+00:00",
+  "updatedAt": "2026-09-11T07:42:16.905203+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,28 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:778848",
+      "title": "Hledám kapely na free nahrávání",
+      "url": "https://hudebnibazar.cz/hledam-kapely-na-free-nahravani/ID778848/",
+      "date": "2026-09-11T09:34:00+02:00",
+      "location": "Teplice",
+      "author": "Mat.Tie",
+      "excerpt": "Hledám kapely na nahrávání ZDARMA. Rock, punkrock, metal, hardcore, alternative… zkrátka všechno, u čeho sousedi začínají přemýšlet o stěhování. Nabízím balíček recording, mixing a mastering 1 skladby za cenu přesně 0 Kč (slovy nula korun českých). Háček? Potřebuju tvůj čas, nasazení, chuť udělat pořádnou nahrávku. Proč to…",
+      "description": "Hledám kapely na nahrávání ZDARMA.\nRock, punkrock, metal, hardcore, alternative… zkrátka všechno, u čeho sousedi začínají přemýšlet o stěhování. Nabízím balíček recording, mixing a mastering 1 skladby za cenu přesně 0 Kč (slovy nula korun českých). Háček? Potřebuju tvůj čas, nasazení, chuť udělat pořádnou nahrávku.\nProč to dělám?\nPotřebuji do portfolia reálné kapely a reálné nahrávky. Ty dostaneš hotovou nahrávku zdarma, já dostanu materiál, kde můžu ukázat výsledky své studiové práce.\nIdeálně hledám kapely, které hrají tvrdší muziku, mají vlastní tvorbu, jsou připravené makat a chtějí mít konečně něco, co můžou dát na Spotify nebo poslat pořadatelům bez „sorry za zvuk, máme jen tohle na mobil ze zkušebny“",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 87,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Teplice"
+      ]
+    },
     {
       "id": "hudebnibazar:753002",
       "title": "ROCK - METALOVÝ INKUBÁTOR",
@@ -1237,28 +1259,6 @@
         "podrobný inzerát",
         "jasný projekt / zkušenosti",
         "Frýdek-Místek"
-      ]
-    },
-    {
-      "id": "hudebnibazar:778848",
-      "title": "Hledám kapely na free nahrávání",
-      "url": "https://hudebnibazar.cz/hledam-kapely-na-free-nahravani/ID778848/",
-      "date": "2026-09-05T16:03:00+02:00",
-      "location": "Teplice",
-      "author": "Mat.Tie",
-      "excerpt": "Hledám kapely na nahrávání ZDARMA. Rock, punkrock, metal, hardcore, alternative… zkrátka všechno, u čeho sousedi začínají přemýšlet o stěhování. Nabízím balíček recording, mixing a mastering 1 skladby za cenu přesně 0 Kč (slovy nula korun českých). Háček? Potřebuju tvůj čas, nasazení, chuť udělat pořádnou nahrávku. Proč to…",
-      "description": "Hledám kapely na nahrávání ZDARMA.\nRock, punkrock, metal, hardcore, alternative… zkrátka všechno, u čeho sousedi začínají přemýšlet o stěhování. Nabízím balíček recording, mixing a mastering 1 skladby za cenu přesně 0 Kč (slovy nula korun českých). Háček? Potřebuju tvůj čas, nasazení, chuť udělat pořádnou nahrávku.\nProč to dělám?\nPotřebuji do portfolia reálné kapely a reálné nahrávky. Ty dostaneš hotovou nahrávku zdarma, já dostanu materiál, kde můžu ukázat výsledky své studiové práce.\nIdeálně hledám kapely, které hrají tvrdší muziku, mají vlastní tvorbu, jsou připravené makat a chtějí mít konečně něco, co můžou dát na Spotify nebo poslat pořadatelům bez „sorry za zvuk, máme jen tohle na mobil ze zkušebny“",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": false,
-      "source": "Hudební bazar",
-      "score": 87,
-      "reasons": [
-        "podrobný inzerát",
-        "jasný projekt / zkušenosti",
-        "odkaz na profil / ukázku",
-        "Teplice"
       ]
     },
     {
