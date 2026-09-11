@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T05:31:48.879432+00:00",
+  "updatedAt": "2026-09-11T05:41:35.910468+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,33 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:777985",
+      "title": "Kapela ( heavy - thrash ) Vypadni! hledá zpěváka",
+      "url": "https://hudebnibazar.cz/kapela-heavy-thrash-vypadni-hleda-zpevaka/ID777985/",
+      "date": "2026-09-11T07:38:00+02:00",
+      "location": "Jindřichův Hradec",
+      "author": "Dalibor.Dedic",
+      "excerpt": "Jsme metalová kapela z J.Hradce složená ze zkušených muzikantů. Jelikož se chceme věnovat naplno svým nástrojům, sháníme zpěváka. Základ je zazpívat naši desku STROJ ČASU a dohodnout se na systému spolupráce do budoucna. Desku Stroj Času najdete na Spotify, Youtube, Bandzone Telefon:…",
+      "description": "Jsme metalová kapela z J.Hradce složená ze zkušených muzikantů. Jelikož se chceme věnovat naplno svým nástrojům, sháníme zpěváka. Základ je zazpívat naši desku STROJ ČASU a dohodnout se na systému spolupráce do budoucna. Desku Stroj Času najdete na Spotify, Youtube, Bandzone\nTelefon:\nhttps://open.spotify.com/album/7raWcSaUcaYHFsz6P49qti\nhttps://www.youtube.com/channel/UC0Ia5L5D_fuowXr5LKWVprQ\nhttps://bandzone.cz/_124479",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=UC0Ia5L5D_fuowXr5LKWVprQ",
+        "https://open.spotify.com/album/7raWcSaUcaYHFsz6P49qti",
+        "https://www.youtube.com/channel/UC0Ia5L5D_fuowXr5LKWVprQ",
+        "https://bandzone.cz/_124479"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 81,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Jindřichův Hradec"
+      ]
+    },
     {
       "id": "hudebnibazar:778525",
       "title": "Housle - doplním partu/kapelu - country, folk, rock ...",
