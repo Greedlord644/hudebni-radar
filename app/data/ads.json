@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T19:02:03.195634+00:00",
+  "updatedAt": "2026-09-11T19:11:40.207188+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:752990",
+      "title": "Baskytarista hleda kapelu",
+      "url": "https://hudebnibazar.cz/baskytarista-hleda-kapelu/ID752990/",
+      "date": "2026-09-11T21:06:00+02:00",
+      "location": "Praha 4",
+      "author": "Bass.Mm",
+      "excerpt": "Baskytarista 50 + hleda kapelu , pop , rock , blues , country ,classic metal , hodne odehrano a vybaveni mam",
+      "description": "Baskytarista 50 + hleda kapelu , pop , rock , blues , country ,classic metal , hodne odehrano a vybaveni mam",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Praha 4",
+        "lokální networking"
+      ]
+    },
     {
       "id": "bandmate:dac345cf-e88f-4b48-82fc-3e4330b6a37b",
       "title": "Hledáme zpěváka do pop punkové kapely v Praze",
@@ -1101,26 +1121,6 @@
       "isPrague": true,
       "source": "Hudební bazar",
       "score": 69,
-      "reasons": [
-        "Praha 4",
-        "lokální networking"
-      ]
-    },
-    {
-      "id": "hudebnibazar:752990",
-      "title": "Baskytarista hleda kapelu",
-      "url": "https://hudebnibazar.cz/baskytarista-hleda-kapelu/ID752990/",
-      "date": "2026-09-06T15:58:00+02:00",
-      "location": "Praha 4",
-      "author": "Bass.Mm",
-      "excerpt": "Baskytarista 50 + hleda kapelu , pop , rock , blues , country ,classic metal , hodne odehrano a vybaveni mam",
-      "description": "Baskytarista 50 + hleda kapelu , pop , rock , blues , country ,classic metal , hodne odehrano a vybaveni mam",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 66,
       "reasons": [
         "Praha 4",
         "lokální networking"
