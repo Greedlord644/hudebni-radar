@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T17:02:01.440127+00:00",
+  "updatedAt": "2026-09-11T17:11:41.142742+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,27 @@
     }
   ],
   "interesting": [
+    {
+      "id": "bandmate:dac345cf-e88f-4b48-82fc-3e4330b6a37b",
+      "title": "Hledáme zpěváka do pop punkové kapely v Praze",
+      "url": "https://bandmate.cz/inzerat/hled-me-zp-v-ka-do-pop-punkov-kapely-v-praze-KuIxFf",
+      "date": "2026-09-11T17:01:38.473097+00:00",
+      "location": "Praha",
+      "author": "Bobo",
+      "excerpt": "Hledáme zpěváka do pop punkové kapely v Praze Čego, dáváme dohromady novou kapelu a chybí nám vokál. Stylově míříme někam mezi Blink-182, Neck Deep, The Story So Far, No Pressure apod. Hledáme někoho, kdo má dobrý a jistý zpěv, cit pro melodii a sedí mu tenhle styl. Pop punk umí být vokálně docela náročný, takže hledáme spíš…",
+      "description": "Hledáme zpěváka do pop punkové kapely v Praze Čego, dáváme dohromady novou kapelu a chybí nám vokál. Stylově míříme někam mezi Blink-182, Neck Deep, The Story So Far, No Pressure apod.\nHledáme někoho, kdo má dobrý a jistý zpěv, cit pro melodii a sedí mu tenhle styl. Pop punk umí být vokálně docela náročný, takže hledáme spíš někoho, kdo má se zpěvem zkušenost a ví, co dělá. Výhodou je i scream/harsh vocal, ale není podmínkou.\nNa věku ani předchozích zkušenostech s kapelou nám tolik nezáleží. Důležité je, aby nám sedl hlas, hudebně i lidsky.\nPokud tě to zaujalo, napiš nám a ideálně pošli nějakou ukázku zpěvu. punk, pop zpěv",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Bandmate",
+      "score": 71,
+      "reasons": [
+        "Praha",
+        "lokální networking",
+        "podrobný inzerát"
+      ]
+    },
     {
       "id": "hudebnibazar:703932",
       "title": "Hledáme saxofonistu/ku, trumpetistu/ku střední Morava, Brno",
