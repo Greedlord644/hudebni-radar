@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T06:51:37.010919+00:00",
+  "updatedAt": "2026-09-11T07:02:39.603901+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,27 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:753002",
+      "title": "Chceš hrát v kapele a vystupovat na koncertech?",
+      "url": "https://hudebnibazar.cz/chces-hrat-v-kapele-a-vystupovat-na-koncertech/ID753002/",
+      "date": "2026-09-11T08:17:00+02:00",
+      "location": "Brno",
+      "author": "Spolek.Kndh",
+      "excerpt": "Hraješ na kytaru, klávesy, basu, bicí, zpíváš? Baví tě rock, metal a podobné styly? Hledáš kapelu nebo si chceš založit kapelu? Jsi věkově mezi 15-25 lety a bydlíš v oblasti Brna, Břeclavi či Hodonína? Pak ti nabízíme ojedinělou příležitost tvého hudebního růstu! Spojujeme mladé hudebníky a dáváme jim příležitost k jejich…",
+      "description": "Hraješ na kytaru, klávesy, basu, bicí, zpíváš?\nBaví tě rock, metal a podobné styly?\nHledáš kapelu nebo si chceš založit kapelu?\nJsi věkově mezi 15-25 lety a bydlíš v oblasti Brna, Břeclavi či Hodonína?\nPak ti nabízíme ojedinělou příležitost tvého hudebního růstu!\nSpojujeme mladé hudebníky a dáváme jim příležitost k jejich hudebnímu růstu jak individuálně, tak zapojením do kapel.\nMáme k dispozici plně vybavenou zkušebnu, manažera, produkčního, zvukaře a veškerou potřebnou techniku pro koncerty jako např. stage, podia apod.. Toto vše můžeš využít zdarma.\nZajistíme vystupování na různých koncertech a festivalech, které pořádáme přímo my, nebo někdo z našich partnerů.\nNeváhej a napiš!",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 72,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "Brno"
+      ]
+    },
     {
       "id": "hudebnibazar:777985",
       "title": "Kapela ( heavy - thrash ) Vypadni! hledá zpěváka",
