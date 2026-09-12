@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T11:41:42.029825+00:00",
+  "updatedAt": "2026-09-12T11:51:36.835625+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:776472",
+      "title": "Hledám   zpěváka/zpěvačku",
+      "url": "https://hudebnibazar.cz/hledam-zpevaka-zpevacku/ID776472/",
+      "date": "2026-09-12T13:43:00+02:00",
+      "location": "Písek",
+      "author": "Artrock",
+      "excerpt": "Kytarista s vlastní tvorbou hledá zpěvačku/zpěváka, žánr rock, pop, jazz, improvizace,.... Jestli hraješ na nějaký nástroj, skládáš a píšeš texty, určitě se ozvi. . Těším se na spolupráci. Podmínkou je ochota zkoušet, mít v sobě cit pro melodii, dobrá intonace. Na věku nezáleží. Praha a okolí.",
+      "description": "Kytarista s vlastní tvorbou hledá zpěvačku/zpěváka, žánr rock, pop, jazz, improvizace,.... Jestli hraješ na nějaký nástroj, skládáš a píšeš texty, určitě se ozvi. . Těším se na spolupráci. Podmínkou je ochota zkoušet, mít v sobě cit pro melodii, dobrá intonace. Na věku nezáleží. Praha a okolí.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "Písek",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:781622",
       "title": "Zpěvák do metalcore kapely",
