@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T17:22:17.317731+00:00",
+  "updatedAt": "2026-09-12T17:32:27.034709+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -92,6 +92,31 @@
         "lokální networking",
         "odkaz na profil / ukázku",
         "podrobný inzerát"
+      ]
+    },
+    {
+      "id": "bandmate:953303e4-4492-4720-b046-e338c83b941a",
+      "title": "Zpěvačka hledá kapelu",
+      "url": "https://bandmate.cz/inzerat/zp-va-ka-hled-kapelu-CygKJw",
+      "date": "2026-09-12T17:16:07.813524+00:00",
+      "location": "Olomouc",
+      "author": "Mariana Zavadilová",
+      "excerpt": "Zpěvačka hledá kapelu Je mi 13 let a chtěla jsem zkusit založit kapelu a byla bych ráda za všechny členy. Místo: Okolí Olomouce Byla bych ráda za každého muzikanta co by se ke mně chtěl přidat.https://www.instagram.com/mariana_zavadilova?stkn=cTR1cjVoajZrdDM4 tohle je můj instagram přes který se můžeme domluvit. Budu vážně moc…",
+      "description": "Zpěvačka hledá kapelu Je mi 13 let a chtěla jsem zkusit založit kapelu a byla bych ráda za všechny členy. Místo: Okolí Olomouce\nByla bych ráda za každého muzikanta co by se ke mně chtěl přidat.https://www.instagram.com/mariana_zavadilova?stkn=cTR1cjVoajZrdDM4 tohle je můj instagram přes který se můžeme domluvit. Budu vážně moc ráda pokud se mi někdo ozve. Pokud nemáte instagram můžete napsat sem:\nOmlouvám se za pravopisné chyby. Domluvíme se kdyztak spolu přes instagram nebo email.✨️ pop, rock zpěv",
+      "externalLinks": [
+        "https://www.instagram.com/mariana_zavadilova?stkn=cTR1cjVoajZrdDM4",
+        "https://instagram.com/.com",
+        "https://instagram.com/nebo"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Bandmate",
+      "score": 78,
+      "reasons": [
+        "podrobný inzerát",
+        "odkaz na profil / ukázku",
+        "Olomouc"
       ]
     },
     {
