@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T05:12:19.128108+00:00",
+  "updatedAt": "2026-09-12T05:21:46.921750+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,32 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:732221",
+      "title": "HLEDÁ SE ZPĚVÁK / ZPĚVAČKA DO KAPELY SÓMA",
+      "url": "https://hudebnibazar.cz/hleda-se-zpevak-zpevacka-do-kapely-soma/ID732221/",
+      "date": "2026-09-12T07:19:00+02:00",
+      "location": "Valašské Meziříčí",
+      "author": "Kapela.Soma",
+      "excerpt": "HLEDÁME ZPĚVÁKA / ZPĚVAČKU – SÓMA (neo-grunge, vlastní tvorba) Jsme Sóma, kapela pohybující se v žánru neo-grunge (hutné riffy, melancholie 90s, ale s dnešní energií a vlastním ksichtem) Aktuálně pracujeme na nové tvorbě a hledáme zrovna tebe! Hledáme člověka, který: • bere hudbu vážně (ne „zkusím to“) • je schopný fungovat…",
+      "description": "HLEDÁME ZPĚVÁKA / ZPĚVAČKU – SÓMA (neo-grunge, vlastní tvorba)\nJsme Sóma, kapela pohybující se v žánru neo-grunge (hutné riffy, melancholie 90s, ale s dnešní energií a vlastním ksichtem) Aktuálně pracujeme na nové tvorbě a hledáme zrovna tebe!\nHledáme člověka, který:\n• bere hudbu vážně (ne „zkusím to“)\n• je schopný fungovat pravidelně\n• má chuť tvořit a makat\nJak se přihlásit:\nPošli do 48 hodin:\nKrátkou ukázku zpěvu (klidně na mobil)\nPokud si sedneme → pošleme ti song na zkoušku\nPokud nedodržíš termín, nevadí jen se neposuneme dál.\nCo nabízíme:\n• hotová tvorba + směr\n• koncerty a reálný vývoj kapely\n• zkušebna bez řešení aparátu\n• spolehlivou partu lidí\nNehledáme dokonalost. Hledáme přístup.\nCo máme za sebou:\nZačínali jsme klasicky v garáži, kde vznikaly první nápady a syrový zvuk, ze kterého dodnes čerpáme.\nPo několika singlech jsme na konci roku 2024 vydali debutové album Golden Creatures (LP), které uzavřelo jednu etapu a zároveň otevřelo další.\nS vydáním alba se nám souběžně podařilo vyhrát 23. ročník soutěže Líheň.\nRok 2025 se pak nesl především ve znamení koncertování (Festivaly: Ladná Čeladná, SORFEST v Ostravě, Hanácký Woodstock… a klubová scéna v ČR a na Slovensku).\nV prosinci jsme tuto koncertní kapitolu uzavřeli vydáním nového singlu Meltdown, který naznačuje další směr, kam se chceme posouvat.",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=-rzc7SNRMqg"
+      ],
+      "influences": [],
+      "genres": [
+        "Grunge"
+      ],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 87,
+      "reasons": [
+        "grunge",
+        "odkaz na profil / ukázku",
+        "vlastní tvorba",
+        "Valašské Meziříčí"
+      ]
+    },
     {
       "id": "hudebnibazar:771034",
       "title": "HLEDÁM AUTORSKÝ BAND",
