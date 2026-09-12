@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T09:11:45.392553+00:00",
+  "updatedAt": "2026-09-12T09:22:14.568339+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,29 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:781622",
+      "title": "Zpěvák do metalcore kapely",
+      "url": "https://hudebnibazar.cz/zpevak-do-metalcore-kapely/ID781622/",
+      "date": "2026-09-12T11:14:00+02:00",
+      "location": "Praha 9",
+      "author": "Matyas.Kub2",
+      "excerpt": "Hledáme zpěváka do metalcorové kapely Memority z Prahy, ukázky můžu poslat. Zkoušíme jednou týdně a hrajem vlastní tvorbu",
+      "description": "Hledáme zpěváka do metalcorové kapely Memority z Prahy, ukázky můžu poslat. Zkoušíme jednou týdně a hrajem vlastní tvorbu",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Emo"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 63,
+      "reasons": [
+        "emo",
+        "vlastní tvorba",
+        "Praha 9"
+      ]
+    },
     {
       "id": "hudebnibazar:774656",
       "title": "Kytarista hledá",
