@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T07:32:05.761690+00:00",
+  "updatedAt": "2026-09-12T07:41:36.266821+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,28 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:774656",
+      "title": "Kytarista hledá",
+      "url": "https://hudebnibazar.cz/kytarista-hleda/ID774656/",
+      "date": "2026-09-12T09:40:00+02:00",
+      "location": "Písek",
+      "author": "Tom.Ajara",
+      "excerpt": "Hledám lidi na založení kapely v Písku. Vyrostl jsem na osmdesátkovém a devadesátkovém (noise) rocku a grunge - Sonic Youth, Sebadoh, Pavement, Nirvana, Melvins, Slint. Tohle - možná spíš v tišší podobě - by mě bavilo hrát, stejně hako třeba starý garage rock (Mudhoney, The Scientists, Johny Thunders a kapely ze Sup Pop,…",
+      "description": "Hledám lidi na založení kapely v Písku. Vyrostl jsem na osmdesátkovém a devadesátkovém (noise) rocku a grunge - Sonic Youth, Sebadoh, Pavement, Nirvana, Melvins, Slint. Tohle - možná spíš v tišší podobě - by mě bavilo hrát, stejně hako třeba starý garage rock (Mudhoney, The Scientists, Johny Thunders a kapely ze Sup Pop, Amphetamine Reptile records...třeba Tar). Podmínkou je zkoušení v Písku a nejbližším okolí a zkoušky v týdnu, jinak je jedno, jestli jsi chlap, ženská, mladej nebo starej. Určitě ale neztrácej čas s odpovědí, pokud jsi rasista, nácek nebo volič Motoristů...to by neklaplo. Jedinou mojí ambicí je nazkoušet pár songů a tu a tam zahrát koncert.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Grunge"
+      ],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 62,
+      "reasons": [
+        "grunge",
+        "Písek"
+      ]
+    },
     {
       "id": "hudebnibazar:732221",
       "title": "HLEDÁ SE ZPĚVÁK / ZPĚVAČKA DO KAPELY SÓMA",
