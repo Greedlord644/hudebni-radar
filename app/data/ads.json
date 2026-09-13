@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T12:02:53.421699+00:00",
+  "updatedAt": "2026-09-13T12:11:36.232851+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,27 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:781800",
+      "title": "Kytarista (16 let) hledá kapelu / Rytmika",
+      "url": "https://hudebnibazar.cz/kytarista-16-let-hleda-kapelu-rytmika/ID781800/",
+      "date": "2026-09-13T14:02:00+02:00",
+      "location": "Jablonec nad Nisou",
+      "author": "Matej.Dostal",
+      "excerpt": "Čau, je mi 16, hraju na rytmickou kytaru a hledám kapelu nebo lidi na nový projekt. Chci hrát poctivý punk a rock ve stylu Visací zámek, SPS, E!E nebo Tři sestry. Mám obrovskou chuť se učit nové věci, makat na sobě a posouvat se dál. Lokalita: Jsem z Harrachova, ale nemám problém kamkoliv po Libereckém kraji dojíždět na…",
+      "description": "Čau, je mi 16, hraju na rytmickou kytaru a hledám kapelu nebo lidi na nový projekt. Chci hrát poctivý punk a rock ve stylu Visací zámek, SPS, E!E nebo Tři sestry. Mám obrovskou chuť se učit nové věci, makat na sobě a posouvat se dál.\nLokalita: Jsem z Harrachova, ale nemám problém kamkoliv po Libereckém kraji dojíždět na zkoušky.\nŽánry: Punk, punk-rock, rock'n'roll.\nVybavení: Vlastní kytara i aparát samozřejmostí.\nCo hledám: Partu, co chce pravidelně zkoušet a časem vyrazit na koncerty.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "Jablonec nad Nisou"
+      ]
+    },
     {
       "id": "hudebnibazar:781761",
       "title": "Hleda se muzikant",
