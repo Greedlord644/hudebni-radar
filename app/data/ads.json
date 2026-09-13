@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T16:32:55.613197+00:00",
+  "updatedAt": "2026-09-13T16:42:21.424340+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,30 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:781883",
+      "title": "Hledám kapelu, založíme kapelu",
+      "url": "https://hudebnibazar.cz/hledam-kapelu-zalozime-kapelu/ID781883/",
+      "date": "2026-09-13T18:40:00+02:00",
+      "location": "Zlín",
+      "author": "Anna.Lorencova",
+      "excerpt": "Zdravím, jsem zpěvačka, kterou baví zpívat ale nemá s kým. Repertoár široký: Pop, jazz, funky, klasika (nevadí mi nightwish), české i zahraniční. Pokud máte zájem, klidně jsem pro založení nové kapely☺️ Napište mi na Instagram: anicka_lorka Nebo email: Pošlu i nahrávky ☺️ Lokalita Zlín. Budu se těšit na spolupráci.",
+      "description": "Zdravím, jsem zpěvačka, kterou baví zpívat ale nemá s kým.\nRepertoár široký: Pop, jazz, funky, klasika (nevadí mi nightwish), české i zahraniční. Pokud máte zájem, klidně jsem pro založení nové kapely☺️\nNapište mi na Instagram: anicka_lorka\nNebo email:\nPošlu i nahrávky ☺️\nLokalita Zlín.\nBudu se těšit na spolupráci.",
+      "externalLinks": [
+        "https://instagram.com/anicka_lorka"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 75,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Zlín"
+      ]
+    },
     {
       "id": "hudebnibazar:781809",
       "title": "KAPELA MLOCK HLEDÁ BASÁKA",
