@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T17:41:38.240088+00:00",
+  "updatedAt": "2026-09-13T17:51:48.485906+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,51 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:744524",
+      "title": "Zpěv",
+      "url": "https://hudebnibazar.cz/zpev/ID744524/",
+      "date": "2026-09-13T19:46:00+02:00",
+      "location": "České Budějovice",
+      "author": "The.Spoon.Others",
+      "excerpt": "Kapela z ČB s parádní zkušebnou, vlastní tvorbou, bicí, kytara, basa ale schází nám někdo, kdo by tomu dal pořádný grády, styl grunge, hardrock, funky, rozjedeme to společně? ozvi se na :)",
+      "description": "Kapela z ČB s parádní zkušebnou, vlastní tvorbou, bicí, kytara, basa ale schází nám někdo, kdo by tomu dal pořádný grády, styl grunge, hardrock, funky, rozjedeme to společně?\nozvi se na :)",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Grunge"
+      ],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 58,
+      "reasons": [
+        "grunge",
+        "vlastní tvorba",
+        "České Budějovice"
+      ]
+    },
+    {
+      "id": "hudebnibazar:768623",
+      "title": "deftones anyone?",
+      "url": "https://hudebnibazar.cz/deftones-anyone/ID768623/",
+      "date": "2026-09-13T19:43:00+02:00",
+      "location": "Praha 3",
+      "author": "David.Cerny2",
+      "excerpt": "Prog rock, prog metal, alt metal, stoner.. deftones, prefect circle, black peaks, arcane roots, qotsa.. ---- Hudba, kde se střídáji dizonantni pasáže plný napětí a snový soundscapes, který pohladí po duši. Těžký riffy a vokaly, který utkví v hlavě. Promyšlený netuctový groovy, klidně i lichý rytmy, netradiční struktury songu.…",
+      "description": "Prog rock, prog metal, alt metal, stoner..\ndeftones, prefect circle, black peaks, arcane roots, qotsa..\n----\nHudba, kde se střídáji dizonantni pasáže plný napětí a snový soundscapes, který pohladí po duši. Těžký riffy a vokaly, který utkví v hlavě. Promyšlený netuctový groovy, klidně i lichý rytmy, netradiční struktury songu. Místo dvoušlapky synťák.\nJsem bubeník v důchodu a po roční pauze mi to začíná chybět. Po deseti letech hraní a účinkovani ve třech kapelach jsem už asi vzdal snahu dosáhnout obrovských úspěchů, ale pořád mám chuť tvořit hudbu s lidma, který jsou na stejný vlně - hudební i jiný. Pokud u tebe něco z toho rezonuje, dej vědět.\n----\nMusic that alternates between dissonant passages full of tension and dreamy soundscapes that caress the soul. Heavy riffs and vocals that stick in your head. Original thought-out grooves, even odd rhythms, unconventional song structures. Synths instead of double bass drum.\nI'm a retired drummer and after a year's break I'm starting to miss it. After ten years of playing and performing in three bands, I've probably given up trying to achieve huge successes, but I still want to create music with people who are on the same wavelength - musically and otherwise. If any of this resonates with you, let me know.\nDavid",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Alt-metal"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 94,
+      "reasons": [
+        "alt metal",
+        "Praha 3"
+      ]
+    },
     {
       "id": "hudebnibazar:778157",
       "title": "Kytarista",
@@ -1364,29 +1409,6 @@
         "lokální networking",
         "odkaz na profil / ukázku",
         "podrobný inzerát"
-      ]
-    },
-    {
-      "id": "hudebnibazar:744524",
-      "title": "Zpěv",
-      "url": "https://hudebnibazar.cz/zpev/ID744524/",
-      "date": "2026-09-06T20:12:00+02:00",
-      "location": "České Budějovice",
-      "author": "The.Spoon.Others",
-      "excerpt": "Kapela z ČB s parádní zkušebnou, vlastní tvorbou , bicí , kytara, basa a schází nám někdo, kdo by tomu dal pořádný grády, styl grunge, hardrock, FUNKY, rozjedeme to společně? ozvi se na :)",
-      "description": "Kapela z ČB s parádní zkušebnou, vlastní tvorbou , bicí , kytara, basa a schází nám někdo, kdo by tomu dal pořádný grády, styl grunge, hardrock, FUNKY, rozjedeme to společně?\nozvi se na :)",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [
-        "Grunge"
-      ],
-      "isPrague": false,
-      "source": "Hudební bazar",
-      "score": 58,
-      "reasons": [
-        "grunge",
-        "vlastní tvorba",
-        "České Budějovice"
       ]
     },
     {
