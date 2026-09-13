@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T12:11:36.232851+00:00",
+  "updatedAt": "2026-09-13T12:21:40.082865+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,30 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:781809",
+      "title": "KAPELA MLOCK HLEDÁ BASÁKA",
+      "url": "https://hudebnibazar.cz/kapela-mlock-hleda-basaka/ID781809/",
+      "date": "2026-09-13T14:17:00+02:00",
+      "location": "Pardubice",
+      "author": "Daniel.Dlouhy",
+      "excerpt": "Jsme kapela MLOCK a hledáme k sobě basáka, který má chuť pravidelně hrát, zkoušet a hlavně vystupovat na koncertech. Hrajeme hlavně rock / heavy rock / metal; Např. Metallica, Ozzy Osbourne, Judas Priest, Billy talent, Van Halen a další Aktuálně jsme 3 - Kytara, Zpěv, Bicí Máme velkou zkušebnu (místní kulturní dům) stále k…",
+      "description": "Jsme kapela MLOCK a hledáme k sobě basáka, který má chuť pravidelně hrát, zkoušet a hlavně vystupovat na koncertech.\nHrajeme hlavně rock / heavy rock / metal; Např. Metallica, Ozzy Osbourne, Judas Priest, Billy talent, Van Halen a další\nAktuálně jsme 3 - Kytara, Zpěv, Bicí\nMáme velkou zkušebnu (místní kulturní dům) stále k dispozici a již domluvené koncerty... Hráli jsme již jeden větší koncert pro skoro 300 lidí a byl to velký úspěch...\nHledáme někoho koho baví hrát, chce se rozvíjet a myslí to s hraním alespoň trochu vážně. Nemusíš být žádný mistr - nikdo z nás není velký profík, jen nás baví hrát a vystupovat.\nJsme ve věku 19 - 22, takže podobnou věkovou kategorii.\nNeváhej a napiš, za to nic nedáš! (Klidně i na Instagram @daniel__dlouhy)",
+      "externalLinks": [
+        "https://instagram.com/daniel__dlouhy"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 84,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Pardubice"
+      ]
+    },
     {
       "id": "hudebnibazar:781800",
       "title": "Kytarista (16 let) hledá kapelu / Rytmika",
