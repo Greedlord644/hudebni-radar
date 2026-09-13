@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T09:52:29.519368+00:00",
+  "updatedAt": "2026-09-13T10:02:10.222042+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,32 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:781761",
+      "title": "Hleda se muzikant",
+      "url": "https://hudebnibazar.cz/hleda-se-muzikant/ID781761/",
+      "date": "2026-09-13T11:54:00+02:00",
+      "location": "Praha 1",
+      "author": "Andrea.M",
+      "excerpt": "Hledame do naseho nove otevreneho podniku na Praze 1, nejlepe solo pop-rockoveho muzikanta maximalne dvojici muzikantu. Jedna se o pravidelne hrani patky a soboty. Ukazky mi prosim zaslete do zpravy. Budeme se tesit na pripadnou spolupraci. Zde odkaz na nas club s adresou. Andrea…",
+      "description": "Hledame do naseho nove otevreneho podniku na Praze 1, nejlepe solo pop-rockoveho muzikanta maximalne dvojici muzikantu. Jedna se o pravidelne hrani patky a soboty. Ukazky mi prosim zaslete do zpravy. Budeme se tesit na pripadnou spolupraci. Zde odkaz na nas club s adresou.\nAndrea\nhttps://maps.app.goo.gl/6L2C1wnBaBQnAaYa9?g_st=ic\nhttps://www.instagram.com/noirroom.by.dejavu?stkn=MWM2YzB1YXN6MHduNQ==",
+      "externalLinks": [
+        "https://maps.app.goo.gl/6L2C1wnBaBQnAaYa9?g_st=ic",
+        "https://www.instagram.com/noirroom.by.dejavu?stkn=MWM2YzB1YXN6MHduNQ==",
+        "https://instagram.com/.com"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 83,
+      "reasons": [
+        "Praha 1",
+        "lokální networking",
+        "odkaz na profil / ukázku",
+        "podrobný inzerát"
+      ]
+    },
     {
       "id": "hudebnibazar:774107",
       "title": "HLEDÁME BUBENÍKA - HARD&HEAVY&TRASH - PRAHA",
