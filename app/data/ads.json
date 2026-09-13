@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T18:12:13.756653+00:00",
+  "updatedAt": "2026-09-13T18:21:39.545880+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:781896",
+      "title": "Nabízím pro hudebníka/ky pro pop/rock zpěv a skládání písní",
+      "url": "https://hudebnibazar.cz/nabizim-pro-hudebnika-ky-pro-pop-rock-zpev-a-skladani-pisni/ID781896/",
+      "date": "2026-09-13T20:11:00+02:00",
+      "location": "Praha-východ",
+      "author": "Ivan.Holesovsky",
+      "excerpt": "Spolupráce na tvorbě hitu. Nabízím zpěv a skládání textu a melodií písní. Zpočátku nejlépe online.",
+      "description": "Spolupráce na tvorbě hitu. Nabízím zpěv a skládání textu a melodií písní. Zpočátku nejlépe online.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Praha-východ",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:744524",
       "title": "Zpěv",
