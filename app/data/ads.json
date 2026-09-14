@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T19:33:59.079501+00:00",
+  "updatedAt": "2026-09-14T19:42:18.417563+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,27 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:427202",
+      "title": "Zpěvačka do párty kapely",
+      "url": "https://hudebnibazar.cz/zpevacka-do-party-kapely/ID427202/",
+      "date": "2026-09-14T21:39:00+02:00",
+      "location": "Praha 5",
+      "author": "Radomir.Steinert2",
+      "excerpt": "Hledáme zpěvačku do 30 let se vzděláním, nebo zkušenostmi, nebo obojím pro kapelu Healer's band - www.jhealer.cz. Široký mezinárodní repertoár s kvalitní interpretací a zvukem. Zpěv je priorita, ale případný nástroj vítán. Akce celoročně, hlavně svatby a oslavy. Odměna 2000 CZK za hraní + cestovné. Info na stránkách",
+      "description": "Hledáme zpěvačku do 30 let se vzděláním, nebo zkušenostmi, nebo obojím pro kapelu Healer's band - www.jhealer.cz. Široký mezinárodní repertoár s kvalitní interpretací a zvukem. Zpěv je priorita, ale případný nástroj vítán. Akce celoročně, hlavně svatby a oslavy. Odměna 2000 CZK za hraní + cestovné. Info na stránkách",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 78,
+      "reasons": [
+        "Praha 5",
+        "lokální networking",
+        "odkaz na profil / ukázku"
+      ]
+    },
     {
       "id": "hudebnibazar:782105",
       "title": "HEBLO Hledá bubeníka",
@@ -2118,25 +2139,6 @@
         "podrobný inzerát",
         "jasný projekt / zkušenosti",
         "Zlín"
-      ]
-    },
-    {
-      "id": "427202",
-      "title": "Zpěvačka do párty kapely",
-      "url": "https://hudebnibazar.cz/zpevacka-do-party-kapely/ID427202/",
-      "date": "2026-09-01T12:53:00+02:00",
-      "location": "Praha 5",
-      "author": "Radomir.Steinert2",
-      "excerpt": "Hledáme zpěvačku do 30 let se vzděláním, nebo zkušenostmi, nebo obojím pro kapelu Healer's band - www.jhealer.cz. Široký mezinárodní repertoár s kvalitní interpretací a zvukem. Zpěv je priorita, ale případný nástroj vítán. Akce celoročně, hlavně svatby a oslavy. Odměna 2000 CZK za hraní + cestovné. Info na stránkách",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "score": 78,
-      "reasons": [
-        "Praha 5",
-        "lokální networking",
-        "odkaz na profil / ukázku"
       ]
     },
     {
