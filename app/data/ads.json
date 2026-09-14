@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T18:51:39.675753+00:00",
+  "updatedAt": "2026-09-14T19:02:06.543753+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,28 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:782092",
+      "title": "Mladý kytarista hledá kapelu/projekt",
+      "url": "https://hudebnibazar.cz/mlady-kytarista-hleda-kapelu-projekt/ID782092/",
+      "date": "2026-09-14T20:57:00+02:00",
+      "location": "Praha 4",
+      "author": "Martin.Kadlec3",
+      "excerpt": "Ahoj, rád se přidám k novému i rozběhlému projektu. Elektrická i akustická kytara. Hraju 9 let, mám zkušenosti s live hraním/nahráváním. Je mi 23 let. Žánry: alternative rock, indie rock, folk, shoegaze. Jen podobně starý lidi co umí hrát aspoň na uspokojivé úrovni. Zavolej nebo napiš sms :)",
+      "description": "Ahoj, rád se přidám k novému i rozběhlému projektu. Elektrická i akustická kytara. Hraju 9 let, mám zkušenosti s live hraním/nahráváním. Je mi 23 let.\nŽánry: alternative rock, indie rock, folk, shoegaze.\nJen podobně starý lidi co umí hrát aspoň na uspokojivé úrovni.\nZavolej nebo napiš sms :)",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Alt-rock"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 94,
+      "reasons": [
+        "alternative rock",
+        "Praha 4"
+      ]
+    },
     {
       "id": "hudebnibazar:775914",
       "title": "Hledáme Baskytaristu/Baskytaristku do Modern Metal Kapely",
