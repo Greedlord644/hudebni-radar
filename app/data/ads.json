@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T21:21:40.628636+00:00",
+  "updatedAt": "2026-09-14T21:31:53.370548+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -2493,31 +2493,6 @@
       "reasons": [
         "alt rock",
         "Teplice"
-      ]
-    },
-    {
-      "id": "hudebnibazar:772038",
-      "title": "HLEDÁME ZPĚVÁKA NA NU METAL",
-      "url": "https://hudebnibazar.cz/hledame-zpevaka-na-nu-metal/ID772038/",
-      "date": "2026-07-16T23:31:00+02:00",
-      "location": "Brno",
-      "author": "David.Konecny2",
-      "excerpt": "Hledáme zpěv na nu metal/ alt metal. Myslíme především kapely jako Linkin Park, Deftones, SOAD atd... Jsme z brněnska v teenage věku. Tak se neboj napsat.",
-      "description": "Hledáme zpěv na nu metal/ alt metal. Myslíme především kapely jako Linkin Park, Deftones, SOAD atd... Jsme z brněnska v teenage věku. Tak se neboj napsat.",
-      "externalLinks": [],
-      "influences": [
-        "Linkin Park"
-      ],
-      "genres": [
-        "Nu-metal",
-        "Alt-metal"
-      ],
-      "isPrague": false,
-      "source": "Hudební bazar",
-      "score": 99,
-      "reasons": [
-        "Linkin Park",
-        "Brno"
       ]
     }
   ]
