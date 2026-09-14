@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T19:21:43.146031+00:00",
+  "updatedAt": "2026-09-14T19:33:59.079501+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,29 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:782105",
+      "title": "HEBLO Hledá bubeníka",
+      "url": "https://hudebnibazar.cz/heblo-hleda-bubenika/ID782105/",
+      "date": "2026-09-14T21:31:00+02:00",
+      "location": "Ostrava",
+      "author": "Michal.Skrisovsky",
+      "excerpt": "Jsme Ostravská kapela Heblo. Nejsme ani folk ani rock. Zakládáme si jak na silných vokálech, tak na šlapající rytmice. Bohužel náš současný bubeník nás z časových důvodů opouští a my hledáme nového člena, hrát bez bicích nás neuspokojuje. Ročně odehrajeme poměrně dost koncertů v klubech, festivalech i na ulici, zatím pouze v…",
+      "description": "Jsme Ostravská kapela Heblo. Nejsme ani folk ani rock. Zakládáme si jak na silných vokálech, tak na šlapající rytmice. Bohužel náš současný bubeník nás z časových důvodů opouští a my hledáme nového člena, hrát bez bicích nás neuspokojuje. Ročně odehrajeme poměrně dost koncertů v klubech, festivalech i na ulici, zatím pouze v ČR, v současném složení jsme natočili 2 EP a chystáme živou nahrávku, občas nás zahrají v rozhlase. Jsme amatéři, ale na písničkách pracujeme dost intenzivně, zkoušíme pravidelně, aranžujeme, tvoříme, moc nás to baví.\nNaši tvorbu najdeš na youtube kanále HEBLO, na spotify atp.\nHledáme bubeníka nebo bubenici se slušným základem, ochotného pracovat s námi, zkoušet, aranžovat, koncertovat i nahrávat a bavit se tím.\nPokud jsme tě zaujali, napiš nám něco o sobě, pošli třeba nahrávku atp.",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=G-Rdmh5kW_4&list=RDG-Rdmh5kW_4&start_radio=1&t=1087s"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 100,
+      "reasons": [
+        "hledá produkci / pomoc se skladbami",
+        "odkaz na profil / ukázku",
+        "Ostrava"
+      ]
+    },
     {
       "id": "hudebnibazar:782092",
       "title": "Mladý kytarista hledá kapelu/projekt",
