@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T11:21:36.873513+00:00",
+  "updatedAt": "2026-09-15T11:32:31.058003+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:782189",
+      "title": "Pojďme založit něco, co bude naše",
+      "url": "https://hudebnibazar.cz/pojdme-zalozit-neco-co-bude-nase/ID782189/",
+      "date": "2026-09-15T13:22:00+02:00",
+      "location": "Plzeň",
+      "author": "Michal.P8",
+      "excerpt": "Hledám muzikanty pro vlastní projekt! Rock, blues, funky a všechno, co má koule a groove. Mám několik vlastních věcí a nápadů, které už nechci nechávat ležet v šuplíku. Hledám vyhraný muzikanty, kteří už mají něco odehráno a chtěli by společně vytvořit něco vlastního. Hledám lidi, kteří mají chuť tvořit, aranžovat a hledat…",
+      "description": "Hledám muzikanty pro vlastní projekt!\nRock, blues, funky a všechno, co má koule a groove. Mám několik vlastních věcí a nápadů, které už nechci nechávat ležet v šuplíku. Hledám vyhraný muzikanty, kteří už mají něco odehráno a chtěli by společně vytvořit něco vlastního. Hledám lidi, kteří mají chuť tvořit, aranžovat a hledat vlastní zvuk.\nPlzeň a okolí.\nKdo má chuť něco rozjet, napište. ?",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 100,
+      "reasons": [
+        "hledá produkci / pomoc se skladbami",
+        "Plzeň"
+      ]
+    },
     {
       "id": "hudebnibazar:767828",
       "title": "Hledá se druhá kytaristka do dívčí rockové kapely !!!",
