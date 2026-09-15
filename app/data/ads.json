@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T21:21:38.372466+00:00",
+  "updatedAt": "2026-09-15T21:31:46.195884+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:782318",
+      "title": "Housle - doplním partu/kapelu - country, folk, rock ...",
+      "url": "https://hudebnibazar.cz/housle-doplnim-partu-kapelu-country-folk-rock/ID782318/",
+      "date": "2026-09-15T23:18:00+02:00",
+      "location": "Praha 4",
+      "author": "B.G",
+      "excerpt": "S houslemi (případně s el.kytarou) doplním partu/kapelu, styl nejraději country music, ale i folk, blues, rock a další .... Hledám partu staršího věku, kde se nezkouší a o to víc se hraje ... Praha (případně i její bližší okolí s dobrým parkováním pro auto)",
+      "description": "S houslemi (případně s el.kytarou) doplním partu/kapelu, styl nejraději country music, ale i folk, blues, rock a další .... Hledám partu staršího věku, kde se nezkouší a o to víc se hraje ... Praha (případně i její bližší okolí s dobrým parkováním pro auto)",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Praha 4",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:782314",
       "title": "Hledáme bubeníka do Metalcore/Alternative metal kapely",
