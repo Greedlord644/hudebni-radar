@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T07:41:39.863864+00:00",
+  "updatedAt": "2026-09-15T07:51:40.443495+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:767828",
+      "title": "Hledá se zpěvačka do dívčí rockové kapely !",
+      "url": "https://hudebnibazar.cz/hleda-se-zpevacka-do-divci-rockove-kapely/ID767828/",
+      "date": "2026-09-15T09:48:00+02:00",
+      "location": "Praha 6",
+      "author": "Yu.Rai",
+      "excerpt": "Hledá se zpěvačka ve věku 16-19 let Praha a okolí. Dcera má začínající dívčí rockovou kapelu - kytara /16/, basa/18/, bicí/16/, zpěv. Holky hrají už pokročile. Zkušebna s vlastním vybavením na Praze 6. Reference : Hole, L7, Alice in Chains, System of a Down, Led Zeppelin, atd .. Zašleme tři převzaté songy na nastudování před…",
+      "description": "Hledá se zpěvačka ve věku 16-19 let Praha a okolí.\nDcera má začínající dívčí rockovou kapelu - kytara /16/, basa/18/, bicí/16/, zpěv. Holky hrají už pokročile. Zkušebna s vlastním vybavením na Praze 6.\nReference : Hole, L7, Alice in Chains, System of a Down, Led Zeppelin, atd ..\nZašleme tři převzaté songy na nastudování před zkouškou.. Prosím úplné začátečnice nepište. Děkujeme",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "Praha 6",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:754137",
       "title": "Hledá se kytarista z Brna a okolí!",
