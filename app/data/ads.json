@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T14:32:24.445082+00:00",
+  "updatedAt": "2026-09-16T14:41:29.987276+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,32 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:782435",
+      "title": "Hledáme kytaristu do studentské rockové kapely",
+      "url": "https://hudebnibazar.cz/hledame-kytaristu-do-studentske-rockove-kapely/ID782435/",
+      "date": "2026-09-16T16:33:00+02:00",
+      "location": "Praha 8",
+      "author": "Amelie.Valvodova",
+      "excerpt": "Čaute, jsme kapela Alltgaze (na ig @alltgaze_band) a hledáme druhého doprovodného kytaristu. Hrajeme rock/alternativní rock, chceme v nejbližší době nahrávat a sem tam někde koncertovat. Fungujeme už druhým rokem a hrajeme hlavně vlastní tvorbu. Hledáme doprovodného kytaristu, který bude mít nějaký skills a bude fajn :D Věkové…",
+      "description": "Čaute,\njsme kapela Alltgaze (na ig @alltgaze_band) a hledáme druhého doprovodného kytaristu. Hrajeme rock/alternativní rock, chceme v nejbližší době nahrávat a sem tam někde koncertovat. Fungujeme už druhým rokem a hrajeme hlavně vlastní tvorbu. Hledáme doprovodného kytaristu, který bude mít nějaký skills a bude fajn :D Věkové rozmezí ideálně 18-25 ale pokud se trochu věkově lišíte je to v chillu. Pokud chcete slyšet nějaké úryvky z koncertů a celkově nás trošku poznat, koukněte na náš instagram, máme tam nějaký ten materiál + bychom byli rádi pokud máte čas pondělí a středu odpoledne/večer (čas kdy máme zkoušky) a celkově jste časově trošku flexibilní :)\nZájemci pište na ig nebo na telefonní číslo, díky!",
+      "externalLinks": [
+        "https://instagram.com/alltgaze_band",
+        "https://instagram.com/nebo"
+      ],
+      "influences": [],
+      "genres": [
+        "Alt-rock"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 100,
+      "reasons": [
+        "alternativní rock",
+        "odkaz na profil / ukázku",
+        "Praha 8"
+      ]
+    },
     {
       "id": "hudebnibazar:767304",
       "title": "Hledáme zpěváka/zpěvačku",
