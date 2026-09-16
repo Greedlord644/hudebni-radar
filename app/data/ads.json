@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T19:31:52.986675+00:00",
+  "updatedAt": "2026-09-16T19:41:38.492266+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,27 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:781372",
+      "title": "Mladá kapela hledá zpěv",
+      "url": "https://hudebnibazar.cz/mlada-kapela-hleda-zpev/ID781372/",
+      "date": "2026-09-16T21:07:00+02:00",
+      "location": "Brno",
+      "author": "Cora",
+      "excerpt": "Jsme mladá kapela hrající rock, stoner rock a podobné styly, preferující vlastní tvorbu (a občas i nějaký upravený cover), s vlastním zvukařem a špičkovou zvukovou technikou (na obrázcích), manažerem, producentem, pravidelně hrající na rockových festivalech. Hledáme zpěváka či zpěvačku, ideálně mezi 15-30 lety, který/která to…",
+      "description": "Jsme mladá kapela hrající rock, stoner rock a podobné styly, preferující vlastní tvorbu (a občas i nějaký upravený cover), s vlastním zvukařem a špičkovou zvukovou technikou (na obrázcích), manažerem, producentem, pravidelně hrající na rockových festivalech.\nHledáme zpěváka či zpěvačku, ideálně mezi 15-30 lety, který/která to se zpěvem myslí vážně. Můžeš být začátečník nebo i pokročilý, důležité je mít zájem.\nPokud chceš nastoupit do rozjetého vlaku koncertů v roce 2027, tak neváhej a napiš, nejlépe SMS na mobil\nZkušebna pár minut vlakem od Brna.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "Brno"
+      ]
+    },
     {
       "id": "hudebnibazar:752990",
       "title": "Baskytarista hleda kapelu",
