@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T17:21:39.601296+00:00",
+  "updatedAt": "2026-09-16T17:31:48.827138+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,30 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:782477",
+      "title": "Hledáme sólového kytaristu do alt-rockové kapely!",
+      "url": "https://hudebnibazar.cz/hledame-soloveho-kytaristu-do-alt-rockove-kapely/ID782477/",
+      "date": "2026-09-16T19:27:00+02:00",
+      "location": "Praha 18",
+      "author": "Slavny",
+      "excerpt": "Jsme mladá alternativní kapela (fungujeme kolem jednoho roku). Právě teď se aktivně připravujeme na první koncerty a hledáme sólového kytaristu, který s námi vytvoří tu správnou atmosféru a energii. O naší hudbě a stylu: Hrajeme alternativní rock s Y2K estetikou a prvkami alt-rocku. Mezi naše hlavní vzory patří Incubus a…",
+      "description": "Jsme mladá alternativní kapela (fungujeme kolem jednoho roku). Právě teď se aktivně připravujeme na první koncerty a hledáme sólového kytaristu, který s námi vytvoří tu správnou atmosféru a energii.\nO naší hudbě a stylu:\nHrajeme alternativní rock s Y2K estetikou a prvkami alt-rocku. Mezi naše hlavní vzory patří Incubus a Superheaven. Náš zvuk stojí na dynamice (přechody z tichých, atmosférických slok do hlasitých a tvrdých refrénů), prostorných kytarových linkách a pevné rytmice.\nCo bude tvou rolí:\nHraní lead partií a sól.\nDoplňování a obohacování rytmické kytary o atmosférické linky a textury.\nPodílení se na tvorbě nového materiálu.\nKoho hledáme:\nVěk: cca 18–27 let (plus minus).\nÚroveň hraní: Nesháníme žádného virtuózního shreddera ani džezmena. Stačí nám solidní základy až středně pokročilá úroveň, smysl pro rytmus, cit pro náš styl a práce s efekty (reverb, delay, overdrive).\nZkušenosti s pódiem: Nejsou nutné. Důležitá je chuť hrát a posouvat se společně dál.\nPřístup: Hledáme někoho s vážným zájmem o zkoušení, koncerty a rozvoj kapely — ne jen někoho na občasné víkendové džemování u piva.\nCo nabízíme:\nHotový materiál a blížiace se koncerty.\nDvojjazyčné prostředí (Mluvíme česky, anglicky a rusky).\nZapálenou partu lidí zaměřenou na výsledky.\nPokud ti tenhle zvuk a přístup sedí, napiš nám do zpráv! Pošli krátké demo, video z hraní nebo pár skladeb, které tě nejvíce inspirují.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Alt-rock",
+        "Emo"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 94,
+      "reasons": [
+        "alt-rock",
+        "alternativní rock",
+        "Praha 18"
+      ]
+    },
     {
       "id": "hudebnibazar:782435",
       "title": "Hledáme kytaristu do studentské rockové kapely",
