@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T14:21:35.387735+00:00",
+  "updatedAt": "2026-09-17T14:32:10.288201+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,31 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:765094",
+      "title": "Baskytara wanted!",
+      "url": "https://hudebnibazar.cz/baskytara-wanted/ID765094/",
+      "date": "2026-09-17T16:29:00+02:00",
+      "location": "Praha 4",
+      "author": "Josef.R",
+      "excerpt": "Pražská nu-metalová kapela Jesper Snow hledá baskytaristu (nebo baskytaristku!) Hledáme někoho, kdo má touhu a vůli to někam dotáhnout a je ochotný pro to udělat maximum! Holka, kluk, věk ideálně mezi 17 a 30 lety. Máme vlastní zkušebnu na Praze 4. Hrajeme vlastní věci s anglickými texty - viz:…",
+      "description": "Pražská nu-metalová kapela Jesper Snow hledá baskytaristu (nebo baskytaristku!)\nHledáme někoho, kdo má touhu a vůli to někam dotáhnout a je ochotný pro to udělat maximum! Holka, kluk, věk ideálně mezi 17 a 30 lety.\nMáme vlastní zkušebnu na Praze 4.\nHrajeme vlastní věci s anglickými texty - viz:\nhttps://open.spotify.com/artist/3pKuiJSQ49gmZIoMXd11QH?si=sSbL-pneRdW9D3e8UtjrGQ\nPošli nám o sobě pár informací a případně ukázek na . Těšíme se na tebe!",
+      "externalLinks": [
+        "https://open.spotify.com/artist/3pKuiJSQ49gmZIoMXd11QH?si=sSbL-pneRdW9D3e8UtjrGQ"
+      ],
+      "influences": [],
+      "genres": [
+        "Nu-metal"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 100,
+      "reasons": [
+        "nu-metal",
+        "odkaz na profil / ukázku",
+        "Praha 4"
+      ]
+    },
     {
       "id": "hudebnibazar:780196",
       "title": "Black'n'roll ze studia shání bubenici, bubeníka na stage",
