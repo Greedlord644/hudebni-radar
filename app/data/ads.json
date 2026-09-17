@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T12:22:12.850019+00:00",
+  "updatedAt": "2026-09-17T12:31:55.722411+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,31 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:782569",
+      "title": "Kapela Darebax (Grunge/NuMetal) hľadá nového basáka",
+      "url": "https://hudebnibazar.cz/kapela-darebax-grunge-numetal-hlada-noveho-basaka/ID782569/",
+      "date": "2026-09-17T14:22:00+02:00",
+      "location": "Brno",
+      "author": "Gregor.Soltis",
+      "excerpt": "nazdar. Sme kapela Darebax. Hráme Grunge / NuMetal / Alternative. Hľadáme nového basáka. Vokál je výhoda. Sídlime v Brne a máme super skúšobňu. Robíme vlastné songy a občas nejaký cover.",
+      "description": "nazdar.\nSme kapela Darebax.\nHráme Grunge / NuMetal / Alternative.\nHľadáme nového basáka.\nVokál je výhoda.\nSídlime v Brne a máme super skúšobňu.\nRobíme vlastné songy a občas nejaký cover.",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=YV2Jzir7oKI"
+      ],
+      "influences": [],
+      "genres": [
+        "Grunge"
+      ],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 64,
+      "reasons": [
+        "grunge",
+        "odkaz na profil / ukázku",
+        "Brno"
+      ]
+    },
     {
       "id": "hudebnibazar:710782",
       "title": "kapela Lazy Seals hledá basáka",
