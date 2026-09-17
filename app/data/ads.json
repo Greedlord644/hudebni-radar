@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T06:51:30.620805+00:00",
+  "updatedAt": "2026-09-17T07:02:31.812641+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,33 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:710782",
+      "title": "kapela Lazy Seals hledá basáka",
+      "url": "https://hudebnibazar.cz/kapela-lazy-seals-hleda-basaka/ID710782/",
+      "date": "2026-09-17T08:57:00+02:00",
+      "location": "Pardubice",
+      "author": "Tomas.Sl",
+      "excerpt": "rocková kapela Lazy Seals hledá basáka,,, vlastní tvorba, angličtina, zpěv výhodou,,, zkoušíme jednou týdně v Pardubicích,,, koncerty aktuálně ročně lze napočítat na prstech jedné ruky,,, věkově hledáme někoho zapadající do průměru kolem 35 let,,, Spotify…",
+      "description": "rocková kapela Lazy Seals hledá basáka,,, vlastní tvorba, angličtina, zpěv výhodou,,, zkoušíme jednou týdně v Pardubicích,,, koncerty aktuálně ročně lze napočítat na prstech jedné ruky,,, věkově hledáme někoho zapadající do průměru kolem 35 let,,,\nSpotify\nhttps://open.spotify.com/artist/5cBtmuP4tz0zE5qKu9iUK6?si=ZQ9QoTmUTPKRPUY4iCv8lw\nYouTube\nhttps://www.youtube.com/@lazyseals5182\nFacebook\nhttps://www.facebook.com/lazysealsband",
+      "externalLinks": [
+        "https://open.spotify.com/artist/5cBtmuP4tz0zE5qKu9iUK6?si=ZQ9QoTmUTPKRPUY4iCv8lw",
+        "https://www.youtube.com/@lazyseals5182",
+        "https://www.facebook.com/lazysealsband",
+        "https://instagram.com/lazyseals5182"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 84,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Pardubice"
+      ]
+    },
     {
       "id": "hudebnibazar:781372",
       "title": "Mladá kapela hledá zpěv",
