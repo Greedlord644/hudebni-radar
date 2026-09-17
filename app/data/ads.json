@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T18:31:49.495177+00:00",
+  "updatedAt": "2026-09-17T18:42:15.385746+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:782654",
+      "title": "Rockbag RB 22500B",
+      "url": "https://hudebnibazar.cz/rockbag-rb-22500b/ID782654/",
+      "date": "2026-09-17T20:31:00+02:00",
+      "location": "Praha 4",
+      "author": "Vit.Hofman",
+      "excerpt": "Prodám tašku na hardware (vlastně i na cokoli jiného, krásně prostorná) Rockbag RB 22500B. Stav jako nový, využita pouze jednou. Hlavní popruh se z jedné strany trochu páře (viz foto) - využíval jsem ho k jiné tašce. Osobní předání Praha / Moravská Třebová a okolí",
+      "description": "Prodám tašku na hardware (vlastně i na cokoli jiného, krásně prostorná) Rockbag RB 22500B.\nStav jako nový, využita pouze jednou. Hlavní popruh se z jedné strany trochu páře (viz foto) - využíval jsem ho k jiné tašce.\nOsobní předání Praha / Moravská Třebová a okolí",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Praha 4",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:765094",
       "title": "Baskytara wanted!",
