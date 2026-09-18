@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T10:12:19.468966+00:00",
+  "updatedAt": "2026-09-18T10:22:25.203005+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,27 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:754911",
+      "title": "Hledáme zpěváka či zpěvačku do kapely Nuuk...",
+      "url": "https://hudebnibazar.cz/hledame-zpevaka-ci-zpevacku-do-kapely-nuuk/ID754911/",
+      "date": "2026-09-18T12:17:00+02:00",
+      "location": "Písek",
+      "author": "Tomas.Marny5",
+      "excerpt": "Jsme 3 muzikanti, věkově kolem 40 let z Písku, kde máme kompletně zařízenou zkušebnu. Tvoříme vlastní muziku stylově rock, pop - baví nás ohromné množství kapel, takže něco vybrat není jednoduché. Ale chceme vytvářet chytrou hudbu, stylově kolem kapely Karnivool, s přesahem do různých stylů. Hráčsky nejsme troufnu si říci…",
+      "description": "Jsme 3 muzikanti, věkově kolem 40 let z Písku, kde máme kompletně zařízenou zkušebnu. Tvoříme vlastní muziku stylově rock, pop - baví nás ohromné množství kapel, takže něco vybrat není jednoduché. Ale chceme vytvářet chytrou hudbu, stylově kolem kapely Karnivool, s přesahem do různých stylů. Hráčsky nejsme troufnu si říci dřeva, máme toho každý za sebou hodně v různých kapelách, takže hledáme i kvalitní a zajímavý zpěv do našich řad. Zkoušíme v Písku 1x týdně a zbytek umíme řešit online. Pokud by tě to zaujalo, klidně napiš na můj whats up a přidám tě do naší skupiny. Lukáš, Filip, Honza",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "Písek"
+      ]
+    },
     {
       "id": "hudebnibazar:741115",
       "title": "Rock-Metal zkušebna ke sdílení Kralupy",
