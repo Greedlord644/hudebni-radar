@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T01:21:34.103897+00:00",
+  "updatedAt": "2026-09-18T01:32:27.251791+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,46 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:741115",
+      "title": "Rock-Metal zkušebna ke sdílení Kralupy",
+      "url": "https://hudebnibazar.cz/rock-metal-zkusebna-ke-sdileni-kralupy/ID741115/",
+      "date": "2026-09-17T23:12:00+02:00",
+      "location": "Praha-východ",
+      "author": "Vlado.Pilgr",
+      "excerpt": "Ahoj, mám zkušebnu ke sdílení pro rockovou kapelu, nebo jednotlivce. Po domluvě umím půjčit i některé své nástroje, nebo aparáty. Zkušebna je vytápěná, suchá, zabezpečená.",
+      "description": "Ahoj, mám zkušebnu ke sdílení pro rockovou kapelu, nebo jednotlivce. Po domluvě umím půjčit i některé své nástroje, nebo aparáty. Zkušebna je vytápěná, suchá, zabezpečená.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "Praha-východ",
+        "lokální networking"
+      ]
+    },
+    {
+      "id": "hudebnibazar:771034",
+      "title": "HLEDÁM AUTORSKÝ BAND",
+      "url": "https://hudebnibazar.cz/hledam-autorsky-band/ID771034/",
+      "date": "2026-09-17T23:07:00+02:00",
+      "location": "Praha 4",
+      "author": "Gogen.77",
+      "excerpt": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím. Jen aktivní kapely z Prahy.",
+      "description": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím.\nJen aktivní kapely z Prahy.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "Praha 4",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:772011",
       "title": "Hledám zpěváka/zpěvačku - Praha",
