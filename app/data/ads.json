@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T15:51:40.882648+00:00",
+  "updatedAt": "2026-09-19T16:02:41.955087+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,28 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:762845",
+      "title": "Extreme vocalist is looking for a band",
+      "url": "https://hudebnibazar.cz/extreme-vocalist-is-looking-for-a-band/ID762845/",
+      "date": "2026-09-19T17:57:00+02:00",
+      "location": "Praha 10",
+      "author": "Anton.Karpukhin",
+      "excerpt": "Ahoj hledám kapelu, dělám scream a growl, mohu poslat demo",
+      "description": "Ahoj hledám kapelu, dělám scream a growl, mohu poslat demo",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Emo"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 60,
+      "reasons": [
+        "emo",
+        "Praha 10"
+      ]
+    },
     {
       "id": "hudebnibazar:779385",
       "title": "Hledá se zpěvák",
@@ -1058,28 +1080,6 @@
         "Praha 5",
         "lokální networking",
         "odkaz na profil / ukázku"
-      ]
-    },
-    {
-      "id": "hudebnibazar:762845",
-      "title": "Extreme vocalist is looking for a band",
-      "url": "https://hudebnibazar.cz/extreme-vocalist-is-looking-for-a-band/ID762845/",
-      "date": "2026-09-14T14:33:00+02:00",
-      "location": "Praha 10",
-      "author": "Anton.Karpukhin",
-      "excerpt": "Ahoj hledám kapelu, dělám scream a growl, mohu poslat demo",
-      "description": "Ahoj hledám kapelu, dělám scream a growl, mohu poslat demo",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [
-        "Emo"
-      ],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 60,
-      "reasons": [
-        "emo",
-        "Praha 10"
       ]
     },
     {
