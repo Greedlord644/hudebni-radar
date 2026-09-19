@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T19:22:10.759549+00:00",
+  "updatedAt": "2026-09-19T19:31:50.397204+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:783003",
+      "title": "Kytarista hledá kapelu",
+      "url": "https://hudebnibazar.cz/kytarista-hleda-kapelu/ID783003/",
+      "date": "2026-09-19T21:25:00+02:00",
+      "location": "Praha 10",
+      "author": "Martin.St",
+      "excerpt": "Ahoj, Je mi 36let, jsem z Prahy, rád bych se připojil do nějaké poppunk/punkrock/easycore/melocore kapely, případně hledám lidi na její založení. Prošel jsem už pár kapel, odehrál jsem x koncertů a ve studiu jsem uz taky nějaký pátek strávil. Mám svoje vybavení, případně i zkušebnu v Praze.",
+      "description": "Ahoj,\nJe mi 36let, jsem z Prahy, rád bych se připojil do nějaké poppunk/punkrock/easycore/melocore kapely, případně hledám lidi na její založení.\nProšel jsem už pár kapel, odehrál jsem x koncertů a ve studiu jsem uz taky nějaký pátek strávil.\nMám svoje vybavení, případně i zkušebnu v Praze.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 72,
+      "reasons": [
+        "Praha 10",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:762845",
       "title": "Extreme vocalist is looking for a band",
