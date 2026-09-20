@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T12:02:48.596873+00:00",
+  "updatedAt": "2026-09-20T12:12:16.071441+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:782596",
+      "title": "Sháníme kytaristu",
+      "url": "https://hudebnibazar.cz/shanime-kytaristu/ID782596/",
+      "date": "2026-09-20T14:01:00+02:00",
+      "location": "Praha-východ",
+      "author": "Karlos83.Sebesta",
+      "excerpt": "Ahoj hledáme kytaristu, jsme lidi kteří mají něco za sebou, rozhodně nejsme profíci a superstar co si na něco hrajou. Chceme hrát tvrdší muziku něco okolo hardcore mix punk, grind crossover groove, klidně rockové prvky a různě podle nálady... Místo nejlépe Praha... Chceme člověka s kamarádským, lidským a zodpovědným přístupem.",
+      "description": "Ahoj hledáme kytaristu, jsme lidi kteří mají něco za sebou, rozhodně nejsme profíci a superstar co si na něco hrajou. Chceme hrát tvrdší muziku něco okolo hardcore mix punk, grind crossover groove, klidně rockové prvky a různě podle nálady...\nMísto nejlépe Praha...\nChceme člověka s kamarádským, lidským a zodpovědným přístupem.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Praha-východ",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:775914",
       "title": "Hledáme Baskytaristu/Baskytaristku do Modern Metal Kapely",
