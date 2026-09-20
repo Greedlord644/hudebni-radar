@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T17:51:42.592437+00:00",
+  "updatedAt": "2026-09-20T18:01:56.595502+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -70,6 +70,33 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:783198",
+      "title": "Hledáme baskytaristu (rock, autorská tvorba)",
+      "url": "https://hudebnibazar.cz/hledame-baskytaristu-rock-autorska-tvorba/ID783198/",
+      "date": "2026-09-20T20:00:00+02:00",
+      "location": "Hradec Králové",
+      "author": "Miloslav.Trubka",
+      "excerpt": "Kapela Morte Forte z Chlumce nad Cidlinou hledá baskytaristu. Hrajeme specifický styl melodického hardrocku/metalu ve spojení s trumpetami (autorské skladby). Hledáme spolehlivého parťáka s vlastním vybavením a možností dojíždění, který by s námi chtěl naplno budovat naší kapelu. Oceníme zkušenosti s pódiovým hraním, případně i…",
+      "description": "Kapela Morte Forte z Chlumce nad Cidlinou hledá baskytaristu.\nHrajeme specifický styl melodického hardrocku/metalu ve spojení s trumpetami (autorské skladby).\nHledáme spolehlivého parťáka s vlastním vybavením a možností dojíždění, který by s námi chtěl naplno budovat naší kapelu.\nOceníme zkušenosti s pódiovým hraním, případně i s nahráváním ve studiu.\nJsme parta kamarádů kolem věku 30 let. Hledáme tak někoho ideálně do věku 35 let. Máme zkušenosti z malých i velkých koncertů. Zkušebnu máme a domluvené koncerty také.\nV případě zájmu nám neváhej napsat (FB, Insta, SMS, mail) nebo zavolat (tel.: – rádi probereme podrobnosti.\nBudeme se těšit!\nMorte Forte\nNaše tvorba:\nhttps://open.spotify.com/artist/1XNvcG9LqdYZicUMFaPtGO?si=ke-XtKIwSLKfa-9rJOPrJQ\nhttps://m.youtube.com/playlist?list=OLAK5uy_muemsqqzkDuXbuO3Y9X5htESa7kvSMar8&playnext=1&index=1\nmail:\nweb: https://www.morteforte.cz/",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=TqjqusmvxO8&list=RDTqjqusmvxO8&start_radio=1&pp=ygULbW9ydGUgZm9ydGWgBwHSBwkJJAwBhyohjO8%3D",
+        "https://open.spotify.com/artist/1XNvcG9LqdYZicUMFaPtGO?si=ke-XtKIwSLKfa-9rJOPrJQ",
+        "https://m.youtube.com/playlist?list=OLAK5uy_muemsqqzkDuXbuO3Y9X5htESa7kvSMar8&playnext=1&index=1",
+        "https://www.morteforte.cz/"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 92,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Hradec Králové"
+      ]
+    },
     {
       "id": "hudebnibazar:783136",
       "title": "Rebelia hledá bicmena",
