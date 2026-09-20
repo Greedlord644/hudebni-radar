@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T13:22:47.362523+00:00",
+  "updatedAt": "2026-09-20T13:31:47.882549+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -2894,28 +2894,6 @@
       "reasons": [
         "emo",
         "Praha"
-      ]
-    },
-    {
-      "id": "bandmate:acc3b338-a3f3-47f7-b746-f57dd227a1c8",
-      "title": "Hledáme basáka do začínající rock/alt rock/hard rock apod. kapely",
-      "url": "https://bandmate.cz/inzerat/hled-me-bas-ka-do-za-naj-c-rock-alt-rock-hard-rock-apod-kape-Ls8yZO",
-      "date": "2026-07-22T13:25:48.007225+00:00",
-      "location": "Teplice",
-      "author": "Calidia Snow",
-      "excerpt": "Hledáme basáka do začínající rock/alt rock/hard rock apod. kapely Ahoj, jsme začínající mladá, zatím tříčlenná skupina (zpěv, bicí, kytara), věkově 26–32, hledající spolehlivého basáka, který se chce zlepšovat, experimentovat a hrát a podílet se na vlastní tvorbě. Žánrově rock/alt. rock apod., nejsme vyloženě vyhranění. Nejsme…",
-      "description": "Hledáme basáka do začínající rock/alt rock/hard rock apod. kapely Ahoj, jsme začínající mladá, zatím tříčlenná skupina (zpěv, bicí, kytara), věkově 26–32, hledající spolehlivého basáka, který se chce zlepšovat, experimentovat a hrát a podílet se na vlastní tvorbě. Žánrově rock/alt. rock apod., nejsme vyloženě vyhranění.\nNejsme žádní profíci, ale chcem se bavit a zlepšovat, takže nemusíš mít kupu zkušeností, stačí zápal, chuť se někam posunout a eventuelně koncertovat a docházet každý týden na zkoušky. alternative, rock basa",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [
-        "Alt-rock"
-      ],
-      "isPrague": false,
-      "source": "Bandmate",
-      "score": 88,
-      "reasons": [
-        "alt rock",
-        "Teplice"
       ]
     }
   ]
