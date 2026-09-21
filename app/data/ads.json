@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-09-21T07:02:03.665194+00:00",
+  "updatedAt": "2026-09-21T07:11:30.880664+00:00",
   "windowDays": 60,
   "singerSeeking": [
+    {
+      "id": "hudebnibazar:724952",
+      "title": "Zpěvák s kytarou Praha ?",
+      "url": "https://hudebnibazar.cz/zpevak-s-kytarou-praha/ID724952/",
+      "date": "2026-09-21T09:03:00+02:00",
+      "location": "Praha 1",
+      "author": "Str.Strumens",
+      "excerpt": "Basa, 10-string steel guitar a zpěvačka hledají zpěváka s akustickou kytarou. Budeme rádi za někoho s dobrými časovými možnostmi, staršího věku, ideálně z Prahy. Na doplnění můžeme po dohodě rozšířit ještě o další nástroj(e) z okruhu mandolina, harp, housle, banjo. Bohužel stále chybí zpěvák - tak neváhej !! Máme rádi styly…",
+      "description": "Basa, 10-string steel guitar a zpěvačka hledají zpěváka s akustickou kytarou. Budeme rádi za někoho s dobrými časovými možnostmi, staršího věku, ideálně z Prahy. Na doplnění můžeme po dohodě rozšířit ještě o další nástroj(e) z okruhu mandolina, harp, housle, banjo. Bohužel stále chybí zpěvák - tak neváhej !! Máme rádi styly vhodné právě pro výše uvedené nástroje.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 62,
+      "reasons": [
+        "zpěv hledá",
+        "Praha 1"
+      ]
+    },
     {
       "id": "hudebnibazar:761523",
       "title": "Zpěvačka hledá kapelu :)",
@@ -70,6 +90,46 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:770622",
+      "title": "HLEDÁM AUTORSKÝ BAND",
+      "url": "https://hudebnibazar.cz/hledam-autorsky-band/ID770622/",
+      "date": "2026-09-21T09:08:00+02:00",
+      "location": "Praha 4",
+      "author": "Gogen.77",
+      "excerpt": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím. Jen aktivní kapely z Prahy.",
+      "description": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím.\nJen aktivní kapely z Prahy.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "Praha 4",
+        "lokální networking"
+      ]
+    },
+    {
+      "id": "hudebnibazar:724952",
+      "title": "Zpěvák s kytarou Praha ?",
+      "url": "https://hudebnibazar.cz/zpevak-s-kytarou-praha/ID724952/",
+      "date": "2026-09-21T09:03:00+02:00",
+      "location": "Praha 1",
+      "author": "Str.Strumens",
+      "excerpt": "Basa, 10-string steel guitar a zpěvačka hledají zpěváka s akustickou kytarou. Budeme rádi za někoho s dobrými časovými možnostmi, staršího věku, ideálně z Prahy. Na doplnění můžeme po dohodě rozšířit ještě o další nástroj(e) z okruhu mandolina, harp, housle, banjo. Bohužel stále chybí zpěvák - tak neváhej !! Máme rádi styly…",
+      "description": "Basa, 10-string steel guitar a zpěvačka hledají zpěváka s akustickou kytarou. Budeme rádi za někoho s dobrými časovými možnostmi, staršího věku, ideálně z Prahy. Na doplnění můžeme po dohodě rozšířit ještě o další nástroj(e) z okruhu mandolina, harp, housle, banjo. Bohužel stále chybí zpěvák - tak neváhej !! Máme rádi styly vhodné právě pro výše uvedené nástroje.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Praha 1",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:773145",
       "title": "Basák v Praze",
@@ -851,26 +911,6 @@
         "jasný projekt / zkušenosti",
         "odkaz na profil / ukázku",
         "Brno"
-      ]
-    },
-    {
-      "id": "hudebnibazar:770622",
-      "title": "HLEDÁM AUTORSKÝ BAND",
-      "url": "https://hudebnibazar.cz/hledam-autorsky-band/ID770622/",
-      "date": "2026-09-16T09:17:00+02:00",
-      "location": "Praha 4",
-      "author": "Gogen.77",
-      "excerpt": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím. Jen aktivní kapely z Prahy.",
-      "description": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím.\nJen aktivní kapely z Prahy.",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 69,
-      "reasons": [
-        "Praha 4",
-        "lokální networking"
       ]
     },
     {
