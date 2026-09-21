@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T12:02:24.968863+00:00",
+  "updatedAt": "2026-09-21T12:11:40.080641+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -90,6 +90,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:779934",
+      "title": "Hledá se baskytarista",
+      "url": "https://hudebnibazar.cz/hleda-se-baskytarista/ID779934/",
+      "date": "2026-09-21T14:05:00+02:00",
+      "location": "Praha-východ",
+      "author": "Lubos.Ho",
+      "excerpt": "Hledáme baskytaristu/ku do kapely ve složení kytara+zpěv, kytara, bicí. Hrajem převážně punk rock.",
+      "description": "Hledáme baskytaristu/ku do kapely ve složení kytara+zpěv, kytara, bicí. Hrajem převážně punk rock.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Praha-východ",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:783295",
       "title": "Hledáme bas/kytaristu do punk-rock kapely D.B.H!",
