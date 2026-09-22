@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T15:02:09.588641+00:00",
+  "updatedAt": "2026-09-22T15:11:49.107097+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -111,6 +111,31 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:783569",
+      "title": "Alternativní Rocková skupina z Ostravy/F-M hledá kytaristu!",
+      "url": "https://hudebnibazar.cz/alternativni-rockova-skupina-z-ostravy-f-m-hleda-kytaristu/ID783569/",
+      "date": "2026-09-22T17:02:00+02:00",
+      "location": "Frýdek-Místek",
+      "author": "Adam.Komurka",
+      "excerpt": "Hledáme schopného a spolehlivého kytaristu/kytaristku se zájmem aktivně koncertovat a nahrávat. Věk ideálně v rozmezí 20-35. Vlastní auto je plus avšak není podmínkou. Pošlete nahrávku či video svého hraní na WhatsApp či na mail: (bez střihu či jiné významné post-produkce). Budeme se na vás těšit!",
+      "description": "Hledáme schopného a spolehlivého kytaristu/kytaristku se zájmem aktivně koncertovat a nahrávat. Věk ideálně v rozmezí 20-35. Vlastní auto je plus avšak není podmínkou. Pošlete nahrávku či video svého hraní na WhatsApp či na mail: (bez střihu či jiné významné post-produkce). Budeme se na vás těšit!",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=VqjgShACE1Y"
+      ],
+      "influences": [],
+      "genres": [
+        "Alt-rock"
+      ],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 94,
+      "reasons": [
+        "alternativní rock",
+        "odkaz na profil / ukázku",
+        "Frýdek-Místek"
+      ]
+    },
     {
       "id": "hudebnibazar:765094",
       "title": "Baskytara wanted!",
