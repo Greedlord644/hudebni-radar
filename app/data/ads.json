@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T07:22:14.201200+00:00",
+  "updatedAt": "2026-09-22T07:32:23.108409+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -90,6 +90,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:752990",
+      "title": "Baskytarista hleda kapelu",
+      "url": "https://hudebnibazar.cz/baskytarista-hleda-kapelu/ID752990/",
+      "date": "2026-09-22T09:25:00+02:00",
+      "location": "Praha 4",
+      "author": "Bass.Mm",
+      "excerpt": "Baskytarista 50 + hleda kapelu , pop , rock , hodne odehrano a vybaveni mam",
+      "description": "Baskytarista 50 + hleda kapelu , pop , rock , hodne odehrano a vybaveni mam",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Praha 4",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:427202",
       "title": "Zpěvačka do párty kapely",
@@ -834,26 +854,6 @@
         "podrobný inzerát",
         "jasný projekt / zkušenosti",
         "Brno"
-      ]
-    },
-    {
-      "id": "hudebnibazar:752990",
-      "title": "Baskytarista hleda kapelu",
-      "url": "https://hudebnibazar.cz/baskytarista-hleda-kapelu/ID752990/",
-      "date": "2026-09-16T20:08:00+02:00",
-      "location": "Praha 4",
-      "author": "Bass.Mm",
-      "excerpt": "Baskytarista 50 + hleda kapelu , pop , rock , blues , country , hodne odehrano a vybaveni mam",
-      "description": "Baskytarista 50 + hleda kapelu , pop , rock , blues , country , hodne odehrano a vybaveni mam",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 66,
-      "reasons": [
-        "Praha 4",
-        "lokální networking"
       ]
     },
     {
