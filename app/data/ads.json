@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T14:31:57.273037+00:00",
+  "updatedAt": "2026-09-22T14:41:42.890405+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -111,6 +111,80 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:765094",
+      "title": "Baskytara wanted!",
+      "url": "https://hudebnibazar.cz/baskytara-wanted/ID765094/",
+      "date": "2026-09-22T16:38:00+02:00",
+      "location": "Praha 4",
+      "author": "Josef.R",
+      "excerpt": "Pražská nu-metalová kapela Jesper Snow hledá baskytaristu (nebo baskytaristku!) Hledáme někoho, kdo má touhu a vůli to někam dotáhnout a je ochotný pro to udělat maximum! Holka, kluk, věk ideálně mezi 17 a 30 lety. Máme vlastní zkušebnu na Praze 4. Hrajeme vlastní věci s anglickými texty - viz:…",
+      "description": "Pražská nu-metalová kapela Jesper Snow hledá baskytaristu (nebo baskytaristku!)\nHledáme někoho, kdo má touhu a vůli to někam dotáhnout a je ochotný pro to udělat maximum! Holka, kluk, věk ideálně mezi 17 a 30 lety.\nMáme vlastní zkušebnu na Praze 4.\nHrajeme vlastní věci s anglickými texty - viz:\nhttps://open.spotify.com/artist/3pKuiJSQ49gmZIoMXd11QH?si=sSbL-pneRdW9D3e8UtjrGQ\nPošli nám o sobě pár informací a případně ukázek na . Těšíme se na tebe!",
+      "externalLinks": [
+        "https://open.spotify.com/artist/3pKuiJSQ49gmZIoMXd11QH?si=sSbL-pneRdW9D3e8UtjrGQ"
+      ],
+      "influences": [],
+      "genres": [
+        "Nu-metal"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 100,
+      "reasons": [
+        "nu-metal",
+        "odkaz na profil / ukázku",
+        "Praha 4"
+      ]
+    },
+    {
+      "id": "hudebnibazar:766012",
+      "title": "!!! WANTED !!! Hledají se bicí do Indie Rock kapely",
+      "url": "https://hudebnibazar.cz/wanted-hledaji-se-bici-do-indie-rock-kapely/ID766012/",
+      "date": "2026-09-22T16:34:00+02:00",
+      "location": "Brno",
+      "author": "Dandy.S.Company2",
+      "excerpt": "Ahoj, plánovaně a stále hledáme (nového, ale klidně i zánovního) bubeníka, který nám adekvátně nahradí naši stávající rytmickou sekci a pustí se do další kapitoly. Děláme a hrajeme vlastní věci (Indie rock). V současnosti jsme dokončili debutové album a jedeme dál, protože inspirace je spousty. Pokud tě oslovila naše muzika,…",
+      "description": "Ahoj, plánovaně a stále hledáme (nového, ale klidně i zánovního) bubeníka, který nám adekvátně nahradí naši stávající rytmickou sekci a pustí se do další kapitoly.\nDěláme a hrajeme vlastní věci (Indie rock). V současnosti jsme dokončili debutové album a jedeme dál, protože inspirace je spousty.\nPokud tě oslovila naše muzika, chceš hrát, zkoušet a stát na podiu, pak se určitě ozvi...\nMuzika je pro radost, ale bereme ji vážně ;-)\nTěšíme se na novou energii...\nDandy´s Company\nAlbum link:\nhttps://open.spotify.com/artist/27sIORXUugpCKDfV7M6JSI?si=6qAAgHijSU-62P3uVhLMvA",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=bUfAFIW7f1o",
+        "https://open.spotify.com/artist/27sIORXUugpCKDfV7M6JSI?si=6qAAgHijSU-62P3uVhLMvA"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 81,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Brno"
+      ]
+    },
+    {
+      "id": "hudebnibazar:778748",
+      "title": "Obsidian Grace is looking for live shows / support slots",
+      "url": "https://hudebnibazar.cz/obsidian-grace-is-looking-for-live-shows-support-slots/ID778748/",
+      "date": "2026-09-22T16:33:00+02:00",
+      "location": "Praha 5",
+      "author": "Andrei.Sotov",
+      "excerpt": "Obsidian Grace (gothic / melodic metal) from Prague is looking for opportunities to perform at concerts, festivals, or join lineups as a support band. We currently have ~45 minutes of original material, fully rehearsed and ready for live performance. We’re easy to work with, reliable, and open to different formats of shows. You…",
+      "description": "Obsidian Grace (gothic / melodic metal) from Prague is looking for opportunities to perform at concerts, festivals, or join lineups as a support band.\nWe currently have ~45 minutes of original material, fully rehearsed and ready for live performance.\nWe’re easy to work with, reliable, and open to different formats of shows.\nYou can listen to our music here:\nhttps://obsidiangrace.com/music\nIf you have a suitable event or slot, feel free to message me.",
+      "externalLinks": [
+        "https://obsidiangrace.com/music"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 83,
+      "reasons": [
+        "Praha 5",
+        "lokální networking",
+        "odkaz na profil / ukázku",
+        "podrobný inzerát"
+      ]
+    },
     {
       "id": "hudebnibazar:783560",
       "title": "Zpěvačka hledá kapelu?",
@@ -869,31 +943,6 @@
       ]
     },
     {
-      "id": "hudebnibazar:765094",
-      "title": "Baskytara wanted!",
-      "url": "https://hudebnibazar.cz/baskytara-wanted/ID765094/",
-      "date": "2026-09-17T16:29:00+02:00",
-      "location": "Praha 4",
-      "author": "Josef.R",
-      "excerpt": "Pražská nu-metalová kapela Jesper Snow hledá baskytaristu (nebo baskytaristku!) Hledáme někoho, kdo má touhu a vůli to někam dotáhnout a je ochotný pro to udělat maximum! Holka, kluk, věk ideálně mezi 17 a 30 lety. Máme vlastní zkušebnu na Praze 4. Hrajeme vlastní věci s anglickými texty - viz:…",
-      "description": "Pražská nu-metalová kapela Jesper Snow hledá baskytaristu (nebo baskytaristku!)\nHledáme někoho, kdo má touhu a vůli to někam dotáhnout a je ochotný pro to udělat maximum! Holka, kluk, věk ideálně mezi 17 a 30 lety.\nMáme vlastní zkušebnu na Praze 4.\nHrajeme vlastní věci s anglickými texty - viz:\nhttps://open.spotify.com/artist/3pKuiJSQ49gmZIoMXd11QH?si=sSbL-pneRdW9D3e8UtjrGQ\nPošli nám o sobě pár informací a případně ukázek na . Těšíme se na tebe!",
-      "externalLinks": [
-        "https://open.spotify.com/artist/3pKuiJSQ49gmZIoMXd11QH?si=sSbL-pneRdW9D3e8UtjrGQ"
-      ],
-      "influences": [],
-      "genres": [
-        "Nu-metal"
-      ],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 100,
-      "reasons": [
-        "nu-metal",
-        "odkaz na profil / ukázku",
-        "Praha 4"
-      ]
-    },
-    {
       "id": "hudebnibazar:780196",
       "title": "Black'n'roll ze studia shání bubenici, bubeníka na stage",
       "url": "https://hudebnibazar.cz/black-n-roll-ze-studia-shani-bubenici-bubenika-na-stage/ID780196/",
@@ -1514,31 +1563,6 @@
       ]
     },
     {
-      "id": "hudebnibazar:766012",
-      "title": "!!! WANTED !!! Hledají se bicí do Indie Rock kapely",
-      "url": "https://hudebnibazar.cz/wanted-hledaji-se-bici-do-indie-rock-kapely/ID766012/",
-      "date": "2026-09-13T20:48:00+02:00",
-      "location": "Brno",
-      "author": "Dandy.S.Company2",
-      "excerpt": "Ahoj, plánovaně a stále hledáme (nového, ale klidně i zánovního) bubeníka, který nám adekvátně nahradí naši stávající rytmickou sekci a pustí se do další kapitoly :-) Děláme a hrajeme vlastní věci (Indie rock). V současnosti jsme dokončili debutové album a jedeme dál, protože inspirace je spousty. Pokud tě oslovila naše muzika,…",
-      "description": "Ahoj, plánovaně a stále hledáme (nového, ale klidně i zánovního) bubeníka, který nám adekvátně nahradí naši stávající rytmickou sekci a pustí se do další kapitoly :-)\nDěláme a hrajeme vlastní věci (Indie rock). V současnosti jsme dokončili debutové album a jedeme dál, protože inspirace je spousty.\nPokud tě oslovila naše muzika, chceš hrát, zkoušet a stát na podiu, pak se určitě ozvi...\nMuzika je pro radost, ale bereme ji vážně ;-)\nTěšíme se na novou energii...\nDandy´s Company\nAlbum link:\nhttps://open.spotify.com/artist/27sIORXUugpCKDfV7M6JSI?si=6qAAgHijSU-62P3uVhLMvA",
-      "externalLinks": [
-        "https://www.youtube.com/watch?v=bUfAFIW7f1o",
-        "https://open.spotify.com/artist/27sIORXUugpCKDfV7M6JSI?si=6qAAgHijSU-62P3uVhLMvA"
-      ],
-      "influences": [],
-      "genres": [],
-      "isPrague": false,
-      "source": "Hudební bazar",
-      "score": 81,
-      "reasons": [
-        "podrobný inzerát",
-        "jasný projekt / zkušenosti",
-        "odkaz na profil / ukázku",
-        "Brno"
-      ]
-    },
-    {
       "id": "hudebnibazar:781896",
       "title": "Nabízím pro hudebníka/ky pro pop/rock zpěv a skládání písní",
       "url": "https://hudebnibazar.cz/nabizim-pro-hudebnika-ky-pro-pop-rock-zpev-a-skladani-pisni/ID781896/",
@@ -1743,30 +1767,6 @@
         "odkaz na profil / ukázku",
         "vlastní tvorba",
         "Praha 4"
-      ]
-    },
-    {
-      "id": "hudebnibazar:778748",
-      "title": "Obsidian Grace is looking for live shows / support slots",
-      "url": "https://hudebnibazar.cz/obsidian-grace-is-looking-for-live-shows-support-slots/ID778748/",
-      "date": "2026-09-12T19:06:00+02:00",
-      "location": "Praha 5",
-      "author": "Andrei.Sotov",
-      "excerpt": "Obsidian Grace (gothic / melodic metal) from Prague is looking for opportunities to perform at concerts, festivals, or join lineups as a support band. We currently have ~45 minutes of original material, fully rehearsed and ready for live performance. We’re easy to work with, reliable, and open to different formats of shows. You…",
-      "description": "Obsidian Grace (gothic / melodic metal) from Prague is looking for opportunities to perform at concerts, festivals, or join lineups as a support band.\nWe currently have ~45 minutes of original material, fully rehearsed and ready for live performance.\nWe’re easy to work with, reliable, and open to different formats of shows.\nYou can listen to our music here:\nhttps://obsidiangrace.com/music\nIf you have a suitable event or slot, feel free to message me.",
-      "externalLinks": [
-        "https://obsidiangrace.com/music"
-      ],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 83,
-      "reasons": [
-        "Praha 5",
-        "lokální networking",
-        "odkaz na profil / ukázku",
-        "podrobný inzerát"
       ]
     },
     {
