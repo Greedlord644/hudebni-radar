@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T17:32:43.484991+00:00",
+  "updatedAt": "2026-09-22T17:41:45.984530+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -111,6 +111,29 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:780593",
+      "title": "Hledáme bubeníka",
+      "url": "https://hudebnibazar.cz/hledame-bubenika/ID780593/",
+      "date": "2026-09-22T19:34:00+02:00",
+      "location": "Praha 9",
+      "author": "Tomas.Roucka2",
+      "excerpt": "Heavy metalová kapela Soul Keeper hledá bubeníka. Více info do zpráv nebo po telefonu.",
+      "description": "Heavy metalová kapela Soul Keeper hledá bubeníka. Více info do zpráv nebo po telefonu.",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=ytCfQFt7LJs"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 78,
+      "reasons": [
+        "Praha 9",
+        "lokální networking",
+        "odkaz na profil / ukázku"
+      ]
+    },
     {
       "id": "hudebnibazar:781259",
       "title": "HLEDÁM BLACKMETALOVÉHO BUBENÍKA",
@@ -1559,29 +1582,6 @@
         "jasný projekt / zkušenosti",
         "odkaz na profil / ukázku",
         "Rokycany"
-      ]
-    },
-    {
-      "id": "hudebnibazar:780593",
-      "title": "Hledáme bubeníka",
-      "url": "https://hudebnibazar.cz/hledame-bubenika/ID780593/",
-      "date": "2026-09-14T10:29:00+02:00",
-      "location": "Praha 9",
-      "author": "Tomas.Roucka2",
-      "excerpt": "Heavy metalová kapela Soul Keeper hledá bubeníka. Více info do zpráv nebo po telefonu.",
-      "description": "Heavy metalová kapela Soul Keeper hledá bubeníka. Více info do zpráv nebo po telefonu.",
-      "externalLinks": [
-        "https://www.youtube.com/watch?v=ytCfQFt7LJs"
-      ],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 78,
-      "reasons": [
-        "Praha 9",
-        "lokální networking",
-        "odkaz na profil / ukázku"
       ]
     },
     {
