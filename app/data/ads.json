@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T14:41:42.890405+00:00",
+  "updatedAt": "2026-09-22T14:51:44.385625+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -253,6 +253,26 @@
       "reasons": [
         "Linkin Park",
         "Břeclav"
+      ]
+    },
+    {
+      "id": "hudebnibazar:783511",
+      "title": "Basák hledá kapelu",
+      "url": "https://hudebnibazar.cz/basak-hleda-kapelu/ID783511/",
+      "date": "2026-09-22T13:13:00+02:00",
+      "location": "Praha 4",
+      "author": "Matyas.Orsag",
+      "excerpt": "Čaute hledám kapelu se kterou bych si zlepšil live hudbu, nejsem žádný geezer butler ale nedržím basu poprvé v ruce a chci mít praxi na koncertech. Ideálně bych chtěl hrát hard rock, heavy metal a podobné žánry. Je mi 19 a bydlím v Praze takže blízký věk i lokace by se taky hodil. Jestli shání nějaký takový band basáka napiš.",
+      "description": "Čaute hledám kapelu se kterou bych si zlepšil live hudbu, nejsem žádný geezer butler ale nedržím basu poprvé v ruce a chci mít praxi na koncertech.\nIdeálně bych chtěl hrát hard rock, heavy metal a podobné žánry. Je mi 19 a bydlím v Praze takže blízký věk i lokace by se taky hodil. Jestli shání nějaký takový band basáka napiš.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "Praha 4",
+        "lokální networking"
       ]
     },
     {
