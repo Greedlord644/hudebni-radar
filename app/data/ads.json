@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T19:02:46.438438+00:00",
+  "updatedAt": "2026-09-23T19:12:22.541472+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -111,6 +111,30 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:778918",
+      "title": "Mladý kreativní bubeník hledá rockovou kapelu",
+      "url": "https://hudebnibazar.cz/mlady-kreativni-bubenik-hleda-rockovou-kapelu/ID778918/",
+      "date": "2026-09-23T21:08:00+02:00",
+      "location": "Karviná",
+      "author": "Fili.Lava",
+      "excerpt": "Čau! Hledám rockovou kapelu z Ostravy či nejlépe z Karviné – ideálně muzikanty přibližně v mém věku (21), ale není podmínkou. Mám dlouholeté zkušenosti s bicími a věnuji se také skládání a tvorbě vlastních písní. Hudebně mě baví především melodický rock, hard rock a glam/hair metal 80. let – Journey, Europe, Whitesnake, REO…",
+      "description": "Čau!\nHledám rockovou kapelu z Ostravy či nejlépe z Karviné – ideálně muzikanty přibližně v mém věku (21), ale není podmínkou.\nMám dlouholeté zkušenosti s bicími a věnuji se také skládání a tvorbě vlastních písní. Hudebně mě baví především melodický rock, hard rock a glam/hair metal 80. let – Journey, Europe, Whitesnake, REO Speedwagon, Toto, Cinderella, RATT, Icon, Van Halen, Aerosmith, Slaughter, Mötley Crüe, Def Leppard a další podobné kapely, přičemž mezi moje favority patří hlavně Danger Danger (viz dole odkaz) = kombinace chytlavých pop melodií a velkých refrénů s tvrdě rozmanitými rockovými riffy.\nRád bych našel kapelu, kde kromě bicích využiju i své skladatelské nápady a kreativitu.\nPokud hledáte bubeníka se zájmem o vlastní tvorbu, napište mi.\nPS: INZERÁT NENÍ VHODNÝ PRO OSOBY CITLIVÉ NA MELODIE A REFRÉNY!",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=oPRQZMtcgHY"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 81,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Karviná"
+      ]
+    },
     {
       "id": "hudebnibazar:759428",
       "title": "Hledáme zpěvačku do nové kapely",
@@ -1061,30 +1085,6 @@
       "reasons": [
         "Praha-východ",
         "lokální networking"
-      ]
-    },
-    {
-      "id": "hudebnibazar:778918",
-      "title": "Mladý kreativní bubeník hledá rockovou kapelu",
-      "url": "https://hudebnibazar.cz/mlady-kreativni-bubenik-hleda-rockovou-kapelu/ID778918/",
-      "date": "2026-09-18T20:20:00+02:00",
-      "location": "Karviná",
-      "author": "Fili.Lava",
-      "excerpt": "Čau! Hledám rockovou kapelu z Ostravy či nejlépe z Karviné – ideálně muzikanty přibližně v mém věku (21), ale není podmínkou. Mám dlouholeté zkušenosti s bicími a věnuji se také skládání a tvorbě vlastních písní. Hudebně mě baví především melodický rock a hard rock 70./80. let – Journey, Europe, REO Speedwagon, Toto,…",
-      "description": "Čau!\nHledám rockovou kapelu z Ostravy či nejlépe z Karviné – ideálně muzikanty přibližně v mém věku (21), ale není podmínkou.\nMám dlouholeté zkušenosti s bicími a věnuji se také skládání a tvorbě vlastních písní. Hudebně mě baví především melodický rock a hard rock 70./80. let – Journey, Europe, REO Speedwagon, Toto, Cinderella, Rainbow, Aerosmith, Deep Purple a další podobné.\nRád bych našel kapelu, kde kromě bicích využiju i své skladatelské nápady a kreativitu.\nPokud hledáte bubeníka se zájmem o vlastní tvorbu, napište mi.\nPS: INZERÁT NENÍ VHODNÝ PRO OSOBY CITLIVÉ NA MELODIE A REFRÉNY!",
-      "externalLinks": [
-        "https://www.youtube.com/watch?v=-gkahaxpJzs"
-      ],
-      "influences": [],
-      "genres": [],
-      "isPrague": false,
-      "source": "Hudební bazar",
-      "score": 81,
-      "reasons": [
-        "podrobný inzerát",
-        "jasný projekt / zkušenosti",
-        "odkaz na profil / ukázku",
-        "Karviná"
       ]
     },
     {
