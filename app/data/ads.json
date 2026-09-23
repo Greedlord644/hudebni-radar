@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T16:51:46.806425+00:00",
+  "updatedAt": "2026-09-23T17:02:09.356359+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -111,6 +111,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:783800",
+      "title": "Kytara",
+      "url": "https://hudebnibazar.cz/kytara/ID783800/",
+      "date": "2026-09-23T19:00:00+02:00",
+      "location": "Praha-východ",
+      "author": "Pepino.Bubenicek",
+      "excerpt": "Jsi kytarista co by se přidal k bicí, basa a zkusil s námi dát dohromady band hrající vlastní tvorbu ve stylu rock, jižanský rock. Mám vlastní zkušebnu v Brandýse nad Labem.",
+      "description": "Jsi kytarista co by se přidal k bicí, basa a zkusil s námi dát dohromady band hrající vlastní tvorbu ve stylu rock, jižanský rock. Mám vlastní zkušebnu v Brandýse nad Labem.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 72,
+      "reasons": [
+        "Praha-východ",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:769759",
       "title": "Hledám partu rockerů...",
