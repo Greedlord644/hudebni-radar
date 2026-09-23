@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T21:21:35.901920+00:00",
+  "updatedAt": "2026-09-23T21:31:53.310996+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -111,6 +111,27 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:783856",
+      "title": "Hledáme basáka (Letovice)",
+      "url": "https://hudebnibazar.cz/hledame-basaka-letovice/ID783856/",
+      "date": "2026-09-23T23:25:00+02:00",
+      "location": "Blansko",
+      "author": "Tomas.Havelka3",
+      "excerpt": "Ahoj! Jsme deathcorová parta z Letovic (je nám 15–17) a sháníme k sobě basáka. Nechceme hrát pořád to samé dokola, takže v naší tvorbě najdeš i prvky blacku, melodeathu, progu , metalcoru nebo thrashu. Máme už složené celé album, ale ještě zbývá pár věcí: doskládat techniku, pravidelně zkoušet, nahrát to a vyrazit mezi lidi na…",
+      "description": "Ahoj! Jsme deathcorová parta z Letovic (je nám 15–17) a sháníme k sobě basáka. Nechceme hrát pořád to samé dokola, takže v naší tvorbě najdeš i prvky blacku, melodeathu, progu , metalcoru nebo thrashu.\nMáme už složené celé album, ale ještě zbývá pár věcí: doskládat techniku, pravidelně zkoušet, nahrát to a vyrazit mezi lidi na koncerty.\nCo od tebe potřebujeme:\nVlastní basu/aparát,\nSpolehlivost a čas na zkoušky,\nChuť tvořit a brát kapelu vážně\nCo máme my:\nMísto na zkoušení v Letovicích a kompletní materiál na album.\nChceš být u toho? Napiš nám do zpráv a domluvíme se.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "Blansko"
+      ]
+    },
     {
       "id": "hudebnibazar:778918",
       "title": "Mladý kreativní bubeník hledá rockovou kapelu",
