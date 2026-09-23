@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T18:21:44.514603+00:00",
+  "updatedAt": "2026-09-23T18:32:32.895797+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -111,6 +111,28 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:759428",
+      "title": "Hledáme zpěvačku do nové kapely",
+      "url": "https://hudebnibazar.cz/hledame-zpevacku-do-nove-kapely/ID759428/",
+      "date": "2026-09-23T20:25:00+02:00",
+      "location": "Praha 4",
+      "author": "Richard.Grey",
+      "excerpt": "Máme vlastní repertoár v angličtině. Hudba se stylově blíží synthpopu, darkwave a indie dreampopu. Silné melodie, hloubavé texty. Hledáme sebevědomý, emocionální projev a zajímavý hlas.",
+      "description": "Máme vlastní repertoár v angličtině. Hudba se stylově blíží synthpopu, darkwave a indie dreampopu. Silné melodie, hloubavé texty.\nHledáme sebevědomý, emocionální projev a zajímavý hlas.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Emo"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 60,
+      "reasons": [
+        "emo",
+        "Praha 4"
+      ]
+    },
     {
       "id": "hudebnibazar:780196",
       "title": "Black'n'roll ze studia shání bubenici, bubeníka na stage",
@@ -1490,28 +1512,6 @@
       "score": 94,
       "reasons": [
         "alt rock",
-        "Praha 4"
-      ]
-    },
-    {
-      "id": "hudebnibazar:759428",
-      "title": "Hledáme zpěvačku do nové kapely",
-      "url": "https://hudebnibazar.cz/hledame-zpevacku-do-nove-kapely/ID759428/",
-      "date": "2026-09-15T14:50:00+02:00",
-      "location": "Praha 4",
-      "author": "Richard.Grey",
-      "excerpt": "Máme vlastní repertoár v angličtině. Hudba se stylově blíží synthpopu, darkwave a indie dreampopu. Silné melodie, hloubavé texty. Hledáme sebevědomý, emocionální projev a zajímavý hlas.",
-      "description": "Máme vlastní repertoár v angličtině. Hudba se stylově blíží synthpopu, darkwave a indie dreampopu. Silné melodie, hloubavé texty.\nHledáme sebevědomý, emocionální projev a zajímavý hlas.",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [
-        "Emo"
-      ],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 60,
-      "reasons": [
-        "emo",
         "Praha 4"
       ]
     },
