@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T05:11:32.062432+00:00",
+  "updatedAt": "2026-09-23T05:21:40.288104+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -324,6 +324,27 @@
       "reasons": [
         "Linkin Park",
         "Břeclav"
+      ]
+    },
+    {
+      "id": "hudebnibazar:780093",
+      "title": "HLEDÁME BUBENÍKA (OLOMOUC, PŘEROV a jeho okolí ) )",
+      "url": "https://hudebnibazar.cz/hledame-bubenika-olomouc-prerov-a-jeho-okoli/ID780093/",
+      "date": "2026-09-22T13:15:00+02:00",
+      "location": "Přerov",
+      "author": "Kayen.Pavel",
+      "excerpt": "Rocková skupina ráda přivítá kamaráda do party. Máme nachystaný program známých songů na příští rok, ale bohužel bubeník z nedostatku času se už nemůže s námi podílet na přípravě. Zkušebna nachystaná. Jen zasednout za bicí a hrát. Pokud chybí mobilita nebo by jsi chtěl dojíždět z osobního důvodu :), je možné z Olomouce se…",
+      "description": "Rocková skupina ráda přivítá kamaráda do party.\nMáme nachystaný program známých songů na příští rok, ale bohužel bubeník z nedostatku času se už nemůže s námi podílet na přípravě.\nZkušebna nachystaná. Jen zasednout za bicí a hrát. Pokud chybí mobilita nebo by jsi chtěl dojíždět z osobního důvodu :), je možné z Olomouce se členem skupiny jezdit autem.\nHrajeme rockové písničky hlavně pro lidi.\nPokud si chceš s námi dělat radost a především posluchačům, tak dej o sobě vědět. Nemusíš být žádný virtuóz ani vystudovanou konzervatoř.\nMůže to být dobrý základ pro novou bubenickou krev.\nPodrobnosti sdělím každému potenciálnímu zájemci pokud projeví své nadšení pro danou věc.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "Přerov"
       ]
     },
     {
