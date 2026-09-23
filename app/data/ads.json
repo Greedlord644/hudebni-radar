@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T12:31:57.492216+00:00",
+  "updatedAt": "2026-09-23T12:41:47.611134+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -111,6 +111,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:739586",
+      "title": "Hledame spoluhrace do zakladajici kapely!",
+      "url": "https://hudebnibazar.cz/hledame-spoluhrace-do-zakladajici-kapely/ID739586/",
+      "date": "2026-09-23T14:34:00+02:00",
+      "location": "Praha 10",
+      "author": "M.S14",
+      "excerpt": "Hledame pro zalozeni rockove kapely spoluhrace;kytara,(vocal|zpevacku.zpevaka| ,klavesy ),ve vekovem rozmezi (45+)kdo maji zajem o spolecnou tvorbu,radost ze hry i pratelsky pristup.Hledame lidicky i amatery,ne-profiky s ambicemi kariery,Ale spoluhrace ktery svuj nastroj ovladaji.Klidne,uzavrene prostory na zkousky 1.den o…",
+      "description": "Hledame pro zalozeni rockove kapely spoluhrace;kytara,(vocal|zpevacku.zpevaka| ,klavesy ),ve vekovem rozmezi (45+)kdo maji zajem o spolecnou tvorbu,radost ze hry i pratelsky pristup.Hledame lidicky i amatery,ne-profiky s ambicemi kariery,Ale spoluhrace ktery svuj nastroj ovladaji.Klidne,uzavrene prostory na zkousky 1.den o vykendu k dispozici (zdarma) Piste,ozveme se vsem!",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "Praha 10",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:777985",
       "title": "Kapela ( heavy - thrash ) Vypadni! hledá zpěváka",
