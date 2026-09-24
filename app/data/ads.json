@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T19:31:52.792150+00:00",
+  "updatedAt": "2026-09-24T19:41:37.063980+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -111,6 +111,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:709872",
+      "title": "Hledá se houslistka, flétnistka pro folk-rockové hraní",
+      "url": "https://hudebnibazar.cz/hleda-se-houslistka-fletnistka-pro-folk-rockove-hrani/ID709872/",
+      "date": "2026-09-24T21:38:00+02:00",
+      "location": "Nymburk",
+      "author": "Ondra.Rybka",
+      "excerpt": "Ahoj , 48 letý zpívající kytarista ve stylu folk-rocku hledá ideálně spoluhráčku na housle či flétnu, kytaru, baskytaru, nebo něco jiného zapadajícího.Předem děkuji za odpovědi ke stylu podaného inzerátu.Nymburk-Praha.Hezký den a ať Ti to hraje!",
+      "description": "Ahoj , 48 letý zpívající kytarista ve stylu folk-rocku hledá ideálně spoluhráčku na housle či flétnu, kytaru, baskytaru, nebo něco jiného zapadajícího.Předem děkuji za odpovědi ke stylu podaného inzerátu.Nymburk-Praha.Hezký den a ať Ti to hraje!",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Nymburk",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:783227",
       "title": "HLEDÁM AUTORSKÝ BAND",
