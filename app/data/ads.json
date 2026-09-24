@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T15:21:46.297046+00:00",
+  "updatedAt": "2026-09-24T15:31:58.614858+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -111,6 +111,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:765482",
+      "title": "Bubeník - Rhythm&Blues/Rock&Roll - Praha",
+      "url": "https://hudebnibazar.cz/bubenik-rhythm-blues-rock-roll-praha/ID765482/",
+      "date": "2026-09-24T17:24:00+02:00",
+      "location": "Rakovník",
+      "author": "Jiri.Hamouz",
+      "excerpt": "Sháním bubeníka, z Prahy či okolí, pro založení kapely. Myšlenka je hrát směsici blues a rock&rollu s agresivnějším zvukem alá Nick Curran. Bližší podrobnosti po zprávách.",
+      "description": "Sháním bubeníka, z Prahy či okolí, pro založení kapely. Myšlenka je hrát směsici blues a rock&rollu s agresivnějším zvukem alá Nick Curran. Bližší podrobnosti po zprávách.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Rakovník",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:730451",
       "title": "Hledám alternative, shoegaze, apod. hudebníky/lidi/kapelu",
@@ -1566,26 +1586,6 @@
         "jasný projekt / zkušenosti",
         "odkaz na profil / ukázku",
         "Brno"
-      ]
-    },
-    {
-      "id": "hudebnibazar:765482",
-      "title": "Bubeník - Rhythm&Blues/Rock&Roll - Praha",
-      "url": "https://hudebnibazar.cz/bubenik-rhythm-blues-rock-roll-praha/ID765482/",
-      "date": "2026-09-15T23:46:00+02:00",
-      "location": "Rakovník",
-      "author": "Jiri.Hamouz",
-      "excerpt": "Sháním bubeníka, z Prahy či okolí, pro založení kapely. Myšlenka je hrát směsici blues a rock&rollu s agresivnějším zvukem alá Nick Curran. Bližší podrobnosti po zprávách.",
-      "description": "Sháním bubeníka, z Prahy či okolí, pro založení kapely. Myšlenka je hrát směsici blues a rock&rollu s agresivnějším zvukem alá Nick Curran. Bližší podrobnosti po zprávách.",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": false,
-      "source": "Hudební bazar",
-      "score": 66,
-      "reasons": [
-        "Rakovník",
-        "lokální networking"
       ]
     },
     {
