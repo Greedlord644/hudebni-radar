@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T12:51:49.697009+00:00",
+  "updatedAt": "2026-09-24T13:02:50.388960+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -111,6 +111,33 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:730451",
+      "title": "Hledám alternative, shoegaze, apod. hudebníky/lidi/kapelu",
+      "url": "https://hudebnibazar.cz/hledam-alternative-shoegaze-apod-hudebniky-lidi-kapelu/ID730451/",
+      "date": "2026-09-24T14:59:00+02:00",
+      "location": "Praha 6",
+      "author": "Simon.Kolar2",
+      "excerpt": "Ahoj, alternativní žánry typu: post-rock/post-punk/shoegaze/artrock/slowcore/lo-fi/noise rock/mathrock/psychadelic/dream pop/midwest emo/nu gaze/ambient/alternative rock/prog/experimental/90s/indie folk/garage rock/ale i elektronika, idm, breakbeat, synth, dnb, trip hop, electronica a i třeba indie rock a tak (:(: jsou moje…",
+      "description": "Ahoj, alternativní žánry typu: post-rock/post-punk/shoegaze/artrock/slowcore/lo-fi/noise rock/mathrock/psychadelic/dream pop/midwest emo/nu gaze/ambient/alternative rock/prog/experimental/90s/indie folk/garage rock/ale i elektronika, idm, breakbeat, synth, dnb, trip hop, electronica a i třeba indie rock a tak (:(: jsou moje srdcovka(;,\ntak jestli se chceš přidat do naší alternative(; kapely/kolektivu (bereme v podstatě jakejkoliv nástroj, teď by se nám třeba hodil saxofon(: ),\nnebo\njestli hledáte kytaristu do vaší kapely (jsem kytarista, je mi 20, mám zkušenosti už z dost kapel, a pár kamarádů muzikantů, který můžu kdyžtak přibrat s sebou/dohodit, kdybyste potřebovali třeba bubeníka(;),\nnebo\nsi prostě chceš zajít na pivo pokecat o hudbě s dalšíma muzikantama, a pak třeba něco stvořit, napiš! Těším(e) se!\nWhatsapp/SMS: , Instagram: simonyy211",
+      "externalLinks": [
+        "https://instagram.com/simonyy211"
+      ],
+      "influences": [],
+      "genres": [
+        "Alt-rock",
+        "Emo",
+        "Elektronika"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 100,
+      "reasons": [
+        "alternative rock",
+        "odkaz na profil / ukázku",
+        "Praha 6"
+      ]
+    },
     {
       "id": "hudebnibazar:720493",
       "title": "Hledáme bubeníka",
