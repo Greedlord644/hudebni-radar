@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T20:21:49.258016+00:00",
+  "updatedAt": "2026-09-24T20:31:57.511201+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -111,6 +111,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:784023",
+      "title": "Hard Rock Band",
+      "url": "https://hudebnibazar.cz/hard-rock-band/ID784023/",
+      "date": "2026-09-24T22:29:00+02:00",
+      "location": "Praha 4",
+      "author": "Allen.Novak",
+      "excerpt": "Cuss, jsem solo kytarista, je mi 18, a chci začít kapelu. Žánrově jsem zaměřen na Hard Rock, nejoblíbenější kapely jsou Guns N’ Roses, Mötley Crüe. Zatím hraju necelých dva roky. Jsem samouk, neumím teorie, ale mam sluch a techniku. Jsem spíše praktická osoba. Neváhejte se psát, O2 aréna sama sebe nevyprodá!!",
+      "description": "Cuss, jsem solo kytarista, je mi 18, a chci začít kapelu.\nŽánrově jsem zaměřen na Hard Rock, nejoblíbenější kapely jsou Guns N’ Roses, Mötley Crüe.\nZatím hraju necelých dva roky. Jsem samouk, neumím teorie, ale mam sluch a techniku. Jsem spíše praktická osoba.\nNeváhejte se psát, O2 aréna sama sebe nevyprodá!!",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Praha 4",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:739344",
       "title": "Doprovodný kytarista hledá rockovou partu nebo malou kapelu",
