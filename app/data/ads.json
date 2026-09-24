@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T19:41:37.063980+00:00",
+  "updatedAt": "2026-09-24T19:51:42.240479+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -111,6 +111,30 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:739344",
+      "title": "Doprovodný kytarista hledá rockovou partu nebo malou kapelu",
+      "url": "https://hudebnibazar.cz/doprovodny-kytarista-hleda-rockovou-partu-nebo-malou-kapelu/ID739344/",
+      "date": "2026-09-24T21:41:00+02:00",
+      "location": "Praha-východ",
+      "author": "Vit.Ba",
+      "excerpt": "Ahoj, je mi 19 let a hledám partu lidí nebo malou kapelu, která chce hrát, nebo hraje rock jen pro zábavu – žádný profi tlak, hlavně dobrá muzika a fajn atmosféra. Hraju na akustickou kytaru 4 roky a na elektrickou přes rok. Nejčastěji hraji např. Black Sabbath, Olympic, Lucie, Doga, Alkehol, Metallica, Rammstein, AC/DC, atd.…",
+      "description": "Ahoj, je mi 19 let a hledám partu lidí nebo malou kapelu, která chce hrát, nebo hraje rock jen pro zábavu – žádný profi tlak, hlavně dobrá muzika a fajn atmosféra.\nHraju na akustickou kytaru 4 roky a na elektrickou přes rok. Nejčastěji hraji např. Black Sabbath, Olympic, Lucie, Doga, Alkehol, Metallica, Rammstein, AC/DC, atd. Umím základní a barré akordy, power akordy, vybrnkávání i nějaká sóla.\nRád bych hrál s kapelou, která zkouší párkrát týdně, nebo měsíčně a občas si jde zahrát i někam ven, třeba menší koncert, ale není to priorita, spíš bych rád zkusil hrát s ostatními a ne jenom v pokoji sám pro sebe.\nNa věku mi nezáleží, hlavně aby nás bavila hudba a hraní společně.\nPokud hledáte někoho, kdo má chuť hrát a bavit se a jste z Prahy, nebo poblíž Prahy - východ, ozvěte se mi!\nKontakt: email: / Instagram: viteeeek10",
+      "externalLinks": [
+        "https://instagram.com/viteeeek10"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 86,
+      "reasons": [
+        "Praha-východ",
+        "lokální networking",
+        "odkaz na profil / ukázku",
+        "podrobný inzerát"
+      ]
+    },
     {
       "id": "hudebnibazar:709872",
       "title": "Hledá se houslistka, flétnistka pro folk-rockové hraní",
