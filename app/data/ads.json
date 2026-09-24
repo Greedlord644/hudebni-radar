@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T19:21:36.136343+00:00",
+  "updatedAt": "2026-09-24T19:31:52.792150+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -111,6 +111,46 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:783227",
+      "title": "HLEDÁM AUTORSKÝ BAND",
+      "url": "https://hudebnibazar.cz/hledam-autorsky-band/ID783227/",
+      "date": "2026-09-24T21:25:00+02:00",
+      "location": "Praha 4",
+      "author": "Gogen.77",
+      "excerpt": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím. Jen aktivní kapely z Prahy.",
+      "description": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím.\nJen aktivní kapely z Prahy.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "Praha 4",
+        "lokální networking"
+      ]
+    },
+    {
+      "id": "bandmate:ab17581a-e938-472c-8375-1e7ab32dcaa5",
+      "title": "Hard Rock band",
+      "url": "https://bandmate.cz/inzerat/hard-rock-band-LJQ61w",
+      "date": "2026-09-24T19:30:17.687214+00:00",
+      "location": "Praha",
+      "author": "Allen",
+      "excerpt": "Hard Rock band Cuss, jsem solo kytarista, je mi 18, a chci začít kapelu. Žánrově jsem zaměřen na Hard Rock, nejoblíbenější kapely jsou Guns N’ Roses, Mötley Crüe. Hraju zatím necelých dva roky. Jsem samouk, neumím teorie, ale mam sluch a techniku. Jsem spíše praktická osoba. Neváhejte se psát, O2 aréna sama sebe nevyprodá!!…",
+      "description": "Hard Rock band Cuss, jsem solo kytarista, je mi 18, a chci začít kapelu.\nŽánrově jsem zaměřen na Hard Rock, nejoblíbenější kapely jsou Guns N’ Roses, Mötley Crüe.\nHraju zatím necelých dva roky. Jsem samouk, neumím teorie, ale mam sluch a techniku. Jsem spíše praktická osoba.\nNeváhejte se psát, O2 aréna sama sebe nevyprodá!! rock kytara",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Bandmate",
+      "score": 66,
+      "reasons": [
+        "Praha",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:784002",
       "title": "Kytarista hledá Trash metal band",
