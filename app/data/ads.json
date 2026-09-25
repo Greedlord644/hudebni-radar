@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T11:02:12.103100+00:00",
+  "updatedAt": "2026-09-25T11:12:19.274437+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -111,6 +111,30 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:782382",
+      "title": "Hledá se člověk co se nebojí baskytary!",
+      "url": "https://hudebnibazar.cz/hleda-se-clovek-co-se-neboji-baskytary/ID782382/",
+      "date": "2026-09-25T13:02:00+02:00",
+      "location": "Brno",
+      "author": "David.D4",
+      "excerpt": "Ahoj, Do autorské popíkovo (lehcerockové) kapely hledám bassmena, po kterém bych chtěl, aby hrál na basu. (je to všechno vtip jen!) Jestli bys chtěl vědět víc tak piš! Ps: Ideálně věk kolem 20-35, a idealně někdo v okolí Brna, ať si rozumíme. Jo a zkušebnu máme! (prý je to vzácnost, tak machruju) Ď a Čau",
+      "description": "Ahoj,\nDo autorské popíkovo (lehcerockové) kapely hledám bassmena, po kterém bych chtěl, aby hrál na basu. (je to všechno vtip jen!)\nJestli bys chtěl vědět víc tak piš!\nPs: Ideálně věk kolem 20-35, a idealně někdo v okolí Brna, ať si rozumíme.\nJo a zkušebnu máme! (prý je to vzácnost, tak machruju)\nĎ a Čau",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=TVt8cw7rmr8"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 78,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Brno"
+      ]
+    },
     {
       "id": "hudebnibazar:762845",
       "title": "Extreme vocalist is looking for a band",
@@ -1686,30 +1710,6 @@
         "Praha 7",
         "lokální networking",
         "odkaz na profil / ukázku"
-      ]
-    },
-    {
-      "id": "hudebnibazar:782382",
-      "title": "Hledá se člověk co se nebojí baskytary!",
-      "url": "https://hudebnibazar.cz/hleda-se-clovek-co-se-neboji-baskytary/ID782382/",
-      "date": "2026-09-16T11:42:00+02:00",
-      "location": "Brno",
-      "author": "David.D4",
-      "excerpt": "Ahoj, Do autorské popíkovo (lehcerockové) kapely hledám bassmena, po kterém bych chtěl, aby hrál na basu. (je to všechno vtip jen!) Jestli bys chtěl vědět víc tak piš! Ps: Ideálně věk kolem 20-35, a idealně někdo v okolí Brna, ať si rozumíme. Jo a zkušebnu máme! (prý je to vzácnost, tak machruju) Ď a Čau",
-      "description": "Ahoj,\nDo autorské popíkovo (lehcerockové) kapely hledám bassmena, po kterém bych chtěl, aby hrál na basu. (je to všechno vtip jen!)\nJestli bys chtěl vědět víc tak piš!\nPs: Ideálně věk kolem 20-35, a idealně někdo v okolí Brna, ať si rozumíme.\nJo a zkušebnu máme! (prý je to vzácnost, tak machruju)\nĎ a Čau",
-      "externalLinks": [
-        "https://www.youtube.com/watch?v=TVt8cw7rmr8"
-      ],
-      "influences": [],
-      "genres": [],
-      "isPrague": false,
-      "source": "Hudební bazar",
-      "score": 78,
-      "reasons": [
-        "podrobný inzerát",
-        "jasný projekt / zkušenosti",
-        "odkaz na profil / ukázku",
-        "Brno"
       ]
     },
     {
