@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T15:51:32.464308+00:00",
+  "updatedAt": "2026-09-26T16:01:52.576405+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -111,6 +111,30 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:784304",
+      "title": "Hledá se Basák",
+      "url": "https://hudebnibazar.cz/hleda-se-basak/ID784304/",
+      "date": "2026-09-26T17:51:00+02:00",
+      "location": "Tábor",
+      "author": "Zdenek.Koutensky",
+      "excerpt": "Ahoj, Hledá se BASÁKA Jsme Punk-Rock kapela System Shutdown a hledáme nového BASÁKA. Jsme z TÁBORA a máme vlastní tvorbu. Náš basák odešel z osobních důvodů...... Máme prostory na hraní a zkouší se cca 1x týdně. + máme domluvené akce pro tento rok 2026 a domlouváme pro rok 2027.....",
+      "description": "Ahoj, Hledá se BASÁKA\nJsme Punk-Rock kapela System Shutdown a hledáme nového BASÁKA.\nJsme z TÁBORA a máme vlastní tvorbu.\nNáš basák odešel z osobních důvodů......\nMáme prostory na hraní a zkouší se cca 1x týdně.\n+ máme domluvené akce pro tento rok 2026 a domlouváme pro rok 2027.....",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=32tRAOt5xnA"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 75,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Tábor"
+      ]
+    },
     {
       "id": "hudebnibazar:775914",
       "title": "Hledáme Baskytaristu/Baskytaristku do Modern Metal Kapely",
