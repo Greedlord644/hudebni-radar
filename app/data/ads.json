@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T08:42:10.330509+00:00",
+  "updatedAt": "2026-09-26T08:51:32.966015+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -111,6 +111,28 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:784224",
+      "title": "Nu metal,heavy shoegaze",
+      "url": "https://hudebnibazar.cz/nu-metal-heavy-shoegaze/ID784224/",
+      "date": "2026-09-26T10:44:00+02:00",
+      "location": "Praha 3",
+      "author": "Narco.Polo",
+      "excerpt": "Hledám Basáka(Basačku) a Vokalistu-klidně(Rapera) z Prahy do Nu metalového projektu.Jestli tě baví Numec,Hardcore,Heavy shoegaze nebo Rap dej o sobě vědět-věk není podstatný..důležité jsou schopnosti a vlídný vztah k hudbě!",
+      "description": "Hledám Basáka(Basačku) a Vokalistu-klidně(Rapera) z Prahy do Nu metalového projektu.Jestli tě baví Numec,Hardcore,Heavy shoegaze nebo Rap dej o sobě vědět-věk není podstatný..důležité jsou schopnosti a vlídný vztah k hudbě!",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Nu-metal"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 94,
+      "reasons": [
+        "nu metal",
+        "Praha 3"
+      ]
+    },
     {
       "id": "hudebnibazar:784216",
       "title": "Hledám klávesáka či klávesistku",
