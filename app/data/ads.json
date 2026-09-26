@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T16:22:10.630694+00:00",
+  "updatedAt": "2026-09-26T16:31:46.695847+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -111,6 +111,27 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:767304",
+      "title": "Hledáme zpěváka/zpěvačku",
+      "url": "https://hudebnibazar.cz/hledame-zpevaka-zpevacku/ID767304/",
+      "date": "2026-09-26T18:22:00+02:00",
+      "location": "Frýdek-Místek",
+      "author": "Palo2",
+      "excerpt": "Trio vyhraných muzikantů( kytara,bicí,basa) hledá k sobě tvořivého muzikanta na post ZPĚVÁKA/ZPĚVAČKY Hrajeme od blues rocku po hard rock. Žadný cover,vlastní tvorba. Máme spoustu nahrávek a zpoustu zkušeností.... Zkušebna v Nýdku v Bystřici,ale bubeník dojíždí z Havířova... Těší se \" Ozzubená kola\".",
+      "description": "Trio vyhraných muzikantů( kytara,bicí,basa) hledá k sobě tvořivého muzikanta na post ZPĚVÁKA/ZPĚVAČKY\nHrajeme od blues rocku po hard rock. Žadný cover,vlastní tvorba. Máme spoustu nahrávek a zpoustu zkušeností....\nZkušebna v Nýdku v Bystřici,ale bubeník dojíždí z Havířova...\nTěší se \" Ozzubená kola\".",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "Frýdek-Místek"
+      ]
+    },
     {
       "id": "hudebnibazar:784304",
       "title": "Hledá se Basák",
@@ -1786,27 +1807,6 @@
         "alternativní rock",
         "odkaz na profil / ukázku",
         "Praha 8"
-      ]
-    },
-    {
-      "id": "hudebnibazar:767304",
-      "title": "Hledáme zpěváka/zpěvačku",
-      "url": "https://hudebnibazar.cz/hledame-zpevaka-zpevacku/ID767304/",
-      "date": "2026-09-16T14:05:00+02:00",
-      "location": "Frýdek-Místek",
-      "author": "Palo2",
-      "excerpt": "Trio vyhraných muzikantů( kytara,bicí,basa) hledá k sobě tvořivého muzikanta na post ZPĚVÁKA/ZPĚVAČKY Hrajeme od blues rocku po hard rock. Žadný cover,vlastní tvorba. Máme spoustu nahrávek a zpoustu zkušeností.... Zkušebna v Nýdku v Bystřici,ale bubeník dojíždí z Havířova... Těší se \" Ozzubená kola\".",
-      "description": "Trio vyhraných muzikantů( kytara,bicí,basa) hledá k sobě tvořivého muzikanta na post ZPĚVÁKA/ZPĚVAČKY\nHrajeme od blues rocku po hard rock. Žadný cover,vlastní tvorba. Máme spoustu nahrávek a zpoustu zkušeností....\nZkušebna v Nýdku v Bystřici,ale bubeník dojíždí z Havířova...\nTěší se \" Ozzubená kola\".",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": false,
-      "source": "Hudební bazar",
-      "score": 69,
-      "reasons": [
-        "podrobný inzerát",
-        "jasný projekt / zkušenosti",
-        "Frýdek-Místek"
       ]
     },
     {
