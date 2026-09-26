@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T08:51:32.966015+00:00",
+  "updatedAt": "2026-09-26T09:01:58.812717+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -112,6 +112,27 @@
   ],
   "interesting": [
     {
+      "id": "hudebnibazar:779385",
+      "title": "Hledá se zpěvák",
+      "url": "https://hudebnibazar.cz/hleda-se-zpevak/ID779385/",
+      "date": "2026-09-26T10:50:00+02:00",
+      "location": "Příbram",
+      "author": "Zdenek.Rousal",
+      "excerpt": "ROCK WINGS HLEDAJÍ ZPĚVÁKA! Kapela Rock Wings hledá do své sestavy zpěváka / frontmana. Hrajeme český i zahraniční rockový repertoár a hledáme někoho, kdo má dobrý hlas, energii a chuť stát před lidmi a být plnohodnotnou součástí kapely. Co hledáme: Zkušenosti se zpěvem a jistotu na pódiu. Schopnost zvládnout český i anglický…",
+      "description": "ROCK WINGS HLEDAJÍ ZPĚVÁKA!\nKapela Rock Wings hledá do své sestavy zpěváka / frontmana.\nHrajeme český i zahraniční rockový repertoár a hledáme někoho, kdo má dobrý hlas, energii a chuť stát před lidmi a být plnohodnotnou součástí kapely.\nCo hledáme:\nZkušenosti se zpěvem a jistotu na pódiu.\nSchopnost zvládnout český i anglický repertoár, angličtina je spíš výhoda, všechny zahraniční písničky máme přetextované do češtiny.\nKomunikaci s publikem a přirozené vystupování.\nSpolehlivost a čas na zkoušky i koncerty.\nHlavně chuť hrát a táhnout s kapelou za jeden provaz\nCo nabízíme:\nFungující a sehranou kapelu.\nHotový repertoár.\nKoncertování a další domluvené akce.\nPohodovou partu zkušených muzikantů.\nVlastní vybavenou zkušebnu poblíž Sedlčan.\nProstor přinést do kapely i něco vlastního\nLokalita: Sedlčansko a okolí\nPokud tě to zaujalo, ozvi se do zprávy. Napiš pár slov o sobě a pokud máš nějakou nahrávku nebo video, pošli ho rovnou.\nBudeme rádi i za sdílení – třeba se náš nový frontman skrývá právě mezi vašimi kamarády. ?\nROCK WINGS",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 78,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "Příbram"
+      ]
+    },
+    {
       "id": "hudebnibazar:784224",
       "title": "Nu metal,heavy shoegaze",
       "url": "https://hudebnibazar.cz/nu-metal-heavy-shoegaze/ID784224/",
@@ -135,13 +156,13 @@
     },
     {
       "id": "hudebnibazar:784216",
-      "title": "Hledám klávesáka či klávesistku",
-      "url": "https://hudebnibazar.cz/hledam-klavesaka-ci-klavesistku/ID784216/",
+      "title": "Hledá se klávesák",
+      "url": "https://hudebnibazar.cz/hleda-se-klavesak/ID784216/",
       "date": "2026-09-26T10:27:00+02:00",
       "location": "České Budějovice",
       "author": "Daniel.Blahout",
-      "excerpt": "Hledám klávesáka či klávesistku do kapely s mou vlastní tvorbou. Žánr je spíš rock - crossover, trochu i pop/rock. Tady je odkaz. Loni nám vyšla deska, koncertujeme tak 1, 2 krát do měsíce, ale rádi by jsme i víc. Jsme z okolí Českých Budějovic. https://m.youtube.com/playlist?list=PLaFCpI5-nCnAvZCAfDxd2k7IZdkibXEio",
-      "description": "Hledám klávesáka či klávesistku do kapely s mou vlastní tvorbou. Žánr je spíš rock - crossover, trochu i pop/rock. Tady je odkaz. Loni nám vyšla deska, koncertujeme tak 1, 2 krát do měsíce, ale rádi by jsme i víc. Jsme z okolí Českých Budějovic.\nhttps://m.youtube.com/playlist?list=PLaFCpI5-nCnAvZCAfDxd2k7IZdkibXEio",
+      "excerpt": "Hledám klávesáka do kapely s mou vlastní tvorbou. Žánr je spíš rock - crossover, trochu i pop/rock. Tady je odkaz. Loni nám vyšla deska, koncertujeme tak 1, 2 krát do měsíce, ale rádi by jsme i víc. Jsme z okolí Českých Budějovic. https://m.youtube.com/playlist?list=PLaFCpI5-nCnAvZCAfDxd2k7IZdkibXEio",
+      "description": "Hledám klávesáka do kapely s mou vlastní tvorbou. Žánr je spíš rock - crossover, trochu i pop/rock. Tady je odkaz. Loni nám vyšla deska, koncertujeme tak 1, 2 krát do měsíce, ale rádi by jsme i víc. Jsme z okolí Českých Budějovic.\nhttps://m.youtube.com/playlist?list=PLaFCpI5-nCnAvZCAfDxd2k7IZdkibXEio",
       "externalLinks": [
         "https://www.youtube.com/watch?v=wVt1r7q12Oc",
         "https://m.youtube.com/playlist?list=PLaFCpI5-nCnAvZCAfDxd2k7IZdkibXEio"
@@ -1426,27 +1447,6 @@
       "reasons": [
         "Praha 10",
         "lokální networking"
-      ]
-    },
-    {
-      "id": "hudebnibazar:779385",
-      "title": "Hledá se zpěvák",
-      "url": "https://hudebnibazar.cz/hleda-se-zpevak/ID779385/",
-      "date": "2026-09-19T12:38:00+02:00",
-      "location": "Příbram",
-      "author": "Zdenek.Rousal",
-      "excerpt": "ROCK WINGS HLEDAJÍ ZPĚVÁKA! Kapela Rock Wings hledá do své sestavy zpěváka / frontmana. Hrajeme český i zahraniční rockový repertoár a hledáme někoho, kdo má dobrý hlas, energii a chuť stát před lidmi a být plnohodnotnou součástí kapely. Co hledáme: Zkušenosti se zpěvem a jistotu na pódiu. Schopnost zvládnout český i anglický…",
-      "description": "ROCK WINGS HLEDAJÍ ZPĚVÁKA!\nKapela Rock Wings hledá do své sestavy zpěváka / frontmana.\nHrajeme český i zahraniční rockový repertoár a hledáme někoho, kdo má dobrý hlas, energii a chuť stát před lidmi a být plnohodnotnou součástí kapely.\nCo hledáme:\nZkušenosti se zpěvem a jistotu na pódiu.\nSchopnost zvládnout český i anglický repertoár, angličtina je spíš výhoda, všechny zahraniční písničky máme přetextované do češtiny.\nKomunikaci s publikem a přirozené vystupování.\nSpolehlivost a čas na zkoušky i koncerty.\nHlavně chuť hrát a táhnout s kapelou za jeden provaz\nCo nabízíme:\nFungující a sehranou kapelu.\nHotový repertoár.\nKoncertování a další domluvené akce.\nPohodovou partu zkušených muzikantů.\nVlastní vybavenou zkušebnu poblíž Sedlčan.\nProstor přinést do kapely i něco vlastního\nLokalita: Sedlčansko a okolí\nPokud tě to zaujalo, ozvi se do zprávy. Napiš pár slov o sobě a pokud máš nějakou nahrávku nebo video, pošli ho rovnou.\nBudeme rádi i za sdílení – třeba se náš nový frontman skrývá právě mezi vašimi kamarády. ?\nROCK WINGS",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": false,
-      "source": "Hudební bazar",
-      "score": 78,
-      "reasons": [
-        "podrobný inzerát",
-        "jasný projekt / zkušenosti",
-        "Příbram"
       ]
     },
     {
