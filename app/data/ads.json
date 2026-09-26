@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T11:02:34.749034+00:00",
+  "updatedAt": "2026-09-26T11:11:33.470630+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -111,6 +111,29 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:784248",
+      "title": "Hledam bubenika altrock, shoegaze",
+      "url": "https://hudebnibazar.cz/hledam-bubenika-altrock-shoegaze/ID784248/",
+      "date": "2026-09-26T13:01:00+02:00",
+      "location": "Praha 10",
+      "author": "Josef.Lipcak",
+      "excerpt": "Ahoj, hledam bubenika do kapely. Ukazky zde https://soundcloud.com/blueshit-/sets/inz?si=026cf4673c3f456886729b56f94ea7d0 kdyztak piste na Praha, vek 30 (muj)",
+      "description": "Ahoj, hledam bubenika do kapely. Ukazky zde\nhttps://soundcloud.com/blueshit-/sets/inz?si=026cf4673c3f456886729b56f94ea7d0\nkdyztak piste na\nPraha, vek 30 (muj)",
+      "externalLinks": [
+        "https://soundcloud.com/blueshit-213166442/sets/inz?si=026cf4673c3f456886729b56f94ea7d0"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 78,
+      "reasons": [
+        "Praha 10",
+        "lokální networking",
+        "odkaz na profil / ukázku"
+      ]
+    },
     {
       "id": "hudebnibazar:779385",
       "title": "Hledá se zpěvák",
