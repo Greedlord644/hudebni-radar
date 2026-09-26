@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T08:11:34.251435+00:00",
+  "updatedAt": "2026-09-26T08:21:33.755685+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -111,6 +111,30 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:734251",
+      "title": "Bicí hledají kapelu",
+      "url": "https://hudebnibazar.cz/bici-hledaji-kapelu/ID734251/",
+      "date": "2026-09-26T10:11:00+02:00",
+      "location": "Česká Lípa",
+      "author": "Pali.Palicka",
+      "excerpt": "Ahoj všem, hledám kapelu Liberecký kraj žánr pop rock, grunge, modern rock ,hlavní je aby to všechny bavilo, věk 40+ díky za nabídky",
+      "description": "Ahoj všem, hledám kapelu Liberecký kraj žánr pop rock, grunge, modern rock ,hlavní je aby to všechny bavilo, věk 40+ díky za nabídky",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Modern rock",
+        "Grunge"
+      ],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 64,
+      "reasons": [
+        "modern rock",
+        "grunge",
+        "Česká Lípa"
+      ]
+    },
     {
       "id": "hudebnibazar:770622",
       "title": "HLEDÁM AUTORSKÝ BAND",
