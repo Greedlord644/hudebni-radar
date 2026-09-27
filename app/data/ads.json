@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T16:02:42.676242+00:00",
+  "updatedAt": "2026-09-27T16:11:34.883074+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -111,6 +111,30 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:784496",
+      "title": "Hledáme zpěváka Jablonec/Liberec",
+      "url": "https://hudebnibazar.cz/hledame-zpevaka-jablonec-liberec/ID784496/",
+      "date": "2026-09-27T18:08:00+02:00",
+      "location": "Jablonec nad Nisou",
+      "author": "Daniel.Jirik2",
+      "excerpt": "? PUDINK HLEDÁ ZPĚVÁKA! Jsme funky-rocková kapela z okolí Jablonce nad Nisou a hledáme nového frontmana. Hrajeme vlastní tvorbu – energický mix rocku, funku a modernějších vlivů. Máme hotové skladby, vlastní materiál a chceme pravidelně zkoušet a hlavně hrát živě. ? Ukázka naší tvorby: https://youtu.be/I6VUKgb9LZw ? Zkoušíme v…",
+      "description": "? PUDINK HLEDÁ ZPĚVÁKA!\nJsme funky-rocková kapela z okolí Jablonce nad Nisou a hledáme nového frontmana.\nHrajeme vlastní tvorbu – energický mix rocku, funku a modernějších vlivů. Máme hotové skladby, vlastní materiál a chceme pravidelně zkoušet a hlavně hrát živě.\n? Ukázka naší tvorby:\nhttps://youtu.be/I6VUKgb9LZw\n? Zkoušíme v Jablonci nad Nisou.\nPokud tě to zaujalo, napiš nám pár slov o sobě + ideálně pošli nějakou ukázku svého zpěvu.\nNeboj se ozvat i v případě, že si nejsi jistý, jestli přesně splňuješ všechno. Důležitější než dokonalá technika je pro nás hlas, energie a charakter.",
+      "externalLinks": [
+        "https://youtu.be/I6VUKgb9LZw"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 81,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Jablonec nad Nisou"
+      ]
+    },
     {
       "id": "hudebnibazar:784478",
       "title": "Death metal - vznikající kapela",
