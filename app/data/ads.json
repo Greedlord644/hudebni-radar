@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T11:11:44.071399+00:00",
+  "updatedAt": "2026-09-28T11:21:42.798037+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -111,6 +111,30 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:784623",
+      "title": "Looking for a Bassist in Prague!",
+      "url": "https://hudebnibazar.cz/looking-for-a-bassist-in-prague/ID784623/",
+      "date": "2026-09-28T13:20:00+02:00",
+      "location": "Praha 5",
+      "author": "Andrei.Sotov",
+      "excerpt": "Prague-based gothic & melodic metal band is looking for a bassist. What matters: ✔️ Good sense of rhythm and groove — tight with drums and click ✔️ Basslines are not difficult, but they need to sound solid ✔️ Bass parts for the existing songs are already fully written, tabs provided — we expect them to be played as they are ✔️…",
+      "description": "Prague-based gothic & melodic metal band is looking for a bassist.\nWhat matters:\n✔️ Good sense of rhythm and groove — tight with drums and click\n✔️ Basslines are not difficult, but they need to sound solid\n✔️ Bass parts for the existing songs are already fully written, tabs provided — we expect them to be played as they are\n✔️ For new material, your ideas are welcome\n✔️ You should be able to prepare the material on your own and play it confidently at rehearsals\n✔️ Own bass and multi-FX with cab simulation\nWe rehearse with in-ear monitoring. We provide the wired connection, you only need your own earphones/IEMs.\nOur main focus now is live shows. The first album is almost finished, and a little later we’ll start working on new material.\nLineup: female vocals, guitar, drums, keyboards/samples and you on bass?\nAge and gender don’t matter — rhythm, groove and motivation do.\nMusic: https://obsidiangrace.com/music\nLooking forward to hearing from you!",
+      "externalLinks": [
+        "https://obsidiangrace.com/music"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 86,
+      "reasons": [
+        "Praha 5",
+        "lokální networking",
+        "odkaz na profil / ukázku",
+        "podrobný inzerát"
+      ]
+    },
     {
       "id": "hudebnibazar:778748",
       "title": "Obsidian Grace is looking for live shows / support slots",
