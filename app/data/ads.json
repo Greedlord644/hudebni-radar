@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T08:31:47.298631+00:00",
+  "updatedAt": "2026-09-28T08:41:36.077767+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -111,6 +111,37 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:775768",
+      "title": "Hledáme bubeníka",
+      "url": "https://hudebnibazar.cz/hledame-bubenika/ID775768/",
+      "date": "2026-09-28T10:39:00+02:00",
+      "location": "Praha 10",
+      "author": "Jan.O2",
+      "excerpt": "Naše nově vznikající kapela hledá bubeníka. Žánrově se chceme pohybovat v metalu s ženským hlasem (VIZ UKÁZKA). Potřebujeme někoho, kdo si dobře rozumí s dvojšlapkou. Všichni již máme zkušenosti s koncerty, nahráváním i s videoklipy z předchozích kapel. Věkově kolem 40-ti let. Zkušebnu máme v Kralupech nad Vltavou. Inspirace:…",
+      "description": "Naše nově vznikající kapela hledá bubeníka. Žánrově se chceme pohybovat v metalu s ženským hlasem (VIZ UKÁZKA). Potřebujeme někoho, kdo si dobře rozumí s dvojšlapkou. Všichni již máme zkušenosti s koncerty, nahráváním i s videoklipy z předchozích kapel. Věkově kolem 40-ti let. Zkušebnu máme v Kralupech nad Vltavou.\nInspirace:\nBad Omens, Wage War, Caskets, Poppy, Amaranthe, Diamante, Ankor, Motionless In White, Falling In Revers, Make Them Suffer, Currents, Polaris, Architects, Red Hook...",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=Wh9NMQXWUNU"
+      ],
+      "influences": [
+        "Bad Omens",
+        "Architects",
+        "Poppy",
+        "Caskets",
+        "Motionless In White",
+        "Falling In Reverse"
+      ],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 100,
+      "reasons": [
+        "Bad Omens",
+        "Architects",
+        "odkaz na profil / ukázku",
+        "Praha 10"
+      ]
+    },
     {
       "id": "hudebnibazar:783569",
       "title": "Alternativní Rocková skupina z Ostravy/F-M hledá kytaristu!",
@@ -3327,37 +3358,6 @@
         "lokální networking",
         "odkaz na profil / ukázku",
         "podrobný inzerát"
-      ]
-    },
-    {
-      "id": "hudebnibazar:775768",
-      "title": "Hledáme bubeníka",
-      "url": "https://hudebnibazar.cz/hledame-bubenika/ID775768/",
-      "date": "2026-08-30T10:02:00+02:00",
-      "location": "Praha 10",
-      "author": "Jan.O2",
-      "excerpt": "Naše nově vznikající kapela hledá bubeníka. Žánrově se chceme pohybovat v metalu s ženským hlasem (VIZ UKÁZKA). Potřebujeme někoho, kdo si dobře rozumí s dvojšlapkou. Všichni již máme zkušenosti s koncerty, nahráváním i s videoklipy z předchozích kapel. Věkově kolem 40-ti let. Zkušebnu máme v Kralupech nad Vltavou. Inspirace:…",
-      "description": "Naše nově vznikající kapela hledá bubeníka. Žánrově se chceme pohybovat v metalu s ženským hlasem (VIZ UKÁZKA). Potřebujeme někoho, kdo si dobře rozumí s dvojšlapkou. Všichni již máme zkušenosti s koncerty, nahráváním i s videoklipy z předchozích kapel. Věkově kolem 40-ti let. Zkušebnu máme v Kralupech nad Vltavou.\nInspirace:\nBad Omens, Wage War, Caskets, Poppy, Amaranthe, Diamante, Ankor, Motionless In White, Falling In Revers, Make Them Suffer, Currents, Polaris, Architects, Red Hook...",
-      "externalLinks": [
-        "https://www.youtube.com/watch?v=Wh9NMQXWUNU"
-      ],
-      "influences": [
-        "Bad Omens",
-        "Architects",
-        "Poppy",
-        "Caskets",
-        "Motionless In White",
-        "Falling In Reverse"
-      ],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 100,
-      "reasons": [
-        "Bad Omens",
-        "Architects",
-        "odkaz na profil / ukázku",
-        "Praha 10"
       ]
     },
     {
