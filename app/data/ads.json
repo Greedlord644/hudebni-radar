@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T07:02:05.918242+00:00",
+  "updatedAt": "2026-09-28T07:11:33.089540+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -111,6 +111,51 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:783569",
+      "title": "Alternativní Rocková skupina z Ostravy/F-M hledá kytaristu!",
+      "url": "https://hudebnibazar.cz/alternativni-rockova-skupina-z-ostravy-f-m-hleda-kytaristu/ID783569/",
+      "date": "2026-09-28T09:07:00+02:00",
+      "location": "Frýdek-Místek",
+      "author": "Adam.Komurka",
+      "excerpt": "Hledáme schopného a spolehlivého kytaristu/kytaristku se zájmem aktivně koncertovat a nahrávat. Věk ideálně v rozmezí 20-35. Vlastní auto je plus avšak není podmínkou. Pošlete nahrávku či video svého hraní na WhatsApp či na mail: (bez střihu či jiné významné post-produkce). Budeme se na vás těšit!",
+      "description": "Hledáme schopného a spolehlivého kytaristu/kytaristku se zájmem aktivně koncertovat a nahrávat. Věk ideálně v rozmezí 20-35. Vlastní auto je plus avšak není podmínkou. Pošlete nahrávku či video svého hraní na WhatsApp či na mail: (bez střihu či jiné významné post-produkce). Budeme se na vás těšit!",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=VqjgShACE1Y"
+      ],
+      "influences": [],
+      "genres": [
+        "Alt-rock"
+      ],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 94,
+      "reasons": [
+        "alternativní rock",
+        "odkaz na profil / ukázku",
+        "Frýdek-Místek"
+      ]
+    },
+    {
+      "id": "hudebnibazar:771034",
+      "title": "HLEDÁM AUTORSKÝ BAND",
+      "url": "https://hudebnibazar.cz/hledam-autorsky-band/ID771034/",
+      "date": "2026-09-28T09:03:00+02:00",
+      "location": "Praha 4",
+      "author": "Gogen.77",
+      "excerpt": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím. Jen aktivní kapely z Prahy.",
+      "description": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím.\nJen aktivní kapely z Prahy.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "Praha 4",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:776472",
       "title": "Hledám   zpěváka/zpěvačku",
@@ -1018,26 +1063,6 @@
       ]
     },
     {
-      "id": "hudebnibazar:771034",
-      "title": "HLEDÁM AUTORSKÝ BAND",
-      "url": "https://hudebnibazar.cz/hledam-autorsky-band/ID771034/",
-      "date": "2026-09-23T09:12:00+02:00",
-      "location": "Praha 4",
-      "author": "Gogen.77",
-      "excerpt": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím. Jen aktivní kapely z Prahy.",
-      "description": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím.\nJen aktivní kapely z Prahy.",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 69,
-      "reasons": [
-        "Praha 4",
-        "lokální networking"
-      ]
-    },
-    {
       "id": "hudebnibazar:772011",
       "title": "Hledám zpěváka/zpěvačku - Praha",
       "url": "https://hudebnibazar.cz/hledam-zpevaka-zpevacku-praha/ID772011/",
@@ -1108,31 +1133,6 @@
         "Praha 9",
         "lokální networking",
         "odkaz na profil / ukázku"
-      ]
-    },
-    {
-      "id": "hudebnibazar:783569",
-      "title": "Alternativní Rocková skupina z Ostravy/F-M hledá kytaristu!",
-      "url": "https://hudebnibazar.cz/alternativni-rockova-skupina-z-ostravy-f-m-hleda-kytaristu/ID783569/",
-      "date": "2026-09-22T17:02:00+02:00",
-      "location": "Frýdek-Místek",
-      "author": "Adam.Komurka",
-      "excerpt": "Hledáme schopného a spolehlivého kytaristu/kytaristku se zájmem aktivně koncertovat a nahrávat. Věk ideálně v rozmezí 20-35. Vlastní auto je plus avšak není podmínkou. Pošlete nahrávku či video svého hraní na WhatsApp či na mail: (bez střihu či jiné významné post-produkce). Budeme se na vás těšit!",
-      "description": "Hledáme schopného a spolehlivého kytaristu/kytaristku se zájmem aktivně koncertovat a nahrávat. Věk ideálně v rozmezí 20-35. Vlastní auto je plus avšak není podmínkou. Pošlete nahrávku či video svého hraní na WhatsApp či na mail: (bez střihu či jiné významné post-produkce). Budeme se na vás těšit!",
-      "externalLinks": [
-        "https://www.youtube.com/watch?v=VqjgShACE1Y"
-      ],
-      "influences": [],
-      "genres": [
-        "Alt-rock"
-      ],
-      "isPrague": false,
-      "source": "Hudební bazar",
-      "score": 94,
-      "reasons": [
-        "alternativní rock",
-        "odkaz na profil / ukázku",
-        "Frýdek-Místek"
       ]
     },
     {
