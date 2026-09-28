@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T09:52:11.053994+00:00",
+  "updatedAt": "2026-09-28T10:02:40.641729+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -111,6 +111,57 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:778748",
+      "title": "Obsidian Grace is looking for live shows / support slots",
+      "url": "https://hudebnibazar.cz/obsidian-grace-is-looking-for-live-shows-support-slots/ID778748/",
+      "date": "2026-09-28T11:53:00+02:00",
+      "location": "Praha 5",
+      "author": "Andrei.Sotov",
+      "excerpt": "Obsidian Grace (gothic / melodic metal) from Prague is looking for opportunities to perform at concerts, festivals, or join lineups as a support band. We currently have ~45 minutes of original material, fully rehearsed and ready for live performance. We’re easy to work with, reliable, and open to different formats of shows. You…",
+      "description": "Obsidian Grace (gothic / melodic metal) from Prague is looking for opportunities to perform at concerts, festivals, or join lineups as a support band.\nWe currently have ~45 minutes of original material, fully rehearsed and ready for live performance.\nWe’re easy to work with, reliable, and open to different formats of shows.\nYou can listen to our music here:\nhttps://obsidiangrace.com/music\nIf you have a suitable event or slot, feel free to message me.",
+      "externalLinks": [
+        "https://obsidiangrace.com/music"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 83,
+      "reasons": [
+        "Praha 5",
+        "lokální networking",
+        "odkaz na profil / ukázku",
+        "podrobný inzerát"
+      ]
+    },
+    {
+      "id": "hudebnibazar:779842",
+      "title": "Hledáme kytaristku",
+      "url": "https://hudebnibazar.cz/hledame-kytaristku/ID779842/",
+      "date": "2026-09-28T11:51:00+02:00",
+      "location": "Praha 3",
+      "author": "Stepan.Lutansky",
+      "excerpt": "Ahoj, jsme začínající kapela z Prahy, jménem Jack Of All Trades. Žánr, kterým naše kapela kráčí je: nu metal, alt metal, hard rock a metalcore. Všem členům je okolo 19-20 let. Hledáme kytaristku (věkové rozmezí 17-21 let), která vyplní naše prázdné místo. Stojíme o týmovou hráčku, která s naším kytaristou bude ochotna sdílet…",
+      "description": "Ahoj,\njsme začínající kapela z Prahy, jménem Jack Of All Trades. Žánr, kterým naše kapela kráčí je: nu metal, alt metal, hard rock a metalcore. Všem členům je okolo 19-20 let.\nHledáme kytaristku (věkové rozmezí 17-21 let), která vyplní naše prázdné místo. Stojíme o týmovou hráčku, která s naším kytaristou bude ochotna sdílet nápady a tvořit. Oceňujeme sebevědomí v tvorbě, ale musí být přítomna sebereflexe. V kapele si zakládáme na otevřených názorech a kritice, protože jedině tak se naše skupina posune.\nRádi bychom přijali kytaristku, která už minimálně pokročile ovládá elektrickou a akustickou kytaru. Zpěv není požadován, ale opět to naši tvorbu určitě hezky ozdobí. Ve skupině jsou pak možnosti doučení různých technik zpěvu dvěma členy (lead singer, guitarist) kapely.\nBudu rád za jakoukoli komunikaci.\nKontaktovat mě můžete přes , nebo přes instagram @lutansky_s (odkaz je odkaz na muj instagram)",
+      "externalLinks": [
+        "https://instagram.com/lutansky_s"
+      ],
+      "influences": [],
+      "genres": [
+        "Nu-metal",
+        "Alt-metal"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 100,
+      "reasons": [
+        "nu metal",
+        "alt metal",
+        "odkaz na profil / ukázku",
+        "Praha 3"
+      ]
+    },
     {
       "id": "hudebnibazar:780093",
       "title": "HLEDÁME BUBENÍKA - OLOMOUCKO spěchá",
@@ -1235,30 +1286,6 @@
         "jasný projekt / zkušenosti",
         "odkaz na profil / ukázku",
         "Brno"
-      ]
-    },
-    {
-      "id": "hudebnibazar:778748",
-      "title": "Obsidian Grace is looking for live shows / support slots",
-      "url": "https://hudebnibazar.cz/obsidian-grace-is-looking-for-live-shows-support-slots/ID778748/",
-      "date": "2026-09-22T16:33:00+02:00",
-      "location": "Praha 5",
-      "author": "Andrei.Sotov",
-      "excerpt": "Obsidian Grace (gothic / melodic metal) from Prague is looking for opportunities to perform at concerts, festivals, or join lineups as a support band. We currently have ~45 minutes of original material, fully rehearsed and ready for live performance. We’re easy to work with, reliable, and open to different formats of shows. You…",
-      "description": "Obsidian Grace (gothic / melodic metal) from Prague is looking for opportunities to perform at concerts, festivals, or join lineups as a support band.\nWe currently have ~45 minutes of original material, fully rehearsed and ready for live performance.\nWe’re easy to work with, reliable, and open to different formats of shows.\nYou can listen to our music here:\nhttps://obsidiangrace.com/music\nIf you have a suitable event or slot, feel free to message me.",
-      "externalLinks": [
-        "https://obsidiangrace.com/music"
-      ],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 83,
-      "reasons": [
-        "Praha 5",
-        "lokální networking",
-        "odkaz na profil / ukázku",
-        "podrobný inzerát"
       ]
     },
     {
@@ -3178,33 +3205,6 @@
         "emo",
         "odkaz na profil / ukázku",
         "Brno"
-      ]
-    },
-    {
-      "id": "hudebnibazar:779842",
-      "title": "Hledáme kytaristku",
-      "url": "https://hudebnibazar.cz/hledame-kytaristku/ID779842/",
-      "date": "2026-09-02T21:02:00+02:00",
-      "location": "Praha 3",
-      "author": "Stepan.Lutansky",
-      "excerpt": "Ahoj, jsme začínající kapela z Prahy. Žánr, kterým naše kapela kráčí je: nu metal, alt metal, hard rock a metalcore. Všem členům je okolo 19-20 let. Hledáme kytaristku (věkové rozmezí 17-21 let), která vyplní naše prázdné místo. Stojíme o týmovou hráčku, která s naším kytaristou bude ochotna sdílet nápady a tvořit. Oceňujeme…",
-      "description": "Ahoj,\njsme začínající kapela z Prahy. Žánr, kterým naše kapela kráčí je: nu metal, alt metal, hard rock a metalcore. Všem členům je okolo 19-20 let.\nHledáme kytaristku (věkové rozmezí 17-21 let), která vyplní naše prázdné místo. Stojíme o týmovou hráčku, která s naším kytaristou bude ochotna sdílet nápady a tvořit. Oceňujeme sebevědomí v tvorbě, ale musí být přítomna sebereflexe. V kapele si zakládáme na otevřených názorech a kritice, protože jedině tak se naše skupina posune.\nRádi bychom přijali kytaristku, která už minimálně pokročile ovládá elektrickou a akustickou kytaru. Zpěv není požadován, ale opět to naši tvorbu určitě hezky ozdobí. Ve skupině jsou pak možnosti doučení různých technik zpěvu dvěma členy (lead singer, guitarist) kapely.\nBudu rád za jakoukoli komunikaci.\nKontaktovat mě můžete přes , nebo přes instagram @lutansky_s (odkaz je odkaz na muj instagram)",
-      "externalLinks": [
-        "https://instagram.com/lutansky_s"
-      ],
-      "influences": [],
-      "genres": [
-        "Nu-metal",
-        "Alt-metal"
-      ],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 100,
-      "reasons": [
-        "nu metal",
-        "alt metal",
-        "odkaz na profil / ukázku",
-        "Praha 3"
       ]
     },
     {
