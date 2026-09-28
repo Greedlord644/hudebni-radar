@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T18:51:31.869188+00:00",
+  "updatedAt": "2026-09-28T19:02:40.794183+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -111,6 +111,29 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:772089",
+      "title": "Zpěvák / zpěvačka – Stoner / Heavy Rock",
+      "url": "https://hudebnibazar.cz/zpevak-zpevacka-stoner-heavy-rock/ID772089/",
+      "date": "2026-09-28T20:58:00+02:00",
+      "location": "Ústí nad Orlicí",
+      "author": "J.G3",
+      "excerpt": "Ahoj! Jsme kapela z Východních Čech a hledáme zpěváka nebo zpěvačku, kteří mají chuť dělat syrový a temnější rock. Hrajeme něco na pomezí stoner rocku, heavy rocku a rock'n'rollu – hutné kytary, výrazné riffy, groove a temnější atmosféra. Nehledáme dokonalý pěvecký rozsah. Důležitý je charisma, emoce a vlastní projev. Ideální…",
+      "description": "Ahoj!\nJsme kapela z Východních Čech a hledáme zpěváka nebo zpěvačku, kteří mají chuť dělat syrový a temnější rock.\nHrajeme něco na pomezí stoner rocku, heavy rocku a rock'n'rollu – hutné kytary, výrazné riffy, groove a temnější atmosféra. Nehledáme dokonalý pěvecký rozsah. Důležitý je charisma, emoce a vlastní projev. Ideální je, když zvládneš zpívat čistě a zároveň se do toho občas trochu opřeš.\nTexty zpíváme v angličtině.\nMáme vlastní tvorbu, zkušebnu ve Skutči a chceme kapelu posouvat dál – zkoušky, koncerty i nahrávání.\nPokud tě baví hutný rock, máš chuť tvořit a hledáš kapelu, která to myslí vážně, ozvi se. Neřešíme věk ani pohlaví – hlavní je, aby nám sedla energie a bavilo nás to společně!",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Emo"
+      ],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 71,
+      "reasons": [
+        "emo",
+        "vlastní tvorba",
+        "Ústí nad Orlicí"
+      ]
+    },
     {
       "id": "hudebnibazar:765094",
       "title": "Baskytara wanted!",
