@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T12:52:12.659297+00:00",
+  "updatedAt": "2026-09-29T13:02:10.936097+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -111,6 +111,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:784885",
+      "title": "HLEDÁM SPOLUHRÁČE",
+      "url": "https://hudebnibazar.cz/hledam-spoluhrace/ID784885/",
+      "date": "2026-09-29T14:51:00+02:00",
+      "location": "Praha 4",
+      "author": "Gogen.77",
+      "excerpt": "Jsem kytarista: solidní zkušenosti, vybavení a hlavně chuť dělat kvalitní, autorskou muziku. (ROCK/HARD) Lokace Praha",
+      "description": "Jsem kytarista:\nsolidní zkušenosti, vybavení a hlavně chuť dělat kvalitní, autorskou muziku. (ROCK/HARD)\nLokace Praha",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "Praha 4",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:760959",
       "title": "MAKAKLAN HLEDÁ BUBENÍKA!!!",
