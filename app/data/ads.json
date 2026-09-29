@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T18:11:42.535499+00:00",
+  "updatedAt": "2026-09-29T18:21:34.101592+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -132,9 +132,30 @@
   ],
   "interesting": [
     {
+      "id": "hudebnibazar:784985",
+      "title": "Záskok / Studiové nahrávání: Trombon / Bass trombon",
+      "url": "https://hudebnibazar.cz/zaskok-studiove-nahravani-trombon-bass-trombon/ID784985/",
+      "date": "2026-09-29T20:01:00+02:00",
+      "location": "Plzeň",
+      "author": "Daniel.Hrecin",
+      "excerpt": "Nabízím spolehlivé záskoky na trombon, bass trombon a baryton. Mám bohaté zkušenosti z big bandů, orchestrů i kapel různých složení a žánrů. - Žánrový přesah: od jazzu, soulu, funku až po rock. - Výborná orientace v notách a harmonii - Rychlá příprava na koncert, spolehlivost a profi přístup (zvládám i SOS záskoky na poslední…",
+      "description": "Nabízím spolehlivé záskoky na trombon, bass trombon a baryton. Mám bohaté zkušenosti z big bandů, orchestrů i kapel různých složení a žánrů.\n- Žánrový přesah: od jazzu, soulu, funku až po rock.\n- Výborná orientace v notách a harmonii\n- Rychlá příprava na koncert, spolehlivost a profi přístup (zvládám i SOS záskoky na poslední chvíli).\n- Vlastní nástroje.\n- Vlastní In-Ear systém.\n- Vlastní doprava.\nOzvěte se a domluvíme se na detailech i ceně.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "Plzeň"
+      ]
+    },
+    {
       "id": "hudebnibazar:784983",
-      "title": "Záskoky na Basu / Kontrabas / Kytaru",
-      "url": "https://hudebnibazar.cz/zaskoky-na-basu-kontrabas-kytaru/ID784983/",
+      "title": "Záskok / Studiové nahrávání: Basa / Kontrabas / Kytara",
+      "url": "https://hudebnibazar.cz/zaskok-studiove-nahravani-basa-kontrabas-kytara/ID784983/",
       "date": "2026-09-29T19:55:00+02:00",
       "location": "Plzeň",
       "author": "Daniel.Hrecin",
@@ -145,7 +166,7 @@
       "genres": [],
       "isPrague": false,
       "source": "Hudební bazar",
-      "score": 66,
+      "score": 69,
       "reasons": [
         "podrobný inzerát",
         "jasný projekt / zkušenosti",
