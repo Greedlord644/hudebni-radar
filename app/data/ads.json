@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-09-29T13:31:48.674105+00:00",
+  "updatedAt": "2026-09-29T13:41:38.759422+00:00",
   "windowDays": 60,
   "singerSeeking": [
+    {
+      "id": "hudebnibazar:731200",
+      "title": "Zpěvačka hledá někoho, kdo se nebojí experimentovat",
+      "url": "https://hudebnibazar.cz/zpevacka-hleda-nekoho-kdo-se-neboji-experimentovat/ID731200/",
+      "date": "2026-09-29T15:32:00+02:00",
+      "location": "Praha 5",
+      "author": "Electro.Harmonix",
+      "excerpt": "Zpívám na pomezí experimentu, improvizace a hledám k sobě spoluhráče / spoluhráčku – nástroj není zásadní. Důležitá je aktivní práce s krabičkami, delayem, efekty. Líbí se mí třeba projekt Beaty Hlavenkové a HRTL. Kladu důraz na improvizaci, hledání společného zvuku, cit pro ticho a vzájemné naslouchání. Zkoušky dle dohody v…",
+      "description": "Zpívám na pomezí experimentu, improvizace a hledám k sobě spoluhráče / spoluhráčku – nástroj není zásadní. Důležitá je aktivní práce s krabičkami, delayem, efekty. Líbí se mí třeba projekt Beaty Hlavenkové a HRTL. Kladu důraz na improvizaci, hledání společného zvuku, cit pro ticho a vzájemné naslouchání. Zkoušky dle dohody v Praze. Chuť experimentovat je zásadní.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 62,
+      "reasons": [
+        "zpěv hledá",
+        "Praha 5"
+      ]
+    },
     {
       "id": "hudebnibazar:761523",
       "title": "Zpěvačka hledá kapelu :)",
@@ -111,6 +131,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:731200",
+      "title": "Zpěvačka hledá někoho, kdo se nebojí experimentovat",
+      "url": "https://hudebnibazar.cz/zpevacka-hleda-nekoho-kdo-se-neboji-experimentovat/ID731200/",
+      "date": "2026-09-29T15:32:00+02:00",
+      "location": "Praha 5",
+      "author": "Electro.Harmonix",
+      "excerpt": "Zpívám na pomezí experimentu, improvizace a hledám k sobě spoluhráče / spoluhráčku – nástroj není zásadní. Důležitá je aktivní práce s krabičkami, delayem, efekty. Líbí se mí třeba projekt Beaty Hlavenkové a HRTL. Kladu důraz na improvizaci, hledání společného zvuku, cit pro ticho a vzájemné naslouchání. Zkoušky dle dohody v…",
+      "description": "Zpívám na pomezí experimentu, improvizace a hledám k sobě spoluhráče / spoluhráčku – nástroj není zásadní. Důležitá je aktivní práce s krabičkami, delayem, efekty. Líbí se mí třeba projekt Beaty Hlavenkové a HRTL. Kladu důraz na improvizaci, hledání společného zvuku, cit pro ticho a vzájemné naslouchání. Zkoušky dle dohody v Praze. Chuť experimentovat je zásadní.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "Praha 5",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:784885",
       "title": "HLEDÁM SPOLUHRÁČE",
