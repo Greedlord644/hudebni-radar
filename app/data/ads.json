@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T16:21:39.655561+00:00",
+  "updatedAt": "2026-09-29T16:32:31.568319+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -131,6 +131,27 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:784957",
+      "title": "Basák do Crossover Thrash / Hardcore | Hraní v zahraničí",
+      "url": "https://hudebnibazar.cz/basak-do-crossover-thrash-hardcore-hrani-v-zahranici/ID784957/",
+      "date": "2026-09-29T18:27:00+02:00",
+      "location": "Praha 9",
+      "author": "Ales.R2",
+      "excerpt": "Ahoj, do velice zajeté a ambiciózní kapely, hledáme člověka, co to s námi bude myslet vážně. Máme vlastní tvorbu a aktuálně pracujeme na čtvrté desce. Na rok 2027 máme už teď přes 15 velkých koncertů, z čehož je polovina v zahraničí a další budou přibývat. V plánu je také i tour po Mexiku. Požadujeme: - Zodpovědnost,…",
+      "description": "Ahoj, do velice zajeté a ambiciózní kapely, hledáme člověka, co to s námi bude myslet vážně. Máme vlastní tvorbu a aktuálně pracujeme na čtvrté desce. Na rok 2027 máme už teď přes 15 velkých koncertů, z čehož je polovina v zahraničí a další budou přibývat. V plánu je také i tour po Mexiku.\nPožadujeme:\n- Zodpovědnost, dochvilnost a připravenost\n- Profesionální přístup\n- Vlastní kvalitní gear\n- Flexibilní zaměstnání\n- Mindset na živé a čím dál častější hraní\nVelkou výhodou:\n- Vlastní dodávka\nS námluvami můžeme začít už hned, ať můžeš v lednu naskočit na první koncert",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 77,
+      "reasons": [
+        "Praha 9",
+        "lokální networking",
+        "podrobný inzerát"
+      ]
+    },
     {
       "id": "hudebnibazar:779225",
       "title": "Basák hledá....",
