@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T04:21:39.937633+00:00",
+  "updatedAt": "2026-09-29T04:31:42.322849+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -111,6 +111,31 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:727629",
+      "title": "Kytarista / kytaristka do kapely Rousing Numbers",
+      "url": "https://hudebnibazar.cz/kytarista-kytaristka-do-kapely-rousing-numbers/ID727629/",
+      "date": "2026-09-29T06:21:00+02:00",
+      "location": "Kroměříž",
+      "author": "Tomas.Holomel",
+      "excerpt": "Ahoj! Kapela Rousing Numbers hledá do svých řad kytaristu nebo kytaristku. Hrajeme autorskou tvorbu na pomezí nu-metalu a moderního rocku. Co nabízíme: • Zázemí vlastní zkušebny v Hulíně • Hotový repertoár + rozpracovaný materiál na nové věci • Zkušenosti s koncertováním, nahráváním i moderní produkcí (hra do clicku / sample) •…",
+      "description": "Ahoj! Kapela Rousing Numbers hledá do svých řad kytaristu nebo kytaristku. Hrajeme autorskou tvorbu na pomezí nu-metalu a moderního rocku.\nCo nabízíme:\n• Zázemí vlastní zkušebny v Hulíně\n• Hotový repertoár + rozpracovaný materiál na nové věci\n• Zkušenosti s koncertováním, nahráváním i moderní produkcí (hra do clicku / sample)\n• Zodpovědný, ale kamarádský přístup a jasný tah na branku\nCo očekáváme:\n• Vlastní spolehlivé vybavení (aparatury/efekty odpovídající žánru)\n• Spolehlivost, dochvilnost a chuť pravidelně zkoušet a koncertovat\n• Schopnost hrát do metronomu / samplů\n• Chuť podílet se na tvorbě nových aranží\nPokud tě náš styl baví a chceš se přidat, ozvi se na tel. nebo napiš zprávu. Rádi pošleme podklady a domluvíme se na zkoušce!",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=UY0mnvwFb50"
+      ],
+      "influences": [],
+      "genres": [
+        "Nu-metal"
+      ],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 94,
+      "reasons": [
+        "nu-metal",
+        "odkaz na profil / ukázku",
+        "Kroměříž"
+      ]
+    },
     {
       "id": "hudebnibazar:780148",
       "title": "Looking for a DRUMMER!",
@@ -2240,31 +2265,6 @@
         "Praha 5",
         "lokální networking",
         "odkaz na profil / ukázku"
-      ]
-    },
-    {
-      "id": "hudebnibazar:727629",
-      "title": "Kytarista / kytaristka do kapely Rousing Numbers",
-      "url": "https://hudebnibazar.cz/kytarista-kytaristka-do-kapely-rousing-numbers/ID727629/",
-      "date": "2026-09-14T08:53:00+02:00",
-      "location": "Kroměříž",
-      "author": "Tomas.Holomel",
-      "excerpt": "Ahoj! Kapela Rousing Numbers hledá do svých řad kytaristu nebo kytaristku. Hrajeme autorskou tvorbu na pomezí nu-metalu a moderního rocku. Co nabízíme: • Zázemí vlastní zkušebny v Hulíně • Hotový repertoár + rozpracovaný materiál na nové věci • Zkušenosti s koncertováním, nahráváním i moderní produkcí (hra do clicku / sample) •…",
-      "description": "Ahoj! Kapela Rousing Numbers hledá do svých řad kytaristu nebo kytaristku. Hrajeme autorskou tvorbu na pomezí nu-metalu a moderního rocku.\nCo nabízíme:\n• Zázemí vlastní zkušebny v Hulíně\n• Hotový repertoár + rozpracovaný materiál na nové věci\n• Zkušenosti s koncertováním, nahráváním i moderní produkcí (hra do clicku / sample)\n• Zodpovědný, ale kamarádský přístup a jasný tah na branku\nCo očekáváme:\n• Vlastní spolehlivé vybavení (aparatury/efekty odpovídající žánru)\n• Spolehlivost, dochvilnost a chuť pravidelně zkoušet a koncertovat\n• Schopnost hrát do metronomu / samplů\n• Chuť podílet se na tvorbě nových aranží\nPokud tě náš styl baví a chceš se přidat, ozvi se na tel. nebo napiš zprávu. Rádi pošleme podklady a domluvíme se na zkoušce!",
-      "externalLinks": [
-        "https://www.youtube.com/watch?v=UY0mnvwFb50"
-      ],
-      "influences": [],
-      "genres": [
-        "Nu-metal"
-      ],
-      "isPrague": false,
-      "source": "Hudební bazar",
-      "score": 94,
-      "reasons": [
-        "nu-metal",
-        "odkaz na profil / ukázku",
-        "Kroměříž"
       ]
     },
     {
