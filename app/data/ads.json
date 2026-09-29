@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T15:51:39.967731+00:00",
+  "updatedAt": "2026-09-29T16:02:36.028953+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -131,6 +131,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:779225",
+      "title": "Basák hledá....",
+      "url": "https://hudebnibazar.cz/basak-hleda/ID779225/",
+      "date": "2026-09-29T17:53:00+02:00",
+      "location": "Praha-východ",
+      "author": "Jan.Urban4",
+      "excerpt": "tak znovu a lépe, hledám kapelu, sem starej ale právě proto se rozhodně nechci věnovat nějakýmu reviválu plesnivců hárdrocku anebo metálu, nejsem ani milovník kotlíků a zpěvu u ohně .....jinak je mi v podstatě tak nějak jedno co to bude, když to nebude blbé a nudné ...Praha východ - Kolín a tak .....(do Prahy nejezdim - neumim…",
+      "description": "tak znovu a lépe, hledám kapelu, sem starej ale právě proto se rozhodně nechci věnovat nějakýmu reviválu plesnivců hárdrocku anebo metálu, nejsem ani milovník kotlíků a zpěvu u ohně .....jinak je mi v podstatě tak nějak jedno co to bude, když to nebude blbé a nudné ...Praha východ - Kolín a tak .....(do Prahy nejezdim - neumim tam parkovat)...",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Praha-východ",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:731200",
       "title": "Zpěvačka hledá někoho, kdo se nebojí experimentovat",
