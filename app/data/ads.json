@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T16:52:06.936898+00:00",
+  "updatedAt": "2026-09-30T17:02:06.459081+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -131,6 +131,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "bandmate:093ddc73-c2c7-4f6a-a708-299ffbc87fef",
+      "title": "female vocalist looking for musicians",
+      "url": "https://bandmate.cz/inzerat/female-vocalist-looking-for-musicians-wxorpk",
+      "date": "2026-09-30T16:52:46.775714+00:00",
+      "location": "Praha",
+      "author": "Loki Mo",
+      "excerpt": "female vocalist looking for musicians I'm a versatile vocalist looking for musicians to create together.",
+      "description": "female vocalist looking for musicians I'm a versatile vocalist looking for musicians to create together.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Bandmate",
+      "score": 66,
+      "reasons": [
+        "Praha",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:785094",
       "title": "Hledám kytaristu",
