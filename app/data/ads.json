@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T09:51:37.159462+00:00",
+  "updatedAt": "2026-09-30T10:03:05.917692+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -131,6 +131,51 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:785071",
+      "title": "Hledá se ZPĚV",
+      "url": "https://hudebnibazar.cz/hleda-se-zpev/ID785071/",
+      "date": "2026-09-30T12:00:00+02:00",
+      "location": "Kutná Hora",
+      "author": "Emmet.Brown",
+      "excerpt": "Jsme zformovaná sestava (2x kytara, basa) a dáváme dohromady nový metalový projekt. Bicí jsou v řešení a brzo máme komplet sestavu. Co hrajeme: Metal, Thrash. Co hledáme: Zpěváka/zpěvačku s energií, spolehlivostí a chutí tvořit vlastní věci. Ukázka naší tvorby / dema v odkazu zde tel> Posílej ukázky zpěvu na",
+      "description": "Jsme zformovaná sestava (2x kytara, basa) a dáváme dohromady nový metalový projekt. Bicí jsou v řešení a brzo máme komplet sestavu.\nCo hrajeme: Metal, Thrash.\nCo hledáme: Zpěváka/zpěvačku s energií, spolehlivostí a chutí tvořit vlastní věci.\nUkázka naší tvorby / dema v odkazu zde\ntel>\nPosílej ukázky zpěvu na",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=WvZMnFA_EFo"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 78,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Kutná Hora"
+      ]
+    },
+    {
+      "id": "hudebnibazar:711741",
+      "title": "Klávesáka  do autorského  projektu",
+      "url": "https://hudebnibazar.cz/klavesaka-do-autorskeho-projektu/ID711741/",
+      "date": "2026-09-30T11:52:00+02:00",
+      "location": "Karviná",
+      "author": "Dali.Kytara",
+      "excerpt": "Starší vyhraný solový kytarista s vlastními CD a autorským projektem, hledá k doplnění kapely klávesáka s chutí si zahrát.. Složení bass, kytara, bicí, vocal, případně kláves. Spousta materiálu k realizaci, vybavená zkušebna OV, Frenštát,včetně bicích. Stylově Blues rock, Funky, pop rock,hardrock. OV,KA,N.Jičin, Frenštát.",
+      "description": "Starší vyhraný solový kytarista s vlastními CD a autorským projektem, hledá k doplnění kapely klávesáka s chutí si zahrát.. Složení bass, kytara, bicí, vocal, případně kláves. Spousta materiálu k realizaci, vybavená zkušebna OV, Frenštát,včetně bicích. Stylově Blues rock, Funky, pop rock,hardrock.\nOV,KA,N.Jičin, Frenštát.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "Karviná"
+      ]
+    },
     {
       "id": "hudebnibazar:427202",
       "title": "Zpěvačka do párty kapely",
