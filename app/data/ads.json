@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T08:31:47.386317+00:00",
+  "updatedAt": "2026-09-30T08:41:38.739468+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -131,6 +131,27 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:427202",
+      "title": "Zpěvačka do párty kapely",
+      "url": "https://hudebnibazar.cz/zpevacka-do-party-kapely/ID427202/",
+      "date": "2026-09-30T10:34:00+02:00",
+      "location": "Praha 5",
+      "author": "Radomir.Steinert2",
+      "excerpt": "Hledáme zpěvačku do 30 let se vzděláním, nebo zkušenostmi, nebo obojím pro kapelu Healer's band - www.jhealer.cz. Široký mezinárodní repertoár s kvalitní interpretací a zvukem. Zpěv je priorita, ale případný nástroj vítán. Akce celoročně, hlavně svatby a oslavy. Odměna 2000 CZK za hraní + cestovné. Info na stránkách",
+      "description": "Hledáme zpěvačku do 30 let se vzděláním, nebo zkušenostmi, nebo obojím pro kapelu Healer's band - www.jhealer.cz. Široký mezinárodní repertoár s kvalitní interpretací a zvukem. Zpěv je priorita, ale případný nástroj vítán. Akce celoročně, hlavně svatby a oslavy. Odměna 2000 CZK za hraní + cestovné. Info na stránkách",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 78,
+      "reasons": [
+        "Praha 5",
+        "lokální networking",
+        "odkaz na profil / ukázku"
+      ]
+    },
     {
       "id": "hudebnibazar:765482",
       "title": "Bubeník - Rhythm&Blues/Rock&Roll - Praha",
@@ -1810,27 +1831,6 @@
       "reasons": [
         "hledá produkci / pomoc se skladbami",
         "Plzeň"
-      ]
-    },
-    {
-      "id": "hudebnibazar:427202",
-      "title": "Zpěvačka do párty kapely",
-      "url": "https://hudebnibazar.cz/zpevacka-do-party-kapely/ID427202/",
-      "date": "2026-09-21T21:09:00+02:00",
-      "location": "Praha 5",
-      "author": "Radomir.Steinert2",
-      "excerpt": "Hledáme zpěvačku do 30 let se vzděláním, nebo zkušenostmi, nebo obojím pro kapelu Healer's band - www.jhealer.cz. Široký mezinárodní repertoár s kvalitní interpretací a zvukem. Zpěv je priorita, ale případný nástroj vítán. Akce celoročně, hlavně svatby a oslavy. Odměna 2000 CZK za hraní + cestovné. Info na stránkách",
-      "description": "Hledáme zpěvačku do 30 let se vzděláním, nebo zkušenostmi, nebo obojím pro kapelu Healer's band - www.jhealer.cz. Široký mezinárodní repertoár s kvalitní interpretací a zvukem. Zpěv je priorita, ale případný nástroj vítán. Akce celoročně, hlavně svatby a oslavy. Odměna 2000 CZK za hraní + cestovné. Info na stránkách",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 78,
-      "reasons": [
-        "Praha 5",
-        "lokální networking",
-        "odkaz na profil / ukázku"
       ]
     },
     {
