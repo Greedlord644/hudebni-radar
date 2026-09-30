@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T11:51:36.591444+00:00",
+  "updatedAt": "2026-09-30T12:02:41.799096+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -131,6 +131,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:785094",
+      "title": "Hledám kytaristu",
+      "url": "https://hudebnibazar.cz/hledam-kytaristu/ID785094/",
+      "date": "2026-09-30T14:00:00+02:00",
+      "location": "Praha-východ",
+      "author": "Pepino.Bubenicek",
+      "excerpt": "Bicí a basa, hledáme kytaristu který by měl chuť s námi zkusit autorské věci, rock. Vlastní zkušebnu mám v Brandýse nad Labem.",
+      "description": "Bicí a basa, hledáme kytaristu který by měl chuť s námi zkusit autorské věci, rock. Vlastní zkušebnu mám v Brandýse nad Labem.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 72,
+      "reasons": [
+        "Praha-východ",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:785071",
       "title": "Hledá se ZPĚV",
