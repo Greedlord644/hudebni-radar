@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T06:11:34.004455+00:00",
+  "updatedAt": "2026-09-30T06:21:33.576288+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -131,6 +131,30 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:785029",
+      "title": "HLEDÁME BUBENÍKA/ICI KAPELA PRAHA",
+      "url": "https://hudebnibazar.cz/hledame-bubenika-ici-kapela-praha/ID785029/",
+      "date": "2026-09-30T08:10:00+02:00",
+      "location": "Praha 8",
+      "author": "Amelie.Valvodova",
+      "excerpt": "Caute! Jsme kapela Alltgaze a hledáme bubeníka/ici. Hrajeme rock takovym nasim zanrem. Jsme z Prahy, idealne tedy pokud jste z mesta a okoli bude to super! Vekove hledame nekoho v rozpeti 17-25 let, pokud mirne prekrocite hranici, uplne v poradku. Zalezi nam na tymove praci a na vasni pro hudbu, to je jedine plus! Pokud mas…",
+      "description": "Caute! Jsme kapela Alltgaze a hledáme bubeníka/ici. Hrajeme rock takovym nasim zanrem. Jsme z Prahy, idealne tedy pokud jste z mesta a okoli bude to super! Vekove hledame nekoho v rozpeti 17-25 let, pokud mirne prekrocite hranici, uplne v poradku. Zalezi nam na tymove praci a na vasni pro hudbu, to je jedine plus! Pokud mas zajem, napis na instagram @alltgaze_band nebo na cislo uvedene dole. Pokud si nas chces poslechnout trochu vic, mrkni na nas instagram, tam jsou nahravky z nasich koncertu, fotecky a tak :)\nTesime se na tebe, diky!! (pokud te neco zajima, ptej se a prehanej, radi ti na vse odpovime!)",
+      "externalLinks": [
+        "https://instagram.com/alltgaze_band"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 86,
+      "reasons": [
+        "Praha 8",
+        "lokální networking",
+        "odkaz na profil / ukázku",
+        "podrobný inzerát"
+      ]
+    },
     {
       "id": "hudebnibazar:720493",
       "title": "Hledáme bubeníka",
