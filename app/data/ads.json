@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T06:02:37.486862+00:00",
+  "updatedAt": "2026-10-01T06:11:32.379361+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -131,6 +131,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:785233",
+      "title": "Rocket from the Grave hledají zpěváka / zpěvačku",
+      "url": "https://hudebnibazar.cz/rocket-from-the-grave-hledaji-zpevaka-zpevacku/ID785233/",
+      "date": "2026-10-01T08:01:00+02:00",
+      "location": "Praha 13",
+      "author": "Antonin.Kudlac",
+      "excerpt": "Kapela Rocket from the Grave z Prahy hledá zpěváka / zpěvačku. Hrajeme vlastní tvorbu s anglickými texty (žánr: garage / psychedelic / postpunk), máme za sebou zatím jeden koncert (festival), další koncerty před námi. Máme vlastní zkušebnu, zkoušíme 1x týdně.",
+      "description": "Kapela Rocket from the Grave z Prahy hledá zpěváka / zpěvačku.\nHrajeme vlastní tvorbu s anglickými texty (žánr: garage / psychedelic / postpunk), máme za sebou zatím jeden koncert (festival), další koncerty před námi.\nMáme vlastní zkušebnu, zkoušíme 1x týdně.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 75,
+      "reasons": [
+        "Praha 13",
+        "lokální networking"
+      ]
+    },
     {
       "id": "bandmate:093ddc73-c2c7-4f6a-a708-299ffbc87fef",
       "title": "female vocalist looking for musicians",
