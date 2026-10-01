@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T15:02:41.034965+00:00",
+  "updatedAt": "2026-10-01T15:11:37.070176+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -131,6 +131,30 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:785363",
+      "title": "Melodic deathmetalová kapela z Prahy hledá bubeníka",
+      "url": "https://hudebnibazar.cz/melodic-deathmetalova-kapela-z-prahy-hleda-bubenika/ID785363/",
+      "date": "2026-10-01T17:04:00+02:00",
+      "location": "Praha 4",
+      "author": "Standa.Xxx",
+      "excerpt": "Jsme melo-deathová kapela z Prahy, hrajeme vlastní tvorbu a na kontě máme (relativně) čerstvě vydanou první desku. Kalendář se nám postupně plní hezkými akcemi a zrovna hledáme bubeníka, což může být příležitost právě pro tebe. Co bys měl splňovat: – Pozitivní vztah ke svému nástroji (chuť cvičit a posouvat se) – Spolehlivou…",
+      "description": "Jsme melo-deathová kapela z Prahy, hrajeme vlastní tvorbu a na kontě máme (relativně) čerstvě vydanou první desku. Kalendář se nám postupně plní hezkými akcemi a zrovna hledáme bubeníka, což může být příležitost právě pro tebe.\nCo bys měl splňovat:\n– Pozitivní vztah ke svému nástroji (chuť cvičit a posouvat se)\n– Spolehlivou dvojšlapku ve vyšších BPM (kolem 200)\n– Vlastní gear\n– Kamarádství s metronomem (hrajeme na klik se samply)\n– Spolehlivost\nCo navíc potěší, ale není nutností:\n– Používáme vlastní in-ear monitoring, takže je výhodou, pokud už in-ear máš, nebo plánuješ pořízení\nV kapele je nám aktuálně 26 až 34 let, ale pokud si sedneme lidsky i hudebně, věk pro nás není rozhodující. Jakmile bude set nadrilovaný, není nutné se scházet každý týden, takže to dává smysl i pro někoho dojíždějícího.\nJestli tě to zaujalo, ozvi se i s případnými otázkami.",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=UuF5TFMg9rI"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 89,
+      "reasons": [
+        "Praha 4",
+        "lokální networking",
+        "odkaz na profil / ukázku",
+        "podrobný inzerát"
+      ]
+    },
     {
       "id": "hudebnibazar:784023",
       "title": "Hard Rock Band",
