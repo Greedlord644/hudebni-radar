@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T19:21:32.797311+00:00",
+  "updatedAt": "2026-10-03T19:31:45.141370+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -131,6 +131,29 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:780593",
+      "title": "Hledáme bubeníka",
+      "url": "https://hudebnibazar.cz/hledame-bubenika/ID780593/",
+      "date": "2026-10-03T21:29:00+02:00",
+      "location": "Praha 9",
+      "author": "Tomas.Roucka2",
+      "excerpt": "Heavy metalová kapela Soul Keeper hledá bubeníka. Více info do zpráv nebo po telefonu.",
+      "description": "Heavy metalová kapela Soul Keeper hledá bubeníka. Více info do zpráv nebo po telefonu.",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=ytCfQFt7LJs"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 78,
+      "reasons": [
+        "Praha 9",
+        "lokální networking",
+        "odkaz na profil / ukázku"
+      ]
+    },
     {
       "id": "hudebnibazar:761523",
       "title": "Zpěvačka hledá kapelu :)",
@@ -1826,29 +1849,6 @@
       "reasons": [
         "Praha 10",
         "lokální networking"
-      ]
-    },
-    {
-      "id": "hudebnibazar:780593",
-      "title": "Hledáme bubeníka",
-      "url": "https://hudebnibazar.cz/hledame-bubenika/ID780593/",
-      "date": "2026-09-22T19:34:00+02:00",
-      "location": "Praha 9",
-      "author": "Tomas.Roucka2",
-      "excerpt": "Heavy metalová kapela Soul Keeper hledá bubeníka. Více info do zpráv nebo po telefonu.",
-      "description": "Heavy metalová kapela Soul Keeper hledá bubeníka. Více info do zpráv nebo po telefonu.",
-      "externalLinks": [
-        "https://www.youtube.com/watch?v=ytCfQFt7LJs"
-      ],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 78,
-      "reasons": [
-        "Praha 9",
-        "lokální networking",
-        "odkaz na profil / ukázku"
       ]
     },
     {
