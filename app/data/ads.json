@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T19:01:57.324566+00:00",
+  "updatedAt": "2026-10-04T19:11:30.962576+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -131,6 +131,27 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:785961",
+      "title": "Hledáme bubeníka nebo bubenici",
+      "url": "https://hudebnibazar.cz/hledame-bubenika-nebo-bubenici/ID785961/",
+      "date": "2026-10-04T21:07:00+02:00",
+      "location": "Brno",
+      "author": "Musik.22",
+      "excerpt": "Jsme zpěvačka, kytarista a baskytarista z Brna. Do nového projektu hledáme pohodového člověka, se kterým si sedneme hudebně i lidsky. Vlastní tvorba, české texty, líbí se nám rock a punk, ale jsme otevřeni různým žánrům. Ozvi se, zkusíme si zahrát, pokecáme o představách a uvidí se. Zkušebnu máme zajištěnou. Začátečník nevadí,…",
+      "description": "Jsme zpěvačka, kytarista a baskytarista z Brna. Do nového projektu hledáme pohodového člověka, se kterým si sedneme hudebně i lidsky.\nVlastní tvorba, české texty, líbí se nám rock a punk, ale jsme otevřeni různým žánrům.\nOzvi se, zkusíme si zahrát, pokecáme o představách a uvidí se.\nZkušebnu máme zajištěnou.\nZačátečník nevadí, důležitá je chuť se učit a zlepšovat.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "Brno"
+      ]
+    },
     {
       "id": "hudebnibazar:731200",
       "title": "Zpěvačka hledá někoho, kdo se nebojí experimentovat",
