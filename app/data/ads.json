@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T16:22:21.454621+00:00",
+  "updatedAt": "2026-10-04T16:32:30.997119+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -131,6 +131,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:785922",
+      "title": "Finding a band",
+      "url": "https://hudebnibazar.cz/finding-a-band/ID785922/",
+      "date": "2026-10-04T18:26:00+02:00",
+      "location": "Praha 11",
+      "author": "Michael.Ha",
+      "excerpt": "Hello, I'm looking for a band. Guitarist, keyboardist, drummer, age can range from 13-20 years. The genre will be pop/rock, funk, R&V/soul, I want to have fun as a person outside of concerts, I believe that we will have enough Fun and unforgettable experiences, if you have anything, let me know, God bless you. -Mj",
+      "description": "Hello, I'm looking for a band. Guitarist, keyboardist, drummer, age can range from 13-20 years. The genre will be pop/rock, funk, R&V/soul, I want to have fun as a person outside of concerts, I believe that we will have enough Fun and unforgettable experiences, if you have anything, let me know, God bless you.\n-Mj",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Praha 11",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:785885",
       "title": "KISSINGER HEROES – HLEDÁM ČLENY DO KAPELY!",
