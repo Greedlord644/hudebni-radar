@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T07:42:13.300585+00:00",
+  "updatedAt": "2026-10-05T07:51:32.556073+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -131,6 +131,52 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:770480",
+      "title": "Basák hledá kapelu",
+      "url": "https://hudebnibazar.cz/basak-hleda-kapelu/ID770480/",
+      "date": "2026-10-05T09:49:00+02:00",
+      "location": "Praha 3",
+      "author": "J.Z5",
+      "excerpt": "Ahoj, hledám kapelu/projekt, do kterého se zapojit, nebo lidi, se kterými něco začít dávat dohromady. Je mi 33, mám odehráno na koncertech i ve studiu, gear na nějaký úrovni. Jsem schopnej i nějakých back vocals. Rád bych hrál něco jako gothic, doom nebo emo, ale taky mám rád hc, nu, punk... Nejsem nejvíc technickej hráč, ale…",
+      "description": "Ahoj,\nhledám kapelu/projekt, do kterého se zapojit, nebo lidi, se kterými něco začít dávat dohromady.\nJe mi 33, mám odehráno na koncertech i ve studiu, gear na nějaký úrovni. Jsem schopnej i nějakých back vocals.\nRád bych hrál něco jako gothic, doom nebo emo, ale taky mám rád hc, nu, punk... Nejsem nejvíc technickej hráč, ale držím groove a umím song podržet, když je potřeba, a nechat prostor ostatním nástrojům.\nJsem straight edge, od ostatních to nečekám, ale pokud zkoušku nebo koncert bereš primárně jako šanci se vylejt, tak to nebude fungovat.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Emo"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 73,
+      "reasons": [
+        "emo",
+        "Praha 3"
+      ]
+    },
+    {
+      "id": "hudebnibazar:720493",
+      "title": "Hledáme bubeníka",
+      "url": "https://hudebnibazar.cz/hledame-bubenika/ID720493/",
+      "date": "2026-10-05T09:45:00+02:00",
+      "location": "Rokycany",
+      "author": "Veskarel",
+      "excerpt": "Zdravím, hledáme do bendu spoluhráče na bicí nástroje, hrajeme vlastní muziku a také kavry, v současné době nahráváme CD, hrajeme bluesrockovou muziku, dle zájmu pošlu nahrávky.",
+      "description": "Zdravím, hledáme do bendu spoluhráče na bicí nástroje, hrajeme vlastní muziku a také kavry, v současné době nahráváme CD, hrajeme bluesrockovou muziku, dle zájmu pošlu nahrávky.",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=a2hY1DQzVmk&list=RDa2hY1DQzVmk&start_radio=1"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 75,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Rokycany"
+      ]
+    },
     {
       "id": "hudebnibazar:786003",
       "title": "Houslemi, kytarou doplním country partu/kapelu",
@@ -929,30 +975,6 @@
         "lokální networking",
         "odkaz na profil / ukázku",
         "podrobný inzerát"
-      ]
-    },
-    {
-      "id": "hudebnibazar:720493",
-      "title": "Hledáme bubeníka",
-      "url": "https://hudebnibazar.cz/hledame-bubenika/ID720493/",
-      "date": "2026-09-30T07:37:00+02:00",
-      "location": "Rokycany",
-      "author": "Veskarel",
-      "excerpt": "Zdravím, hledáme do bendu spoluhráče na bicí nástroje, hrajeme vlastní muziku a také kavry, v současné době nahráváme CD, hrajeme bluesrockovou muziku, dle zájmu pošlu nahrávky.",
-      "description": "Zdravím, hledáme do bendu spoluhráče na bicí nástroje, hrajeme vlastní muziku a také kavry, v současné době nahráváme CD, hrajeme bluesrockovou muziku, dle zájmu pošlu nahrávky.",
-      "externalLinks": [
-        "https://www.youtube.com/watch?v=a2hY1DQzVmk&list=RDa2hY1DQzVmk&start_radio=1"
-      ],
-      "influences": [],
-      "genres": [],
-      "isPrague": false,
-      "source": "Hudební bazar",
-      "score": 75,
-      "reasons": [
-        "podrobný inzerát",
-        "jasný projekt / zkušenosti",
-        "odkaz na profil / ukázku",
-        "Rokycany"
       ]
     },
     {
