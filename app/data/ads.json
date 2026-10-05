@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T13:02:49.409307+00:00",
+  "updatedAt": "2026-10-05T13:11:36.050089+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -156,6 +156,31 @@
         "alternative rock",
         "odkaz na profil / ukázku",
         "Praha 8"
+      ]
+    },
+    {
+      "id": "bandmate:c1fbc781-6cf4-4858-9f27-0997e1b0652c",
+      "title": "Kytarista hledá kapelu / projekt v Praze",
+      "url": "https://bandmate.cz/inzerat/kytarista-hled-kapelu-projekt-v-praze-iF3phc",
+      "date": "2026-10-05T13:08:59.94515+00:00",
+      "location": "Praha",
+      "author": "Dmitry Tsyvinsky",
+      "excerpt": "Kytarista hledá kapelu / projekt v Praze Je mi 30 let, jsem kytarista z Prahy a hledám kapelu nebo projekt, kde bych si mohl zahrát ve volném čase. Mám vlastní projekt My Tab Archive, kde si můžete poslechnout moji tvorbu: https://open.spotify.com/artist/5dMqnXAYTtyaf5oOdeFQ4o Nejblíž mám k metalcoru, mathcoru, progressive…",
+      "description": "Kytarista hledá kapelu / projekt v Praze Je mi 30 let, jsem kytarista z Prahy a hledám kapelu nebo projekt, kde bych si mohl zahrát ve volném čase.\nMám vlastní projekt My Tab Archive, kde si můžete poslechnout moji tvorbu:\nhttps://open.spotify.com/artist/5dMqnXAYTtyaf5oOdeFQ4o\nNejblíž mám k metalcoru, mathcoru, progressive metalu, djentu a post-hardcoru, ale jsem otevřený i jiným stylům.\nJsem samouk bez formálního hudebního vzdělání. Rád se přidám k existující kapele, ale pokud bude potřeba, rád přinesu i vlastní nápady a zkušenosti se skládáním hudby.\nMám 6strunnou a 8strunnou elektrickou kytaru, vlastní aparát ani procesor momentálně nemám.\nČeštinu se stále učím, takže není perfektní, ale rád bych ji při hraní s českými muzikanty víc používal.\nKdybych se k vám mohl hodit, klidně mi napište! metal, experimentální, hardcore, shoegaze, progressive, post-rock, emo, alternative kytara",
+      "externalLinks": [
+        "https://open.spotify.com/artist/5dMqnXAYTtyaf5oOdeFQ4o"
+      ],
+      "influences": [],
+      "genres": [
+        "Emo"
+      ],
+      "isPrague": true,
+      "source": "Bandmate",
+      "score": 82,
+      "reasons": [
+        "emo",
+        "odkaz na profil / ukázku",
+        "Praha"
       ]
     },
     {
