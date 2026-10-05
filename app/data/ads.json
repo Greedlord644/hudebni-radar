@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T17:52:22.481623+00:00",
+  "updatedAt": "2026-10-05T18:01:58.654697+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -131,6 +131,30 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:739594",
+      "title": "Textař pro tvoje songy",
+      "url": "https://hudebnibazar.cz/textar-pro-tvoje-songy/ID739594/",
+      "date": "2026-10-05T19:58:00+02:00",
+      "location": "Praha-západ",
+      "author": "Pavel.Sobek",
+      "excerpt": "Ahoj, máš fajn muziku a chybí ti texty? Tak se ozvi a něco zkusíme. Moje texty můžeš slyšet třeba na albu Kayapa / Když se zeptáš. Nebo mrkni na některou z mých sbírek. Najdeš je na http://sobekpoetry.com/",
+      "description": "Ahoj, máš fajn muziku a chybí ti texty? Tak se ozvi a něco zkusíme. Moje texty můžeš slyšet třeba na albu Kayapa / Když se zeptáš. Nebo mrkni na některou z mých sbírek. Najdeš je na http://sobekpoetry.com/",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=VZB59IxVw_4",
+        "http://sobekpoetry.com/"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 78,
+      "reasons": [
+        "Praha-západ",
+        "lokální networking",
+        "odkaz na profil / ukázku"
+      ]
+    },
     {
       "id": "hudebnibazar:783227",
       "title": "HLEDÁM AUTORSKÝ BAND",
