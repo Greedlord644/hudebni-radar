@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T16:31:51.275246+00:00",
+  "updatedAt": "2026-10-05T16:42:17.292974+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -131,6 +131,33 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:769759",
+      "title": "Hledám partu rockerů...",
+      "url": "https://hudebnibazar.cz/hledam-partu-rockeru/ID769759/",
+      "date": "2026-10-05T18:31:00+02:00",
+      "location": "Uherské Hradiště",
+      "author": "Rob.Do",
+      "excerpt": "Amatérský kytarista pro možnou začínající kapelu hledá solo kytaru,basu,bicí,zpěv,.nebo se začlením,.. k vyplnění volného času a poté i menší vystoupení na podiu..Preferuji vlastní tvorbu a společné hudební nápady,rock-metal na věku nezáleží.+-50..Zkušebna k dispozici ..Napajedla-okolí Zlín- UH,./..flexibilita...mám již…",
+      "description": "Amatérský kytarista pro možnou začínající kapelu hledá solo kytaru,basu,bicí,zpěv,.nebo se začlením,.. k vyplnění volného času a poté i menší vystoupení na podiu..Preferuji vlastní tvorbu a společné hudební nápady,rock-metal na věku nezáleží.+-50..Zkušebna k dispozici ..Napajedla-okolí Zlín- UH,./..flexibilita...mám již dokončeno několik skladeb vlastní texty,..viz.\nhttps://www.youtube.com/@rudikking/playlists,.. jen vše dopilovat a možno ubrat i přitvrdit...\nmalá ukázka náznaku podobného stylu hudby,..pokud ti bude vyhovovat ,tak volej ,piš,...Odkaz na video\nhttps://youtu.be/12u3-LBEcnE\nOdkaz na video\nhttps://youtu.be/uhXRnVZRUpw",
+      "externalLinks": [
+        "https://www.youtube.com/@rudikking/playlists",
+        "https://youtu.be/12u3-LBEcnE",
+        "https://youtu.be/uhXRnVZRUpw",
+        "https://instagram.com/rudikking"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 84,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Uherské Hradiště"
+      ]
+    },
     {
       "id": "hudebnibazar:772011",
       "title": "Hledám zpěváka/zpěvačku - Praha",
@@ -2004,32 +2031,6 @@
       "reasons": [
         "Praha-východ",
         "lokální networking"
-      ]
-    },
-    {
-      "id": "hudebnibazar:769759",
-      "title": "Hledám partu rockerů...",
-      "url": "https://hudebnibazar.cz/hledam-partu-rockeru/ID769759/",
-      "date": "2026-09-23T15:55:00+02:00",
-      "location": "Uherské Hradiště",
-      "author": "Rob.Do",
-      "excerpt": "Amatérský kytarista pro možnou začínající kapelu hledá solo kytaru,basu,bicí,zpěv,.nebo se začlením,.. k vyplnění volného času a poté i menší vystoupení na podiu..Preferuji vlastní tvorbu a společné hudební nápady,rock-metal na věku nezáleží.+-50..Zkušebna k dispozici ..Okolí Zlín- UH,./..flexibilita...mám již dokončeno několik…",
-      "description": "Amatérský kytarista pro možnou začínající kapelu hledá solo kytaru,basu,bicí,zpěv,.nebo se začlením,.. k vyplnění volného času a poté i menší vystoupení na podiu..Preferuji vlastní tvorbu a společné hudební nápady,rock-metal na věku nezáleží.+-50..Zkušebna k dispozici ..Okolí Zlín- UH,./..flexibilita...mám již dokončeno několik skladeb vlastní texty,..viz.\nhttps://www.youtube.com/@rudikking/playlists,.. jen vše dopilovat a možno ubrat i přitvrdit...\nmalá ukázka náznaku podobného stylu hudby,..pokud ti bude vyhovovat ,tak volej ,piš,...\nOdkaz na video\nhttps://youtu.be/uhXRnVZRUpw",
-      "externalLinks": [
-        "https://www.youtube.com/@rudikking/playlists",
-        "https://youtu.be/uhXRnVZRUpw",
-        "https://instagram.com/rudikking"
-      ],
-      "influences": [],
-      "genres": [],
-      "isPrague": false,
-      "source": "Hudební bazar",
-      "score": 84,
-      "reasons": [
-        "podrobný inzerát",
-        "jasný projekt / zkušenosti",
-        "odkaz na profil / ukázku",
-        "Uherské Hradiště"
       ]
     },
     {
