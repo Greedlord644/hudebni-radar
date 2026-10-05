@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T09:11:45.293773+00:00",
+  "updatedAt": "2026-10-05T09:22:16.891725+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -131,6 +131,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:765482",
+      "title": "Bubeník - Rhythm&Blues/Rock&Roll - Praha",
+      "url": "https://hudebnibazar.cz/bubenik-rhythm-blues-rock-roll-praha/ID765482/",
+      "date": "2026-10-05T11:19:00+02:00",
+      "location": "Rakovník",
+      "author": "Jiri.Hamouz",
+      "excerpt": "Sháním bubeníka, z Prahy či okolí, pro založení kapely. Myšlenka je hrát směsici blues a rock&rollu s agresivnějším zvukem alá Nick Curran. Bližší podrobnosti po zprávách.",
+      "description": "Sháním bubeníka, z Prahy či okolí, pro založení kapely. Myšlenka je hrát směsici blues a rock&rollu s agresivnějším zvukem alá Nick Curran. Bližší podrobnosti po zprávách.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Rakovník",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:784983",
       "title": "Záskok / Studiové nahrávání: Basa / Kontrabas / Kytara",
@@ -934,26 +954,6 @@
         "Praha 5",
         "lokální networking",
         "odkaz na profil / ukázku"
-      ]
-    },
-    {
-      "id": "hudebnibazar:765482",
-      "title": "Bubeník - Rhythm&Blues/Rock&Roll - Praha",
-      "url": "https://hudebnibazar.cz/bubenik-rhythm-blues-rock-roll-praha/ID765482/",
-      "date": "2026-09-30T10:16:00+02:00",
-      "location": "Rakovník",
-      "author": "Jiri.Hamouz",
-      "excerpt": "Sháním bubeníka, z Prahy či okolí, pro založení kapely. Myšlenka je hrát směsici blues a rock&rollu s agresivnějším zvukem alá Nick Curran. Bližší podrobnosti po zprávách.",
-      "description": "Sháním bubeníka, z Prahy či okolí, pro založení kapely. Myšlenka je hrát směsici blues a rock&rollu s agresivnějším zvukem alá Nick Curran. Bližší podrobnosti po zprávách.",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": false,
-      "source": "Hudební bazar",
-      "score": 66,
-      "reasons": [
-        "Rakovník",
-        "lokální networking"
       ]
     },
     {
