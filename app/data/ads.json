@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T17:21:40.460535+00:00",
+  "updatedAt": "2026-10-05T17:32:33.787147+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -131,6 +131,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:786121",
+      "title": "Kapela Zales chce koncertovat",
+      "url": "https://hudebnibazar.cz/kapela-zales-chce-koncertovat/ID786121/",
+      "date": "2026-10-05T19:30:00+02:00",
+      "location": "Praha 6",
+      "author": "Krystof.Mrazek",
+      "excerpt": "Čau, jsme mladá punk-rocková kapela z Prahy. Hledáme kapely na společné koncerty nebo místa kde hrát. Složení: 2x kytaa, basa, bicí Aparatury i bicí máme, PA zatím ne",
+      "description": "Čau, jsme mladá punk-rocková kapela z Prahy. Hledáme kapely na společné koncerty nebo místa kde hrát.\nSložení: 2x kytaa, basa, bicí\nAparatury i bicí máme, PA zatím ne",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "Praha 6",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:786113",
       "title": "Bubeník do rockové kapely Trutnov",
