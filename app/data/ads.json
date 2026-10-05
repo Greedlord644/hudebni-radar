@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T16:42:17.292974+00:00",
+  "updatedAt": "2026-10-05T16:52:12.691980+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -131,6 +131,28 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:786113",
+      "title": "Bubeník do rockové kapely Trutnov",
+      "url": "https://hudebnibazar.cz/bubenik-do-rockove-kapely-trutnov/ID786113/",
+      "date": "2026-10-05T18:41:00+02:00",
+      "location": "Trutnov",
+      "author": "Honza.Kadlec",
+      "excerpt": "Ahoj, trutnovská rocková kapela DENICE hledá bubeníka, věk nerozhoduje. Poslechni na BANDZONE vzorek (denice bandzone). Zkušebna ve Chvalči, cca jednou týdně na 2h plus když je chuť nebo koncert, tak se opřeme víc. Chceš hrát - ozvi se. Honza",
+      "description": "Ahoj, trutnovská rocková kapela DENICE hledá bubeníka, věk nerozhoduje. Poslechni na BANDZONE vzorek (denice bandzone). Zkušebna ve Chvalči, cca jednou týdně na 2h plus když je chuť nebo koncert, tak se opřeme víc.\nChceš hrát - ozvi se.\nHonza",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 78,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Trutnov"
+      ]
+    },
     {
       "id": "hudebnibazar:769759",
       "title": "Hledám partu rockerů...",
