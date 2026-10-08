@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T08:21:39.861590+00:00",
+  "updatedAt": "2026-10-08T08:32:27.351876+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -131,6 +131,28 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:759428",
+      "title": "Hledáme zpěvačku do nové kapely",
+      "url": "https://hudebnibazar.cz/hledame-zpevacku-do-nove-kapely/ID759428/",
+      "date": "2026-10-08T10:28:00+02:00",
+      "location": "Praha 4",
+      "author": "Richard.Grey",
+      "excerpt": "Máme vlastní repertoár v angličtině. Hudba se stylově blíží synthpopu, darkwave a indie dreampopu. Silné melodie, hloubavé texty. Hledáme sebevědomý, emocionální projev a zajímavý hlas.",
+      "description": "Máme vlastní repertoár v angličtině. Hudba se stylově blíží synthpopu, darkwave a indie dreampopu. Silné melodie, hloubavé texty.\nHledáme sebevědomý, emocionální projev a zajímavý hlas.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Emo"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 60,
+      "reasons": [
+        "emo",
+        "Praha 4"
+      ]
+    },
     {
       "id": "hudebnibazar:765094",
       "title": "Baskytara wanted!",
@@ -1432,28 +1454,6 @@
         "Praha 5",
         "lokální networking",
         "odkaz na profil / ukázku"
-      ]
-    },
-    {
-      "id": "hudebnibazar:759428",
-      "title": "Hledáme zpěvačku do nové kapely",
-      "url": "https://hudebnibazar.cz/hledame-zpevacku-do-nove-kapely/ID759428/",
-      "date": "2026-09-30T09:23:00+02:00",
-      "location": "Praha 4",
-      "author": "Richard.Grey",
-      "excerpt": "Máme vlastní repertoár v angličtině. Hudba se stylově blíží synthpopu, darkwave a indie dreampopu. Silné melodie, hloubavé texty. Hledáme sebevědomý, emocionální projev a zajímavý hlas.",
-      "description": "Máme vlastní repertoár v angličtině. Hudba se stylově blíží synthpopu, darkwave a indie dreampopu. Silné melodie, hloubavé texty.\nHledáme sebevědomý, emocionální projev a zajímavý hlas.",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [
-        "Emo"
-      ],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 60,
-      "reasons": [
-        "emo",
-        "Praha 4"
       ]
     },
     {
