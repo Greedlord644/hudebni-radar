@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T23:11:34.606417+00:00",
+  "updatedAt": "2026-10-10T23:21:30.199313+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -127,6 +127,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:783227",
+      "title": "HLEDÁM AUTORSKÝ BAND",
+      "url": "https://hudebnibazar.cz/hledam-autorsky-band/ID783227/",
+      "date": "2026-10-11T01:16:00+02:00",
+      "location": "Praha 4",
+      "author": "Gogen.77",
+      "excerpt": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím. Jen aktivní kapely z Prahy.",
+      "description": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím.\nJen aktivní kapely z Prahy.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "Praha 4",
+        "lokální networking"
+      ]
+    },
     {
       "id": "bandmate:23cf49c8-6a3e-4769-bf6c-42de2d2b342f",
       "title": "Experienced Singer Looking for a Band or Musicians",
@@ -1023,26 +1043,6 @@
         "Praha-západ",
         "lokální networking",
         "odkaz na profil / ukázku"
-      ]
-    },
-    {
-      "id": "hudebnibazar:783227",
-      "title": "HLEDÁM AUTORSKÝ BAND",
-      "url": "https://hudebnibazar.cz/hledam-autorsky-band/ID783227/",
-      "date": "2026-10-05T19:50:00+02:00",
-      "location": "Praha 4",
-      "author": "Gogen.77",
-      "excerpt": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím. Jen aktivní kapely z Prahy.",
-      "description": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím.\nJen aktivní kapely z Prahy.",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 69,
-      "reasons": [
-        "Praha 4",
-        "lokální networking"
       ]
     },
     {
