@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-10-08T09:22:11.579591+00:00",
+  "updatedAt": "2026-10-10T12:01:55.501952+00:00",
   "windowDays": 60,
   "singerSeeking": [
+    {
+      "id": "bandmate:55acdccf-975e-4198-a5d7-3aef2d1e236b",
+      "title": "Zpěvačka hledá kapelu",
+      "url": "https://bandmate.cz/inzerat/zp-va-ka-hled-kapelu-XsfujH",
+      "date": "2026-10-09T21:33:06.768879+00:00",
+      "location": "Praha",
+      "author": "Tereza",
+      "excerpt": "Zpěvačka hledá kapelu Ahoj! je mi 20 let a hledám nějakou fajnovou kapelu kde jsou členi ve věkové kategorii max 30 let😄, kde hledají zpěvačku. Věnuju se převážně popu, ale kromě metalu a dechovky zvládnu zazpívat jakýkoliv žánr 😅 Nejlépe se mi zpívá česky. pop, jazz, folk, blues zpěv",
+      "description": "Zpěvačka hledá kapelu Ahoj!\nje mi 20 let a hledám nějakou fajnovou kapelu kde jsou členi ve věkové kategorii max 30 let😄, kde hledají zpěvačku. Věnuju se převážně popu, ale kromě metalu a dechovky zvládnu zazpívat jakýkoliv žánr 😅 Nejlépe se mi zpívá česky. pop, jazz, folk, blues zpěv",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Bandmate",
+      "score": 62,
+      "reasons": [
+        "zpěv hledá",
+        "Praha"
+      ]
+    },
     {
       "id": "hudebnibazar:731200",
       "title": "Zpěvačka hledá někoho, kdo se nebojí experimentovat",
@@ -104,33 +124,380 @@
         "zpěv hledá",
         "Praha 4"
       ]
+    }
+  ],
+  "interesting": [
+    {
+      "id": "hudebnibazar:772011",
+      "title": "Hledám zpěváka/zpěvačku - Praha",
+      "url": "https://hudebnibazar.cz/hledam-zpevaka-zpevacku-praha/ID772011/",
+      "date": "2026-10-10T13:56:00+02:00",
+      "location": "Praha 8",
+      "author": "Egi",
+      "excerpt": "Ahoj, jsem basák/kytarista a hledám zpěváka/zpěvačku z Prahy do nové autorské kapely (indie, alternative rock, anglické texty), věkově cca 22-32 let. Mně je 29, mám za sebou hraní ve dvou kapelách. V odkazu níže najdeš set kapel, kterým bych se chtěl stylem a zvukem přiblížit (Friday Pilots Club, Orla Gartland, Kensington, Last…",
+      "description": "Ahoj, jsem basák/kytarista a hledám zpěváka/zpěvačku z Prahy do nové autorské kapely (indie, alternative rock, anglické texty), věkově cca 22-32 let. Mně je 29, mám za sebou hraní ve dvou kapelách. V odkazu níže najdeš set kapel, kterým bych se chtěl stylem a zvukem přiblížit (Friday Pilots Club, Orla Gartland, Kensington, Last Dinosaurs, Wildermiss).\nJsem k dispozici na WhatsApp (, Instagramu, Facebooku nebo přes formulář níže :-)\nhttps://www.facebook.com/egermaj/\nhttps://www.instagram.com/egimusick/",
+      "externalLinks": [
+        "https://www.facebook.com/egermaj/",
+        "https://www.instagram.com/egimusick/",
+        "https://instagram.com/.com"
+      ],
+      "influences": [],
+      "genres": [
+        "Alt-rock"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 100,
+      "reasons": [
+        "alternative rock",
+        "odkaz na profil / ukázku",
+        "Praha 8"
+      ]
     },
     {
-      "id": "bandmate:ea08dab8-dc33-4c0f-abc0-1cf09d863fdb",
-      "title": "Zpěvačka hledá hudební produkci",
-      "url": "https://bandmate.cz/inzerat/zp-va-ka-hled-hudebn-produkci-np5EZP",
-      "date": "2026-08-10T19:16:24.318332+00:00",
-      "location": "Brno",
-      "author": "Serpentina",
-      "excerpt": "Zpěvačka hledá hudební produkci 🐍 Hledám producenta/producentku Jsem začínající zpěvačka a autorka a hledám někoho, kdo by se mnou chtěl hudebně rozvíjet můj projekt Serpentina. Mám vlastní texty, melodie a představu o směru – alternativní/temnější rock, grunge, melancholie a ženská energie. Ačkoliv se úplně nechci omezovat…",
-      "description": "Zpěvačka hledá hudební produkci 🐍 Hledám producenta/producentku\nJsem začínající zpěvačka a autorka a hledám někoho, kdo by se mnou chtěl hudebně rozvíjet můj projekt Serpentina.\nMám vlastní texty, melodie a představu o směru – alternativní/temnější rock, grunge, melancholie a ženská energie. Ačkoliv se úplně nechci omezovat žánrem.\nHledám někoho, kdo má cit pro atmosféru a pomůže mi moje nápady přetavit do skutečných skladeb. 🎧\nIdeálně Brno, Znojmo, Praha, ale nebráním se ani spolupráci na dálku. rock, grunge, psychedelic zpěv",
+      "id": "hudebnibazar:786003",
+      "title": "Hledám country partu/kapelu",
+      "url": "https://hudebnibazar.cz/hledam-country-partu-kapelu/ID786003/",
+      "date": "2026-10-10T12:53:00+02:00",
+      "location": "Praha 4",
+      "author": "B.G",
+      "excerpt": "S houslemi nebo s el. kytarou doplním pohodovou partu ... nejraději ve stylu country music, honky tonk, country rock, country folk ..., ale i blues, bluegrass, folk, případně další .... Hledám partu staršího věku, kde se nemusí ztrácet čas zkouškami a o to častěji se hraje a zpívá ... Praha (případně i její okolí s dobrým…",
+      "description": "S houslemi nebo s el. kytarou doplním pohodovou partu ... nejraději ve stylu country music, honky tonk, country rock, country folk ..., ale i blues, bluegrass, folk, případně další .... Hledám partu staršího věku, kde se nemusí ztrácet čas zkouškami a o to častěji se hraje a zpívá ... Praha (případně i její okolí s dobrým parkováním pro auto)",
       "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Praha 4",
+        "lokální networking"
+      ]
+    },
+    {
+      "id": "hudebnibazar:783198",
+      "title": "Hledáme baskytaristu (rock, autorská tvorba)",
+      "url": "https://hudebnibazar.cz/hledame-baskytaristu-rock-autorska-tvorba/ID783198/",
+      "date": "2026-10-10T11:05:00+02:00",
+      "location": "Hradec Králové",
+      "author": "Miloslav.Trubka",
+      "excerpt": "Kapela Morte Forte z Chlumce nad Cidlinou hledá baskytaristu. Hrajeme specifický styl melodického hardrocku/metalu ve spojení s trumpetami (autorské skladby). Hledáme spolehlivého parťáka s vlastním vybavením a možností dojíždění, který by s námi chtěl naplno budovat naší kapelu. Oceníme zkušenosti s pódiovým hraním, případně i…",
+      "description": "Kapela Morte Forte z Chlumce nad Cidlinou hledá baskytaristu.\nHrajeme specifický styl melodického hardrocku/metalu ve spojení s trumpetami (autorské skladby).\nHledáme spolehlivého parťáka s vlastním vybavením a možností dojíždění, který by s námi chtěl naplno budovat naší kapelu.\nOceníme zkušenosti s pódiovým hraním, případně i s nahráváním ve studiu.\nJsme parta kamarádů kolem věku 30 let. Hledáme tak někoho ideálně do věku 35 let. Máme zkušenosti z malých i velkých koncertů. Zkušebnu máme a domluvené koncerty také.\nV případě zájmu nám neváhej napsat (FB, Insta, SMS, mail) nebo zavolat (tel.: – rádi probereme podrobnosti.\nBudeme se těšit!\nMorte Forte\nNaše tvorba:\nhttps://open.spotify.com/artist/1XNvcG9LqdYZicUMFaPtGO?si=ke-XtKIwSLKfa-9rJOPrJQ\nhttps://m.youtube.com/playlist?list=OLAK5uy_muemsqqzkDuXbuO3Y9X5htESa7kvSMar8&playnext=1&index=1\nmail:\nweb: https://www.morteforte.cz/",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=TqjqusmvxO8",
+        "https://open.spotify.com/artist/1XNvcG9LqdYZicUMFaPtGO?si=ke-XtKIwSLKfa-9rJOPrJQ",
+        "https://m.youtube.com/playlist?list=OLAK5uy_muemsqqzkDuXbuO3Y9X5htESa7kvSMar8&playnext=1&index=1",
+        "https://www.morteforte.cz/"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 92,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Hradec Králové"
+      ]
+    },
+    {
+      "id": "hudebnibazar:780196",
+      "title": "Black'n'roll ze studia shání bubenici, bubeníka na stage",
+      "url": "https://hudebnibazar.cz/black-n-roll-ze-studia-shani-bubenici-bubenika-na-stage/ID780196/",
+      "date": "2026-10-10T10:40:00+02:00",
+      "location": "Náchod",
+      "author": "Jan.Hamersky2",
+      "excerpt": "Je nám jedno, jestli hraješ jednoduše nebo složitě. Stačí, když si sedneme a budeš vědět, kdy a jak co (ne)trefit. Chceme z převážně studiového projektu vykřesat koncertní power trio. Kytaru s vokálem máme, basu taky, ale chybí nám pohon. Dole je ukázka. Kdyby Ti to přišlo zajímavý, piš. Okresy Náchod, Trutnov, Rychnov nad…",
+      "description": "Je nám jedno, jestli hraješ jednoduše nebo složitě. Stačí, když si sedneme a budeš vědět, kdy a jak co (ne)trefit.\nChceme z převážně studiového projektu vykřesat koncertní power trio. Kytaru s vokálem máme, basu taky, ale chybí nám pohon. Dole je ukázka. Kdyby Ti to přišlo zajímavý, piš. Okresy Náchod, Trutnov, Rychnov nad Kněžnou, a Hradec Králové, prosím.)\nLink: https://bandzone.cz/abbe",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=Xboq_JmrusU&pp=ygUOYWJiw6kgdmFnYWJ1bmQ%3D",
+        "https://bandzone.cz/abbe"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 78,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Náchod"
+      ]
+    },
+    {
+      "id": "hudebnibazar:786024",
+      "title": "KISSINGER HEROES – HLEDÁM ČLENY DO KAPELY!",
+      "url": "https://hudebnibazar.cz/kissinger-heroes-hledam-cleny-do-kapely/ID786024/",
+      "date": "2026-10-10T08:19:00+02:00",
+      "location": "Vsetín",
+      "author": "Jaroslav.Hrabica2",
+      "excerpt": "Ahoj, jmenuji se Jaroslav Hrabica, je mi 19 let a jsem sólový kytarista. Momentálně jsem v kapele Kissinger Heroes sám, a proto hledám další členy do začínající metalové kapely. HLEDÁME: Zpěvákčku Baskytaristku Bubeníka Druhého kytaristu Lidečko a okolí Valašska Ideálně věk 19–20 let Mám vlastní zkušebnu doma v Lidečku, takže…",
+      "description": "Ahoj, jmenuji se Jaroslav Hrabica, je mi 19 let a jsem sólový kytarista. Momentálně jsem v kapele Kissinger Heroes sám, a proto hledám další členy do začínající metalové kapely.\nHLEDÁME:\nZpěvákčku\nBaskytaristku\nBubeníka\nDruhého kytaristu\nLidečko a okolí Valašska\nIdeálně věk 19–20 let\nMám vlastní zkušebnu doma v Lidečku, takže máme kde pravidelně zkoušet.\nZkoušky plánujeme v pátek.\nCO CHCEME DĚLAT:\nhrát metal\nskládat vlastní skladby\npostupně vytvořit materiál na debutové album\npo nahrání vlastních skladeb začít hrát koncerty v okolí Valašska\nvytvořit partu lidí, kteří to s kapelou myslí vážně\nHledám hlavně lidi, kteří mají chuť hrát, tvořit vlastní hudbu a pravidelně zkoušet. Nemusíš být profesionál – důležitá je chuť do muziky a spolehlivost.\nTelefon:\nInstagram: @Jhrabica95\nPokud tě to zaujalo, napiš mi nebo zavolej.\nKissinger Heroes – začínáme od nuly a chceme vybudovat vlastní metalovou kapelu!",
+      "externalLinks": [
+        "https://instagram.com/Jhrabica95"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 90,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Vsetín"
+      ]
+    },
+    {
+      "id": "bandmate:55acdccf-975e-4198-a5d7-3aef2d1e236b",
+      "title": "Zpěvačka hledá kapelu",
+      "url": "https://bandmate.cz/inzerat/zp-va-ka-hled-kapelu-XsfujH",
+      "date": "2026-10-09T21:33:06.768879+00:00",
+      "location": "Praha",
+      "author": "Tereza",
+      "excerpt": "Zpěvačka hledá kapelu Ahoj! je mi 20 let a hledám nějakou fajnovou kapelu kde jsou členi ve věkové kategorii max 30 let😄, kde hledají zpěvačku. Věnuju se převážně popu, ale kromě metalu a dechovky zvládnu zazpívat jakýkoliv žánr 😅 Nejlépe se mi zpívá česky. pop, jazz, folk, blues zpěv",
+      "description": "Zpěvačka hledá kapelu Ahoj!\nje mi 20 let a hledám nějakou fajnovou kapelu kde jsou členi ve věkové kategorii max 30 let😄, kde hledají zpěvačku. Věnuju se převážně popu, ale kromě metalu a dechovky zvládnu zazpívat jakýkoliv žánr 😅 Nejlépe se mi zpívá česky. pop, jazz, folk, blues zpěv",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Bandmate",
+      "score": 66,
+      "reasons": [
+        "Praha",
+        "lokální networking"
+      ]
+    },
+    {
+      "id": "hudebnibazar:760198",
+      "title": "Metalcore/Hardcore projekt v Praze",
+      "url": "https://hudebnibazar.cz/metalcore-hardcore-projekt-v-praze/ID760198/",
+      "date": "2026-10-09T21:21:00+02:00",
+      "location": "Praha 6",
+      "author": "Shoe.Gaze",
+      "excerpt": "Hledám členy do metalcorovýho/hardcorovýho projektu styl FFO: starší Kublai Khan TX, Fox Lake - Cokoliv od nich, My Ticket Home - Strangers Only, Stray From The Path - Od Only Death is Real, Zuko, Veinfm, XweaponX, World of Pleasure, Varials (znalejm dojde, že to je primárně nu metalcore) Nejde o nic komplexního, není to show…",
+      "description": "Hledám členy do metalcorovýho/hardcorovýho projektu\nstyl FFO: starší Kublai Khan TX, Fox Lake - Cokoliv od nich, My Ticket Home - Strangers Only, Stray From The Path - Od Only Death is Real, Zuko, Veinfm, XweaponX, World of Pleasure, Varials (znalejm dojde, že to je primárně nu metalcore)\nNejde o nic komplexního, není to show off projekt, less is more.\nVěk: Ideálně okolo 20-30 let\nJsem kytarista, umím kvalitně programovat bicí a basu, lehce produkovat, nahrávat doma atd. Mám 10+ kvalitně nahranejch dem (po kontaktování pošlu)\nZákladní přepoklady jsou klasicky:\n- Umět hrát na svůj nástroj/umět unclean vokály, který komplimentujou hudebnímu stylu (JENOM Anglicky)\n- umět udržet tempo (extrémně zásadní)\n- bejt schopnej hodit na zkoušky\n- HLAVNĚ chtít tvořit stejnou hudbu (pokud chcete dělat prog metalcore, djent, thrash metal, deathcore, death metal, groove metal, pop punk atd nepište mi)\nZbytek infa a dema pošlu po kontaktování, ať tady není moc velkej walltext.\nPS: POKUD MI ODPOVÍDÁTE NA INZERÁT, POŠLETE MI PROSÍM UKÁZKY VAŠEHO HRÁNÍ/VOKÁLŮ A NE JEN VAŠE TELEFONNÍ ČÍSLO\nPS2: Kvůli docela velkýmu číslu lidí, který neví o čem tenhle projekt je - jednoduchý filtrační pravidlo - pokud nevíš co je 2step, throwdown, na inzerát neodpovídej (je tady X skupin, který chtěj dělat váš oblíbenej žánr, ať je to djent, deathcore nebo pop punk atd).",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Nu-metal"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 94,
+      "reasons": [
+        "nu metal",
+        "Praha 6"
+      ]
+    },
+    {
+      "id": "hudebnibazar:752990",
+      "title": "Baskytarista hleda kapelu",
+      "url": "https://hudebnibazar.cz/baskytarista-hleda-kapelu/ID752990/",
+      "date": "2026-10-09T20:02:00+02:00",
+      "location": "Praha 4",
+      "author": "Bass.Mm",
+      "excerpt": "Baskytarista 50 + hleda kapelu , pop , rock , hodne odehrano a vybaveni mam",
+      "description": "Baskytarista 50 + hleda kapelu , pop , rock , hodne odehrano a vybaveni mam",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Praha 4",
+        "lokální networking"
+      ]
+    },
+    {
+      "id": "hudebnibazar:786736",
+      "title": "Hledám grunge/rock/poprock nadšence",
+      "url": "https://hudebnibazar.cz/hledam-grunge-rock-poprock-nadsence/ID786736/",
+      "date": "2026-10-09T19:25:00+02:00",
+      "location": "Praha 3",
+      "author": "Adam.Pluhacek",
+      "excerpt": "Ahoj, jsem kytarista(hlavně bicák, ale bez bicích :d) a zpěvák v záuce, rád bych se socializoval a zahrál s lidma nějaký tunes. Je mi 27, na bici hraju od 15 a kytaru tak od 17 s přestávkama Současně nonstop jedu Alince in Chains, ale kytarově jsou moji oblíbenci asi Radiohlavy Když se nás najde víc, můžem mluvit o kapele:)…",
+      "description": "Ahoj,\njsem kytarista(hlavně bicák, ale bez bicích :d) a zpěvák v záuce, rád bych se socializoval a zahrál s lidma nějaký tunes.\nJe mi 27, na bici hraju od 15 a kytaru tak od 17 s přestávkama\nSoučasně nonstop jedu Alince in Chains, ale kytarově jsou moji oblíbenci asi Radiohlavy\nKdyž se nás najde víc, můžem mluvit o kapele:)\nPište prererenčně na ig: adam.pluhacek dík<3",
+      "externalLinks": [
+        "https://instagram.com/adam.pluhacek"
+      ],
       "influences": [],
       "genres": [
         "Grunge"
       ],
-      "isPrague": false,
-      "source": "Bandmate",
-      "score": 73,
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 72,
       "reasons": [
-        "zpěv hledá",
-        "Brno",
         "grunge",
+        "odkaz na profil / ukázku",
+        "Praha 3"
+      ]
+    },
+    {
+      "id": "hudebnibazar:786668",
+      "title": "Kapela hledá zpěváka, zpěvačku",
+      "url": "https://hudebnibazar.cz/kapela-hleda-zpevaka-zpevacku/ID786668/",
+      "date": "2026-10-09T13:30:00+02:00",
+      "location": "Příbram",
+      "author": "Martin.Lupac",
+      "excerpt": "Ahoj, hledáme zpěváka nebo zpěvačku pro naši nově vzniklou kapelu.Hrajeme rock-metal-vlastní tvorba.Nejsme začátečníci, už máme nějaké to hraní za sebou a ještě se nám nechce přestat hrát.Pokud by ses chtěl, chtěla podílet na vzniku songů od začátku a nevadilo by ti že jsme všichni už 50+? budeme rádi, když dáš naší kapele tvář…",
+      "description": "Ahoj, hledáme zpěváka nebo zpěvačku pro naši nově vzniklou kapelu.Hrajeme rock-metal-vlastní tvorba.Nejsme začátečníci, už máme nějaké to hraní za sebou a ještě se nám nechce přestat hrát.Pokud by ses chtěl, chtěla podílet na vzniku songů od začátku a nevadilo by ti že jsme všichni už 50+? budeme rádi, když dáš naší kapele tvář i hlas.Jsme ze Sedlčan, zkušebnu máme.\nTak neváhej a ozvi se.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "Příbram"
+      ]
+    },
+    {
+      "id": "hudebnibazar:786666",
+      "title": "duch hledá kapelu",
+      "url": "https://hudebnibazar.cz/duch-hleda-kapelu/ID786666/",
+      "date": "2026-10-09T13:17:00+02:00",
+      "location": "Praha 4",
+      "author": "Martin.Nemec4",
+      "excerpt": "Příležitostný písničkář s rockovou duší hledá hudební nadšence, kteří by se nebáli zapojit do nového alternativního projektu vyznačujícího se akustickým základem, různorodou dynamikou a melancholickými emocemi. Zváni jsou aktivní muzikanti, ale i pasivní jedinci, kteří si mysleli, že už mají to nejlepší za sebou. Potřeba jsou…",
+      "description": "Příležitostný písničkář s rockovou duší hledá hudební nadšence, kteří by se nebáli zapojit do nového alternativního projektu vyznačujícího se akustickým základem, různorodou dynamikou a melancholickými emocemi. Zváni jsou aktivní muzikanti, ale i pasivní jedinci, kteří si mysleli, že už mají to nejlepší za sebou. Potřeba jsou všichni, co umí vyluzovat jakékoliv zvuky, ale především Ti co umí mlátit do škopků, napínat struny, či trápit svoje hlasivky.\nPraha, 30-50let",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Emo"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 70,
+      "reasons": [
+        "emo",
+        "Praha 4"
+      ]
+    },
+    {
+      "id": "hudebnibazar:706552",
+      "title": "HLEDÁME zpěváka pro projekt The Morphine",
+      "url": "https://hudebnibazar.cz/hledame-zpevaka-pro-projekt-the-morphine/ID706552/",
+      "date": "2026-10-08T22:18:00+02:00",
+      "location": "Olomouc",
+      "author": "Petr.Zatloukal3",
+      "excerpt": "DRUM, BASS, SAX, HLEDÁ ZPĚVÁKA/ZPĚVAČKU (alt) v angličtině. pro projekt : THE M O R P H I N E (ikonická US blues-rocková alternativa devadesátek) viz: https://cs.wikipedia.org/wiki/Morphine YouTube: https://www.youtube.com/watch?v=EthwxA_2lFQ&ab_channel=RHINO https://www.youtube.com/watch?v=IZ1T3x2fEiU&ab_channel=RHINO…",
+      "description": "DRUM, BASS, SAX, HLEDÁ ZPĚVÁKA/ZPĚVAČKU (alt)\nv angličtině.\npro projekt : THE M O R P H I N E\n(ikonická US blues-rocková alternativa devadesátek)\nviz:\nhttps://cs.wikipedia.org/wiki/Morphine\nYouTube:\nhttps://www.youtube.com/watch?v=EthwxA_2lFQ&ab_channel=RHINO\nhttps://www.youtube.com/watch?v=IZ1T3x2fEiU&ab_channel=RHINO\nhttps://www.youtube.com/watch?v=3xz4umNws0s&ab_channel=RHINO\nhttps://www.youtube.com/watch?v=BgvBWR0Tr7I&ab_channel=tincture0\nhttps://www.youtube.com/watch?v=dhPhiKG2bJw\nProsím, prostuduj vše pozorně a ozvi se ...\nNAJDEME STEJNÉ ŠÍLENCE? následná vlastní tvorba vycházející z uvedené hudby vítána...\nMám bicí, basu, sax a zkušenosti (aktivně hrajeme), PA+mix, a zatím jen provizorní zkušebnu v Olo.\nPetr :o)",
+      "externalLinks": [
+        "https://cs.wikipedia.org/wiki/Morphine",
+        "https://www.youtube.com/watch?v=EthwxA_2lFQ&ab_channel=RHINO",
+        "https://www.youtube.com/watch?v=IZ1T3x2fEiU&ab_channel=RHINO",
+        "https://www.youtube.com/watch?v=3xz4umNws0s&ab_channel=RHINO",
+        "https://www.youtube.com/watch?v=BgvBWR0Tr7I&ab_channel=tincture0"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 87,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Olomouc"
+      ]
+    },
+    {
+      "id": "hudebnibazar:784806",
+      "title": "HLEDÁM AUTORSKÝ BAND",
+      "url": "https://hudebnibazar.cz/hledam-autorsky-band/ID784806/",
+      "date": "2026-10-08T20:10:00+02:00",
+      "location": "Praha 4",
+      "author": "Gogen.77",
+      "excerpt": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím. Jen aktivní kapely z Prahy.",
+      "description": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím.\nJen aktivní kapely z Prahy.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "Praha 4",
+        "lokální networking"
+      ]
+    },
+    {
+      "id": "hudebnibazar:786533",
+      "title": "Hledám kapelu. Metalcore? Nu metal?",
+      "url": "https://hudebnibazar.cz/hledam-kapelu-metalcore-nu-metal/ID786533/",
+      "date": "2026-10-08T13:39:00+02:00",
+      "location": "Domažlice",
+      "author": "Jaroslav.Pav",
+      "excerpt": "Zdravím, hledám kapelu které chybí hlavní zpěv. Nejlépe zaměření tvrdší, metalcore, nu metal. Moderní prvky vítané ? Scream I čistý, řev atd. Dávám. Texty v češtině, anglicky neumím ani koukat ? texty mám i své. Okolí Domažlic nejlíp, ale dojet není problém i dál.",
+      "description": "Zdravím, hledám kapelu které chybí hlavní zpěv. Nejlépe zaměření tvrdší, metalcore, nu metal. Moderní prvky vítané ? Scream I čistý, řev atd. Dávám. Texty v češtině, anglicky neumím ani koukat ? texty mám i své.\nOkolí Domažlic nejlíp, ale dojet není problém i dál.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Nu-metal"
+      ],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 88,
+      "reasons": [
+        "nu metal",
+        "Domažlice"
+      ]
+    },
+    {
+      "id": "hudebnibazar:784623",
+      "title": "Looking for a Bassist in Prague!",
+      "url": "https://hudebnibazar.cz/looking-for-a-bassist-in-prague/ID784623/",
+      "date": "2026-10-08T12:16:00+02:00",
+      "location": "Praha 5",
+      "author": "Andrei.Sotov",
+      "excerpt": "Prague-based gothic & melodic metal band is looking for a bassist. What we offer: ✔️ No rehearsal room costs — we cover them ✔️ No recording costs for the band material ✔️ Regular rehearsals with a fully equipped in-ear monitoring setup ✔️ Live shows — we already have gig offers coming in ✔️ New material to work on after the…",
+      "description": "Prague-based gothic & melodic metal band is looking for a bassist.\nWhat we offer:\n✔️ No rehearsal room costs — we cover them\n✔️ No recording costs for the band material\n✔️ Regular rehearsals with a fully equipped in-ear monitoring setup\n✔️ Live shows — we already have gig offers coming in\n✔️ New material to work on after the album is completed\n✔️ A stable band focused on playing live and moving forward\nWhat we’re looking for:\n✔️ Good sense of rhythm and groove — tight with drums and click\n✔️ Basslines are not difficult, but they need to sound solid\n✔️ Existing bass parts are already written and tabs are provided\n✔️ For new material, your own ideas are welcome\n✔️ Ability to prepare the material independently and come to rehearsals prepared\n✔️ Own bass and multi-FX with cab simulation\nWe rehearse twice a week in Prague 15 – Hostivař with in-ear monitoring. We provide the wired connection, so you only need your own earphones/IEMs.\nOur main focus now is live shows. The first album is almost finished, and after that we’ll start working on new material.\nAt the moment, this is a hobby project, so there is no payment for band members. At the same time, you also don’t pay for the rehearsal room or recording costs.\nLineup: female vocals, guitar, drums, keyboards/samples — and you on bass?\nAge and gender don’t matter — rhythm, groove, reliability and motivation do.\nMusic: https://obsidiangrace.com/music\nLooking forward to hearing from you!",
+      "externalLinks": [
+        "https://obsidiangrace.com/music"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 86,
+      "reasons": [
+        "Praha 5",
+        "lokální networking",
+        "odkaz na profil / ukázku",
         "podrobný inzerát"
       ]
-    }
-  ],
-  "interesting": [
+    },
+    {
+      "id": "hudebnibazar:778748",
+      "title": "Obsidian Grace is looking for live shows / support slots",
+      "url": "https://hudebnibazar.cz/obsidian-grace-is-looking-for-live-shows-support-slots/ID778748/",
+      "date": "2026-10-08T12:16:00+02:00",
+      "location": "Praha 5",
+      "author": "Andrei.Sotov",
+      "excerpt": "Obsidian Grace (gothic / melodic metal) from Prague is looking for opportunities to perform at concerts, festivals, or join lineups as a support band. We currently have ~45 minutes of original material, fully rehearsed and ready for live performance. We’re easy to work with, reliable, and open to different formats of shows. You…",
+      "description": "Obsidian Grace (gothic / melodic metal) from Prague is looking for opportunities to perform at concerts, festivals, or join lineups as a support band.\nWe currently have ~45 minutes of original material, fully rehearsed and ready for live performance.\nWe’re easy to work with, reliable, and open to different formats of shows.\nYou can listen to our music here:\nhttps://obsidiangrace.com/music\nIf you have a suitable event or slot, feel free to message me.",
+      "externalLinks": [
+        "https://obsidiangrace.com/music"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 83,
+      "reasons": [
+        "Praha 5",
+        "lokální networking",
+        "odkaz na profil / ukázku",
+        "podrobný inzerát"
+      ]
+    },
     {
       "id": "hudebnibazar:759428",
       "title": "Hledáme zpěvačku do nové kapely",
@@ -677,33 +1044,6 @@
       ]
     },
     {
-      "id": "hudebnibazar:772011",
-      "title": "Hledám zpěváka/zpěvačku - Praha",
-      "url": "https://hudebnibazar.cz/hledam-zpevaka-zpevacku-praha/ID772011/",
-      "date": "2026-10-05T14:13:00+02:00",
-      "location": "Praha 8",
-      "author": "Egi",
-      "excerpt": "Ahoj, jsem basák/kytarista a hledám zpěváka/zpěvačku z Prahy do nové autorské kapely (indie, alternative rock, anglické texty), věkově cca 22-32 let. Mně je 29, mám za sebou hraní ve dvou kapelách. V odkazu níže najdeš set kapel, kterým bych se chtěl stylem a zvukem přiblížit (Friday Pilots Club, Orla Gartland, Kensington, Last…",
-      "description": "Ahoj, jsem basák/kytarista a hledám zpěváka/zpěvačku z Prahy do nové autorské kapely (indie, alternative rock, anglické texty), věkově cca 22-32 let. Mně je 29, mám za sebou hraní ve dvou kapelách. V odkazu níže najdeš set kapel, kterým bych se chtěl stylem a zvukem přiblížit (Friday Pilots Club, Orla Gartland, Kensington, Last Dinosaurs, Wildermiss).\nJsem k dispozici na WhatsApp (, Instagramu, Facebooku nebo přes formulář níže :-)\nhttps://www.facebook.com/egermaj/\nhttps://www.instagram.com/egimusick/",
-      "externalLinks": [
-        "https://www.facebook.com/egermaj/",
-        "https://www.instagram.com/egimusick/",
-        "https://instagram.com/.com"
-      ],
-      "influences": [],
-      "genres": [
-        "Alt-rock"
-      ],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 100,
-      "reasons": [
-        "alternative rock",
-        "odkaz na profil / ukázku",
-        "Praha 8"
-      ]
-    },
-    {
       "id": "bandmate:c1fbc781-6cf4-4858-9f27-0997e1b0652c",
       "title": "Kytarista hledá kapelu / projekt v Praze",
       "url": "https://bandmate.cz/inzerat/kytarista-hled-kapelu-projekt-v-praze-iF3phc",
@@ -838,26 +1178,6 @@
       ]
     },
     {
-      "id": "hudebnibazar:786003",
-      "title": "Houslemi, kytarou doplním country partu/kapelu",
-      "url": "https://hudebnibazar.cz/houslemi-kytarou-doplnim-country-partu-kapelu/ID786003/",
-      "date": "2026-10-05T09:33:00+02:00",
-      "location": "Praha 4",
-      "author": "B.G",
-      "excerpt": "S houslemi nebo s el. kytarou sólově doplním zaběhnutou partu ... ideálně ve stylu country music, honky tonk, country rock, country folk ..., ale i blues, bluegrass, folk, případně další .... Hledám partu staršího věku, kde se nemusí ztrácet čas zkouškami a o to častěji se hraje ... Praha (případně i její okolí s dobrým…",
-      "description": "S houslemi nebo s el. kytarou sólově doplním zaběhnutou partu ... ideálně ve stylu country music, honky tonk, country rock, country folk ..., ale i blues, bluegrass, folk, případně další .... Hledám partu staršího věku, kde se nemusí ztrácet čas zkouškami a o to častěji se hraje ... Praha (případně i její okolí s dobrým parkováním pro auto)",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 66,
-      "reasons": [
-        "Praha 4",
-        "lokální networking"
-      ]
-    },
-    {
       "id": "hudebnibazar:766012",
       "title": "!!! WANTED !!! Hledají se bicí do Indie Rock kapely",
       "url": "https://hudebnibazar.cz/wanted-hledaji-se-bici-do-indie-rock-kapely/ID766012/",
@@ -944,26 +1264,6 @@
       ]
     },
     {
-      "id": "hudebnibazar:752990",
-      "title": "Baskytarista hleda kapelu",
-      "url": "https://hudebnibazar.cz/baskytarista-hleda-kapelu/ID752990/",
-      "date": "2026-10-04T18:42:00+02:00",
-      "location": "Praha 4",
-      "author": "Bass.Mm",
-      "excerpt": "Baskytarista 50 + hleda kapelu , pop , rock , hodne odehrano a vybaveni mam",
-      "description": "Baskytarista 50 + hleda kapelu , pop , rock , hodne odehrano a vybaveni mam",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 66,
-      "reasons": [
-        "Praha 4",
-        "lokální networking"
-      ]
-    },
-    {
       "id": "hudebnibazar:785922",
       "title": "Finding a band",
       "url": "https://hudebnibazar.cz/finding-a-band/ID785922/",
@@ -1005,57 +1305,6 @@
         "jasný projekt / zkušenosti",
         "odkaz na profil / ukázku",
         "Vsetín"
-      ]
-    },
-    {
-      "id": "hudebnibazar:786024",
-      "title": "KISSINGER HEROES – HLEDÁM ČLENY DO KAPELY!",
-      "url": "https://hudebnibazar.cz/kissinger-heroes-hledam-cleny-do-kapely/ID786024/",
-      "date": "2026-10-04T16:01:00+02:00",
-      "location": "Vsetín",
-      "author": "Jaroslav.Hrabica2",
-      "excerpt": "Ahoj, jmenuji se Jaroslav Hrabica, je mi 19 let a jsem sólový kytarista. Momentálně jsem v kapele Kissinger Heroes sám, a proto hledám další členy do začínající metalové kapely. HLEDÁME: Zpěváka Baskytaristu Bubeníka Druhého kytaristu Lidečko a okolí Valašska Ideálně věk 19–20 let Mám vlastní zkušebnu doma v Lidečku, takže máme…",
-      "description": "Ahoj, jmenuji se Jaroslav Hrabica, je mi 19 let a jsem sólový kytarista. Momentálně jsem v kapele Kissinger Heroes sám, a proto hledám další členy do začínající metalové kapely.\nHLEDÁME:\nZpěváka\nBaskytaristu\nBubeníka\nDruhého kytaristu\nLidečko a okolí Valašska\nIdeálně věk 19–20 let\nMám vlastní zkušebnu doma v Lidečku, takže máme kde pravidelně zkoušet.\nZkoušky plánujeme v pátek.\nCO CHCEME DĚLAT:\nhrát metal\nskládat vlastní skladby\npostupně vytvořit materiál na debutové album\npo nahrání vlastních skladeb začít hrát koncerty v okolí Valašska\nvytvořit partu lidí, kteří to s kapelou myslí vážně\nHledám hlavně lidi, kteří mají chuť hrát, tvořit vlastní hudbu a pravidelně zkoušet. Nemusíš být profesionál – důležitá je chuť do muziky a spolehlivost.\nTelefon:\nInstagram: @Jhrabica95\nPokud tě to zaujalo, napiš mi nebo zavolej.\nKissinger Heroes – začínáme od nuly a chceme vybudovat vlastní metalovou kapelu!",
-      "externalLinks": [
-        "https://instagram.com/Jhrabica95"
-      ],
-      "influences": [],
-      "genres": [],
-      "isPrague": false,
-      "source": "Hudební bazar",
-      "score": 90,
-      "reasons": [
-        "podrobný inzerát",
-        "jasný projekt / zkušenosti",
-        "odkaz na profil / ukázku",
-        "Vsetín"
-      ]
-    },
-    {
-      "id": "hudebnibazar:783198",
-      "title": "Hledáme baskytaristu (rock, autorská tvorba)",
-      "url": "https://hudebnibazar.cz/hledame-baskytaristu-rock-autorska-tvorba/ID783198/",
-      "date": "2026-10-04T08:01:00+02:00",
-      "location": "Hradec Králové",
-      "author": "Miloslav.Trubka",
-      "excerpt": "Kapela Morte Forte z Chlumce nad Cidlinou hledá baskytaristu. Hrajeme specifický styl melodického hardrocku/metalu ve spojení s trumpetami (autorské skladby). Hledáme spolehlivého parťáka s vlastním vybavením a možností dojíždění, který by s námi chtěl naplno budovat naší kapelu. Oceníme zkušenosti s pódiovým hraním, případně i…",
-      "description": "Kapela Morte Forte z Chlumce nad Cidlinou hledá baskytaristu.\nHrajeme specifický styl melodického hardrocku/metalu ve spojení s trumpetami (autorské skladby).\nHledáme spolehlivého parťáka s vlastním vybavením a možností dojíždění, který by s námi chtěl naplno budovat naší kapelu.\nOceníme zkušenosti s pódiovým hraním, případně i s nahráváním ve studiu.\nJsme parta kamarádů kolem věku 30 let. Hledáme tak někoho ideálně do věku 35 let. Máme zkušenosti z malých i velkých koncertů. Zkušebnu máme a domluvené koncerty také.\nV případě zájmu nám neváhej napsat (FB, Insta, SMS, mail) nebo zavolat (tel.: – rádi probereme podrobnosti.\nBudeme se těšit!\nMorte Forte\nNaše tvorba:\nhttps://open.spotify.com/artist/1XNvcG9LqdYZicUMFaPtGO?si=ke-XtKIwSLKfa-9rJOPrJQ\nhttps://m.youtube.com/playlist?list=OLAK5uy_muemsqqzkDuXbuO3Y9X5htESa7kvSMar8&playnext=1&index=1\nmail:\nweb: https://www.morteforte.cz/",
-      "externalLinks": [
-        "https://www.youtube.com/watch?v=TqjqusmvxO8",
-        "https://open.spotify.com/artist/1XNvcG9LqdYZicUMFaPtGO?si=ke-XtKIwSLKfa-9rJOPrJQ",
-        "https://m.youtube.com/playlist?list=OLAK5uy_muemsqqzkDuXbuO3Y9X5htESa7kvSMar8&playnext=1&index=1",
-        "https://www.morteforte.cz/"
-      ],
-      "influences": [],
-      "genres": [],
-      "isPrague": false,
-      "source": "Hudební bazar",
-      "score": 92,
-      "reasons": [
-        "podrobný inzerát",
-        "jasný projekt / zkušenosti",
-        "odkaz na profil / ukázku",
-        "Hradec Králové"
       ]
     },
     {
@@ -1146,54 +1395,6 @@
       ]
     },
     {
-      "id": "hudebnibazar:784623",
-      "title": "Looking for a Bassist in Prague!",
-      "url": "https://hudebnibazar.cz/looking-for-a-bassist-in-prague/ID784623/",
-      "date": "2026-10-03T12:24:00+02:00",
-      "location": "Praha 5",
-      "author": "Andrei.Sotov",
-      "excerpt": "Prague-based gothic & melodic metal band is looking for a bassist. What we offer: ✔️ No rehearsal room costs — we cover them ✔️ No recording costs for the band material ✔️ Regular rehearsals with a fully equipped in-ear monitoring setup ✔️ Live shows — we already have gig offers coming in ✔️ New material to work on after the…",
-      "description": "Prague-based gothic & melodic metal band is looking for a bassist.\nWhat we offer:\n✔️ No rehearsal room costs — we cover them\n✔️ No recording costs for the band material\n✔️ Regular rehearsals with a fully equipped in-ear monitoring setup\n✔️ Live shows — we already have gig offers coming in\n✔️ New material to work on after the album is completed\n✔️ A stable band focused on playing live and moving forward\nWhat we’re looking for:\n✔️ Good sense of rhythm and groove — tight with drums and click\n✔️ Basslines are not difficult, but they need to sound solid\n✔️ Existing bass parts are already written and tabs are provided\n✔️ For new material, your own ideas are welcome\n✔️ Ability to prepare the material independently and come to rehearsals prepared\n✔️ Own bass and multi-FX with cab simulation\nWe rehearse twice a week in Prague 15 – Hostivař with in-ear monitoring. We provide the wired connection, so you only need your own earphones/IEMs.\nOur main focus now is live shows. The first album is almost finished, and after that we’ll start working on new material.\nAt the moment, this is a hobby project, so there is no payment for band members. At the same time, you also don’t pay for the rehearsal room or recording costs.\nLineup: female vocals, guitar, drums, keyboards/samples — and you on bass?\nAge and gender don’t matter — rhythm, groove, reliability and motivation do.\nMusic: https://obsidiangrace.com/music\nLooking forward to hearing from you!",
-      "externalLinks": [
-        "https://obsidiangrace.com/music"
-      ],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 86,
-      "reasons": [
-        "Praha 5",
-        "lokální networking",
-        "odkaz na profil / ukázku",
-        "podrobný inzerát"
-      ]
-    },
-    {
-      "id": "hudebnibazar:778748",
-      "title": "Obsidian Grace is looking for live shows / support slots",
-      "url": "https://hudebnibazar.cz/obsidian-grace-is-looking-for-live-shows-support-slots/ID778748/",
-      "date": "2026-10-03T11:15:00+02:00",
-      "location": "Praha 5",
-      "author": "Andrei.Sotov",
-      "excerpt": "Obsidian Grace (gothic / melodic metal) from Prague is looking for opportunities to perform at concerts, festivals, or join lineups as a support band. We currently have ~45 minutes of original material, fully rehearsed and ready for live performance. We’re easy to work with, reliable, and open to different formats of shows. You…",
-      "description": "Obsidian Grace (gothic / melodic metal) from Prague is looking for opportunities to perform at concerts, festivals, or join lineups as a support band.\nWe currently have ~45 minutes of original material, fully rehearsed and ready for live performance.\nWe’re easy to work with, reliable, and open to different formats of shows.\nYou can listen to our music here:\nhttps://obsidiangrace.com/music\nIf you have a suitable event or slot, feel free to message me.",
-      "externalLinks": [
-        "https://obsidiangrace.com/music"
-      ],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 83,
-      "reasons": [
-        "Praha 5",
-        "lokální networking",
-        "odkaz na profil / ukázku",
-        "podrobný inzerát"
-      ]
-    },
-    {
       "id": "hudebnibazar:785618",
       "title": "Bubeníka a kytaristu do groovy death kapely pro live hraní",
       "url": "https://hudebnibazar.cz/bubenika-a-kytaristu-do-groovy-death-kapely-pro-live-hrani/ID785618/",
@@ -1212,26 +1413,6 @@
         "podrobný inzerát",
         "jasný projekt / zkušenosti",
         "Náchod"
-      ]
-    },
-    {
-      "id": "hudebnibazar:784806",
-      "title": "HLEDÁM AUTORSKÝ BAND",
-      "url": "https://hudebnibazar.cz/hledam-autorsky-band/ID784806/",
-      "date": "2026-10-03T10:10:00+02:00",
-      "location": "Praha 4",
-      "author": "Gogen.77",
-      "excerpt": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím. Jen aktivní kapely z Prahy.",
-      "description": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím.\nJen aktivní kapely z Prahy.",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 69,
-      "reasons": [
-        "Praha 4",
-        "lokální networking"
       ]
     },
     {
@@ -2150,34 +2331,6 @@
       ]
     },
     {
-      "id": "hudebnibazar:706552",
-      "title": "HLEDÁME zpěváka pro projekt The Morphine",
-      "url": "https://hudebnibazar.cz/hledame-zpevaka-pro-projekt-the-morphine/ID706552/",
-      "date": "2026-09-24T17:31:00+02:00",
-      "location": "Olomouc",
-      "author": "Petr.Zatloukal3",
-      "excerpt": "DRUM, BASS, SAX, HLEDÁ ZPĚVÁKA/ZPĚVAČKU (alt) v angličtině. pro projekt : THE M O R P H I N E (ikonická US blues-rocková alternativa devadesátek) viz: https://cs.wikipedia.org/wiki/Morphine YouTube: https://www.youtube.com/watch?v=EthwxA_2lFQ&ab_channel=RHINO https://www.youtube.com/watch?v=IZ1T3x2fEiU&ab_channel=RHINO…",
-      "description": "DRUM, BASS, SAX, HLEDÁ ZPĚVÁKA/ZPĚVAČKU (alt)\nv angličtině.\npro projekt : THE M O R P H I N E\n(ikonická US blues-rocková alternativa devadesátek)\nviz:\nhttps://cs.wikipedia.org/wiki/Morphine\nYouTube:\nhttps://www.youtube.com/watch?v=EthwxA_2lFQ&ab_channel=RHINO\nhttps://www.youtube.com/watch?v=IZ1T3x2fEiU&ab_channel=RHINO\nhttps://www.youtube.com/watch?v=3xz4umNws0s&ab_channel=RHINO\nhttps://www.youtube.com/watch?v=BgvBWR0Tr7I&ab_channel=tincture0\nhttps://www.youtube.com/watch?v=dhPhiKG2bJw\nProsím, prostuduj vše pozorně a ozvi se ...\nNAJDEME STEJNÉ ŠÍLENCE? následná vlastní tvorba vycházející z uvedené hudby vítána...\nMám bicí, basu, sax a zkušenosti (aktivně hrajeme), PA+mix, a zatím jen provizorní zkušebnu v Olo.\nPetr :o)",
-      "externalLinks": [
-        "https://cs.wikipedia.org/wiki/Morphine",
-        "https://www.youtube.com/watch?v=EthwxA_2lFQ&ab_channel=RHINO",
-        "https://www.youtube.com/watch?v=IZ1T3x2fEiU&ab_channel=RHINO",
-        "https://www.youtube.com/watch?v=3xz4umNws0s&ab_channel=RHINO",
-        "https://www.youtube.com/watch?v=BgvBWR0Tr7I&ab_channel=tincture0"
-      ],
-      "influences": [],
-      "genres": [],
-      "isPrague": false,
-      "source": "Hudební bazar",
-      "score": 87,
-      "reasons": [
-        "podrobný inzerát",
-        "jasný projekt / zkušenosti",
-        "odkaz na profil / ukázku",
-        "Olomouc"
-      ]
-    },
-    {
       "id": "hudebnibazar:730451",
       "title": "Hledám alternative, shoegaze, apod. hudebníky/lidi/kapelu",
       "url": "https://hudebnibazar.cz/hledam-alternative-shoegaze-apod-hudebniky-lidi-kapelu/ID730451/",
@@ -2247,30 +2400,6 @@
         "jasný projekt / zkušenosti",
         "odkaz na profil / ukázku",
         "Karviná"
-      ]
-    },
-    {
-      "id": "hudebnibazar:780196",
-      "title": "Black'n'roll ze studia shání bubenici, bubeníka na stage",
-      "url": "https://hudebnibazar.cz/black-n-roll-ze-studia-shani-bubenici-bubenika-na-stage/ID780196/",
-      "date": "2026-09-23T19:47:00+02:00",
-      "location": "Náchod",
-      "author": "Jan.Hamersky2",
-      "excerpt": "Je nám jedno, jestli hraješ jednoduše nebo složitě. Stačí, když si sedneme a budeš vědět, kdy a jak co (ne)trefit. Chceme z převážně studiového projektu vykřesat koncertní power trio. Kytaru s vokálem máme, basu taky, ale chybí nám pohon. Dole je ukázka. Kdyby Ti to přišlo zajímavý, piš. Okresy Náchod, Trutnov, Rychnov nad…",
-      "description": "Je nám jedno, jestli hraješ jednoduše nebo složitě. Stačí, když si sedneme a budeš vědět, kdy a jak co (ne)trefit.\nChceme z převážně studiového projektu vykřesat koncertní power trio. Kytaru s vokálem máme, basu taky, ale chybí nám pohon. Dole je ukázka. Kdyby Ti to přišlo zajímavý, piš. Okresy Náchod, Trutnov, Rychnov nad Kněžnou, a Hradec Králové, prosím.)",
-      "externalLinks": [
-        "https://www.youtube.com/watch?v=Xboq_JmrusU&pp=ygUOYWJiw6kgdmFnYWJ1bmQ%3D"
-      ],
-      "influences": [],
-      "genres": [],
-      "isPrague": false,
-      "source": "Hudební bazar",
-      "score": 78,
-      "reasons": [
-        "podrobný inzerát",
-        "jasný projekt / zkušenosti",
-        "odkaz na profil / ukázku",
-        "Náchod"
       ]
     },
     {
@@ -4035,27 +4164,6 @@
       ]
     },
     {
-      "id": "hudebnibazar:760198",
-      "title": "Metalcore/Hardcore projekt v Praze",
-      "url": "https://hudebnibazar.cz/metalcore-hardcore-projekt-v-praze/ID760198/",
-      "date": "2026-09-02T14:47:00+02:00",
-      "location": "Praha 6",
-      "author": "Shoe.Gaze",
-      "excerpt": "Hledám členy do metalcorovýho/hardcorovýho projektu styl FFO: starší Kublai Khan TX, Fox Lake - Cokoliv od nich, My Ticket Home - Strangers Only, Stray From The Path - Od Only Death is Real, Zuko, Veinfm, XweaponX, World of Pleasure, Varials (znalejm dojde, že to je primárně nu metalcore) Nejde o nic komplexního, není to show…",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [
-        "Nu-metal"
-      ],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 94,
-      "reasons": [
-        "nu metal",
-        "Praha 6"
-      ]
-    },
-    {
       "id": "hudebnibazar:737275",
       "title": "Studio pro Zkoušky/nahrávání/koncerty/trénin",
       "url": "https://hudebnibazar.cz/studio-pro-zkousky-nahravani-koncerty-trenin/ID737275/",
@@ -4213,28 +4321,6 @@
         "podrobný inzerát",
         "jasný projekt / zkušenosti",
         "Severní Morava"
-      ]
-    },
-    {
-      "id": "bandmate:ea08dab8-dc33-4c0f-abc0-1cf09d863fdb",
-      "title": "Zpěvačka hledá hudební produkci",
-      "url": "https://bandmate.cz/inzerat/zp-va-ka-hled-hudebn-produkci-np5EZP",
-      "date": "2026-08-10T19:16:24.318332+00:00",
-      "location": "Brno",
-      "author": "Serpentina",
-      "excerpt": "Zpěvačka hledá hudební produkci 🐍 Hledám producenta/producentku Jsem začínající zpěvačka a autorka a hledám někoho, kdo by se mnou chtěl hudebně rozvíjet můj projekt Serpentina. Mám vlastní texty, melodie a představu o směru – alternativní/temnější rock, grunge, melancholie a ženská energie. Ačkoliv se úplně nechci omezovat…",
-      "description": "Zpěvačka hledá hudební produkci 🐍 Hledám producenta/producentku\nJsem začínající zpěvačka a autorka a hledám někoho, kdo by se mnou chtěl hudebně rozvíjet můj projekt Serpentina.\nMám vlastní texty, melodie a představu o směru – alternativní/temnější rock, grunge, melancholie a ženská energie. Ačkoliv se úplně nechci omezovat žánrem.\nHledám někoho, kdo má cit pro atmosféru a pomůže mi moje nápady přetavit do skutečných skladeb. 🎧\nIdeálně Brno, Znojmo, Praha, ale nebráním se ani spolupráci na dálku. rock, grunge, psychedelic zpěv",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [
-        "Grunge"
-      ],
-      "isPrague": false,
-      "source": "Bandmate",
-      "score": 100,
-      "reasons": [
-        "hledá produkci / pomoc se skladbami",
-        "Brno"
       ]
     }
   ]
