@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T18:51:30.772157+00:00",
+  "updatedAt": "2026-10-10T19:01:55.582843+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -127,6 +127,30 @@
     }
   ],
   "interesting": [
+    {
+      "id": "bandmate:23cf49c8-6a3e-4769-bf6c-42de2d2b342f",
+      "title": "Experienced Singer Looking for a Band or Musicians",
+      "url": "https://bandmate.cz/inzerat/experienced-singer-looking-for-a-band-or-musicians-RbcF92",
+      "date": "2026-10-10T18:53:57.045778+00:00",
+      "location": "Tábor",
+      "author": "Ayush",
+      "excerpt": "Experienced Singer Looking for a Band or Musicians Hi! 😊 I’m from India, currently living in Tábor, and I’d love to join a band or collaborate with local musicians. I’ve been singing for many years, with experience performing live in Taiwan and Italy, including concerts, collaborations with musicians, and busking. I enjoy pop,…",
+      "description": "Experienced Singer Looking for a Band or Musicians Hi! 😊 I’m from India, currently living in Tábor, and I’d love to join a band or collaborate with local musicians.\nI’ve been singing for many years, with experience performing live in Taiwan and Italy, including concerts, collaborations with musicians, and busking.\nI enjoy pop, soul, and melodic rock (Jason Mraz, Bruno Mars, Seal, Bon Jovi), but I’m open to different genres. I sing in English, Chinese, Japanese, and other languages. I’m also learning Czech!\nI don’t play an instrument, but I’m an experienced vocalist and would be happy to join as a lead or supporting singer.\nA bit of what I did in past https://www.youtube.com/@iyou471\nFeel free to reach out! I’d love to make music together. 😊 punk, hip-hop, psychedelic, rock, pop, post-rock, soul zpěv",
+      "externalLinks": [
+        "https://www.youtube.com/@iyou471",
+        "https://instagram.com/iyou471"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Bandmate",
+      "score": 78,
+      "reasons": [
+        "podrobný inzerát",
+        "odkaz na profil / ukázku",
+        "Tábor"
+      ]
+    },
     {
       "id": "hudebnibazar:786876",
       "title": "⚓ Kapela WOODEN SHIPS (Jičín) hledá hlas na svou palubu",
