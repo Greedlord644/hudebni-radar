@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T16:21:26.735282+00:00",
+  "updatedAt": "2026-10-10T16:31:49.236587+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -127,6 +127,31 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:786876",
+      "title": "⚓ Kapela WOODEN SHIPS (Jičín) hledá hlas na svou palubu",
+      "url": "https://hudebnibazar.cz/kapela-wooden-ships-jicin-hleda-hlas-na-svou-palubu/ID786876/",
+      "date": "2026-10-10T18:23:00+02:00",
+      "location": "Jičín",
+      "author": "Andy.Wouda",
+      "excerpt": "Zaběhnutá jičínská kapela WOODEN SHIPS (hard rock-blues) hledá zpěváka nebo zpěvačku, který/á se nebojí vzít mikrofon do ruky a stát se součástí naší posádky. Hledáme někoho, kdo má chuť zpívat, podílet se na vlastní tvorbě a vyrazit s námi na koncertní pódia. Důležitý je pro nás nejen hlas, ale i spolehlivost, chuť zkoušet a…",
+      "description": "Zaběhnutá jičínská kapela WOODEN SHIPS (hard rock-blues) hledá zpěváka nebo zpěvačku, který/á se nebojí vzít mikrofon do ruky a stát se součástí naší posádky. Hledáme někoho, kdo má chuť zpívat, podílet se na vlastní tvorbě a vyrazit s námi na koncertní pódia. Důležitý je pro nás nejen hlas, ale i spolehlivost, chuť zkoušet a radost ze společného hraní.\nMáš hlas, energii a chuť plout s námi? Ozvi se nám! Třeba právě na tebe čeká místo na palubě.\nhttps://www.facebook.com/woodenships68\nhttps://distrokid.com/hyperfollow/woodenships/hodiny-ticha",
+      "externalLinks": [
+        "https://www.facebook.com/woodenships68",
+        "https://distrokid.com/hyperfollow/woodenships/hodiny-ticha"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 87,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Jičín"
+      ]
+    },
     {
       "id": "hudebnibazar:780041",
       "title": "Kytarista hledá kapelu",
