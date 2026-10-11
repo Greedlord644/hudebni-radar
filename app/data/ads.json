@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T06:21:26.514931+00:00",
+  "updatedAt": "2026-10-11T06:31:41.846272+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -127,6 +127,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:785479",
+      "title": "BUBENÍK HLEDÁ KYTARISTU",
+      "url": "https://hudebnibazar.cz/bubenik-hleda-kytaristu/ID785479/",
+      "date": "2026-10-11T08:30:00+02:00",
+      "location": "Praha 1",
+      "author": "Jan.Cerny",
+      "excerpt": "Hledam muzukanty v Usti nad labem. Nejeadeji bych chtel hrat Pop-rock. Ideální basák i kytarista. Jediná podmínka je vlastní kombo nejak vykonne. Dík Honza",
+      "description": "Hledam muzukanty v Usti nad labem. Nejeadeji bych chtel hrat Pop-rock.\nIdeální basák i kytarista. Jediná podmínka je vlastní kombo nejak vykonne.\nDík Honza",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Praha 1",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:786965",
       "title": "Hledáme zkušebnu pro 4člennou metalovou kapelu – Tábor / Pla",
