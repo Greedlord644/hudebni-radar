@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T00:02:01.941708+00:00",
+  "updatedAt": "2026-10-11T00:11:30.438183+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -127,6 +127,30 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:786965",
+      "title": "Hledáme zkušebnu pro 4člennou metalovou kapelu – Tábor / Pla",
+      "url": "https://hudebnibazar.cz/hledame-zkusebnu-pro-4clennou-metalovou-kapelu-tabor-pla/ID786965/",
+      "date": "2026-10-11T02:03:00+02:00",
+      "location": "Tábor",
+      "author": "Lupkartem67",
+      "excerpt": "Ahoj! Jsme čtyřčlenná metalová kapela a nutně hledáme zkušebnu v okolí Tábora nebo Plané nad Lužnicí. Hrajeme tvrdší hudbu, takže potřebujeme místo, kde nebude vadit hluk (garáž, sklep, průmyslový areál, stará hala atd.). Byli bychom rádi za možnost nechat si na místě aparaturu (bicí, komba). Jsme spolehliví, pořádek a včasné…",
+      "description": "Ahoj! Jsme čtyřčlenná metalová kapela a nutně hledáme zkušebnu v okolí Tábora nebo Plané nad Lužnicí.\nHrajeme tvrdší hudbu, takže potřebujeme místo, kde nebude vadit hluk (garáž, sklep, průmyslový areál, stará hala atd.).\nByli bychom rádi za možnost nechat si na místě aparaturu (bicí, komba).\nJsme spolehliví, pořádek a včasné placení nájmu zaručujeme. Klidně vezmeme i sdílenou zkušebnu s jinou kapelou.\nPokud o něčem víte, určitě se ozvěte! Předem díky za nabídky.",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=SBeYyMFcr4o"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 78,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Tábor"
+      ]
+    },
     {
       "id": "hudebnibazar:783227",
       "title": "HLEDÁM AUTORSKÝ BAND",
