@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T14:31:49.364290+00:00",
+  "updatedAt": "2026-10-12T14:41:38.200459+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -127,6 +127,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:787332",
+      "title": "SPOUŠŤ hledá basáka/basačku",
+      "url": "https://hudebnibazar.cz/spoust-hleda-basaka-basacku/ID787332/",
+      "date": "2026-10-12T16:38:00+02:00",
+      "location": "Praha 3",
+      "author": "Matej.Stary",
+      "excerpt": "Hledéme basáka/basačku z Prahy nejlépe ve věku 20-35 let, který zvládne doprovodné vokály. Máme vlastní tvorbu, české texty. Žánr rock/metal/punk. Máme rádi kapely jako Rage Against The Machine, Tool apod., ale zároveň se nutně nedržímě konkrétně určenému stylu. Uvidíme, kam nás cesta zavede. Pokud máš zájem dej vědět:)",
+      "description": "Hledéme basáka/basačku z Prahy nejlépe ve věku 20-35 let, který zvládne doprovodné vokály. Máme vlastní tvorbu, české texty. Žánr rock/metal/punk. Máme rádi kapely jako Rage Against The Machine, Tool apod., ale zároveň se nutně nedržímě konkrétně určenému stylu. Uvidíme, kam nás cesta zavede. Pokud máš zájem dej vědět:)",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "Praha 3",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:787299",
       "title": "Sberatelska figurka bobblehead Joe Bonamassa",
