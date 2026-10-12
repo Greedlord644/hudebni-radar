@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T14:02:01.421284+00:00",
+  "updatedAt": "2026-10-12T14:11:30.915056+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -145,6 +145,27 @@
       "reasons": [
         "Praha 6",
         "lokální networking"
+      ]
+    },
+    {
+      "id": "hudebnibazar:787298",
+      "title": "HLEDÁME KLÁVESÁKA s vlastním aparátem - PRAHA",
+      "url": "https://hudebnibazar.cz/hledame-klavesaka-s-vlastnim-aparatem-praha/ID787298/",
+      "date": "2026-10-12T15:20:00+02:00",
+      "location": "Praha 1",
+      "author": "Jan.Jakl",
+      "excerpt": "Zdravíme příznivce hardrockové muziky a oznamujeme tímto, že pro náš rozjetý projekt „AROCKTED“ poptáváme do svého zkušeného týmu (kytara, baskytara, bicí + zpěvák) „klávesáka“ se zkušeností a kreativitou! Jsme skvadra cca 40-50+ a základ projektu je založen na osvědčených rockových hitech (od kapel Deep Purple, Iron Maiden,…",
+      "description": "Zdravíme příznivce hardrockové muziky a oznamujeme tímto, že pro náš rozjetý projekt „AROCKTED“ poptáváme do svého zkušeného týmu (kytara, baskytara, bicí + zpěvák) „klávesáka“ se zkušeností a kreativitou! Jsme skvadra cca 40-50+ a základ projektu je založen na osvědčených rockových hitech (od kapel Deep Purple, Iron Maiden, Judas Priest, UFO, apod.) a máme i portfolio vlastních skladeb. Vlastní zkušebnu máme. Tel. (odkazy na ukázky viz. webové stránky)",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 77,
+      "reasons": [
+        "Praha 1",
+        "lokální networking",
+        "podrobný inzerát"
       ]
     },
     {
