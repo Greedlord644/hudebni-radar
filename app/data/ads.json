@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T08:31:49.444163+00:00",
+  "updatedAt": "2026-10-12T08:41:34.640291+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -127,6 +127,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:786529",
+      "title": "HLEDÁM SPOLUHRÁČE (KAPELU)",
+      "url": "https://hudebnibazar.cz/hledam-spoluhrace-kapelu/ID786529/",
+      "date": "2026-10-12T10:34:00+02:00",
+      "location": "Praha 4",
+      "author": "Gogen.77",
+      "excerpt": "Jsem kytarista: Solidní zkušenosti, vybavení a hlavně chuť dělat kvalitní, autorskou muziku. (ROCK/HARD) Lokace Praha",
+      "description": "Jsem kytarista:\nSolidní zkušenosti, vybavení a hlavně chuť dělat kvalitní, autorskou muziku. (ROCK/HARD)\nLokace Praha",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "Praha 4",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:727629",
       "title": "Kytarista / kytaristka do kapely Rousing Numbers",
