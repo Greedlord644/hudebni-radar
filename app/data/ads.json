@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T07:31:46.215872+00:00",
+  "updatedAt": "2026-10-13T07:41:34.874502+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -127,6 +127,31 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:739594",
+      "title": "Texty pro tvý songy",
+      "url": "https://hudebnibazar.cz/texty-pro-tvy-songy/ID739594/",
+      "date": "2026-10-13T09:38:00+02:00",
+      "location": "Praha-západ",
+      "author": "Pavel.Sobek",
+      "excerpt": "Máš fajn muziku a chybí ti texty? Tak se ozvi a něco vymyslíme. Moje texty můžeš slyšet třeba na albu Kayapa / Když se zeptáš. Nebo mrkni na některou z mých sbírek. Najdeš je na http://sobekpoetry.com/ https://open.spotify.com/artist/4gbOXfKnSenymF5twQWtCy",
+      "description": "Máš fajn muziku a chybí ti texty? Tak se ozvi a něco vymyslíme. Moje texty můžeš slyšet třeba na albu Kayapa / Když se zeptáš. Nebo mrkni na některou z mých sbírek. Najdeš je na http://sobekpoetry.com/\nhttps://open.spotify.com/artist/4gbOXfKnSenymF5twQWtCy",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=VZB59IxVw_4",
+        "http://sobekpoetry.com/",
+        "https://open.spotify.com/artist/4gbOXfKnSenymF5twQWtCy"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 78,
+      "reasons": [
+        "Praha-západ",
+        "lokální networking",
+        "odkaz na profil / ukázku"
+      ]
+    },
     {
       "id": "hudebnibazar:774700",
       "title": "Metalisti hledají metalisty",
@@ -1214,31 +1239,6 @@
       "reasons": [
         "Praha 4",
         "lokální networking"
-      ]
-    },
-    {
-      "id": "hudebnibazar:739594",
-      "title": "Texty pro tvý songy",
-      "url": "https://hudebnibazar.cz/texty-pro-tvy-songy/ID739594/",
-      "date": "2026-10-05T19:58:00+02:00",
-      "location": "Praha-západ",
-      "author": "Pavel.Sobek",
-      "excerpt": "Máš fajn muziku a chybí ti texty? Tak se ozvi a něco vymyslíme. Moje texty můžeš slyšet třeba na albu Kayapa / Když se zeptáš. Nebo mrkni na některou z mých sbírek. Najdeš je na http://sobekpoetry.com/ https://open.spotify.com/artist/4gbOXfKnSenymF5twQWtCy",
-      "description": "Máš fajn muziku a chybí ti texty? Tak se ozvi a něco vymyslíme. Moje texty můžeš slyšet třeba na albu Kayapa / Když se zeptáš. Nebo mrkni na některou z mých sbírek. Najdeš je na http://sobekpoetry.com/\nhttps://open.spotify.com/artist/4gbOXfKnSenymF5twQWtCy",
-      "externalLinks": [
-        "https://www.youtube.com/watch?v=VZB59IxVw_4",
-        "http://sobekpoetry.com/",
-        "https://open.spotify.com/artist/4gbOXfKnSenymF5twQWtCy"
-      ],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 78,
-      "reasons": [
-        "Praha-západ",
-        "lokální networking",
-        "odkaz na profil / ukázku"
       ]
     },
     {
