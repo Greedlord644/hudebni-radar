@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T18:52:20.641883+00:00",
+  "updatedAt": "2026-10-14T19:02:09.868986+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -127,6 +127,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:787720",
+      "title": "volný bubeník",
+      "url": "https://hudebnibazar.cz/volny-bubenik/ID787720/",
+      "date": "2026-10-14T20:55:00+02:00",
+      "location": "Praha-východ",
+      "author": "Jan.Vesely7",
+      "excerpt": "bubeník 50+ hledá kapelu Říčany - Č.Brod a blízké okolí hospoda - rock rovnej je nejvíc, trioly jsou sprostý slovo, dvojšlapku nemám",
+      "description": "bubeník 50+ hledá kapelu\nŘíčany - Č.Brod a blízké okolí\nhospoda - rock\nrovnej je nejvíc, trioly jsou sprostý slovo, dvojšlapku nemám",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Praha-východ",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:785021",
       "title": "Hledáme kytaristu (Rock / Punk-rock / Pop-rock)",
