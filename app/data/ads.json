@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T11:51:30.745029+00:00",
+  "updatedAt": "2026-10-14T12:02:38.805575+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -127,6 +127,29 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:787656",
+      "title": "Hleda se zdatny kytarista",
+      "url": "https://hudebnibazar.cz/hleda-se-zdatny-kytarista/ID787656/",
+      "date": "2026-10-14T13:53:00+02:00",
+      "location": "Praha 6",
+      "author": "Andor.Sandor",
+      "excerpt": "Art-rocková kapela Hard Barock hrající vlastní skladby hledá zdatného, kytaristu. Praha - Tábor. Kapela vystupuje cca 10-15x v jarních a letních měsících za obvyklý honorář. Na Youtube zle najit ukázky sedmi skladeb včetně televizního vystoupení v pořadu 7 Pádu Honzy Dědka.",
+      "description": "Art-rocková kapela Hard Barock hrající vlastní skladby hledá zdatného, kytaristu. Praha - Tábor. Kapela vystupuje cca 10-15x v jarních a letních měsících za obvyklý honorář. Na Youtube zle najit ukázky sedmi skladeb včetně televizního vystoupení v pořadu 7 Pádu Honzy Dědka.",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=4O96diojFpk&list=RD4O96diojFpk&start_radio=1"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 78,
+      "reasons": [
+        "Praha 6",
+        "lokální networking",
+        "odkaz na profil / ukázku"
+      ]
+    },
     {
       "id": "hudebnibazar:778529",
       "title": "INSCRIPTION HLEDÁ KYTARISTU",
