@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T12:32:35.519761+00:00",
+  "updatedAt": "2026-10-14T12:41:32.258106+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -127,6 +127,28 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:782189",
+      "title": "Hledáme : flétnu  (irskou píšťalku)",
+      "url": "https://hudebnibazar.cz/hledame-fletnu-irskou-pistalku/ID782189/",
+      "date": "2026-10-14T14:31:00+02:00",
+      "location": "Plzeň",
+      "author": "Michal.P8",
+      "excerpt": "Parta muzikantů už se pomalu skládá a začínáme dávat dohromady nový vlastní projekt.Stylově alternative rock s irskými folkovými prvky ,vlastní české písničky, kytary, groove a výrazné irské melodie. Teď nám chybí ještě někdo na FLÉTNU. Hledáme hlavně člověka s nadšením, chutí tvořit.Nemusíš být profík – důležité je, aby tě…",
+      "description": "Parta muzikantů už se pomalu skládá a začínáme dávat dohromady nový vlastní projekt.Stylově alternative rock s irskými folkovými prvky ,vlastní české písničky, kytary, groove a výrazné irské melodie.\nTeď nám chybí ještě někdo na FLÉTNU.\nHledáme hlavně člověka s nadšením, chutí tvořit.Nemusíš být profík – důležité je, aby tě muzika bavila a měl/a chuť společně tvořit něco nového a vlastního.\nPlzeň a okolí",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Alt-rock"
+      ],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 100,
+      "reasons": [
+        "hledá produkci / pomoc se skladbami",
+        "Plzeň"
+      ]
+    },
     {
       "id": "hudebnibazar:787656",
       "title": "Hleda se zdatny kytarista",
@@ -2772,28 +2794,6 @@
       "reasons": [
         "Praha 4",
         "lokální networking"
-      ]
-    },
-    {
-      "id": "hudebnibazar:782189",
-      "title": "Hledáme : tin whistle (irskou píšťalku)",
-      "url": "https://hudebnibazar.cz/hledame-tin-whistle-irskou-pistalku/ID782189/",
-      "date": "2026-09-22T10:12:00+02:00",
-      "location": "Plzeň",
-      "author": "Michal.P8",
-      "excerpt": "Parta muzikantů už se pomalu skládá a začínáme dávat dohromady nový vlastní projekt.Stylově alternative rock s irskými folkovými prvky ,vlastní české písničky, kytary, groove a výrazné irské melodie. Teď nám chybí ještě někdo na tin whistle (irskou píšťalku) nebo Irish flute. Hledáme hlavně člověka s nadšením, chutí tvořit a…",
-      "description": "Parta muzikantů už se pomalu skládá a začínáme dávat dohromady nový vlastní projekt.Stylově alternative rock s irskými folkovými prvky ,vlastní české písničky, kytary, groove a výrazné irské melodie.\nTeď nám chybí ještě někdo na tin whistle (irskou píšťalku) nebo Irish flute.\nHledáme hlavně člověka s nadšením, chutí tvořit a přicházet s novými nápady. Nemusíš být profík – důležité je, aby tě muzika bavila a měl/a chuť společně tvořit něco nového a vlastního.\nPlzeň a okolí",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [
-        "Alt-rock"
-      ],
-      "isPrague": false,
-      "source": "Hudební bazar",
-      "score": 100,
-      "reasons": [
-        "hledá produkci / pomoc se skladbami",
-        "Plzeň"
       ]
     },
     {
