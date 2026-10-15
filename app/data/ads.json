@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T09:31:52.030500+00:00",
+  "updatedAt": "2026-10-15T09:41:43.097368+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -151,6 +151,51 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:765094",
+      "title": "Baskytara wanted!",
+      "url": "https://hudebnibazar.cz/baskytara-wanted/ID765094/",
+      "date": "2026-10-15T11:36:00+02:00",
+      "location": "Praha 4",
+      "author": "Josef.R",
+      "excerpt": "Pražská nu-metalová kapela Jesper Snow hledá baskytaristu (nebo baskytaristku!) Hledáme někoho, kdo má touhu a vůli to někam dotáhnout a je ochotný pro to udělat maximum! Holka, kluk, věk ideálně mezi 17 a 30 lety. Máme vlastní zkušebnu na Praze 4. Hrajeme vlastní věci s anglickými texty - viz:…",
+      "description": "Pražská nu-metalová kapela Jesper Snow hledá baskytaristu (nebo baskytaristku!)\nHledáme někoho, kdo má touhu a vůli to někam dotáhnout a je ochotný pro to udělat maximum! Holka, kluk, věk ideálně mezi 17 a 30 lety.\nMáme vlastní zkušebnu na Praze 4.\nHrajeme vlastní věci s anglickými texty - viz:\nhttps://open.spotify.com/artist/3pKuiJSQ49gmZIoMXd11QH?si=sSbL-pneRdW9D3e8UtjrGQ\nPošli nám o sobě pár informací a případně ukázek na . Těšíme se na tebe!",
+      "externalLinks": [
+        "https://open.spotify.com/artist/3pKuiJSQ49gmZIoMXd11QH?si=sSbL-pneRdW9D3e8UtjrGQ"
+      ],
+      "influences": [],
+      "genres": [
+        "Nu-metal"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 100,
+      "reasons": [
+        "nu-metal",
+        "odkaz na profil / ukázku",
+        "Praha 4"
+      ]
+    },
+    {
+      "id": "hudebnibazar:739586",
+      "title": "Hledame spoluhrace do zakladajici kapely!",
+      "url": "https://hudebnibazar.cz/hledame-spoluhrace-do-zakladajici-kapely/ID739586/",
+      "date": "2026-10-15T11:33:00+02:00",
+      "location": "Praha 10",
+      "author": "M.S14",
+      "excerpt": "Hledame pro zalozeni rockove kapely spoluhrace;kytara,(vocal|zpevacku.zpevaka| ,klavesy ),ve vekovem rozmezi (45+)kdo maji zajem o spolecnou tvorbu,radost ze hry i pratelsky pristup.Hledame lidicky i amatery,ne-profiky s ambicemi kariery,Ale spoluhrace ktery svuj nastroj ovladaji.Klidne,uzavrene prostory na zkousky 1.den o…",
+      "description": "Hledame pro zalozeni rockove kapely spoluhrace;kytara,(vocal|zpevacku.zpevaka| ,klavesy ),ve vekovem rozmezi (45+)kdo maji zajem o spolecnou tvorbu,radost ze hry i pratelsky pristup.Hledame lidicky i amatery,ne-profiky s ambicemi kariery,Ale spoluhrace ktery svuj nastroj ovladaji.Klidne,uzavrene prostory na zkousky 1.den o vykendu k dispozici (zdarma) Piste,ozveme se vsem!",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "Praha 10",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:762845",
       "title": "Extreme vocalist is looking for a band",
@@ -1278,31 +1323,6 @@
       "score": 60,
       "reasons": [
         "emo",
-        "Praha 4"
-      ]
-    },
-    {
-      "id": "hudebnibazar:765094",
-      "title": "Baskytara wanted!",
-      "url": "https://hudebnibazar.cz/baskytara-wanted/ID765094/",
-      "date": "2026-10-08T08:07:00+02:00",
-      "location": "Praha 4",
-      "author": "Josef.R",
-      "excerpt": "Pražská nu-metalová kapela Jesper Snow hledá baskytaristu (nebo baskytaristku!) Hledáme někoho, kdo má touhu a vůli to někam dotáhnout a je ochotný pro to udělat maximum! Holka, kluk, věk ideálně mezi 17 a 30 lety. Máme vlastní zkušebnu na Praze 4. Hrajeme vlastní věci s anglickými texty - viz:…",
-      "description": "Pražská nu-metalová kapela Jesper Snow hledá baskytaristu (nebo baskytaristku!)\nHledáme někoho, kdo má touhu a vůli to někam dotáhnout a je ochotný pro to udělat maximum! Holka, kluk, věk ideálně mezi 17 a 30 lety.\nMáme vlastní zkušebnu na Praze 4.\nHrajeme vlastní věci s anglickými texty - viz:\nhttps://open.spotify.com/artist/3pKuiJSQ49gmZIoMXd11QH?si=sSbL-pneRdW9D3e8UtjrGQ\nPošli nám o sobě pár informací a případně ukázek na . Těšíme se na tebe!",
-      "externalLinks": [
-        "https://open.spotify.com/artist/3pKuiJSQ49gmZIoMXd11QH?si=sSbL-pneRdW9D3e8UtjrGQ"
-      ],
-      "influences": [],
-      "genres": [
-        "Nu-metal"
-      ],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 100,
-      "reasons": [
-        "nu-metal",
-        "odkaz na profil / ukázku",
         "Praha 4"
       ]
     },
@@ -2796,26 +2816,6 @@
       "score": 72,
       "reasons": [
         "Praha-východ",
-        "lokální networking"
-      ]
-    },
-    {
-      "id": "hudebnibazar:739586",
-      "title": "Hledame spoluhrace do zakladajici kapely!",
-      "url": "https://hudebnibazar.cz/hledame-spoluhrace-do-zakladajici-kapely/ID739586/",
-      "date": "2026-09-23T14:34:00+02:00",
-      "location": "Praha 10",
-      "author": "M.S14",
-      "excerpt": "Hledame pro zalozeni rockove kapely spoluhrace;kytara,(vocal|zpevacku.zpevaka| ,klavesy ),ve vekovem rozmezi (45+)kdo maji zajem o spolecnou tvorbu,radost ze hry i pratelsky pristup.Hledame lidicky i amatery,ne-profiky s ambicemi kariery,Ale spoluhrace ktery svuj nastroj ovladaji.Klidne,uzavrene prostory na zkousky 1.den o…",
-      "description": "Hledame pro zalozeni rockove kapely spoluhrace;kytara,(vocal|zpevacku.zpevaka| ,klavesy ),ve vekovem rozmezi (45+)kdo maji zajem o spolecnou tvorbu,radost ze hry i pratelsky pristup.Hledame lidicky i amatery,ne-profiky s ambicemi kariery,Ale spoluhrace ktery svuj nastroj ovladaji.Klidne,uzavrene prostory na zkousky 1.den o vykendu k dispozici (zdarma) Piste,ozveme se vsem!",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 69,
-      "reasons": [
-        "Praha 10",
         "lokální networking"
       ]
     },
