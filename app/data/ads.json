@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T06:32:29.016720+00:00",
+  "updatedAt": "2026-10-15T06:41:33.124385+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -151,6 +151,28 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:786666",
+      "title": "duch hledá kapelu",
+      "url": "https://hudebnibazar.cz/duch-hleda-kapelu/ID786666/",
+      "date": "2026-10-15T08:36:00+02:00",
+      "location": "Praha 4",
+      "author": "Martin.Nemec4",
+      "excerpt": "Příležitostný písničkář s rockovou duší hledá hudební nadšence, kteří by se nebáli zapojit do nového alternativního projektu vyznačujícího se akustickým základem, různorodou dynamikou a melancholickými emocemi. Zváni jsou aktivní muzikanti, ale i pasivní jedinci, kteří si mysleli, že už mají to nejlepší za sebou. Potřeba jsou…",
+      "description": "Příležitostný písničkář s rockovou duší hledá hudební nadšence, kteří by se nebáli zapojit do nového alternativního projektu vyznačujícího se akustickým základem, různorodou dynamikou a melancholickými emocemi. Zváni jsou aktivní muzikanti, ale i pasivní jedinci, kteří si mysleli, že už mají to nejlepší za sebou. Potřeba jsou všichni, co umí vyluzovat jakékoliv zvuky, ale především Ti co umí mlátit do škopků, napínat struny, či trápit svoje hlasivky.\nPraha, 30-50let",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Emo"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 70,
+      "reasons": [
+        "emo",
+        "Praha 4"
+      ]
+    },
     {
       "id": "hudebnibazar:784248",
       "title": "Hledam bubenika altrock, shoegaze",
@@ -1191,28 +1213,6 @@
         "podrobný inzerát",
         "jasný projekt / zkušenosti",
         "Příbram"
-      ]
-    },
-    {
-      "id": "hudebnibazar:786666",
-      "title": "duch hledá kapelu",
-      "url": "https://hudebnibazar.cz/duch-hleda-kapelu/ID786666/",
-      "date": "2026-10-09T13:17:00+02:00",
-      "location": "Praha 4",
-      "author": "Martin.Nemec4",
-      "excerpt": "Příležitostný písničkář s rockovou duší hledá hudební nadšence, kteří by se nebáli zapojit do nového alternativního projektu vyznačujícího se akustickým základem, různorodou dynamikou a melancholickými emocemi. Zváni jsou aktivní muzikanti, ale i pasivní jedinci, kteří si mysleli, že už mají to nejlepší za sebou. Potřeba jsou…",
-      "description": "Příležitostný písničkář s rockovou duší hledá hudební nadšence, kteří by se nebáli zapojit do nového alternativního projektu vyznačujícího se akustickým základem, různorodou dynamikou a melancholickými emocemi. Zváni jsou aktivní muzikanti, ale i pasivní jedinci, kteří si mysleli, že už mají to nejlepší za sebou. Potřeba jsou všichni, co umí vyluzovat jakékoliv zvuky, ale především Ti co umí mlátit do škopků, napínat struny, či trápit svoje hlasivky.\nPraha, 30-50let",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [
-        "Emo"
-      ],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 70,
-      "reasons": [
-        "emo",
-        "Praha 4"
       ]
     },
     {
