@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T09:21:33.304743+00:00",
+  "updatedAt": "2026-10-16T09:31:50.987030+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -151,6 +151,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:787979",
+      "title": "Hledáme zpěv",
+      "url": "https://hudebnibazar.cz/hledame-zpev/ID787979/",
+      "date": "2026-10-16T11:29:00+02:00",
+      "location": "Praha-východ",
+      "author": "Pepino.Bubenicek",
+      "excerpt": "Ahoj, hledáme zpěv pro naší kapelu. Kytara, basa,bicí a hrajeme vlastní tvorbu rock s trochou jižanského rocku. Máme vlastní zkušebnu v Brandýse nad Labem.",
+      "description": "Ahoj, hledáme zpěv pro naší kapelu. Kytara, basa,bicí a hrajeme vlastní tvorbu rock s trochou jižanského rocku. Máme vlastní zkušebnu v Brandýse nad Labem.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 72,
+      "reasons": [
+        "Praha-východ",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:780593",
       "title": "Hledáme bubeníka",
