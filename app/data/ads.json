@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T08:41:39.347058+00:00",
+  "updatedAt": "2026-10-16T08:51:35.069594+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -151,6 +151,27 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:787962",
+      "title": "Kapela Assembly Point hledá bicí!",
+      "url": "https://hudebnibazar.cz/kapela-assembly-point-hleda-bici/ID787962/",
+      "date": "2026-10-16T10:41:00+02:00",
+      "location": "Brno",
+      "author": "Vojtech.Dvorak7",
+      "excerpt": "Čau, jsme kapela Assembly Point z Brna a hledáme náhradu za bubeníka, věkově ideálně kolem 20 let. Aktuální složení 2 kytary, zpěv a basa. Žánrově hrajeme od rocku po metal (RHCP, Nirvana, Kabát, Metallica, Megadeth,...), ale jsme otevřeni návrhům, popřípadě později i vlastní tvorbě. Zkoušíme zhruba jednou za 2 týdny ve…",
+      "description": "Čau, jsme kapela Assembly Point z Brna a hledáme náhradu za bubeníka, věkově ideálně kolem 20 let. Aktuální složení 2 kytary, zpěv a basa. Žánrově hrajeme od rocku po metal (RHCP, Nirvana, Kabát, Metallica, Megadeth,...), ale jsme otevřeni návrhům, popřípadě později i vlastní tvorbě. Zkoušíme zhruba jednou za 2 týdny ve veřejných zkušebnách v Brně a s živým hraním jsme otevřeni každé příležitosti.\nJestli máš zájem a chuť, tak se neváhej ozvat!",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "Brno"
+      ]
+    },
     {
       "id": "hudebnibazar:787951",
       "title": "Zpěvačka hledá kapelu!:P",
