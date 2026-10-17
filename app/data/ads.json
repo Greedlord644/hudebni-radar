@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T07:51:32.407771+00:00",
+  "updatedAt": "2026-10-17T08:01:59.477949+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -151,6 +151,30 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:748578",
+      "title": "Pražská rocková kapela hledá sólový zpěv",
+      "url": "https://hudebnibazar.cz/prazska-rockova-kapela-hleda-solovy-zpev/ID748578/",
+      "date": "2026-10-17T09:52:00+02:00",
+      "location": "Praha 8",
+      "author": "Dreams.Dreamscape",
+      "excerpt": "Pražská rocková kapela s mnoha zkušenostmi a s vlastní tvorbou,hledá náhradu za stávající zpěvačku,kterou čeká mateřství...( zpěvačku či zpěváka ) Hrajeme ve složení : dr,lg,bg,flute,keyb,lead vocal a zkoušíme na Praze 6 Koho by bavil náš styl a myslí to vážně a má odpovědny přístup,tak ať neváhá a ozve se ! Jsme v pohodě a…",
+      "description": "Pražská rocková kapela s mnoha zkušenostmi a s vlastní tvorbou,hledá náhradu za stávající zpěvačku,kterou čeká mateřství...( zpěvačku či zpěváka ) Hrajeme ve složení : dr,lg,bg,flute,keyb,lead vocal a zkoušíme na Praze 6\nKoho by bavil náš styl a myslí to vážně a má odpovědny přístup,tak ať neváhá a ozve se ! Jsme v pohodě a máme přátelský přístup...\nUkázky naší tvorby na :\nhttps://bandzone.cz/_94788",
+      "externalLinks": [
+        "https://bandzone.cz/_94788"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 86,
+      "reasons": [
+        "Praha 8",
+        "lokální networking",
+        "odkaz na profil / ukázku",
+        "podrobný inzerát"
+      ]
+    },
     {
       "id": "hudebnibazar:788089",
       "title": "Hledá se basák",
@@ -3124,30 +3148,6 @@
       "reasons": [
         "Praha-východ",
         "lokální networking"
-      ]
-    },
-    {
-      "id": "hudebnibazar:748578",
-      "title": "Pražská rocková kapela hledá sólový zpěv",
-      "url": "https://hudebnibazar.cz/prazska-rockova-kapela-hleda-solovy-zpev/ID748578/",
-      "date": "2026-09-20T11:16:00+02:00",
-      "location": "Praha 8",
-      "author": "Dreams.Dreamscape",
-      "excerpt": "Pražská rocková kapela s mnoha zkušenostmi a s vlastní tvorbou,hledá náhradu za stávající zpěvačku,kterou čeká mateřství...( zpěvačku či zpěváka ) Hrajeme ve složení : dr,lg,bg,flute,keyb,lead vocal a zkoušíme na Praze 6 Koho by bavil náš styl a myslí to vážně a má odpovědny přístup,tak ať neváhá a ozve se ! Jsme v pohodě a…",
-      "description": "Pražská rocková kapela s mnoha zkušenostmi a s vlastní tvorbou,hledá náhradu za stávající zpěvačku,kterou čeká mateřství...( zpěvačku či zpěváka ) Hrajeme ve složení : dr,lg,bg,flute,keyb,lead vocal a zkoušíme na Praze 6\nKoho by bavil náš styl a myslí to vážně a má odpovědny přístup,tak ať neváhá a ozve se ! Jsme v pohodě a máme přátelský přístup...\nUkázky naší tvorby na :\nhttps://bandzone.cz/_94788",
-      "externalLinks": [
-        "https://bandzone.cz/_94788"
-      ],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 86,
-      "reasons": [
-        "Praha 8",
-        "lokální networking",
-        "odkaz na profil / ukázku",
-        "podrobný inzerát"
       ]
     },
     {
