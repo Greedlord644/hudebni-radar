@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T15:31:52.216552+00:00",
+  "updatedAt": "2026-10-18T15:41:28.254970+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -151,6 +151,31 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:788416",
+      "title": "Nově vznikající grunge kapela hledá zpěváka/čku",
+      "url": "https://hudebnibazar.cz/nove-vznikajici-grunge-kapela-hleda-zpevaka-cku/ID788416/",
+      "date": "2026-10-18T17:36:00+02:00",
+      "location": "Praha 3",
+      "author": "Adam.Pluhacek",
+      "excerpt": "Ahoj, jsme nově vznikající grunge skupina - bicí, kytara(zpěv2), basa(zpěv2), zatím jsme měli jednu sesh a byl to úspěch, ale chybí nám někdo se sliným hlasem! Je nám 27, 22 a 19 Klidně se ozvi i na ig - adam.pluhacek",
+      "description": "Ahoj,\njsme nově vznikající grunge skupina - bicí, kytara(zpěv2), basa(zpěv2), zatím jsme měli jednu sesh a byl to úspěch, ale chybí nám někdo se sliným hlasem!\nJe nám 27, 22 a 19\nKlidně se ozvi i na ig - adam.pluhacek",
+      "externalLinks": [
+        "https://instagram.com/adam.pluhacek"
+      ],
+      "influences": [],
+      "genres": [
+        "Grunge"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 72,
+      "reasons": [
+        "grunge",
+        "odkaz na profil / ukázku",
+        "Praha 3"
+      ]
+    },
     {
       "id": "hudebnibazar:774889",
       "title": "HLEDÁME ZPĚV!",
