@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T12:01:53.152225+00:00",
+  "updatedAt": "2026-10-18T12:11:30.712846+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -151,6 +151,30 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:788351",
+      "title": "Hledáme zpěv",
+      "url": "https://hudebnibazar.cz/hledame-zpev/ID788351/",
+      "date": "2026-10-18T14:08:00+02:00",
+      "location": "Brno",
+      "author": "Lumir.Krampl",
+      "excerpt": "? KRAHOŠ HLEDÁ ZPĚVÁKA / ZPĚVAČKU! ? Jsme rocková kapela Krahoš z Rajhradu, na scéně už 25 let. Věnujeme se převážně vlastní tvorbě. Do svých řad hledáme zpěváka nebo zpěvačku. ? Lokalita: Brno-venkov",
+      "description": "? KRAHOŠ HLEDÁ ZPĚVÁKA / ZPĚVAČKU! ?\nJsme rocková kapela Krahoš z Rajhradu, na scéně už 25 let. Věnujeme se převážně vlastní tvorbě.\nDo svých řad hledáme zpěváka nebo zpěvačku.\n? Lokalita: Brno-venkov",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=r_AQAZKutZE&list=RDr_AQAZKutZE&start_radio=1&pp=ygUHa3JhaG_FoaAHAQ%3D%3D"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 75,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Brno"
+      ]
+    },
     {
       "id": "hudebnibazar:709872",
       "title": "Hledá se houslistka, flétnistka pro folk-rockové hraní",
