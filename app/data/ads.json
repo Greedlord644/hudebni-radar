@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T11:32:28.872930+00:00",
+  "updatedAt": "2026-10-19T11:41:32.106695+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -151,6 +151,33 @@
     }
   ],
   "interesting": [
+    {
+      "id": "bandmate:86203d24-673f-4464-83c6-b5f501ffbe8d",
+      "title": "duch hledá kapelu",
+      "url": "https://bandmate.cz/inzerat/duch-hled-kapelu-9ObWzT",
+      "date": "2026-10-19T11:33:06.906547+00:00",
+      "location": "Praha",
+      "author": "Martin Němec",
+      "excerpt": "duch hledá kapelu Příležitostný písničkář s rockovou duší hledá hudební nadšence, kteří by se nebáli zapojit do nového alternativního projektu vyznačujícího se akustickým základem, různorodou dynamikou a melancholickými emocemi. Zváni jsou aktivní muzikanti, ale i pasivní jedinci, kteří si mysleli, že už mají to nejlepší za…",
+      "description": "duch hledá kapelu Příležitostný písničkář s rockovou duší hledá hudební nadšence, kteří by se nebáli zapojit do nového alternativního projektu vyznačujícího se akustickým základem, různorodou dynamikou a melancholickými emocemi. Zváni jsou aktivní muzikanti, ale i pasivní jedinci, kteří si mysleli, že už mají to nejlepší za sebou. Potřeba jsou všichni, co umí vyluzovat jakékoliv zvuky, ale především Ti co umí mlátit do škopků, napínat struny, či trápit svoje hlasivky.\nPraha, 30-50let\nOdkaz: https://bandzone.cz/_120592?at=news rock, experimentální, grunge, psychedelic, alternative",
+      "externalLinks": [
+        "https://bandzone.cz/_120592?at=news"
+      ],
+      "influences": [],
+      "genres": [
+        "Emo",
+        "Grunge"
+      ],
+      "isPrague": true,
+      "source": "Bandmate",
+      "score": 94,
+      "reasons": [
+        "emo",
+        "grunge",
+        "odkaz na profil / ukázku",
+        "Praha"
+      ]
+    },
     {
       "id": "hudebnibazar:785747",
       "title": "HLEDÁM SPOLUHRÁČE",
