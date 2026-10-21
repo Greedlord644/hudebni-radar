@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T17:42:12.186429+00:00",
+  "updatedAt": "2026-10-21T17:51:39.458267+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -173,6 +173,28 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:765776",
+      "title": "Kapela ORAKEI hledá bubeníka nebo bubenici",
+      "url": "https://hudebnibazar.cz/kapela-orakei-hleda-bubenika-nebo-bubenici/ID765776/",
+      "date": "2026-10-21T19:44:00+02:00",
+      "location": "Praha 10",
+      "author": "Tomas.Vesely5",
+      "excerpt": "Čau, jsme kapela lidí kolem pade, hrajeme vlastní punk-rock. Zkoušíme jednou týdně v pondělí ve zkušebnách Továrna na Praze 10. Existujeme od roku 2015, za sebou dvě alba, na třetím se pracuje. Hledáme zkušeného bubeníka nebo bubenici. Na věku ani na pohlaví nezáleží. Jde o chemii v kapele. Náš styl se dotýká punku, rocku nebo…",
+      "description": "Čau, jsme kapela lidí kolem pade, hrajeme vlastní punk-rock. Zkoušíme jednou týdně v pondělí ve zkušebnách Továrna na Praze 10. Existujeme od roku 2015, za sebou dvě alba, na třetím se pracuje. Hledáme zkušeného bubeníka nebo bubenici. Na věku ani na pohlaví nezáleží. Jde o chemii v kapele. Náš styl se dotýká punku, rocku nebo alternativního roku. Ostatně poslechni na Spotify. 1. deska ještě pod názvem Orakei Korako Band - ale jsme to my :-)\nNapiš, jestli máš chuť to s náma rozjet. Dostavení se do zkušebny pak na sebe nenechá logicky dlouho čekat.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 86,
+      "reasons": [
+        "Praha 10",
+        "lokální networking",
+        "odkaz na profil / ukázku",
+        "podrobný inzerát"
+      ]
+    },
     {
       "id": "hudebnibazar:767342",
       "title": "Hledame bubenika",
