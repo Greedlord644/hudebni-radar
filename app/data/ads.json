@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T14:21:46.250280+00:00",
+  "updatedAt": "2026-10-22T14:31:56.465307+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -173,6 +173,28 @@
     }
   ],
   "interesting": [
+    {
+      "id": "bandmate:e40537e1-3d39-4248-8194-9b49534d55d9",
+      "title": "Help for metal",
+      "url": "https://bandmate.cz/inzerat/help-for-metal-QJKzzD",
+      "date": "2026-10-22T14:29:53.684564+00:00",
+      "location": "Praha",
+      "author": "Charlie.666",
+      "excerpt": "Help for metal Čau já jsem Charlie a hledám lidi kteří by chtěli založit kapelu já jsem vokalista teda neumím moc skládat písničky ale mám typ hledám rockery metalista rock, metal, punk, psychedelic, grunge, experimentální kytara,bicí,basa,jiný",
+      "description": "Help for metal Čau já jsem Charlie a hledám lidi kteří by chtěli založit kapelu já jsem vokalista teda neumím moc skládat písničky ale mám typ hledám rockery metalista rock, metal, punk, psychedelic, grunge, experimentální kytara,bicí,basa,jiný",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Grunge"
+      ],
+      "isPrague": true,
+      "source": "Bandmate",
+      "score": 100,
+      "reasons": [
+        "hledá produkci / pomoc se skladbami",
+        "Praha"
+      ]
+    },
     {
       "id": "hudebnibazar:783227",
       "title": "HLEDÁM AUTORSKÝ BAND",
