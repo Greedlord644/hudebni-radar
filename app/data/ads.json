@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T21:21:27.623769+00:00",
+  "updatedAt": "2026-10-22T21:31:53.262682+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -191,6 +191,29 @@
       "reasons": [
         "Praha 4",
         "lokální networking"
+      ]
+    },
+    {
+      "id": "bandmate:5a7b8c06-5a75-49bf-b421-947c57631adb",
+      "title": "Hledáme novou krev",
+      "url": "https://bandmate.cz/inzerat/hled-me-novou-krev-CzStl7",
+      "date": "2026-10-22T21:27:06.376948+00:00",
+      "location": "Trutnov",
+      "author": "Zdenaaal",
+      "excerpt": "Hledáme novou krev Po pár pěkných hudebních letech jsme se tak nějak lidsky rozpadli a mladý bubeník si už chce jít taky vlastní cestou, takže... Hledáme basáka, bubeníka a druhý zpěv - ideálně s dalším nástrojem (ságo, trubka nebo jiné dechy nebo i něco dalšího...) Věk nerozhoduje, ale když ti bude okolo 50, tak nám budeš…",
+      "description": "Hledáme novou krev Po pár pěkných hudebních letech jsme se tak nějak lidsky rozpadli a mladý bubeník si už chce jít taky vlastní cestou, takže...\nHledáme basáka, bubeníka a druhý zpěv - ideálně s dalším nástrojem (ságo, trubka nebo jiné dechy nebo i něco dalšího...) Věk nerozhoduje, ale když ti bude okolo 50, tak nám budeš nejblíž ;)\nZázemí a kompletní techniku máme.\nKoukni na www.neighbours.cz, ať máš představu, co nám dělalo radost a v čem bychom chtěli pokračovat.\nDíky za každý projevený zájem! rock, pop, funk, punk, grunge basa,bicí,zpěv,saxofon,jiný,trumpeta",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Grunge"
+      ],
+      "isPrague": false,
+      "source": "Bandmate",
+      "score": 71,
+      "reasons": [
+        "grunge",
+        "odkaz na profil / ukázku",
+        "Trutnov"
       ]
     },
     {
