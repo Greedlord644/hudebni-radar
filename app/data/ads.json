@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T20:51:33.532518+00:00",
+  "updatedAt": "2026-10-22T21:03:44.222098+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -173,6 +173,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:786529",
+      "title": "HLEDÁM SPOLUHRÁČE",
+      "url": "https://hudebnibazar.cz/hledam-spoluhrace/ID786529/",
+      "date": "2026-10-22T22:56:00+02:00",
+      "location": "Praha 4",
+      "author": "Gogen.77",
+      "excerpt": "Jsem kytarista a hledám spoluhráče... ( tím myslím, hotovou kapelu.) Mám solidní zkušenosti, vybavení a hlavně chuť dělat kvalitní, autorskou muziku. (ROCK/HARD) Lokace Praha",
+      "description": "Jsem kytarista a hledám spoluhráče...\n( tím myslím, hotovou kapelu.)\nMám solidní zkušenosti, vybavení a hlavně chuť dělat kvalitní, autorskou muziku. (ROCK/HARD)\nLokace Praha",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "Praha 4",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:763633",
       "title": "Kytarista / Guitarist TITANHEAD Thrash/Death Metal",
