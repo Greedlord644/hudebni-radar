@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T19:41:25.250473+00:00",
+  "updatedAt": "2026-10-23T19:51:27.218473+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -173,6 +173,33 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:789472",
+      "title": "ARISCO ARE LOOKING FOR A GUITARIST!",
+      "url": "https://hudebnibazar.cz/arisco-are-looking-for-a-guitarist/ID789472/",
+      "date": "2026-10-23T21:48:00+02:00",
+      "location": "Praha 5",
+      "author": "Martin.S15",
+      "excerpt": "We are ARISCO - Sudamerica Hardcore, and we’re looking for a new guitarist who loves playing live and wants to be part of a band with something to offer. Gigs already booked, including shows abroad. If you’re passionate about music and want to give it a shot with us, drop us a message! ARISCO | SUDAMERICA HC…",
+      "description": "We are ARISCO - Sudamerica Hardcore, and we’re looking for a new guitarist who loves playing live and wants to be part of a band with something to offer.\nGigs already booked, including shows abroad.\nIf you’re passionate about music and want to give it a shot with us, drop us a message!\nARISCO | SUDAMERICA HC\nhttps://youtube.com/@arisco.oficial?si=qkqR7Zf7CcY5DXQ0\nhttps://www.instagram.com/arisco.hc?mdxt=MWJ1aWFxcG1sNWR6dw==",
+      "externalLinks": [
+        "https://youtube.com/@arisco.oficial?si=qkqR7Zf7CcY5DXQ0",
+        "https://www.instagram.com/arisco.hc?mdxt=MWJ1aWFxcG1sNWR6dw==",
+        "https://instagram.com/arisco.oficial",
+        "https://instagram.com/.com"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 83,
+      "reasons": [
+        "Praha 5",
+        "lokální networking",
+        "odkaz na profil / ukázku",
+        "podrobný inzerát"
+      ]
+    },
     {
       "id": "hudebnibazar:786736",
       "title": "Hledám grunge/rock/poprock nadšence",
