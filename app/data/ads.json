@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T19:21:24.936361+00:00",
+  "updatedAt": "2026-10-23T19:31:50.569171+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -173,6 +173,31 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:786736",
+      "title": "Hledám grunge/rock/poprock nadšence",
+      "url": "https://hudebnibazar.cz/hledam-grunge-rock-poprock-nadsence/ID786736/",
+      "date": "2026-10-23T21:21:00+02:00",
+      "location": "Praha 3",
+      "author": "Adam.Pluhacek",
+      "excerpt": "Ahoj, jsem kytarista(hlavně bicák, ale bez bicích :d) a zpěvák v záuce, rád bych se socializoval a zahrál s lidma nějaký tunes. Je mi 27, na bici hraju od 15 a kytaru tak od 17 s přestávkama Současně nonstop jedu Alince in Chains, ale kytarově jsou moji oblíbenci asi Radiohlavy Když se nás najde víc, můžem mluvit o kapele:)…",
+      "description": "Ahoj,\njsem kytarista(hlavně bicák, ale bez bicích :d) a zpěvák v záuce, rád bych se socializoval a zahrál s lidma nějaký tunes.\nJe mi 27, na bici hraju od 15 a kytaru tak od 17 s přestávkama\nSoučasně nonstop jedu Alince in Chains, ale kytarově jsou moji oblíbenci asi Radiohlavy\nKdyž se nás najde víc, můžem mluvit o kapele:)\nPište prererenčně na ig: adam.pluhacek dík<3",
+      "externalLinks": [
+        "https://instagram.com/adam.pluhacek"
+      ],
+      "influences": [],
+      "genres": [
+        "Grunge"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 72,
+      "reasons": [
+        "grunge",
+        "odkaz na profil / ukázku",
+        "Praha 3"
+      ]
+    },
     {
       "id": "hudebnibazar:768623",
       "title": "deftones anyone?",
@@ -1550,31 +1575,6 @@
         "lokální networking",
         "odkaz na profil / ukázku",
         "podrobný inzerát"
-      ]
-    },
-    {
-      "id": "hudebnibazar:786736",
-      "title": "Hledám grunge/rock/poprock nadšence",
-      "url": "https://hudebnibazar.cz/hledam-grunge-rock-poprock-nadsence/ID786736/",
-      "date": "2026-10-14T18:58:00+02:00",
-      "location": "Praha 3",
-      "author": "Adam.Pluhacek",
-      "excerpt": "Ahoj, jsem kytarista(hlavně bicák, ale bez bicích :d) a zpěvák v záuce, rád bych se socializoval a zahrál s lidma nějaký tunes. Je mi 27, na bici hraju od 15 a kytaru tak od 17 s přestávkama Současně nonstop jedu Alince in Chains, ale kytarově jsou moji oblíbenci asi Radiohlavy Když se nás najde víc, můžem mluvit o kapele:)…",
-      "description": "Ahoj,\njsem kytarista(hlavně bicák, ale bez bicích :d) a zpěvák v záuce, rád bych se socializoval a zahrál s lidma nějaký tunes.\nJe mi 27, na bici hraju od 15 a kytaru tak od 17 s přestávkama\nSoučasně nonstop jedu Alince in Chains, ale kytarově jsou moji oblíbenci asi Radiohlavy\nKdyž se nás najde víc, můžem mluvit o kapele:)\nPište prererenčně na ig: adam.pluhacek dík<3",
-      "externalLinks": [
-        "https://instagram.com/adam.pluhacek"
-      ],
-      "influences": [],
-      "genres": [
-        "Grunge"
-      ],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 72,
-      "reasons": [
-        "grunge",
-        "odkaz na profil / ukázku",
-        "Praha 3"
       ]
     },
     {
