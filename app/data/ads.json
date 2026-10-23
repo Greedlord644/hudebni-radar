@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T11:31:50.848985+00:00",
+  "updatedAt": "2026-10-23T11:41:29.654199+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -173,6 +173,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:778935",
+      "title": "Klávesák",
+      "url": "https://hudebnibazar.cz/klavesak/ID778935/",
+      "date": "2026-10-23T13:33:00+02:00",
+      "location": "Praha 4",
+      "author": "Harry.Sveda2",
+      "excerpt": "Do kapely starších, vyhraných rockerů, hledáme klávesáka. Zkušebna Praha 8",
+      "description": "Do kapely starších, vyhraných rockerů, hledáme klávesáka. Zkušebna Praha 8",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "Praha 4",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:788089",
       "title": "Hledá se basák",
