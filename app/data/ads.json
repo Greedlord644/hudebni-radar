@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T13:51:27.279271+00:00",
+  "updatedAt": "2026-10-24T14:01:57.517886+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -205,6 +205,30 @@
         "Bad Omens",
         "odkaz na profil / ukázku",
         "Ostrava"
+      ]
+    },
+    {
+      "id": "bandmate:cec6b9ac-26f4-4b7f-94ec-f91dd4d9bd80",
+      "title": "Bubeník hledá kapelu",
+      "url": "https://bandmate.cz/inzerat/buben-k-hled-kapelu-lW7JFb",
+      "date": "2026-10-24T14:01:07.04978+00:00",
+      "location": "Praha",
+      "author": "Pavel",
+      "excerpt": "Bubeník hledá kapelu Ahoj, po x letech v útlumu jsem se rozhodnul ze chci zase aktivně hrat. Je mi 37 a od 15 jsem vystřídal několik kapel (grunge, Indie, post-punk, post-rock…). Posledních pár let jsem ale dělal muziku hlavně sám a jen pro sebe. Věnoval jsem se trochu produkci a psaní do šuplíku (většinou instrumentální…",
+      "description": "Bubeník hledá kapelu Ahoj, po x letech v útlumu jsem se rozhodnul ze chci zase aktivně hrat. Je mi 37 a od 15 jsem vystřídal několik kapel (grunge, Indie, post-punk, post-rock…). Posledních pár let jsem ale dělal muziku hlavně sám a jen pro sebe. Věnoval jsem se trochu produkci a psaní do šuplíku (většinou instrumentální post-rock nebo muzika k filmům a hrám) Rad bych se přidal k někomu kdo má podobný hudební vkus, chce tvořit a koncertovat. Chtel bych dělat něco ve stylu kapel jako jsou Movements, Citizen, Hot Mulligan, Have Mercy a podobně… nebráním se ale ničemu, když v tom bude nějaký potenciál. Jsem z Nymburka ale nemam problém s dojížděním do Prahy. post-rock, emo, grunge, shoegaze, hardcore, alternative bicí",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Emo",
+        "Grunge"
+      ],
+      "isPrague": true,
+      "source": "Bandmate",
+      "score": 82,
+      "reasons": [
+        "emo",
+        "grunge",
+        "Praha"
       ]
     },
     {
