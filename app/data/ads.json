@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T23:41:30.672136+00:00",
+  "updatedAt": "2026-10-24T23:51:27.466446+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -173,6 +173,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:784023",
+      "title": "Hard Rock Band",
+      "url": "https://hudebnibazar.cz/hard-rock-band/ID784023/",
+      "date": "2026-10-25T01:48:00+02:00",
+      "location": "Praha 4",
+      "author": "Allen.Novak",
+      "excerpt": "Cuss, jsem solo kytarista, je mi 18, a chci založit kapelu. Žánrově jsem zaměřen na Hard Rock, nejoblíbenější kapely jsou Guns N’ Roses, Mötley Crüe. Zatím hraju necelých dva roky. Jsem samouk, neumím teorie, ale mam sluch a techniku. Jsem spíše praktická osoba. Neváhejte se psát, O2 aréna sama sebe nevyprodá!!",
+      "description": "Cuss, jsem solo kytarista, je mi 18, a chci založit kapelu.\nŽánrově jsem zaměřen na Hard Rock, nejoblíbenější kapely jsou Guns N’ Roses, Mötley Crüe.\nZatím hraju necelých dva roky. Jsem samouk, neumím teorie, ale mam sluch a techniku. Jsem spíše praktická osoba.\nNeváhejte se psát, O2 aréna sama sebe nevyprodá!!",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Praha 4",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:789644",
       "title": "Hledám hudební spolupráci – post-punk / dream pop / ambient",
@@ -1823,26 +1843,6 @@
         "podrobný inzerát",
         "jasný projekt / zkušenosti",
         "Vyškov"
-      ]
-    },
-    {
-      "id": "hudebnibazar:784023",
-      "title": "Hard Rock Band",
-      "url": "https://hudebnibazar.cz/hard-rock-band/ID784023/",
-      "date": "2026-10-13T10:43:00+02:00",
-      "location": "Praha 4",
-      "author": "Allen.Novak",
-      "excerpt": "Cuss, jsem solo kytarista, je mi 18, a chci založit kapelu. Žánrově jsem zaměřen na Hard Rock, nejoblíbenější kapely jsou Guns N’ Roses, Mötley Crüe. Zatím hraju necelých dva roky. Jsem samouk, neumím teorie, ale mam sluch a techniku. Jsem spíše praktická osoba. Neváhejte se psát, O2 aréna sama sebe nevyprodá!!",
-      "description": "Cuss, jsem solo kytarista, je mi 18, a chci založit kapelu.\nŽánrově jsem zaměřen na Hard Rock, nejoblíbenější kapely jsou Guns N’ Roses, Mötley Crüe.\nZatím hraju necelých dva roky. Jsem samouk, neumím teorie, ale mam sluch a techniku. Jsem spíše praktická osoba.\nNeváhejte se psát, O2 aréna sama sebe nevyprodá!!",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 66,
-      "reasons": [
-        "Praha 4",
-        "lokální networking"
       ]
     },
     {
