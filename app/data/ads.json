@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T22:11:34.166609+00:00",
+  "updatedAt": "2026-10-24T22:21:26.588227+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -173,6 +173,28 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:789644",
+      "title": "Hledám hudební spolupráci – post-punk / dream pop / ambient",
+      "url": "https://hudebnibazar.cz/hledam-hudebni-spolupraci-post-punk-dream-pop-ambient/ID789644/",
+      "date": "2026-10-25T00:14:00+02:00",
+      "location": "Brno",
+      "author": "David.Rehorek",
+      "excerpt": "Věnuji se vlastní ambientní / minimalistické tvorbě, ve které hledám především atmosféru a emoce. Při tvorbě využívám různé nástroje a zvuky, od baskytary a kytary až po syntezátory a klávesy. Rád bych zkusil něco dalšího, ideálně společný projekt na pomezí post-punku, dream popu a atmosférické či experimentálnější hudby.…",
+      "description": "Věnuji se vlastní ambientní / minimalistické tvorbě, ve které hledám především atmosféru a emoce. Při tvorbě využívám různé nástroje a zvuky, od baskytary a kytary až po syntezátory a klávesy. Rád bych zkusil něco dalšího, ideálně společný projekt na pomezí post-punku, dream popu a atmosférické či experimentálnější hudby.\nBlízké jsou mi především Cocteau Twins, Joy Division, The Cure, Bauhaus, Siouxsie and the Banshees, This Mortal Coil, David Bowie nebo Nine Inch Nails. Mám rád výrazné basové linky, osobité kytary, práci s prostorem a hudbu, ve které mají emoce a atmosféra stejnou váhu jako samotná skladba.\nHudebně jsem prošel od post-punku přes akustický projekt až k současné ambientní tvorbě. Odkaz níže je ukázkou toho, čemu se věnuji momentálně, ne nutně směru, kterým bych se chtěl ubírat společně.\nLáká mě společné hraní, spontánní hledání nápadů a postupné objevování vlastního zvuku, ne pouhé napodobování oblíbených kapel. Nechci se předem omezovat konkrétní sestavou ani rozdělením rolí. Důležité je, co spolu dokážeme vytvořit.\nDo budoucna mě láká i spolupráce se zpěvačkou s osobitým hlasem a citem pro atmosféru. Elizabeth Fraser z Cocteau Twins je pro mě velkou inspirací, ale hledám především vlastní výraz, ne její kopii.\nNevylučuji ani spolupráci na dálku a výměnu nápadů či nahrávek. Pokud tě podobná hudba oslovuje a máš chuť něco společně tvořit, ozvi se.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Emo"
+      ],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 100,
+      "reasons": [
+        "hledá produkci / pomoc se skladbami",
+        "Brno"
+      ]
+    },
     {
       "id": "hudebnibazar:775914",
       "title": "Hledáme Baskytaristu/Baskytaristku do Modern Metal Kapely",
