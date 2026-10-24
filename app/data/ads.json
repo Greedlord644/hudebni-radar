@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T09:31:49.793933+00:00",
+  "updatedAt": "2026-10-24T09:41:34.673374+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -173,6 +173,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:784002",
+      "title": "Kytarista hledá Trash metal band",
+      "url": "https://hudebnibazar.cz/kytarista-hleda-trash-metal-band/ID784002/",
+      "date": "2026-10-24T11:31:00+02:00",
+      "location": "Praha-západ",
+      "author": "D.Vi",
+      "excerpt": "Ahoj! Na kytaru hraju 7 let a rád bych dal dohromady projekt ve stylu Slayer, Enforced, Power Trip apod. Nebo pokud nějaká thrashová partička podobného rázu v okolí Prahy hledá kytaristu, rád se přidám.",
+      "description": "Ahoj! Na kytaru hraju 7 let a rád bych dal dohromady projekt ve stylu Slayer, Enforced, Power Trip apod.\nNebo pokud nějaká thrashová partička podobného rázu v okolí Prahy hledá kytaristu, rád se přidám.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "Praha-západ",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:761277",
       "title": "SINGER WANTED, ROCK/FOLK ROCK",
@@ -3340,26 +3360,6 @@
       "score": 66,
       "reasons": [
         "Praha",
-        "lokální networking"
-      ]
-    },
-    {
-      "id": "hudebnibazar:784002",
-      "title": "Kytarista hledá Trash metal band",
-      "url": "https://hudebnibazar.cz/kytarista-hleda-trash-metal-band/ID784002/",
-      "date": "2026-09-24T19:21:00+02:00",
-      "location": "Praha-západ",
-      "author": "D.Vi",
-      "excerpt": "Ahoj! Na kytaru hraju 7 let a rád bych dal dohromady projekt ve stylu Slayer, Enforced, Power Trip apod. Nebo pokud nějaká thrashová partička podobného rázu v okolí Prahy hledá kytaristu, rád se přidám.",
-      "description": "Ahoj! Na kytaru hraju 7 let a rád bych dal dohromady projekt ve stylu Slayer, Enforced, Power Trip apod.\nNebo pokud nějaká thrashová partička podobného rázu v okolí Prahy hledá kytaristu, rád se přidám.",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 69,
-      "reasons": [
-        "Praha-západ",
         "lokální networking"
       ]
     },
