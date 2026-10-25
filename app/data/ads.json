@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T19:21:32.134009+00:00",
+  "updatedAt": "2026-10-25T19:31:45.181914+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -173,6 +173,27 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:742788",
+      "title": "Black Metal project",
+      "url": "https://hudebnibazar.cz/black-metal-project/ID742788/",
+      "date": "2026-10-25T20:22:00+01:00",
+      "location": "Praha 1",
+      "author": "Burster",
+      "excerpt": "Ahoj, Jsem zkušený vokalista (10+ let v extrémním metalu, 5 studiových alb) hledám muzikanty pro nový Black Metal projekt. Cílem je vybudovat stabilní sestavu s potenciálem studiové tvorby i živého hraní. Zároveň jsem otevřený i menší spolupráci (např. kytara/basa), pokud si hudebně i lidsky sedneme. Inspiračně se pohybuji…",
+      "description": "Ahoj,\nJsem zkušený vokalista (10+ let v extrémním metalu, 5 studiových alb) hledám muzikanty pro nový Black Metal projekt.\nCílem je vybudovat stabilní sestavu s potenciálem studiové tvorby i živého hraní. Zároveň jsem otevřený i menší spolupráci (např. kytara/basa), pokud si hudebně i lidsky sedneme.\nInspiračně se pohybuji spíše v modernějším, atmosférickém pojetí black metalu (Mgła, Uada, Panzerfaust, Zmarłym apod.), ale nebráním se ani syrovější poloze, pokud bude mít jasnou vizi a charakter.\nJe mi 31 let, extrémním vokálům se věnuji přes 10 let. Nazpíval jsem pět studiových alb a několik singlů, hostoval jsem také v jednom one-man projektu. Krom toho se taky věnuji nahrávání a mám veškeré vybavení pro domácí produkci.\nLokalita: Celá ČR (dojíždění není problém).\nHledám muzikanty, kteří mají zkušenosti, chuť tvořit a přistupují k hudbě zodpovědně.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 80,
+      "reasons": [
+        "Praha 1",
+        "lokální networking",
+        "podrobný inzerát"
+      ]
+    },
     {
       "id": "hudebnibazar:785747",
       "title": "HLEDÁM SPOLUHRÁČE",
@@ -4984,26 +5005,6 @@
         "podrobný inzerát",
         "jasný projekt / zkušenosti",
         "Hradec Králové"
-      ]
-    },
-    {
-      "id": "hudebnibazar:742788",
-      "title": "Black Metal project",
-      "url": "https://hudebnibazar.cz/black-metal-project/ID742788/",
-      "date": "2026-09-03T21:14:00+02:00",
-      "location": "Praha 1",
-      "author": "Burster",
-      "excerpt": "Ahoj, Jsem zkušený vokalista (10+ let v extrémním metalu, 5 studiových alb) hledám muzikanty pro nový Black Metal projekt. Cílem je vybudovat stabilní sestavu s potenciálem studiové tvorby i živého hraní. Zároveň jsem otevřený i menší spolupráci (např. kytara/basa), pokud si hudebně i lidsky sedneme. Inspiračně se pohybuji…",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 80,
-      "reasons": [
-        "Praha 1",
-        "lokální networking",
-        "podrobný inzerát"
       ]
     },
     {
