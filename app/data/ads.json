@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T08:21:29.961506+00:00",
+  "updatedAt": "2026-10-25T08:31:49.741073+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -173,6 +173,27 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:763205",
+      "title": "Hledáme basáka Ostrava",
+      "url": "https://hudebnibazar.cz/hledame-basaka-ostrava/ID763205/",
+      "date": "2026-10-25T09:23:00+01:00",
+      "location": "Ostrava",
+      "author": "Sim.17",
+      "excerpt": "Ahoj, jsem 24letá zpěvačka s dlouholetou praxí ve zpěvu a s bubeníkem a kytaristou hledáme baskytaristu. Nejlépe v podobné věkové kategorii. Žánrově nás to táhne nejvíce k popu, rock-popu, nebo i k něčemu novému. Hledáme spolehlivého muzikanta, který chce tvořit, makat na repertoáru a koncertovat. K dispozici máme zkušebnu v…",
+      "description": "Ahoj, jsem 24letá zpěvačka s dlouholetou praxí ve zpěvu a s bubeníkem a kytaristou hledáme baskytaristu. Nejlépe v podobné věkové kategorii. Žánrově nás to táhne nejvíce k popu, rock-popu, nebo i k něčemu novému.\nHledáme spolehlivého muzikanta, který chce tvořit, makat na repertoáru a koncertovat.\nK dispozici máme zkušebnu v Ostravě.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "Ostrava"
+      ]
+    },
     {
       "id": "hudebnibazar:788736",
       "title": "písničkář hledá další nadšené muzikanty !!!",
@@ -1663,27 +1684,6 @@
       "reasons": [
         "grunge",
         "Praha-východ"
-      ]
-    },
-    {
-      "id": "hudebnibazar:763205",
-      "title": "Hledáme basáka Ostrava",
-      "url": "https://hudebnibazar.cz/hledame-basaka-ostrava/ID763205/",
-      "date": "2026-10-14T22:09:00+02:00",
-      "location": "Ostrava",
-      "author": "Sim.17",
-      "excerpt": "Ahoj, jsem 24letá zpěvačka s dlouholetou praxí ve zpěvu a s bubeníkem a kytaristou hledáme baskytaristu. Žánrově nás to táhne nejvíce k popu, rock-popu, nebo i k něčemu novému. Hledáme spolehlivého muzikanta, který chce tvořit, makat na repertoáru a koncertovat. K dispozici máme zkušebnu v Ostravě.",
-      "description": "Ahoj, jsem 24letá zpěvačka s dlouholetou praxí ve zpěvu a s bubeníkem a kytaristou hledáme baskytaristu. Žánrově nás to táhne nejvíce k popu, rock-popu, nebo i k něčemu novému.\nHledáme spolehlivého muzikanta, který chce tvořit, makat na repertoáru a koncertovat.\nK dispozici máme zkušebnu v Ostravě.",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": false,
-      "source": "Hudební bazar",
-      "score": 69,
-      "reasons": [
-        "podrobný inzerát",
-        "jasný projekt / zkušenosti",
-        "Ostrava"
       ]
     },
     {
