@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T07:51:30.270229+00:00",
+  "updatedAt": "2026-10-26T08:02:01.235264+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -173,6 +173,28 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:762845",
+      "title": "Extreme vocalist is looking for a band",
+      "url": "https://hudebnibazar.cz/extreme-vocalist-is-looking-for-a-band/ID762845/",
+      "date": "2026-10-26T08:52:00+01:00",
+      "location": "Praha 10",
+      "author": "Anton.Karpukhin",
+      "excerpt": "Ahoj hledám kapelu, dělám scream a growl, mohu poslat demo. Ideálně deathcore, death metal, metalcore, alternative, bsdm a podobné",
+      "description": "Ahoj hledám kapelu, dělám scream a growl, mohu poslat demo. Ideálně deathcore, death metal, metalcore, alternative, bsdm a podobné",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Emo"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 60,
+      "reasons": [
+        "emo",
+        "Praha 10"
+      ]
+    },
     {
       "id": "hudebnibazar:789505",
       "title": "Hledám country partu",
@@ -1071,28 +1093,6 @@
         "Praha 10",
         "lokální networking",
         "odkaz na profil / ukázku"
-      ]
-    },
-    {
-      "id": "hudebnibazar:762845",
-      "title": "Extreme vocalist is looking for a band",
-      "url": "https://hudebnibazar.cz/extreme-vocalist-is-looking-for-a-band/ID762845/",
-      "date": "2026-10-21T02:05:00+02:00",
-      "location": "Praha 10",
-      "author": "Anton.Karpukhin",
-      "excerpt": "Ahoj hledám kapelu, dělám scream a growl, mohu poslat demo. Ideálně deathcore, death metal, metalcore, alternative, bsdm a podobné",
-      "description": "Ahoj hledám kapelu, dělám scream a growl, mohu poslat demo. Ideálně deathcore, death metal, metalcore, alternative, bsdm a podobné",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [
-        "Emo"
-      ],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 60,
-      "reasons": [
-        "emo",
-        "Praha 10"
       ]
     },
     {
