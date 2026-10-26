@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T14:51:38.191635+00:00",
+  "updatedAt": "2026-10-26T15:02:07.671868+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -173,6 +173,27 @@
     }
   ],
   "interesting": [
+    {
+      "id": "bandmate:6854b5ca-0f3c-4921-8b92-914d2c56bc0d",
+      "title": "Hledáme zpěváka/zpěvačku do pop punk / punk rock kapely (Praha a okolí)",
+      "url": "https://bandmate.cz/inzerat/hled-me-zp-v-ka-zp-va-ku-do-pop-punk-punk-rock-kapely-praha-BQ0MZO",
+      "date": "2026-10-26T14:58:28.290761+00:00",
+      "location": "Praha",
+      "author": "Petr",
+      "excerpt": "Hledáme zpěváka/zpěvačku do pop punk / punk rock kapely (Praha a okolí) Ahoj! Jsme parta z Prahy a okolí a hledáme frontmana nebo frontwoman do naší kapely. Hrajeme pop punk / punk rock ve složení 2× kytara, basa, bicí a děláme vlastní tvorbu. Chybí nám už jen hlas, který ji dotáhne do konce. Co nabízíme - vlastní studio a…",
+      "description": "Hledáme zpěváka/zpěvačku do pop punk / punk rock kapely (Praha a okolí) Ahoj! Jsme parta z Prahy a okolí a hledáme frontmana nebo frontwoman do naší kapely. Hrajeme pop punk / punk rock ve složení 2× kytara, basa, bicí a děláme vlastní tvorbu. Chybí nám už jen hlas, který ji dotáhne do konce.\nCo nabízíme\n- vlastní studio a zkušebnu v Klecanech\n- rozpracovaný vlastní materiál, na kterém můžeš tvořit s námi\n- prostor podílet se na melodiích, textech i směru kapely\n- lidskou partu, která to myslí vážně, ale pořád ji to baví\nKoho hledáme\n- někoho, kdo umí zazpívat melodicky a s energií (zkušenost s kapelou výhodou, ne nutností)\n- ideálně z Prahy nebo blízkého okolí, aby se dalo pravidelně zkoušet\n- spolehlivého člověka s chutí hrát i živě\n- bonus: zkušenost s psaním textů nebo melodií\nOzvi se nám a pošli krátkou ukázku zpěvu (video nebo audio), pár vě punk, pop zpěv",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Bandmate",
+      "score": 80,
+      "reasons": [
+        "Praha",
+        "lokální networking",
+        "podrobný inzerát"
+      ]
+    },
     {
       "id": "hudebnibazar:784806",
       "title": "HLEDÁM AUTORSKÝ BAND",
