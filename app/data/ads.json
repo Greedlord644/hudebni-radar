@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T11:02:02.684936+00:00",
+  "updatedAt": "2026-10-26T11:11:35.014611+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -173,6 +173,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:784806",
+      "title": "HLEDÁM AUTORSKÝ BAND",
+      "url": "https://hudebnibazar.cz/hledam-autorsky-band/ID784806/",
+      "date": "2026-10-26T12:07:00+01:00",
+      "location": "Praha 4",
+      "author": "Gogen.77",
+      "excerpt": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím. Jen aktivní kapely z Prahy.",
+      "description": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím.\nJen aktivní kapely z Prahy.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "Praha 4",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:762845",
       "title": "Extreme vocalist is looking for a band",
@@ -1215,26 +1235,6 @@
       ]
     },
     {
-      "id": "hudebnibazar:784806",
-      "title": "HLEDÁM AUTORSKÝ BAND",
-      "url": "https://hudebnibazar.cz/hledam-autorsky-band/ID784806/",
-      "date": "2026-10-20T11:26:00+02:00",
-      "location": "Praha 4",
-      "author": "Gogen.77",
-      "excerpt": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím. Jen aktivní kapely z Prahy.",
-      "description": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím.\nJen aktivní kapely z Prahy.",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 69,
-      "reasons": [
-        "Praha 4",
-        "lokální networking"
-      ]
-    },
-    {
       "id": "hudebnibazar:781918",
       "title": "Bubeník a kytarista s feelingem",
       "url": "https://hudebnibazar.cz/bubenik-a-kytarista-s-feelingem/ID781918/",
@@ -1418,27 +1418,6 @@
         "lokální networking",
         "odkaz na profil / ukázku",
         "podrobný inzerát"
-      ]
-    },
-    {
-      "id": "hudebnibazar:427202",
-      "title": "Zpěvačka do párty kapely",
-      "url": "https://hudebnibazar.cz/zpevacka-do-party-kapely/ID427202/",
-      "date": "2026-10-18T18:47:00+02:00",
-      "location": "Praha 5",
-      "author": "Radomir.Steinert2",
-      "excerpt": "Hledáme zpěvačku do 30 let se vzděláním, nebo zkušenostmi, nebo obojím pro kapelu Healer's band - www.jhealer.cz. Široký mezinárodní repertoár s kvalitní interpretací a zvukem. Zpěv je priorita, ale případný nástroj vítán. Akce celoročně, hlavně svatby a oslavy. Odměna 2000 CZK za hraní + cestovné. Info na stránkách",
-      "description": "Hledáme zpěvačku do 30 let se vzděláním, nebo zkušenostmi, nebo obojím pro kapelu Healer's band - www.jhealer.cz. Široký mezinárodní repertoár s kvalitní interpretací a zvukem. Zpěv je priorita, ale případný nástroj vítán. Akce celoročně, hlavně svatby a oslavy. Odměna 2000 CZK za hraní + cestovné. Info na stránkách",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 78,
-      "reasons": [
-        "Praha 5",
-        "lokální networking",
-        "odkaz na profil / ukázku"
       ]
     },
     {
