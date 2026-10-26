@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T18:51:34.790347+00:00",
+  "updatedAt": "2026-10-26T19:02:03.680302+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -173,6 +173,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:752990",
+      "title": "Baskytarista hleda kapelu",
+      "url": "https://hudebnibazar.cz/baskytarista-hleda-kapelu/ID752990/",
+      "date": "2026-10-26T20:00:00+01:00",
+      "location": "Praha 4",
+      "author": "Bass.Mm",
+      "excerpt": "Baskytarista 50 + hleda kapelu , pop , rock ,",
+      "description": "Baskytarista 50 + hleda kapelu , pop , rock ,",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Praha 4",
+        "lokální networking"
+      ]
+    },
     {
       "id": "bandmate:6854b5ca-0f3c-4921-8b92-914d2c56bc0d",
       "title": "Hledáme zpěváka/zpěvačku do pop punk / punk rock kapely (Praha a okolí)",
@@ -1026,26 +1046,6 @@
       "reasons": [
         "alt rock",
         "Praha 4"
-      ]
-    },
-    {
-      "id": "hudebnibazar:752990",
-      "title": "Baskytarista hleda kapelu",
-      "url": "https://hudebnibazar.cz/baskytarista-hleda-kapelu/ID752990/",
-      "date": "2026-10-21T20:19:00+02:00",
-      "location": "Praha 4",
-      "author": "Bass.Mm",
-      "excerpt": "Baskytarista 50 + hleda kapelu , pop , rock , hodne odehrano",
-      "description": "Baskytarista 50 + hleda kapelu , pop , rock , hodne odehrano",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 66,
-      "reasons": [
-        "Praha 4",
-        "lokální networking"
       ]
     },
     {
