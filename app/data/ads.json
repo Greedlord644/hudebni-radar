@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T01:01:59.794421+00:00",
+  "updatedAt": "2026-10-27T01:11:33.702544+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -173,27 +173,6 @@
     }
   ],
   "interesting": [
-    {
-      "id": "hudebnibazar:787741",
-      "title": "Hledáme zpěváka/zpěvačku",
-      "url": "https://hudebnibazar.cz/hledame-zpevaka-zpevacku/ID787741/",
-      "date": "2026-10-27T02:00:00+01:00",
-      "location": "Kutná Hora",
-      "author": "Viktor.Navratil",
-      "excerpt": "Ahoj! Jsme mladá cover kapela z Kutné Hory a hledáme nového zpěváka nebo zpěvačku, ideálně někoho v podobném věku (cca 18–26 let). Hrajeme české i zahraniční hity, především rock a pop-rock. Máme za sebou několik živých vystoupení na menších akcích a zábavách a chceme se dál posouvat, rozšiřovat repertoár a hrát i na větších…",
-      "description": "Ahoj! Jsme mladá cover kapela z Kutné Hory a hledáme nového zpěváka nebo zpěvačku, ideálně někoho v podobném věku (cca 18–26 let).\nHrajeme české i zahraniční hity, především rock a pop-rock. Máme za sebou několik živých vystoupení na menších akcích a zábavách a chceme se dál posouvat, rozšiřovat repertoár a hrát i na větších kulturních akcích.\nVystupujeme ve složení bicí, basa, dvě elektrické kytary a zpěv. Máme vlastní zkušebnu i potřebné vybavení a zkoušíme pravidelně jednou týdně.\nPokud máš dobrý hlas, energii a chuť se dál zlepšovat, jsi spolehlivý/á a chceš s námi pravidelně zkoušet, vystupovat a posouvat kapelu dál, budeme rádi, když se ozveš!",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": false,
-      "source": "Hudební bazar",
-      "score": 72,
-      "reasons": [
-        "podrobný inzerát",
-        "jasný projekt / zkušenosti",
-        "Kutná Hora"
-      ]
-    },
     {
       "id": "hudebnibazar:752990",
       "title": "Baskytarista hleda kapelu",
