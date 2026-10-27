@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T08:02:00.780929+00:00",
+  "updatedAt": "2026-10-27T08:11:35.002086+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -173,6 +173,49 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:790076",
+      "title": "Hledáme zpěváka/čku do pop punk, punk rock kapely (Praha)",
+      "url": "https://hudebnibazar.cz/hledame-zpevaka-cku-do-pop-punk-punk-rock-kapely-praha/ID790076/",
+      "date": "2026-10-27T09:05:00+01:00",
+      "location": "Praha 8",
+      "author": "Jozef.B2",
+      "excerpt": "Ahoj! Jsme parta z Prahy a okolí a hledáme frontmana nebo frontwoman do naší kapely. Hrajeme pop punk / punk rock ve složení 2× kytara, basa, bicí a děláme vlastní tvorbu. Chybí nám už jen hlas, který ji dotáhne do konce. Co nabízíme - vlastní studio a zkušebnu v Klecanech - rozpracovaný vlastní materiál, na kterém můžeš tvořit…",
+      "description": "Ahoj! Jsme parta z Prahy a okolí a hledáme frontmana nebo frontwoman do naší kapely. Hrajeme pop punk / punk rock ve složení 2× kytara, basa, bicí a děláme vlastní tvorbu. Chybí nám už jen hlas, který ji dotáhne do konce.\nCo nabízíme\n- vlastní studio a zkušebnu v Klecanech\n- rozpracovaný vlastní materiál, na kterém můžeš tvořit s námi\n- prostor podílet se na textech i směru kapely\n- lidskou partu, která to myslí vážně, ale pořád ji to baví\nKoho hledáme\n- někoho, kdo umí zazpívat melodicky a s energií (zkušenost s kapelou výhodou, ne nutností)\n- ideálně z Prahy nebo blízkého okolí, aby se dalo pravidelně zkoušet\n- spolehlivého člověka s chutí hrát i živě\n- bonus: zkušenost s psaním textů nebo melodií\nOzvi se nám a pošli krátkou ukázku zpěvu (video nebo audio)",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 80,
+      "reasons": [
+        "Praha 8",
+        "lokální networking",
+        "podrobný inzerát"
+      ]
+    },
+    {
+      "id": "hudebnibazar:774048",
+      "title": "Hledá se zkušený a ambiciózní baskytarist(k)a [Praha]",
+      "url": "https://hudebnibazar.cz/hleda-se-zkuseny-a-ambiciozni-baskytarist-k-a-praha/ID774048/",
+      "date": "2026-10-27T09:02:00+01:00",
+      "location": "Praha 10",
+      "author": "Michal.Zdansky2",
+      "excerpt": "Zajetá kapela z Prahy hledá mistra basů na nový hudební projekt s vysokými ambicemi. Máme kompletní zázemí včetně zkušebny v Hostivaři, domácího studia, in-ear odposlechů, zahraničního producenta a tým lidí, který nám pomůže s PR a propagací. Říká ti něco baddiecore, metalcore a alternativní rock/metal? 5 a více strun (a…",
+      "description": "Zajetá kapela z Prahy hledá mistra basů na nový hudební projekt s vysokými ambicemi. Máme kompletní zázemí včetně zkušebny v Hostivaři, domácího studia, in-ear odposlechů, zahraničního producenta a tým lidí, který nám pomůže s PR a propagací. Říká ti něco baddiecore, metalcore a alternativní rock/metal? 5 a více strun (a případně slap) ti nejsou cizí a máš ambice se dostat na velké festivaly, ozvi se! Kontakt - ecoriband[at]gmail.com, ideálně pošli ukázku tvého hraní ? Ukázky z naší tvorby najdeš na odkaze níže",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Alt-rock"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 94,
+      "reasons": [
+        "alternativní rock",
+        "Praha 10"
+      ]
+    },
     {
       "id": "hudebnibazar:768324",
       "title": "Melodic hardcore - hledáme parťáky",
