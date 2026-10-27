@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T18:41:32.265237+00:00",
+  "updatedAt": "2026-10-27T18:51:36.212006+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -173,6 +173,32 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:790182",
+      "title": "Hledá se klávesák a bubeník",
+      "url": "https://hudebnibazar.cz/hleda-se-klavesak-a-bubenik/ID790182/",
+      "date": "2026-10-27T19:42:00+01:00",
+      "location": "České Budějovice",
+      "author": "Daniel.Blahout",
+      "excerpt": "Hledám klávesáka a bubeníka do kapely s mou vlastní tvorbou. Žánr je spíš rock - crossover, trochu i pop/rock. Loni mi vyšla deska, chceme koncertovat aspoň tak 1, 2 krát do měsíce, ale jsem i pro víc koncertů. Jsme z okolí Českých Budějovic. Tady je odkaz na mou hudbu. https://m.youtube.com/@danielblahout2708/videos",
+      "description": "Hledám klávesáka a bubeníka do kapely s mou vlastní tvorbou. Žánr je spíš rock - crossover, trochu i pop/rock. Loni mi vyšla deska, chceme koncertovat aspoň tak 1, 2 krát do měsíce, ale jsem i pro víc koncertů. Jsme z okolí Českých Budějovic. Tady je odkaz na mou hudbu.\nhttps://m.youtube.com/@danielblahout2708/videos",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=T4v9ijVWkW0",
+        "https://m.youtube.com/@danielblahout2708/videos",
+        "https://instagram.com/danielblahout2708"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 78,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "České Budějovice"
+      ]
+    },
     {
       "id": "hudebnibazar:783198",
       "title": "Hledáme baskytaristu (rock, autorská tvorba)",
