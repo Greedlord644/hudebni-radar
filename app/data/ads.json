@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T12:51:27.936853+00:00",
+  "updatedAt": "2026-10-28T13:02:05.574121+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -173,6 +173,29 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:760198",
+      "title": "Metalcore/Hardcore projekt v Praze",
+      "url": "https://hudebnibazar.cz/metalcore-hardcore-projekt-v-praze/ID760198/",
+      "date": "2026-10-28T14:00:00+01:00",
+      "location": "Praha 6",
+      "author": "Shoe.Gaze",
+      "excerpt": "Hledáme členy (prioritizujeme vokalisty a bubeníky) do metalcorovýho/hardcorovýho projektu styl FFO: starší My Ticket Home, Varials - In Darkness, starší Ocean Grove, 157frq, XweaponX, World of Pleasure, Big Ass Truck, Guilt Trip, starší Kublai Khan TX, VeinFM (chceme dělat metallickej hardcore + nu metalcore) Nejde o hudebně…",
+      "description": "Hledáme členy (prioritizujeme vokalisty a bubeníky) do metalcorovýho/hardcorovýho projektu\nstyl FFO: starší My Ticket Home, Varials - In Darkness, starší Ocean Grove, 157frq, XweaponX, World of Pleasure, Big Ass Truck, Guilt Trip, starší Kublai Khan TX, VeinFM (chceme dělat metallickej hardcore + nu metalcore)\nNejde o hudebně komplexní projekt, nejde nám o dokazování hudebních dovedností.\nVěk: Okolo 20-30 let (ideálně)\nMísto: Praha + okolí (ideálně)\nNýnější sestava: Kytarista (programování) + baskytarista (backup vokály)\nZákladní přepoklady:\n- Umět hrát na svůj nástroj/zpívat (nebýt začátečník)\n- Udržet tempo a chodit na zkoušky\n- Mít vlastní nástroje a možnost nezávisle nahrávat\n- Mít na projekt čas.\nZákladní info o projektu:\n- Ladění Drop A# (ne double drop)\n- 8 dem (playtime: 20 minut)\n- Vokály jen unclean (styl viz FFO sekce)\n- Bubeník nutně nepotřebuje dvojšlapku\nFAQ:\n- Nechceme hrát: Djent, deathcore, slam, death metal, rock, pop rock, prog metalcore, electronicore, old school hardcore atd\n- Nepotřebujeme 20 let zkušeností, skilly s managováním, 400 odehranejch koncertů a 20 tour de Střední Evropa (tohle není linkedin)\nV PŘÍPADĚ ZÁJMU POŠLETE UKÁZKY HRANÍ, LOKACI, PŘIBLIŽNÝ VĚK, OBLIBENÉ SKUPINY atd",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Nu-metal",
+        "Elektronika"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 94,
+      "reasons": [
+        "nu metal",
+        "Praha 6"
+      ]
+    },
     {
       "id": "hudebnibazar:790284",
       "title": "Hledáme bubeníka a baskytaristu!",
@@ -2314,28 +2337,6 @@
       "reasons": [
         "Praha",
         "lokální networking"
-      ]
-    },
-    {
-      "id": "hudebnibazar:760198",
-      "title": "Metalcore/Hardcore projekt v Praze",
-      "url": "https://hudebnibazar.cz/metalcore-hardcore-projekt-v-praze/ID760198/",
-      "date": "2026-10-09T21:21:00+02:00",
-      "location": "Praha 6",
-      "author": "Shoe.Gaze",
-      "excerpt": "Hledám členy do metalcorovýho/hardcorovýho projektu styl FFO: starší Kublai Khan TX, Fox Lake - Cokoliv od nich, My Ticket Home - Strangers Only, Stray From The Path - Od Only Death is Real, Zuko, Veinfm, XweaponX, World of Pleasure, Varials (znalejm dojde, že to je primárně nu metalcore) Nejde o nic komplexního, není to show…",
-      "description": "Hledám členy do metalcorovýho/hardcorovýho projektu\nstyl FFO: starší Kublai Khan TX, Fox Lake - Cokoliv od nich, My Ticket Home - Strangers Only, Stray From The Path - Od Only Death is Real, Zuko, Veinfm, XweaponX, World of Pleasure, Varials (znalejm dojde, že to je primárně nu metalcore)\nNejde o nic komplexního, není to show off projekt, less is more.\nVěk: Ideálně okolo 20-30 let\nJsem kytarista, umím kvalitně programovat bicí a basu, lehce produkovat, nahrávat doma atd. Mám 10+ kvalitně nahranejch dem (po kontaktování pošlu)\nZákladní přepoklady jsou klasicky:\n- Umět hrát na svůj nástroj/umět unclean vokály, který komplimentujou hudebnímu stylu (JENOM Anglicky)\n- umět udržet tempo (extrémně zásadní)\n- bejt schopnej hodit na zkoušky\n- HLAVNĚ chtít tvořit stejnou hudbu (pokud chcete dělat prog metalcore, djent, thrash metal, deathcore, death metal, groove metal, pop punk atd nepište mi)\nZbytek infa a dema pošlu po kontaktování, ať tady není moc velkej walltext.\nPS: POKUD MI ODPOVÍDÁTE NA INZERÁT, POŠLETE MI PROSÍM UKÁZKY VAŠEHO HRÁNÍ/VOKÁLŮ A NE JEN VAŠE TELEFONNÍ ČÍSLO\nPS2: Kvůli docela velkýmu číslu lidí, který neví o čem tenhle projekt je - jednoduchý filtrační pravidlo - pokud nevíš co je 2step, throwdown, na inzerát neodpovídej (je tady X skupin, který chtěj dělat váš oblíbenej žánr, ať je to djent, deathcore nebo pop punk atd).",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [
-        "Nu-metal"
-      ],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 94,
-      "reasons": [
-        "nu metal",
-        "Praha 6"
       ]
     },
     {
