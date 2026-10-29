@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T08:31:56.603026+00:00",
+  "updatedAt": "2026-10-29T08:41:29.259244+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -173,6 +173,31 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:790463",
+      "title": "Zpěv",
+      "url": "https://hudebnibazar.cz/zpev/ID790463/",
+      "date": "2026-10-29T09:33:00+01:00",
+      "location": "Hradec Králové",
+      "author": "Martin.Vysehrad",
+      "excerpt": "Ahoj, hledam kapelu která je momentálně bez zpěváka. V současné době působím v kapele Sleepin April, a v minulosti Your Last Breath. Žánrově bych to viděl v podobném stylu (nu-metal, metalcore, hardcore). Ale není to nutnost. Kapela si dává na nějaký čas pauzu, ale já bych rád s hudbou pokračoval. Ukázky mohu zaslat. Věkově…",
+      "description": "Ahoj, hledam kapelu která je momentálně bez zpěváka. V současné době působím v kapele Sleepin April, a v minulosti Your Last Breath. Žánrově bych to viděl v podobném stylu (nu-metal, metalcore, hardcore). Ale není to nutnost. Kapela si dává na nějaký čas pauzu, ale já bych rád s hudbou pokračoval. Ukázky mohu zaslat. Věkově nejlépe kolem 30 let, ale také není podmínkou. Díky za přečtení, ať to hraje!",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=hYrCEoxZTO0"
+      ],
+      "influences": [],
+      "genres": [
+        "Nu-metal"
+      ],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 94,
+      "reasons": [
+        "nu-metal",
+        "odkaz na profil / ukázku",
+        "Hradec Králové"
+      ]
+    },
     {
       "id": "hudebnibazar:786529",
       "title": "HLEDÁM SPOLUHRÁČE",
