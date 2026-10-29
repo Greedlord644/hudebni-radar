@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T17:41:37.089230+00:00",
+  "updatedAt": "2026-10-29T17:51:37.904690+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -173,6 +173,30 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:780586",
+      "title": "Zavedena metalova kapela hleda bubenika!",
+      "url": "https://hudebnibazar.cz/zavedena-metalova-kapela-hleda-bubenika/ID780586/",
+      "date": "2026-10-29T18:45:00+01:00",
+      "location": "Praha 3",
+      "author": "V.S5",
+      "excerpt": "Do zavedené metalové kapely hledáme bubeníka, který ovládá dvojšlapku, skankbeaty, blastbeaty a jiné druhy brambor. Jsme kapela Ewenay, osmičlenná banda se dvěma zpěváky a živými houslemi. Hrajeme energetickou hudbu, do které mícháme všechno možné. Věkově jsme mezi 25 a 36 lety. Náš cíl je hrát 2-3 kvalitní koncerty do měsíce…",
+      "description": "Do zavedené metalové kapely hledáme bubeníka, který ovládá dvojšlapku, skankbeaty, blastbeaty a jiné druhy brambor.\nJsme kapela Ewenay, osmičlenná banda se dvěma zpěváky a živými houslemi. Hrajeme energetickou hudbu, do které mícháme všechno možné. Věkově jsme mezi 25 a 36 lety. Náš cíl je hrát 2-3 kvalitní koncerty do měsíce (větší festivaly, zajímavé klubové akce) a tvořit.\nMáme vlastní, plně vybavenou zkušebnu v Praze, kterou s nikým nesdílíme. Zkoušíme jednou týdně. Hrajeme digitálně, vlastníme rack a nachystaný pro tebe bude i in-ear monitoring (vlastní sluchátka nutná).\nBonusové body za zmysl pro humor a chuť se s námi tvořivě vyblbnout - nejen hudebně, ale třeba i před kamerou na videu pro pozvánky a podobné blbosti.\nOzvi se a přilož ukázku jak hraješ - klidně natočenou na telefon.\nNaše tvorba: https://open.spotify.com/artist/4d69tmYaaoHDxzReB74emh",
+      "externalLinks": [
+        "https://open.spotify.com/artist/4d69tmYaaoHDxzReB74emh"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 89,
+      "reasons": [
+        "Praha 3",
+        "lokální networking",
+        "odkaz na profil / ukázku",
+        "podrobný inzerát"
+      ]
+    },
     {
       "id": "hudebnibazar:778748",
       "title": "Obsidian Grace is looking for live shows / support slots",
@@ -1499,30 +1523,6 @@
       "reasons": [
         "Praha 4",
         "lokální networking"
-      ]
-    },
-    {
-      "id": "hudebnibazar:780586",
-      "title": "Zavedena metalova kapela hleda bubenika!",
-      "url": "https://hudebnibazar.cz/zavedena-metalova-kapela-hleda-bubenika/ID780586/",
-      "date": "2026-10-20T22:21:00+02:00",
-      "location": "Praha 3",
-      "author": "V.S5",
-      "excerpt": "Do zavedené metalové kapely hledáme bubeníka, který ovládá dvojšlapku, skankbeaty, blastbeaty a jiné druhy brambor. Jsme kapela Ewenay, osmičlenná banda se dvěma zpěváky a živými houslemi. Hrajeme energetickou hudbu, do které mícháme všechno možné. Věkově jsme mezi 25 a 36 lety. Náš cíl je hrát 2-3 kvalitní koncerty do měsíce…",
-      "description": "Do zavedené metalové kapely hledáme bubeníka, který ovládá dvojšlapku, skankbeaty, blastbeaty a jiné druhy brambor.\nJsme kapela Ewenay, osmičlenná banda se dvěma zpěváky a živými houslemi. Hrajeme energetickou hudbu, do které mícháme všechno možné. Věkově jsme mezi 25 a 36 lety. Náš cíl je hrát 2-3 kvalitní koncerty do měsíce (větší festivaly, zajímavé klubové akce) a tvořit.\nMáme vlastní, plně vybavenou zkušebnu v Praze, kterou s nikým nesdílíme. Zkoušíme jednou týdně. Hrajeme digitálně, vlastníme rack a nachystaný pro tebe bude i in-ear monitoring (vlastní sluchátka nutná).\nBonusové body za zmysl pro humor a chuť se s námi tvořivě vyblbnout - nejen hudebně, ale třeba i před kamerou na videu pro pozvánky a podobné blbosti.\nOzvi se a přilož ukázku jak hraješ - klidně natočenou na telefon.\nNaše tvorba: https://open.spotify.com/artist/4d69tmYaaoHDxzReB74emh",
-      "externalLinks": [
-        "https://open.spotify.com/artist/4d69tmYaaoHDxzReB74emh"
-      ],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 89,
-      "reasons": [
-        "Praha 3",
-        "lokální networking",
-        "odkaz na profil / ukázku",
-        "podrobný inzerát"
       ]
     },
     {
