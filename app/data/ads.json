@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T16:12:12.785486+00:00",
+  "updatedAt": "2026-10-29T16:22:17.691687+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -173,6 +173,54 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:762809",
+      "title": "Zkusebna (spíše až od zari) Praha 6-Liboc, 7-10 min od MHD",
+      "url": "https://hudebnibazar.cz/zkusebna-spise-az-od-zari-praha-6-liboc-7-10-min-od-mhd/ID762809/",
+      "date": "2026-10-29T17:17:00+01:00",
+      "location": "Brno",
+      "author": "Zek.Vek",
+      "excerpt": "K mání bude, po domluvě, kapacita menší zkušebny pro menší skupinu, spíše žánry folk-rock/alternativě/experiment či industrial. A do 4 členů skupiny max., přednost mají nekuřáci (aby byli všichni)...Zkoušky nepravidelně, max.1 den v tydnu, výjimečně i 2 dny v týdnu některý měsíc, nutno napasovat na další kapelu (před nebo po…",
+      "description": "K mání bude, po domluvě, kapacita menší zkušebny pro menší skupinu, spíše žánry folk-rock/alternativě/experiment či industrial. A do 4 členů skupiny max., přednost mají nekuřáci (aby byli všichni)...Zkoušky nepravidelně, max.1 den v tydnu, výjimečně i 2 dny v týdnu některý měsíc, nutno napasovat na další kapelu (před nebo po ní-i kvůli vytápění v zimě, aby se netopilo 2x). Kamna střední kapacity (čili ne malé Petry, naštěstí). 2-3 židle, křesílko, mala skládací valenda (přespání přes noc není možné).Okno zazděné + molitany + položky od vajec (klasika). Věci lépe nenechávat. I bici se bude asi muset odnášet, říkám predem. Zase ale cena symbolická (1500-2000 max.) po domluvě (spíše je to příspěvek na zabezpečení (kamera, zálohování), otop...amortizace elektrocentrály na benzín a olej na mazani (benzín nutno donést vlastní - ideálně 5L černé plastove malé kanystry jsou k zapůjčení, benzinka pumpa není daleko), či z několika autobaterií paralelně přes Inventor 12/230V (máme), případně solary do konce zari). Možnost zapůjčení nějakých stojanu. Ale nářadí základního, elektroklesti, meraku proudu a napětí + odpor (voltmetr) a mikropajky. Světla jsou většinou LED závěsná na tužkové baterie. Praktikabl na bicí je zhotoven z několika vrstev starých europalet a přes to je koberec. Nějaký ten mikrofon, šňůry, staré klávesové kombo Laney, +menší přenosné (A4 rozměry) novější kombicko Marshall (viz foto) - kombička a mikrofony nejsou v základní cene. Do 7 min od zastávky MHD, možnost parkování mimo modré zóny asi 200m, o víkendech i blíž. V létě i možnost sprchy po domluvě. Lze i nechat pití, potraviny v zamykací bedne, pod zkušebnu je sklep. Vyberu si ale jen 1 skupinu, možnost dlouhodoběji, nechceme z toho mít \"průchodak\"...",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Industrial"
+      ],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 73,
+      "reasons": [
+        "industrial",
+        "Brno"
+      ]
+    },
+    {
+      "id": "hudebnibazar:769759",
+      "title": "Hledám partu rockerů...",
+      "url": "https://hudebnibazar.cz/hledam-partu-rockeru/ID769759/",
+      "date": "2026-10-29T17:12:00+01:00",
+      "location": "Uherské Hradiště",
+      "author": "Rob.Do",
+      "excerpt": "Amatérský kytarista pro možnou začínající kapelu hledá solo kytaru,basu,bicí,zpěv,.nebo se začlením,.. k vyplnění volného času a poté i menší vystoupení na podiu..Preferuji vlastní tvorbu a společné hudební nápady,rock-metal na věku nezáleží.+-50..Zkušebna k dispozici ..Napajedla-okolí Zlín- UH,./..flexibilita...mám již…",
+      "description": "Amatérský kytarista pro možnou začínající kapelu hledá solo kytaru,basu,bicí,zpěv,.nebo se začlením,.. k vyplnění volného času a poté i menší vystoupení na podiu..Preferuji vlastní tvorbu a společné hudební nápady,rock-metal na věku nezáleží.+-50..Zkušebna k dispozici ..Napajedla-okolí Zlín- UH,./..flexibilita...mám již dokončeno několik skladeb vlastní texty,..viz.\nhttps://www.youtube.com/@rudikking/playlists,.. jen vše dopilovat a možno ubrat i přitvrdit...\nmalá ukázka náznaku podobného stylu hudby,..pokud ti bude vyhovovat ,tak volej ,piš,...Více videí zde-\nhttps://www.youtube.com/@rudikking",
+      "externalLinks": [
+        "https://www.youtube.com/@rudikking/playlists",
+        "https://www.youtube.com/@rudikking",
+        "https://instagram.com/rudikking"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 84,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Uherské Hradiště"
+      ]
+    },
     {
       "id": "hudebnibazar:775914",
       "title": "Hledáme Baskytaristu/Baskytaristku do Modern Metal Kapely",
@@ -2648,33 +2696,6 @@
         "jasný projekt / zkušenosti",
         "odkaz na profil / ukázku",
         "Trutnov"
-      ]
-    },
-    {
-      "id": "hudebnibazar:769759",
-      "title": "Hledám partu rockerů...",
-      "url": "https://hudebnibazar.cz/hledam-partu-rockeru/ID769759/",
-      "date": "2026-10-05T18:31:00+02:00",
-      "location": "Uherské Hradiště",
-      "author": "Rob.Do",
-      "excerpt": "Amatérský kytarista pro možnou začínající kapelu hledá solo kytaru,basu,bicí,zpěv,.nebo se začlením,.. k vyplnění volného času a poté i menší vystoupení na podiu..Preferuji vlastní tvorbu a společné hudební nápady,rock-metal na věku nezáleží.+-50..Zkušebna k dispozici ..Napajedla-okolí Zlín- UH,./..flexibilita...mám již…",
-      "description": "Amatérský kytarista pro možnou začínající kapelu hledá solo kytaru,basu,bicí,zpěv,.nebo se začlením,.. k vyplnění volného času a poté i menší vystoupení na podiu..Preferuji vlastní tvorbu a společné hudební nápady,rock-metal na věku nezáleží.+-50..Zkušebna k dispozici ..Napajedla-okolí Zlín- UH,./..flexibilita...mám již dokončeno několik skladeb vlastní texty,..viz.\nhttps://www.youtube.com/@rudikking/playlists,.. jen vše dopilovat a možno ubrat i přitvrdit...\nmalá ukázka náznaku podobného stylu hudby,..pokud ti bude vyhovovat ,tak volej ,piš,...Odkaz na video\nhttps://youtu.be/12u3-LBEcnE\nOdkaz na video\nhttps://youtu.be/uhXRnVZRUpw",
-      "externalLinks": [
-        "https://www.youtube.com/@rudikking/playlists",
-        "https://youtu.be/12u3-LBEcnE",
-        "https://youtu.be/uhXRnVZRUpw",
-        "https://instagram.com/rudikking"
-      ],
-      "influences": [],
-      "genres": [],
-      "isPrague": false,
-      "source": "Hudební bazar",
-      "score": 84,
-      "reasons": [
-        "podrobný inzerát",
-        "jasný projekt / zkušenosti",
-        "odkaz na profil / ukázku",
-        "Uherské Hradiště"
       ]
     },
     {
