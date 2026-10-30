@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T12:41:32.903455+00:00",
+  "updatedAt": "2026-10-30T12:51:27.739575+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -173,6 +173,34 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:790677",
+      "title": "Basak hledá kapelu (Nu, Alt, Industrial)",
+      "url": "https://hudebnibazar.cz/basak-hleda-kapelu-nu-alt-industrial/ID790677/",
+      "date": "2026-10-30T13:44:00+01:00",
+      "location": "Praha 4",
+      "author": "Sasaberdar63",
+      "excerpt": "Ahoj, je mi 18 a dělám hudbu už cca 2 roky (1rok kytara 1rok basa). Mam zkušenosti z par kapelama, takze nejsem úplně blbeček :) Na basu muzu zahrat prakticky cokoliv v zanru Nu-Metal, Industrial a Alt metal (asi nejtěžší pro mne bylo \"Mudvayne - Nothing To Gein a \"Deftones - Root\"), v těchto stylech bych jsem rad hrál. Nejsem…",
+      "description": "Ahoj, je mi 18 a dělám hudbu už cca 2 roky (1rok kytara 1rok basa). Mam zkušenosti z par kapelama, takze nejsem úplně blbeček :)\nNa basu muzu zahrat prakticky cokoliv v zanru Nu-Metal, Industrial a Alt metal (asi nejtěžší pro mne bylo \"Mudvayne - Nothing To Gein a \"Deftones - Root\"), v těchto stylech bych jsem rad hrál.\nNejsem úplně dobrý kompozitor, takze napsat svůj vlastní riff mi vždycky trvá.\nNejspíš odepisu na ig: spaaacemaaan nebo telegram: drejden, ale email taky bych slo",
+      "externalLinks": [
+        "https://instagram.com/spaaacemaaan"
+      ],
+      "influences": [],
+      "genres": [
+        "Nu-metal",
+        "Alt-metal",
+        "Industrial"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 100,
+      "reasons": [
+        "nu-metal",
+        "alt metal",
+        "odkaz na profil / ukázku",
+        "Praha 4"
+      ]
+    },
     {
       "id": "hudebnibazar:788089",
       "title": "Hledá se basák",
