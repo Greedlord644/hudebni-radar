@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T13:21:33.907555+00:00",
+  "updatedAt": "2026-10-30T13:31:48.541031+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -173,6 +173,27 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:790687",
+      "title": "Seeking Musicians for Celtic Metal Project",
+      "url": "https://hudebnibazar.cz/seeking-musicians-for-celtic-metal-project/ID790687/",
+      "date": "2026-10-30T14:20:00+01:00",
+      "location": "Ostrava",
+      "author": "E.G",
+      "excerpt": "Hey everyone!! I'm looking to start a Celtic/folk metal band in the Ostrava area. The main focus is driving, atmospheric Celtic metal, mixing original songs with authentic Irish trad arrangements... though I definitely would like to weave in some doom elements and slow-burning riffs as well. Think Cruachan, Primordial, and…",
+      "description": "Hey everyone!! I'm looking to start a Celtic/folk metal band in the Ostrava area.\nThe main focus is driving, atmospheric Celtic metal, mixing original songs with authentic Irish trad arrangements... though I definitely would like to weave in some doom elements and slow-burning riffs as well. Think Cruachan, Primordial, and early Ulver (Bergtatt), with a bit of Mael Mórdha weight when things get heavier. Having lived in Ireland for 13 years, I want to bring actual trad material into heavy arrangements rather than just generic folk melodies, with the addition of creating original stuff. The plan is to build a solid setup, write and record an album, and get out on stage.\nI’m completely flexible with the lineup. Whether you play guitar, bass, drums, or traditional instruments (bouzouki, violin, flute, tin whistle, accordion, etc.), or handle vocals (harsh, clean, folk) if you like the style and want to collaborate, let's talk. Synergy matters way more to me than filling a traditional setup, tbh.\nLogistics could be already taken care of, I can have a rehearsal spot just outside Ostrava with a possibly low split rent ready to go.\nIf you're interested, shoot me a message with a quick intro!\nApologies for the message in English, but I'm not originally Czech!",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "Ostrava"
+      ]
+    },
     {
       "id": "hudebnibazar:790677",
       "title": "Basak hledá kapelu (Nu, Alt, Industrial)",
