@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T14:11:35.417616+00:00",
+  "updatedAt": "2026-10-31T14:21:29.713299+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -173,6 +173,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:790865",
+      "title": "Hledáme bubeníka",
+      "url": "https://hudebnibazar.cz/hledame-bubenika/ID790865/",
+      "date": "2026-10-31T15:11:00+01:00",
+      "location": "Praha 10",
+      "author": "Zdenek.Marek2",
+      "excerpt": "Hledáme spolehlivého bubeníka pro vlastní tvorbu. Indie/punk/pop/rock",
+      "description": "Hledáme spolehlivého bubeníka pro vlastní tvorbu. Indie/punk/pop/rock",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 72,
+      "reasons": [
+        "Praha 10",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:789505",
       "title": "Hledám country partu",
