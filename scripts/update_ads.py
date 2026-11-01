@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import json
+import html as html_lib
 import os
 import re
 import time
@@ -149,6 +150,48 @@ def fetch(session: requests.Session, url: str, timeout: int = 35) -> str:
         response.encoding = response.apparent_encoding or "utf-8"
     time.sleep(float(os.getenv("RADAR_DELAY", "0.35")))
     return response.text
+
+def parse_rss_items(xml_text: str) -> list[dict[str, str]]:
+    """Parse RSS even when one ad contains a bare ampersand or bad control char."""
+    def values(root: ET.Element) -> list[dict[str, str]]:
+        return [{
+            "title": item.findtext("title", ""),
+            "description": item.findtext("description", ""),
+            "link": item.findtext("link", ""),
+            "pubDate": item.findtext("pubDate", ""),
+        } for item in root.findall("./channel/item")]
+
+    try:
+        return values(ET.fromstring(xml_text))
+    except ET.ParseError as first_error:
+        valid = "".join(
+            char for char in xml_text
+            if ord(char) in (0x9, 0xA, 0xD) or 0x20 <= ord(char) <= 0xD7FF or 0xE000 <= ord(char) <= 0xFFFD
+        )
+        cleaned = re.sub(
+            r"&(?!amp;|lt;|gt;|apos;|quot;|#\d+;|#x[0-9a-fA-F]+;)",
+            "&amp;",
+            valid,
+        )
+        try:
+            print(f"RSS contained invalid XML; recovered after sanitizing: {first_error}")
+            return values(ET.fromstring(cleaned))
+        except ET.ParseError as second_error:
+            # Last-resort item-by-item extraction means one malformed entry can
+            # no longer stop Bandmate/MIDI/S kytarou or the Pages deployment.
+            result = []
+            for block in re.findall(r"<item\b[^>]*>(.*?)</item>", xml_text, re.IGNORECASE | re.DOTALL):
+                record = {}
+                for tag in ("title", "description", "link", "pubDate"):
+                    match = re.search(fr"<{tag}\b[^>]*>(.*?)</{tag}>", block, re.IGNORECASE | re.DOTALL)
+                    value = match.group(1) if match else ""
+                    value = re.sub(r"^\s*<!\[CDATA\[|\]\]>\s*$", "", value, flags=re.DOTALL)
+                    record[tag] = html_lib.unescape(value.strip())
+                if record["link"]: result.append(record)
+            if result:
+                print(f"RSS recovered item-by-item after XML errors: {first_error}; {second_error}")
+                return result
+            raise second_error
 
 def external_links(value: str, soup=None) -> list[str]:
     links = []
@@ -376,10 +419,14 @@ def main() -> None:
     previous = json.loads(DATA.read_text(encoding="utf-8")) if DATA.exists() else {"singerSeeking": [], "interesting": []}
     by_id = {ad["id"]: ad for group in (previous.get("singerSeeking", []), previous.get("interesting", [])) for ad in group}
     session = requests.Session(); session.headers.update({"User-Agent": UA, "Accept-Language": "cs,en;q=0.8"})
-    root = ET.fromstring(fetch(session, RSS))
     candidates = []
-    for item in root.findall("./channel/item"):
-        title = item.findtext("title", ""); description = item.findtext("description", ""); url = item.findtext("link", "")
+    try:
+        rss_items = parse_rss_items(fetch(session, RSS))
+    except (requests.RequestException, ET.ParseError) as exc:
+        print(f"Hudební bazar RSS unavailable; preserving previous ads: {exc}")
+        rss_items = []
+    for item in rss_items:
+        title = item["title"]; description = item["description"]; url = item["link"]
         ad_id = (re.search(r"ID(\d+)", url) or [None, ""])[1]
         text = plain(title + " " + description)
         may_seek = any(re.search(p, text) for p in SEEKER)
@@ -387,7 +434,7 @@ def main() -> None:
         may_interest = bool(matched_influences(text)) or any(x in text for x in DISCOVERY_TERMS)
         quality_hits = sum(1 for marker in QUALITY if marker in text)
         may_quality = (len(text) >= 180 and quality_hits >= 2) or (has_external_link(text) and len(text) >= 150)
-        if ad_id and (may_seek or may_production or may_interest or may_quality): candidates.append((ad_id, title, description, url, item.findtext("pubDate", "")))
+        if ad_id and (may_seek or may_production or may_interest or may_quality): candidates.append((ad_id, title, description, url, item["pubDate"]))
 
     for url in DISCOVERY_SEEDS:
         ad_id = (re.search(r"ID(\d+)", url) or [None, ""])[1]
