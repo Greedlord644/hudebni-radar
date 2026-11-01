@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T19:11:30.928133+00:00",
+  "updatedAt": "2026-11-01T19:21:30.389008+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -173,6 +173,30 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:791122",
+      "title": "PLZEŇ - HLEDÁME HARDCORE/BEATDOWN BUBENÍKA",
+      "url": "https://hudebnibazar.cz/plzen-hledame-hardcore-beatdown-bubenika/ID791122/",
+      "date": "2026-11-01T20:17:00+01:00",
+      "location": "Plzeň",
+      "author": "Jonas.Macas",
+      "excerpt": "Ahoj, hledáme bubeníka ideálně z Plzně nebo okolí, případně někoho kdo je schopen dojíždět. Hrajeme převážně beatdown, zkušebnu zařízenou máme kromě bicích - pro podrobnosti pište na číslo uvedené dole. Nevadí, jestli s žánrem nemáš tolik zkušenosti, stačí spolehlivost a chuť hrát, ale samozřejmě uvítáme zkušeného hráče.…",
+      "description": "Ahoj,\nhledáme bubeníka ideálně z Plzně nebo okolí, případně někoho kdo je schopen dojíždět.\nHrajeme převážně beatdown, zkušebnu zařízenou máme kromě bicích - pro podrobnosti pište na číslo uvedené dole.\nNevadí, jestli s žánrem nemáš tolik zkušenosti, stačí spolehlivost a chuť hrát, ale samozřejmě uvítáme zkušeného hráče. Ideálně aby ti bylo kolem 20 let.\nPokud máš zájem piš nebo volej na číslo",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=fy-Ln7d_cMQ"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 78,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Plzeň"
+      ]
+    },
     {
       "id": "hudebnibazar:785363",
       "title": "Melodic deathmetalová kapela z Prahy hledá bubeníka",
