@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-11-02T08:31:49.218009+00:00",
+  "updatedAt": "2026-11-02T08:41:37.420680+00:00",
   "windowDays": 60,
   "singerSeeking": [
+    {
+      "id": "hudebnibazar:791193",
+      "title": "Zpěvačka hledá folkovou kapelu - Slaný a okolí, Praha",
+      "url": "https://hudebnibazar.cz/zpevacka-hleda-folkovou-kapelu-slany-a-okoli-praha/ID791193/",
+      "date": "2026-11-02T09:34:00+01:00",
+      "location": "Kladno",
+      "author": "Z5",
+      "excerpt": "Ahoj, je mi 35 let a ráda bych zpívala ve folkové kapele, ať už zavedené nebo v jejich počátcích. Folk je můj srdcový žánr a mám ráda všechny jeho podoby - od klasicky českého folku přes irské a skotské balady (typu Asonance) po přesahy do folk-rocku. Jsem ze Slaného a zvládnu zkoušení v blízkém okolí nebo v Praze. Ukázku zpěvu…",
+      "description": "Ahoj,\nje mi 35 let a ráda bych zpívala ve folkové kapele, ať už zavedené nebo v jejich počátcích. Folk je můj srdcový žánr a mám ráda všechny jeho podoby - od klasicky českého folku přes irské a skotské balady (typu Asonance) po přesahy do folk-rocku.\nJsem ze Slaného a zvládnu zkoušení v blízkém okolí nebo v Praze. Ukázku zpěvu na požádání zašlu.\nDíky",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 62,
+      "reasons": [
+        "zpěv hledá",
+        "Kladno"
+      ]
+    },
     {
       "id": "hudebnibazar:772272",
       "title": "Kytarista pro založení kapely - gothic rock",
@@ -173,6 +193,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:791193",
+      "title": "Zpěvačka hledá folkovou kapelu - Slaný a okolí, Praha",
+      "url": "https://hudebnibazar.cz/zpevacka-hleda-folkovou-kapelu-slany-a-okoli-praha/ID791193/",
+      "date": "2026-11-02T09:34:00+01:00",
+      "location": "Kladno",
+      "author": "Z5",
+      "excerpt": "Ahoj, je mi 35 let a ráda bych zpívala ve folkové kapele, ať už zavedené nebo v jejich počátcích. Folk je můj srdcový žánr a mám ráda všechny jeho podoby - od klasicky českého folku přes irské a skotské balady (typu Asonance) po přesahy do folk-rocku. Jsem ze Slaného a zvládnu zkoušení v blízkém okolí nebo v Praze. Ukázku zpěvu…",
+      "description": "Ahoj,\nje mi 35 let a ráda bych zpívala ve folkové kapele, ať už zavedené nebo v jejich počátcích. Folk je můj srdcový žánr a mám ráda všechny jeho podoby - od klasicky českého folku přes irské a skotské balady (typu Asonance) po přesahy do folk-rocku.\nJsem ze Slaného a zvládnu zkoušení v blízkém okolí nebo v Praze. Ukázku zpěvu na požádání zašlu.\nDíky",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Kladno",
+        "lokální networking"
+      ]
+    },
     {
       "id": "bandmate:51d68c57-ba4d-456c-bdcb-d824cc3717b7",
       "title": "HLEDÁ SE PRODUKČNÍ SQUADRA PRO STUDIOVÝ PROJEKT „SEXTRATERRESTRIAL“! 🛸💦🤖👽",
