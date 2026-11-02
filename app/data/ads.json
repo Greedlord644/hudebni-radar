@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T21:11:40.093555+00:00",
+  "updatedAt": "2026-11-02T21:21:42.854326+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -193,6 +193,32 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:791360",
+      "title": "Zpěvák hledá grunge kapelu",
+      "url": "https://hudebnibazar.cz/zpevak-hleda-grunge-kapelu/ID791360/",
+      "date": "2026-11-02T22:12:00+01:00",
+      "location": "Opava",
+      "author": "Luca.Akim.Janik",
+      "excerpt": "Ahoj, rád bych si zazpíval v nějaké grungeové kapele, hrající vlastní tvorbu. Zkušenosti se zpěvem v kapelách snad dostačující. Více na instagramu: @lucajanik_ Díky :)",
+      "description": "Ahoj, rád bych si zazpíval v nějaké grungeové kapele, hrající vlastní tvorbu. Zkušenosti se zpěvem v kapelách snad dostačující.\nVíce na instagramu: @lucajanik_\nDíky :)",
+      "externalLinks": [
+        "https://instagram.com/lucajanik_"
+      ],
+      "influences": [],
+      "genres": [
+        "Grunge"
+      ],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 67,
+      "reasons": [
+        "grunge",
+        "odkaz na profil / ukázku",
+        "vlastní tvorba",
+        "Opava"
+      ]
+    },
     {
       "id": "hudebnibazar:791352",
       "title": "KAPELA TUBERA z Prahy potřebuje bubeníka a kytaristu!!!",
@@ -5618,26 +5644,6 @@
         "Praha /",
         "lokální networking",
         "podrobný inzerát"
-      ]
-    },
-    {
-      "id": "hudebnibazar:780042",
-      "title": "Sludgecore/Blackened Sludge",
-      "url": "https://hudebnibazar.cz/sludgecore-blackened-sludge/ID780042/",
-      "date": "2026-09-03T23:17:00+02:00",
-      "location": "Hradec Králové",
-      "author": "Stanislav.Folkl2",
-      "excerpt": "Zdarec! Kytarista a zpívající bubeník hledají basáka do nově vzniklého projektu. Měl bys mít vlastní aparát a chuť hrát 1x týdně ve zkušebně, pak když bude materiál tak live akce... Stylově groove, sludge metal :-D Zkušebna v Poděbradech...věk není podmínkou! PS: chceme hrát hodně podladěný! Tvůj zpěv výhodou(řev) Budeme se…",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": false,
-      "source": "Hudební bazar",
-      "score": 66,
-      "reasons": [
-        "podrobný inzerát",
-        "jasný projekt / zkušenosti",
-        "Hradec Králové"
       ]
     }
   ]
