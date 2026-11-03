@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-11-03T16:31:55.681324+00:00",
+  "updatedAt": "2026-11-03T16:41:33.377322+00:00",
   "windowDays": 60,
   "singerSeeking": [
+    {
+      "id": "bandmate:c2048b84-f624-445a-aac8-3d39780fea1e",
+      "title": "Praha - Zpěvačka hledá kapelu - žánr: pop, rock, disco a další",
+      "url": "https://bandmate.cz/inzerat/praha-zp-va-ka-hled-kapelu-nr-pop-rock-disco-a-dal-ES8knm",
+      "date": "2026-11-03T16:37:11.193627+00:00",
+      "location": "Praha",
+      "author": "IvaS.",
+      "excerpt": "Praha - Zpěvačka hledá kapelu - žánr: pop, rock, disco a další Hledám kapelu, která hraje plesový repertoár pop, rock klávesy",
+      "description": "Praha - Zpěvačka hledá kapelu - žánr: pop, rock, disco a další Hledám kapelu, která hraje plesový repertoár pop, rock klávesy",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Bandmate",
+      "score": 62,
+      "reasons": [
+        "zpěv hledá",
+        "Praha"
+      ]
+    },
     {
       "id": "hudebnibazar:791193",
       "title": "Zpěvačka hledá folkovou kapelu - Slaný a okolí, Praha",
@@ -193,6 +213,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "bandmate:c2048b84-f624-445a-aac8-3d39780fea1e",
+      "title": "Praha - Zpěvačka hledá kapelu - žánr: pop, rock, disco a další",
+      "url": "https://bandmate.cz/inzerat/praha-zp-va-ka-hled-kapelu-nr-pop-rock-disco-a-dal-ES8knm",
+      "date": "2026-11-03T16:37:11.193627+00:00",
+      "location": "Praha",
+      "author": "IvaS.",
+      "excerpt": "Praha - Zpěvačka hledá kapelu - žánr: pop, rock, disco a další Hledám kapelu, která hraje plesový repertoár pop, rock klávesy",
+      "description": "Praha - Zpěvačka hledá kapelu - žánr: pop, rock, disco a další Hledám kapelu, která hraje plesový repertoár pop, rock klávesy",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Bandmate",
+      "score": 66,
+      "reasons": [
+        "Praha",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:775914",
       "title": "Hledáme Baskytaristu/Baskytaristku do Modern Metal Kapely",
