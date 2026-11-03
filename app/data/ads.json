@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T06:01:31.971400+00:00",
+  "updatedAt": "2026-11-03T06:11:32.663532+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -193,6 +193,27 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:791369",
+      "title": "Kapela Ostrov tučňáků hledá zpěváka!",
+      "url": "https://hudebnibazar.cz/kapela-ostrov-tucnaku-hleda-zpevaka/ID791369/",
+      "date": "2026-11-03T07:06:00+01:00",
+      "location": "Opava",
+      "author": "Ostrov.Tucnaku",
+      "excerpt": "Do našeho autorského hudebního projektu Ostrov tučňáků hledáme zpěváka, který by se k nám chtěl přidat a podílet se na tvorbě vlastní hudby. Zaměřujeme se především na rock a punk, ale rádi bychom experimentovali, nechceme se nebránit dalším hudebním směrům. Předchozí zkušenosti nejsou podmínkou. Důležitá je pro nás především…",
+      "description": "Do našeho autorského hudebního projektu Ostrov tučňáků hledáme zpěváka, který by se k nám chtěl přidat a podílet se na tvorbě vlastní hudby.\nZaměřujeme se především na rock a punk, ale rádi bychom experimentovali, nechceme se nebránit dalším hudebním směrům.\nPředchozí zkušenosti nejsou podmínkou. Důležitá je pro nás především základní pěvecká schopnost, charisma, osobitost a chuť zkoušet nové věci a společně tvořit.\nZkoušky by probíhaly v Opavě. Jsme tři chlapci ve věku okolo 17 let.\nPokud tě inzerát zaujal a chtěl by jsi to s námi zkusit, nebo se na něco ještě doptat, neboj se napsat. Těšíme se na připadnou spolupráci 🙂",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 72,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "Opava"
+      ]
+    },
     {
       "id": "hudebnibazar:783227",
       "title": "HLEDÁM AUTORSKÝ BAND",
