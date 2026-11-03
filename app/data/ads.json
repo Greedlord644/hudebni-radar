@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T13:31:58.757313+00:00",
+  "updatedAt": "2026-11-03T13:41:32.806691+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -193,6 +193,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:761277",
+      "title": "SINGER WANTED, ROCK/FOLK ROCK",
+      "url": "https://hudebnibazar.cz/singer-wanted-rock-folk-rock/ID761277/",
+      "date": "2026-11-03T14:37:00+01:00",
+      "location": "Praha 1",
+      "author": "Petr.Burke",
+      "excerpt": "Looking for SINGER, NEW SONGS, ROCK, FOLK ROCK, BLUES ROCK. New songs. Hledá se ZPĚVÁK, ROCK, FOLK ROCK, BLUES ROCK. Chci dělat nové songy, rock, folk rock, blues rock.",
+      "description": "Looking for SINGER, NEW SONGS, ROCK, FOLK ROCK, BLUES ROCK. New songs.\nHledá se ZPĚVÁK, ROCK, FOLK ROCK, BLUES ROCK. Chci dělat nové songy, rock, folk rock, blues rock.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Praha 1",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:727629",
       "title": "Kytarista / kytaristka do kapely Rousing Numbers",
@@ -1739,26 +1759,6 @@
       "score": 69,
       "reasons": [
         "Praha-západ",
-        "lokální networking"
-      ]
-    },
-    {
-      "id": "hudebnibazar:761277",
-      "title": "SINGER WANTED, ROCK/FOLK ROCK",
-      "url": "https://hudebnibazar.cz/singer-wanted-rock-folk-rock/ID761277/",
-      "date": "2026-10-24T11:02:00+02:00",
-      "location": "Praha 1",
-      "author": "Petr.Burke",
-      "excerpt": "Looking for SINGER, NEW SONGS, ROCK, FOLK ROCK, BLUES ROCK. New songs. Hledá se ZPĚVÁK, ROCK, FOLK ROCK, BLUES ROCK. Chci dělat nové songy, rock, folk rock, blues rock.",
-      "description": "Looking for SINGER, NEW SONGS, ROCK, FOLK ROCK, BLUES ROCK. New songs.\nHledá se ZPĚVÁK, ROCK, FOLK ROCK, BLUES ROCK. Chci dělat nové songy, rock, folk rock, blues rock.",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 66,
-      "reasons": [
-        "Praha 1",
         "lokální networking"
       ]
     },
