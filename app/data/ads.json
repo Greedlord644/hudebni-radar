@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T09:41:38.455076+00:00",
+  "updatedAt": "2026-11-05T09:51:28.877284+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -213,6 +213,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:764910",
+      "title": "Kytarista",
+      "url": "https://hudebnibazar.cz/kytarista/ID764910/",
+      "date": "2026-11-05T10:50:00+01:00",
+      "location": "Praha 10",
+      "author": "Miroslav.Gregor2",
+      "excerpt": "Nabízím se jako kytarista. Prosím, trochu pokročilejší muzikanty Klasický rock ,hardrock\" Převzaté věci mi nevadí.Invence na skládání nějaké mám.Doprovodný zpěv zvládám . Hledám kapelu ,která hraje na dvě kytary Oblast Praha.",
+      "description": "Nabízím se jako kytarista.\nProsím, trochu pokročilejší muzikanty Klasický rock ,hardrock\"\nPřevzaté věci mi nevadí.Invence na skládání nějaké mám.Doprovodný zpěv zvládám .\nHledám kapelu ,která hraje na dvě kytary\nOblast Praha.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Praha 10",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:770622",
       "title": "HLEDÁM AUTORSKÝ BAND",
