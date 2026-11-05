@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T13:51:39.187070+00:00",
+  "updatedAt": "2026-11-05T14:02:13.481063+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -213,6 +213,29 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:790305",
+      "title": "Bubeník🥁 Hledám!",
+      "url": "https://hudebnibazar.cz/bubenik-hledam/ID790305/",
+      "date": "2026-11-05T14:56:00+01:00",
+      "location": "Praha 1",
+      "author": "Volodymyr.Hr",
+      "excerpt": "Ahoj! Hledám kapelu, se kterou bych mohl hudebně růst a společně dosahovat nových cílů. 🤘 Rád bych hrál metalcore, hardcore nebo deathcore. Insa: @vvdrmr.d Tak napiš! Čau🫶",
+      "description": "Ahoj! Hledám kapelu, se kterou bych mohl hudebně růst a společně dosahovat nových cílů. 🤘\nRád bych hrál metalcore, hardcore nebo deathcore.\nInsa: @vvdrmr.d\nTak napiš!\nČau🫶",
+      "externalLinks": [
+        "https://instagram.com/vvdrmr.d"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 78,
+      "reasons": [
+        "Praha 1",
+        "lokální networking",
+        "odkaz na profil / ukázku"
+      ]
+    },
     {
       "id": "hudebnibazar:791801",
       "title": "Hledám country partu/kapelu",
@@ -1510,29 +1533,6 @@
       "reasons": [
         "nu metal",
         "Praha 6"
-      ]
-    },
-    {
-      "id": "hudebnibazar:790305",
-      "title": "Bubeník🥁 Hledám!",
-      "url": "https://hudebnibazar.cz/bubenik-hledam/ID790305/",
-      "date": "2026-10-28T13:38:00+01:00",
-      "location": "Praha 1",
-      "author": "Volodymyr.Hr",
-      "excerpt": "Ahoj! Hledám kapelu, se kterou bych mohl hudebně růst a společně dosahovat nových cílů. 🤘 Rád bych hrál metalcore, hardcore nebo deathcore. Insa: @vvdrmr.d Tak napiš! Čau🫶",
-      "description": "Ahoj! Hledám kapelu, se kterou bych mohl hudebně růst a společně dosahovat nových cílů. 🤘\nRád bych hrál metalcore, hardcore nebo deathcore.\nInsa: @vvdrmr.d\nTak napiš!\nČau🫶",
-      "externalLinks": [
-        "https://instagram.com/vvdrmr.d"
-      ],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 78,
-      "reasons": [
-        "Praha 1",
-        "lokální networking",
-        "odkaz na profil / ukázku"
       ]
     },
     {
