@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T14:21:35.693819+00:00",
+  "updatedAt": "2026-11-05T14:31:56.155029+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -213,6 +213,53 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:788736",
+      "title": "písničkář hledá další nadšené muzikanty !!!",
+      "url": "https://hudebnibazar.cz/pisnickar-hleda-dalsi-nadsene-muzikanty/ID788736/",
+      "date": "2026-11-05T15:28:00+01:00",
+      "location": "Praha 4",
+      "author": "Martin.Nemec4",
+      "excerpt": "Příležitostný písničkář s rockovou duší hledá hudební nadšence, kteří by se nebáli zapojit do nového alternativního projektu vyznačujícího se akustickým základem, různorodou dynamikou a melancholickými emocemi. Zváni jsou aktivní muzikanti, ale i pasivní jedinci, kteří si mysleli, že už mají to nejlepší za sebou. Potřeba jsou…",
+      "description": "Příležitostný písničkář s rockovou duší hledá hudební nadšence, kteří by se nebáli zapojit do nového alternativního projektu vyznačujícího se akustickým základem, různorodou dynamikou a melancholickými emocemi. Zváni jsou aktivní muzikanti, ale i pasivní jedinci, kteří si mysleli, že už mají to nejlepší za sebou. Potřeba jsou všichni, co umí vyluzovat jakékoliv zvuky, ale především Ti co umí mlátit do škopků, napínat struny, či trápit svoje hlasivky.\nPraha, 30-50let",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Emo"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 70,
+      "reasons": [
+        "emo",
+        "Praha 4"
+      ]
+    },
+    {
+      "id": "hudebnibazar:778876",
+      "title": "MySpace Deathcore kapela tě hledá!",
+      "url": "https://hudebnibazar.cz/myspace-deathcore-kapela-te-hleda/ID778876/",
+      "date": "2026-11-05T15:22:00+01:00",
+      "location": "Tábor",
+      "author": "Hd.Hdhd",
+      "excerpt": "Ahojky, sme myspace deathcore kapela která hledá bicí s baskytaru. Hrajeme podobný styl jako old era Bmth 2004/2006 Takže hledáme tě! Piš na whatsap, telegram, email:3 Tg:@KOMNUNDRETTEMICH",
+      "description": "Ahojky, sme myspace deathcore kapela která hledá bicí s baskytaru.\nHrajeme podobný styl jako old era Bmth 2004/2006\nTakže hledáme tě!\nPiš na whatsap, telegram, email:3\nTg:@KOMNUNDRETTEMICH",
+      "externalLinks": [
+        "https://instagram.com/KOMNUNDRETTEMICH"
+      ],
+      "influences": [
+        "Bring Me The Horizon"
+      ],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 100,
+      "reasons": [
+        "Bring Me The Horizon",
+        "odkaz na profil / ukázku",
+        "Tábor"
+      ]
+    },
     {
       "id": "hudebnibazar:790305",
       "title": "Bubeník🥁 Hledám!",
@@ -1794,28 +1841,6 @@
         "jasný projekt / zkušenosti",
         "odkaz na profil / ukázku",
         "Kutná Hora"
-      ]
-    },
-    {
-      "id": "hudebnibazar:788736",
-      "title": "písničkář hledá další nadšené muzikanty !!!",
-      "url": "https://hudebnibazar.cz/pisnickar-hleda-dalsi-nadsene-muzikanty/ID788736/",
-      "date": "2026-10-25T09:16:00+01:00",
-      "location": "Praha 4",
-      "author": "Martin.Nemec4",
-      "excerpt": "Příležitostný písničkář s rockovou duší hledá hudební nadšence, kteří by se nebáli zapojit do nového alternativního projektu vyznačujícího se akustickým základem, různorodou dynamikou a melancholickými emocemi. Zváni jsou aktivní muzikanti, ale i pasivní jedinci, kteří si mysleli, že už mají to nejlepší za sebou. Potřeba jsou…",
-      "description": "Příležitostný písničkář s rockovou duší hledá hudební nadšence, kteří by se nebáli zapojit do nového alternativního projektu vyznačujícího se akustickým základem, různorodou dynamikou a melancholickými emocemi. Zváni jsou aktivní muzikanti, ale i pasivní jedinci, kteří si mysleli, že už mají to nejlepší za sebou. Potřeba jsou všichni, co umí vyluzovat jakékoliv zvuky, ale především Ti co umí mlátit do škopků, napínat struny, či trápit svoje hlasivky.\nPraha, 30-50let",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [
-        "Emo"
-      ],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 70,
-      "reasons": [
-        "emo",
-        "Praha 4"
       ]
     },
     {
