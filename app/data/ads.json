@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T14:41:35.322142+00:00",
+  "updatedAt": "2026-11-05T14:51:37.489802+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -213,6 +213,28 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:791831",
+      "title": "Vstupenka na Jana Vytáska DNES 5.11.26",
+      "url": "https://hudebnibazar.cz/vstupenka-na-jana-vytaska-dnes-5-11-26/ID791831/",
+      "date": "2026-11-05T15:44:00+01:00",
+      "location": "Praha 10",
+      "author": "Ludvik.Z",
+      "excerpt": "Prodám jednu vstupenku na tajný koncert Jana Vytáska DNES, 5. listopadu 2026 v CAFE DECADA Jsem nemocný a bohužel se nemohu zúčastnit. Je to SMS vstupenka (s čárovým kódem), kterou mohu okamžitě odeslat online. Cena: 200 Kč.",
+      "description": "Prodám jednu vstupenku na tajný koncert Jana Vytáska DNES, 5. listopadu 2026 v CAFE DECADA\nJsem nemocný a bohužel se nemohu zúčastnit.\nJe to SMS vstupenka (s čárovým kódem), kterou mohu okamžitě odeslat online.\nCena: 200 Kč.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Emo"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 63,
+      "reasons": [
+        "emo",
+        "Praha 10"
+      ]
+    },
     {
       "id": "hudebnibazar:788736",
       "title": "písničkář hledá další nadšené muzikanty !!!",
