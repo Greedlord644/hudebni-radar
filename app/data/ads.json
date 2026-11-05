@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T12:31:51.839207+00:00",
+  "updatedAt": "2026-11-05T12:41:28.997111+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -213,6 +213,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:791801",
+      "title": "Hledám country partu/kapelu",
+      "url": "https://hudebnibazar.cz/hledam-country-partu-kapelu/ID791801/",
+      "date": "2026-11-05T13:38:00+01:00",
+      "location": "Praha 4",
+      "author": "B.G",
+      "excerpt": "S houslemi nebo s el. kytarou doplním pohodovou partu, nejraději ve stylu country music, country folk, country rock, honky tonk .... ale i blues, folk, bluegrass, případně další .... Hledám partu staršího věku, kde se už nemusí ztrácet čas zkouškami a o to častěji se hraje ... Praha (ideálně blízko MHD), případně i její okolí…",
+      "description": "S houslemi nebo s el. kytarou doplním pohodovou partu, nejraději ve stylu country music, country folk, country rock, honky tonk .... ale i blues, folk, bluegrass, případně další .... Hledám partu staršího věku, kde se už nemusí ztrácet čas zkouškami a o to častěji se hraje ... Praha (ideálně blízko MHD), případně i její okolí (ideálně s dobrým parkováním pro auto)",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Praha 4",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:764910",
       "title": "Kytarista",
