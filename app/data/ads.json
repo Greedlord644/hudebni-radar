@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T17:21:38.109421+00:00",
+  "updatedAt": "2026-11-05T17:31:55.878519+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -189,26 +189,6 @@
       "reasons": [
         "zpěv hledá",
         "Praha 1"
-      ]
-    },
-    {
-      "id": "hudebnibazar:780559",
-      "title": "Zpěvačka shání kapelu Praha",
-      "url": "https://hudebnibazar.cz/zpevacka-shani-kapelu-praha/ID780559/",
-      "date": "2026-09-06T19:28:00+02:00",
-      "location": "Praha 4",
-      "author": "Anita.Jirovska",
-      "excerpt": "Zpěvačka klasiky chce naskočit konečně i do jiných žánrů. Základ - dávat hudbou dál. Návrhům se meze nekladou. Cokoliv kromě metal, punk,... Díky!",
-      "description": "Zpěvačka klasiky chce naskočit konečně i do jiných žánrů.\nZáklad - dávat hudbou dál.\nNávrhům se meze nekladou.\nCokoliv kromě metal, punk,...\nDíky!",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 62,
-      "reasons": [
-        "zpěv hledá",
-        "Praha 4"
       ]
     }
   ],
@@ -5645,26 +5625,6 @@
         "emo",
         "odkaz na profil / ukázku",
         "Brno"
-      ]
-    },
-    {
-      "id": "hudebnibazar:780559",
-      "title": "Zpěvačka shání kapelu Praha",
-      "url": "https://hudebnibazar.cz/zpevacka-shani-kapelu-praha/ID780559/",
-      "date": "2026-09-06T19:28:00+02:00",
-      "location": "Praha 4",
-      "author": "Anita.Jirovska",
-      "excerpt": "Zpěvačka klasiky chce naskočit konečně i do jiných žánrů. Základ - dávat hudbou dál. Návrhům se meze nekladou. Cokoliv kromě metal, punk,... Díky!",
-      "description": "Zpěvačka klasiky chce naskočit konečně i do jiných žánrů.\nZáklad - dávat hudbou dál.\nNávrhům se meze nekladou.\nCokoliv kromě metal, punk,...\nDíky!",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 66,
-      "reasons": [
-        "Praha 4",
-        "lokální networking"
       ]
     }
   ]
