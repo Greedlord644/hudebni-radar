@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T13:41:33.654509+00:00",
+  "updatedAt": "2026-11-05T13:51:39.187070+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -5618,28 +5618,6 @@
       "reasons": [
         "Praha 4",
         "lokální networking"
-      ]
-    },
-    {
-      "id": "hudebnibazar:780486",
-      "title": "Hledáme basáka do kapely 15 let",
-      "url": "https://hudebnibazar.cz/hledame-basaka-do-kapely-15-let/ID780486/",
-      "date": "2026-09-06T15:42:00+02:00",
-      "location": "Karviná",
-      "author": "Twistedtheory",
-      "excerpt": "Čaute hledáme basáka který je spolehlivý umí hrát na basu má rád nu-metal a obecně metal a je s ním sranda. Zkušebnu máme v Prostřední suché je nám okolo 15 let a chceme někoho kterého baví nové věci a baví ho všechny žánry a je s ním sranda.",
-      "description": "Čaute hledáme basáka který je spolehlivý umí hrát na basu má rád nu-metal a obecně metal a je s ním sranda. Zkušebnu máme v Prostřední suché je nám okolo 15 let a chceme někoho kterého baví nové věci a baví ho všechny žánry a je s ním sranda.",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [
-        "Nu-metal"
-      ],
-      "isPrague": false,
-      "source": "Hudební bazar",
-      "score": 88,
-      "reasons": [
-        "nu-metal",
-        "Karviná"
       ]
     }
   ]
