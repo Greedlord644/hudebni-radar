@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T08:41:27.468698+00:00",
+  "updatedAt": "2026-11-06T08:51:30.185555+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -193,6 +193,37 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:791926",
+      "title": "Hledáme basáka",
+      "url": "https://hudebnibazar.cz/hledame-basaka/ID791926/",
+      "date": "2026-11-06T09:44:00+01:00",
+      "location": "Praha 4",
+      "author": "Alex.Crow",
+      "excerpt": "🦄 CULT OF UNICORN SE VRACÍ! HLEDÁME BASÁKA! 🤘 Znovu začínáme. Podladění, sedmistrunka, melodické riffy, tvrdé pasáže, zpěv i scream. Crossover říznutý nu-metalem, HC, industrialem a vším, co nás zrovna napadne. Jsme připravení do toho znovu vlítnout naplno. Chceš být u toho? Napiš! Alex má za sebou dva temné roky. A je…",
+      "description": "🦄 CULT OF UNICORN SE VRACÍ! HLEDÁME BASÁKA! 🤘\nZnovu začínáme. Podladění, sedmistrunka, melodické riffy, tvrdé pasáže, zpěv i scream. Crossover říznutý nu-metalem, HC, industrialem a vším, co nás zrovna napadne.\nJsme připravení do toho znovu vlítnout naplno. Chceš být u toho? Napiš!\nAlex má za sebou dva temné roky. A je připraven postupně dotvořit nový repertoár plný emoční nestability.\nSmrt. Hledání rovnováhy. Utrpení. Toxické vztahy. Frustrace. Závislosti. Zoufalství. Vzdor. Vztek. A nekonečné, neúspěšné hledání naplněné lásky.\nZnovu budeme plní poezie, melodických riffů, tvrdosti a emocí, které se nevejdou do obyčejných slov.\nStarý repertoár zůstává. Nový vzniká. A jakmile budeme připravení vrátit se na pódia, rozhodně o nás uslyšíte.\n🎼 Poslouchej Cult of Unicorn. A pokud chceš být součástí toho, co přijde, ozvi se.\n🔥 POSLECHNI SI NÁS:\n🎸 Bandzone:\nhttps://bandzone.cz/cultofunicorn\n🎬 YouTube – náš kanál:\nhttps://www.youtube.com/@cultofunicorn5344/videos\n🎧 Vybrané skladby:\n▶️ https://www.youtube.com/watch?v=fxS_HilRb88\n▶️ https://www.youtube.com/watch?v=D3uvE_bl7K4\n▶️ https://www.youtube.com/watch?v=OtFywoolJpQ\n📸 Instagram:\nhttps://www.instagram.com/cultofunicorn/\n📩 Kontakt / zájemci o post basáka:\n🦄🫶🤘♥️",
+      "externalLinks": [
+        "https://bandzone.cz/cultofunicorn",
+        "https://www.youtube.com/@cultofunicorn5344/videos",
+        "https://www.youtube.com/watch?v=fxS_HilRb88",
+        "https://www.youtube.com/watch?v=D3uvE_bl7K4",
+        "https://www.youtube.com/watch?v=OtFywoolJpQ"
+      ],
+      "influences": [],
+      "genres": [
+        "Nu-metal",
+        "Emo",
+        "Industrial"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 100,
+      "reasons": [
+        "nu-metal",
+        "odkaz na profil / ukázku",
+        "Praha 4"
+      ]
+    },
     {
       "id": "hudebnibazar:785747",
       "title": "HLEDÁM SPOLUHRÁČE",
