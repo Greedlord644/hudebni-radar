@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T16:21:29.247073+00:00",
+  "updatedAt": "2026-11-06T16:31:44.943920+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -193,6 +193,28 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:791996",
+      "title": "Synth projekt hledá lidi",
+      "url": "https://hudebnibazar.cz/synth-projekt-hleda-lidi/ID791996/",
+      "date": "2026-11-06T17:28:00+01:00",
+      "location": "Praha 2",
+      "author": "Pavel.R2",
+      "excerpt": "Pro alternativní elektro hudební projekt hledáme spoluhráče. Nyní jsme dva, bicí a elektronika. Baví nás propojovat beaty, smyčky, synths, bicí, ale i kytaru a zpěv. Hledáme někoho kdo se přidá na basu nebo bass synth, nebojí se třeba i vokálů. Hledáme někoho na zpěv, nebo univerzála který rád tvoří hudbu a nebojí se…",
+      "description": "Pro alternativní elektro hudební projekt hledáme spoluhráče. Nyní jsme dva, bicí a elektronika. Baví nás propojovat beaty, smyčky, synths, bicí, ale i kytaru a zpěv. Hledáme někoho kdo se přidá na basu nebo bass synth, nebojí se třeba i vokálů. Hledáme někoho na zpěv, nebo univerzála který rád tvoří hudbu a nebojí se experimentovat.\nZkušebnu, výbavu, nástroje máme i pro tebe.\nOzvi se pokud tě to zaujalo..",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Elektronika"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "elektronika",
+        "Praha 2"
+      ]
+    },
     {
       "id": "hudebnibazar:791983",
       "title": "Bubeník z Frýdku-Místku hledá kapelu",
