@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T17:11:28.463549+00:00",
+  "updatedAt": "2026-11-06T17:21:31.401534+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -193,6 +193,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:784806",
+      "title": "HLEDÁM AUTORSKÝ BAND",
+      "url": "https://hudebnibazar.cz/hledam-autorsky-band/ID784806/",
+      "date": "2026-11-06T18:13:00+01:00",
+      "location": "Praha 4",
+      "author": "Gogen.77",
+      "excerpt": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím. Jen aktivní kapely z Prahy.",
+      "description": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím.\nJen aktivní kapely z Prahy.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "Praha 4",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:780041",
       "title": "Kytarista hledá kapelu",
@@ -1312,26 +1332,6 @@
         "podrobný inzerát",
         "jasný projekt / zkušenosti",
         "Brno"
-      ]
-    },
-    {
-      "id": "hudebnibazar:784806",
-      "title": "HLEDÁM AUTORSKÝ BAND",
-      "url": "https://hudebnibazar.cz/hledam-autorsky-band/ID784806/",
-      "date": "2026-11-01T10:59:00+01:00",
-      "location": "Praha 4",
-      "author": "Gogen.77",
-      "excerpt": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím. Jen aktivní kapely z Prahy.",
-      "description": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím.\nJen aktivní kapely z Prahy.",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 69,
-      "reasons": [
-        "Praha 4",
-        "lokální networking"
       ]
     },
     {
