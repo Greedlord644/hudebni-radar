@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T20:31:50.819612+00:00",
+  "updatedAt": "2026-11-06T20:41:31.844675+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -212,6 +212,30 @@
       "score": 89,
       "reasons": [
         "Praha 1",
+        "lokální networking",
+        "odkaz na profil / ukázku",
+        "podrobný inzerát"
+      ]
+    },
+    {
+      "id": "bandmate:f0eb6387-b3ac-4ac9-9d46-a6496bed92c6",
+      "title": "Vokalistka pro sludge",
+      "url": "https://bandmate.cz/inzerat/vokalistka-pro-sludge-IqtPV3",
+      "date": "2026-11-06T20:39:23.084012+00:00",
+      "location": "Praha",
+      "author": "Filip Vaněk",
+      "excerpt": "Vokalistka pro sludge Ahoj ahoj. Začali jsme v Praze hrát sludge metal a chybí nám vokály. Hledáme primárně vokalistku/zpěvačku čistě z důvodu, že by s naší hudbou mohl ženský hlas zajímavě kontrastovat. Tvým hlavním úkolem bude growl/harsh vocals, ale čistý zpěv je výhodou, pokud ho umíš a chceš využít. Inspirací jsou pro nás…",
+      "description": "Vokalistka pro sludge Ahoj ahoj.\nZačali jsme v Praze hrát sludge metal a chybí nám vokály. Hledáme primárně vokalistku/zpěvačku čistě z důvodu, že by s naší hudbou mohl ženský hlas zajímavě kontrastovat. Tvým hlavním úkolem bude growl/harsh vocals, ale čistý zpěv je výhodou, pokud ho umíš a chceš využít.\nInspirací jsou pro nás kapely jako Crowbar, Eyehategod nebo Leechmilk. Jsme kytara, basa a bicí, všichni 24 let. Snažíme se dle našich možností zkoušet aspoň jednou za 14 dní na Továrně v Hostiváři, ale do budoucna se plánuje stálá zkušebna. Našim cílem je v blízký době začít koncertovat po Praze.\nKontaktuj mě tady, nebo na ig: no_money_4_quattro rock, metal, punk, blues, hardcore, alternative, psychedelic zpěv",
+      "externalLinks": [
+        "https://instagram.com/no_money_4_quattro"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Bandmate",
+      "score": 89,
+      "reasons": [
+        "Praha",
         "lokální networking",
         "odkaz na profil / ukázku",
         "podrobný inzerát"
