@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T15:02:00.190805+00:00",
+  "updatedAt": "2026-11-06T15:11:33.345240+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -193,6 +193,28 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:791983",
+      "title": "Bubeník z Frýdku-Místku hledá kapelu",
+      "url": "https://hudebnibazar.cz/bubenik-z-frydku-mistku-hleda-kapelu/ID791983/",
+      "date": "2026-11-06T16:06:00+01:00",
+      "location": "Frýdek-Místek",
+      "author": "Dcajanek",
+      "excerpt": "Ahoj, Jmenuju se David, je mi 16 let a hledám kapelu z Frýdku-Místku a okolí. Žánrově hraju (poslouchám) převážně alternativní Nu Metal, Rock, indie Rock… (Linking Park, Twenty One Pilots, Limp Bizkit, Radiohead, Muse…) ale i ostatní žánry. Mám zkušenosti s kapelou, hraju ve 2 kapelách jako klávesák. Pro nějaké dotazy pište.",
+      "description": "Ahoj,\nJmenuju se David, je mi 16 let a hledám kapelu z Frýdku-Místku a okolí.\nŽánrově hraju (poslouchám) převážně alternativní Nu Metal, Rock, indie Rock…\n(Linking Park, Twenty One Pilots, Limp Bizkit, Radiohead, Muse…) ale i ostatní žánry.\nMám zkušenosti s kapelou, hraju ve 2 kapelách jako klávesák.\nPro nějaké dotazy pište.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Nu-metal"
+      ],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 88,
+      "reasons": [
+        "nu metal",
+        "Frýdek-Místek"
+      ]
+    },
     {
       "id": "bandmate:45cdebf1-a28d-4057-b21c-4f0ffe83b966",
       "title": "Nahrávání, mix a mastering – Studio Jirčany",
