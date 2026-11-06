@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T17:01:58.253439+00:00",
+  "updatedAt": "2026-11-06T17:11:28.463549+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -193,6 +193,28 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:780041",
+      "title": "Kytarista hledá kapelu",
+      "url": "https://hudebnibazar.cz/kytarista-hleda-kapelu/ID780041/",
+      "date": "2026-11-06T18:05:00+01:00",
+      "location": "Praha 4",
+      "author": "Krystof.Novak2",
+      "excerpt": "Zdravím. Jsem kytarista (Praha, 20 let). Hráč, dovolím si říct průměrný, spíše rytmický než sólový. Jsem flexibilní, co se lazení a žánrů týče. Hraju/poslouchám hlavně death metal, metalcore, shoegaze a alt rock. Spíše bych preferoval připojit se k něčemu už \"zajetýmu\". Menší zkušenosti s vystupováním mám také, něco málo i…",
+      "description": "Zdravím. Jsem kytarista (Praha, 20 let). Hráč, dovolím si říct průměrný, spíše rytmický než sólový. Jsem flexibilní, co se lazení a žánrů týče. Hraju/poslouchám hlavně death metal, metalcore, shoegaze a alt rock. Spíše bych preferoval připojit se k něčemu už \"zajetýmu\". Menší zkušenosti s vystupováním mám také, něco málo i uzpívám.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Alt-rock"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 94,
+      "reasons": [
+        "alt rock",
+        "Praha 4"
+      ]
+    },
     {
       "id": "hudebnibazar:791996",
       "title": "Synth projekt hledá lidi",
@@ -1269,28 +1291,6 @@
         "lokální networking",
         "odkaz na profil / ukázku",
         "podrobný inzerát"
-      ]
-    },
-    {
-      "id": "hudebnibazar:780041",
-      "title": "Kytarista hledá kapelu",
-      "url": "https://hudebnibazar.cz/kytarista-hleda-kapelu/ID780041/",
-      "date": "2026-11-01T15:29:00+01:00",
-      "location": "Praha 4",
-      "author": "Krystof.Novak2",
-      "excerpt": "Zdravím. Jsem kytarista (Praha, 20 let). Hráč, dovolím si říct průměrný, spíše rytmický než sólový. Jsem flexibilní, co se lazení a žánrů týče. Hraju/poslouchám hlavně death metal, metalcore, shoegaze a alt rock. Spíše bych preferoval připojit se k něčemu už \"zajetýmu\". Menší zkušenosti s vystupováním mám také, něco málo i…",
-      "description": "Zdravím. Jsem kytarista (Praha, 20 let). Hráč, dovolím si říct průměrný, spíše rytmický než sólový. Jsem flexibilní, co se lazení a žánrů týče. Hraju/poslouchám hlavně death metal, metalcore, shoegaze a alt rock. Spíše bych preferoval připojit se k něčemu už \"zajetýmu\". Menší zkušenosti s vystupováním mám také, něco málo i uzpívám.",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [
-        "Alt-rock"
-      ],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 94,
-      "reasons": [
-        "alt rock",
-        "Praha 4"
       ]
     },
     {
