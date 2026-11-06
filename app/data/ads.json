@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T14:51:27.009121+00:00",
+  "updatedAt": "2026-11-06T15:02:00.190805+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -193,6 +193,33 @@
     }
   ],
   "interesting": [
+    {
+      "id": "bandmate:45cdebf1-a28d-4057-b21c-4f0ffe83b966",
+      "title": "Nahrávání, mix a mastering – Studio Jirčany",
+      "url": "https://bandmate.cz/inzerat/nahr-v-n-mix-a-mastering-studio-jir-any-qwyAYy",
+      "date": "2026-11-06T14:59:16.971088+00:00",
+      "location": "Psáry",
+      "author": "STUDIO JIRČANY",
+      "excerpt": "Nahrávání, mix a mastering – Studio Jirčany Nabízím nahrávání hudebních projektů, mix a mastering v komorním nahrávacím studiu v Dolních Jirčanech nedaleko Prahy. Zaměřuji se především na rock, metal, alternativní a elektronickou hudbu. K dispozici je kvalitní analogové i digitální vybavení, profesionální mikrofony a široké…",
+      "description": "Nahrávání, mix a mastering – Studio Jirčany Nabízím nahrávání hudebních projektů, mix a mastering v komorním nahrávacím studiu v Dolních Jirčanech nedaleko Prahy.\nZaměřuji se především na rock, metal, alternativní a elektronickou hudbu. K dispozici je kvalitní analogové i digitální vybavení, profesionální mikrofony a široké možnosti práce se zvukem.\nIndividuální přístup, klidné prostředí a soustředěná spolupráce na každém projektu.\nVíce informací:\nhttps://studiojircany.cz/ rock, pop, metal, elektronika, grunge, alternative, world, drum & bass, techno, house, ambient, experimentální, reggae, hip-hop, rap, blues, post-rock, folk zvukař,mix/master,producent",
+      "externalLinks": [
+        "https://studiojircany.cz/"
+      ],
+      "influences": [],
+      "genres": [
+        "Elektronika",
+        "Grunge"
+      ],
+      "isPrague": false,
+      "source": "Bandmate",
+      "score": 89,
+      "reasons": [
+        "elektronika",
+        "grunge",
+        "odkaz na profil / ukázku",
+        "Psáry"
+      ]
+    },
     {
       "id": "hudebnibazar:762845",
       "title": "Extreme vocalist is looking for a band",
