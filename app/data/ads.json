@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T14:51:35.784078+00:00",
+  "updatedAt": "2026-11-07T15:02:00.298628+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -193,6 +193,30 @@
     }
   ],
   "interesting": [
+    {
+      "id": "bandmate:e4329484-283b-46b1-b05e-9dda80d77208",
+      "title": "Zpěvák, rytmický kytarista; mám rád energickou hudbu.",
+      "url": "https://bandmate.cz/inzerat/zp-v-k-rytmick-kytarista-m-m-r-d-energickou-hudbu-V1eISY",
+      "date": "2026-11-07T14:52:34.550888+00:00",
+      "location": "Vsetín",
+      "author": "gohflcffvnj",
+      "excerpt": "Zpěvák, rytmický kytarista; mám rád energickou hudbu. Už více než tři roky hraji na kytaru a zpívám. Je mi 17 let a mám rád žánry jako punk, grunge a podobné styly – zkrátka energickou hudbu. Ovládám různé techniky, například vibrato, tremolo či „drive“ zpěv (zkreslený nebo chraplavý hlas). Má to však jeden háček: neumím…",
+      "description": "Zpěvák, rytmický kytarista; mám rád energickou hudbu. Už více než tři roky hraji na kytaru a zpívám. Je mi 17 let a mám rád žánry jako punk, grunge a podobné styly – zkrátka energickou hudbu. Ovládám různé techniky, například vibrato, tremolo či „drive“ zpěv (zkreslený nebo chraplavý hlas). Má to však jeden háček: neumím anglicky ani česky – respektive je znám jen velmi povrchně; mým hlavním jazykem je ukrajinština. rock, punk, alternative, hardcore, grunge, psychedelic kytara,zpěv",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Emo",
+        "Grunge"
+      ],
+      "isPrague": false,
+      "source": "Bandmate",
+      "score": 71,
+      "reasons": [
+        "emo",
+        "grunge",
+        "Vsetín"
+      ]
+    },
     {
       "id": "hudebnibazar:779795",
       "title": "Death metalová kapela hledá bubeníka",
@@ -5745,30 +5769,6 @@
         "alt rock",
         "odkaz na profil / ukázku",
         "Praha 9"
-      ]
-    },
-    {
-      "id": "hudebnibazar:780946",
-      "title": "Hledá se Bubeník",
-      "url": "https://hudebnibazar.cz/hleda-se-bubenik/ID780946/",
-      "date": "2026-09-08T16:52:00+02:00",
-      "location": "Tábor",
-      "author": "Zdenek.Koutensky",
-      "excerpt": "Ahoj, Hledá se BUBENÍK Jsme Punk-Rock kapela System Shutdown a hledáme nového BUBENÍKA. Jsme z TÁBORA a máme vlastní tvorbu. Náš bubeník odchází z rodiných důvodů...... Máme prostory na hraní a zkouší se cca 1x týdně.",
-      "description": "Ahoj, Hledá se BUBENÍK\nJsme Punk-Rock kapela System Shutdown a hledáme nového BUBENÍKA.\nJsme z TÁBORA a máme vlastní tvorbu.\nNáš bubeník odchází z rodiných důvodů......\nMáme prostory na hraní a zkouší se cca 1x týdně.",
-      "externalLinks": [
-        "https://www.youtube.com/watch?v=32tRAOt5xnA"
-      ],
-      "influences": [],
-      "genres": [],
-      "isPrague": false,
-      "source": "Hudební bazar",
-      "score": 75,
-      "reasons": [
-        "podrobný inzerát",
-        "jasný projekt / zkušenosti",
-        "odkaz na profil / ukázku",
-        "Tábor"
       ]
     }
   ]
