@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T12:51:30.819088+00:00",
+  "updatedAt": "2026-11-07T13:01:56.387126+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -193,6 +193,30 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:779795",
+      "title": "Death metalová kapela hledá bubeníka",
+      "url": "https://hudebnibazar.cz/death-metalova-kapela-hleda-bubenika/ID779795/",
+      "date": "2026-11-07T13:53:00+01:00",
+      "location": "Praha 7",
+      "author": "Jari.Velaochaga",
+      "excerpt": "Hledáme zkušeného a spolehlivého bubeníka do death metalové kapely The Black Mary v Praze. Hrajeme vlastní tvorbu a chceme pravidelně zkoušet jednou týdně a postupně připravovat nový materiál a koncertní program. https://linktr.ee/152tbm",
+      "description": "Hledáme zkušeného a spolehlivého bubeníka do death metalové kapely The Black Mary v Praze.\nHrajeme vlastní tvorbu a chceme pravidelně zkoušet jednou týdně a postupně připravovat nový materiál a koncertní program.\nhttps://linktr.ee/152tbm",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=wpV1t-Fbfl0",
+        "https://linktr.ee/152tbm"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 87,
+      "reasons": [
+        "Praha 7",
+        "lokální networking",
+        "odkaz na profil / ukázku"
+      ]
+    },
     {
       "id": "hudebnibazar:790284",
       "title": "Hledáme bubeníka a baskytaristu!",
