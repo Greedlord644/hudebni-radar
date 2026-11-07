@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T23:21:29.394233+00:00",
+  "updatedAt": "2026-11-07T23:31:45.411703+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -235,6 +235,31 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:792203",
+      "title": "Hledám bubeníka, basáka a triangl (jsem zoufalý)",
+      "url": "https://hudebnibazar.cz/hledam-bubenika-basaka-a-triangl-jsem-zoufaly/ID792203/",
+      "date": "2026-11-08T00:25:00+01:00",
+      "location": "Praha 11",
+      "author": "Vojtech.Jedlicka2",
+      "excerpt": "Zdar, hledám lidi na založení metalové kapely žánr nu-metal (není pevně dáno ale něco na ten styl) ladění drop C. Věkově hledám vrstevníky takže kolem 20 let. Nehledám úplné virtuózy nebo znalce hudební teorie ale bylo by fajn ten nástroj nějak ovládat. V případě zájmu pište na ig: Hugacak_007 (na profilovce trpaslík)",
+      "description": "Zdar, hledám lidi na založení metalové kapely žánr nu-metal (není pevně dáno ale něco na ten styl) ladění drop C. Věkově hledám vrstevníky takže kolem 20 let. Nehledám úplné virtuózy nebo znalce hudební teorie ale bylo by fajn ten nástroj nějak ovládat.\nV případě zájmu pište na ig:\nHugacak_007 (na profilovce trpaslík)",
+      "externalLinks": [
+        "https://instagram.com/Hugacak_007"
+      ],
+      "influences": [],
+      "genres": [
+        "Nu-metal"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 100,
+      "reasons": [
+        "nu-metal",
+        "odkaz na profil / ukázku",
+        "Praha 11"
+      ]
+    },
     {
       "id": "hudebnibazar:792170",
       "title": "Zpěvák hledá novou kapelu",
