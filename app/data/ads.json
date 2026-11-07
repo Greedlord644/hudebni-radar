@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-11-07T18:11:31.125636+00:00",
+  "updatedAt": "2026-11-07T18:21:27.860638+00:00",
   "windowDays": 60,
   "singerSeeking": [
+    {
+      "id": "bandmate:80c3be39-2c64-471a-8dc9-c6b8033500b5",
+      "title": "Zpěvák hledá kapelu /rock-folk",
+      "url": "https://bandmate.cz/inzerat/zp-v-k-hled-kapelu-rock-folk-lY3Ydz",
+      "date": "2026-11-07T18:11:58.977124+00:00",
+      "location": "Praha",
+      "author": "Šimon Pecháček",
+      "excerpt": "Zpěvák hledá kapelu /rock-folk Ahoj, jmenuji se Šimon a je mi 26 let. Letos jsem se ze srandy přihlásil do superstar a postoupil jsem do top50. Hraju na kytaru a bicí, ale chtěl bych hrát s někým a hlavně bych chtěl dát dohromady dobrou partu lidí, kterou bude bavit proces vytváření muziky a společně strávený čas. Živím se jako…",
+      "description": "Zpěvák hledá kapelu /rock-folk Ahoj, jmenuji se Šimon a je mi 26 let. Letos jsem se ze srandy přihlásil do superstar a postoupil jsem do top50. Hraju na kytaru a bicí, ale chtěl bych hrát s někým a hlavně bych chtěl dát dohromady dobrou partu lidí, kterou bude bavit proces vytváření muziky a společně strávený čas. Živím se jako sportovní novinář v televizi, takže mě baví práce s textem a vystupování. Budu se těšit! Šimon rock, folk, blues, pop kytara,bicí,zpěv",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Bandmate",
+      "score": 62,
+      "reasons": [
+        "zpěv hledá",
+        "Praha"
+      ]
+    },
     {
       "id": "bandmate:c2048b84-f624-445a-aac8-3d39780fea1e",
       "title": "Praha - Zpěvačka hledá kapelu - žánr: pop, rock, disco a další",
@@ -193,6 +213,27 @@
     }
   ],
   "interesting": [
+    {
+      "id": "bandmate:80c3be39-2c64-471a-8dc9-c6b8033500b5",
+      "title": "Zpěvák hledá kapelu /rock-folk",
+      "url": "https://bandmate.cz/inzerat/zp-v-k-hled-kapelu-rock-folk-lY3Ydz",
+      "date": "2026-11-07T18:11:58.977124+00:00",
+      "location": "Praha",
+      "author": "Šimon Pecháček",
+      "excerpt": "Zpěvák hledá kapelu /rock-folk Ahoj, jmenuji se Šimon a je mi 26 let. Letos jsem se ze srandy přihlásil do superstar a postoupil jsem do top50. Hraju na kytaru a bicí, ale chtěl bych hrát s někým a hlavně bych chtěl dát dohromady dobrou partu lidí, kterou bude bavit proces vytváření muziky a společně strávený čas. Živím se jako…",
+      "description": "Zpěvák hledá kapelu /rock-folk Ahoj, jmenuji se Šimon a je mi 26 let. Letos jsem se ze srandy přihlásil do superstar a postoupil jsem do top50. Hraju na kytaru a bicí, ale chtěl bych hrát s někým a hlavně bych chtěl dát dohromady dobrou partu lidí, kterou bude bavit proces vytváření muziky a společně strávený čas. Živím se jako sportovní novinář v televizi, takže mě baví práce s textem a vystupování. Budu se těšit! Šimon rock, folk, blues, pop kytara,bicí,zpěv",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Bandmate",
+      "score": 71,
+      "reasons": [
+        "Praha",
+        "lokální networking",
+        "podrobný inzerát"
+      ]
+    },
     {
       "id": "hudebnibazar:792158",
       "title": "Kapelka z Brna hledá baskytaristu a bubeníka",
