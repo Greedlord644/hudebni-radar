@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-11-07T19:01:53.827025+00:00",
+  "updatedAt": "2026-11-07T19:11:33.780392+00:00",
   "windowDays": 60,
   "singerSeeking": [
+    {
+      "id": "hudebnibazar:792170",
+      "title": "Zpěvák hledá novou kapelu",
+      "url": "https://hudebnibazar.cz/zpevak-hleda-novou-kapelu/ID792170/",
+      "date": "2026-11-07T19:59:00+01:00",
+      "location": "Praha 6",
+      "author": "Simon.Pechacek",
+      "excerpt": "Ahoj, jmenuji se Šimon Pecháček. Je mi 26 let a hledám primárně dobrou partu lidí se kterou bych si chtěl užívat proces výroby hudby a také živé vystupování. Letos jsem se ze srandy přihlásil do Superstar a postoupil jsem do TOP 50. V návaznosti na to jsem chytil nový dech a začal skládat muziku.",
+      "description": "Ahoj, jmenuji se Šimon Pecháček. Je mi 26 let a hledám primárně dobrou partu lidí se kterou bych si chtěl užívat proces výroby hudby a také živé vystupování. Letos jsem se ze srandy přihlásil do Superstar a postoupil jsem do TOP 50. V návaznosti na to jsem chytil nový dech a začal skládat muziku.",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=Pd731BwvzY8"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 62,
+      "reasons": [
+        "zpěv hledá",
+        "Praha 6"
+      ]
+    },
     {
       "id": "bandmate:80c3be39-2c64-471a-8dc9-c6b8033500b5",
       "title": "Zpěvák hledá kapelu /rock-folk",
@@ -213,6 +235,29 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:792170",
+      "title": "Zpěvák hledá novou kapelu",
+      "url": "https://hudebnibazar.cz/zpevak-hleda-novou-kapelu/ID792170/",
+      "date": "2026-11-07T19:59:00+01:00",
+      "location": "Praha 6",
+      "author": "Simon.Pechacek",
+      "excerpt": "Ahoj, jmenuji se Šimon Pecháček. Je mi 26 let a hledám primárně dobrou partu lidí se kterou bych si chtěl užívat proces výroby hudby a také živé vystupování. Letos jsem se ze srandy přihlásil do Superstar a postoupil jsem do TOP 50. V návaznosti na to jsem chytil nový dech a začal skládat muziku.",
+      "description": "Ahoj, jmenuji se Šimon Pecháček. Je mi 26 let a hledám primárně dobrou partu lidí se kterou bych si chtěl užívat proces výroby hudby a také živé vystupování. Letos jsem se ze srandy přihlásil do Superstar a postoupil jsem do TOP 50. V návaznosti na to jsem chytil nový dech a začal skládat muziku.",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=Pd731BwvzY8"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 78,
+      "reasons": [
+        "Praha 6",
+        "lokální networking",
+        "odkaz na profil / ukázku"
+      ]
+    },
     {
       "id": "bandmate:80c3be39-2c64-471a-8dc9-c6b8033500b5",
       "title": "Zpěvák hledá kapelu /rock-folk",
