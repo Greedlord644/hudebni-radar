@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T16:11:28.312591+00:00",
+  "updatedAt": "2026-11-07T16:22:11.477029+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -193,6 +193,32 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:792158",
+      "title": "Kapelka z Brna hledá baskytaristu a bubeníka",
+      "url": "https://hudebnibazar.cz/kapelka-z-brna-hleda-baskytaristu-a-bubenika/ID792158/",
+      "date": "2026-11-07T17:20:00+01:00",
+      "location": "Brno",
+      "author": "Tana.Ratajova",
+      "excerpt": "Ahoj, jsme malé hudbení uskupení z Brna. Hrajeme přírodní folkové písně a ladíme je nyní do rockovější a digitálnější moderní podoby. Hledáme proto baskytarisru a bubeníka. Hrajeme ve Zkušebnách Brno. Ukázky tvorby na Youtube: https://youtube.com/shorts/Ro6JmtZs2HM?is=vOIBrbEx3jjLS9pI https://youtube.com/@taliesi Pokud máte…",
+      "description": "Ahoj, jsme malé hudbení uskupení z Brna. Hrajeme přírodní folkové písně a ladíme je nyní do rockovější a digitálnější moderní podoby. Hledáme proto baskytarisru a bubeníka.\nHrajeme ve Zkušebnách Brno.\nUkázky tvorby na Youtube:\nhttps://youtube.com/shorts/Ro6JmtZs2HM?is=vOIBrbEx3jjLS9pI\nhttps://youtube.com/@taliesi\nPokud máte zájem, pište na",
+      "externalLinks": [
+        "https://youtube.com/shorts/Ro6JmtZs2HM?is=vOIBrbEx3jjLS9pI",
+        "https://youtube.com/@taliesi",
+        "https://instagram.com/taliesi"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 75,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Brno"
+      ]
+    },
     {
       "id": "bandmate:e4329484-283b-46b1-b05e-9dda80d77208",
       "title": "Zpěvák, rytmický kytarista; mám rád energickou hudbu.",
