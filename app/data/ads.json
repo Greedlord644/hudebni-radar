@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T08:31:43.607081+00:00",
+  "updatedAt": "2026-11-07T08:41:26.543371+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -193,6 +193,30 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:792069",
+      "title": "Bubeník z Prahy hledá uplatnění",
+      "url": "https://hudebnibazar.cz/bubenik-z-prahy-hleda-uplatneni/ID792069/",
+      "date": "2026-11-07T09:34:00+01:00",
+      "location": "Praha 14",
+      "author": "Vojtano.Bulla",
+      "excerpt": "Ahoj, hledám kapelu nebo hudebníky z Prahy. Aktuálně nikde nehraji a rád bych založil nebo se připojil do fungující kapely. Žánr ideálně Alt/Krau/Psychedelic rock, rád bych si zaexperimentoval zvuky a dělal hudbu trochu víc asymetričtější než se je hudba, se kterou se setkávám teďka. (největší inspirace asi kapely King Gizzard…",
+      "description": "Ahoj, hledám kapelu nebo hudebníky z Prahy. Aktuálně nikde nehraji a rád bych založil nebo se připojil do fungující kapely.\nŽánr ideálně Alt/Krau/Psychedelic rock, rád bych si zaexperimentoval zvuky a dělal hudbu trochu víc asymetričtější než se je hudba, se kterou se setkávám teďka. (největší inspirace asi kapely King Gizzard nebo Psychedelic Porn Crumpets)\nMám bohatou zkušenost s hraním v mnoha kapelách, takže jsem za tu dobu nasbíral spoustu poznatků a inspirací. Zkušebnou nedisponuji, ale vlastní škopky mám, tak se neboj ozvat.\nideálně whatsapp nebo instagram @tajemstvi_ketaminu\nTo je tak vše, na slohovky si moc nepotrpím. Hudbě zdar!",
+      "externalLinks": [
+        "https://instagram.com/tajemstvi_ketaminu"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 86,
+      "reasons": [
+        "Praha 14",
+        "lokální networking",
+        "odkaz na profil / ukázku",
+        "podrobný inzerát"
+      ]
+    },
     {
       "id": "hudebnibazar:792036",
       "title": "Vokalistka pro sludge metal",
