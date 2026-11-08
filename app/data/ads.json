@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T09:51:30.666492+00:00",
+  "updatedAt": "2026-11-08T10:01:55.445735+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -235,6 +235,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:790827",
+      "title": "Hledáme kytaristu a bubeníka",
+      "url": "https://hudebnibazar.cz/hledame-kytaristu-a-bubenika/ID790827/",
+      "date": "2026-11-08T10:52:00+01:00",
+      "location": "Praha 10",
+      "author": "Zdenek.Marek2",
+      "excerpt": "Nově vzniklá kapela hledá tvůrčího kytaristu a bubeníka. Jen vlastní tvorba, repertoár máme, zkušenosti taky. Pravidelné zkoušení, spolehlivost. Chceme pracovat a chceme se bavit. Indie/punk/alternative/pop/rock. Ukázky z tvorby osobně . Co nehledáme je hard rock a metal.",
+      "description": "Nově vzniklá kapela hledá tvůrčího kytaristu a bubeníka. Jen vlastní tvorba, repertoár máme, zkušenosti taky. Pravidelné zkoušení, spolehlivost. Chceme pracovat a chceme se bavit. Indie/punk/alternative/pop/rock. Ukázky z tvorby osobně . Co nehledáme je hard rock a metal.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 72,
+      "reasons": [
+        "Praha 10",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:789809",
       "title": "PULZ HLEDAJÍ NOVÉHO BUBENÍKA!",
