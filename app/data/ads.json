@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T21:21:37.884520+00:00",
+  "updatedAt": "2026-11-08T21:31:46.878836+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -235,6 +235,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:789540",
+      "title": "Hledám kapelu",
+      "url": "https://hudebnibazar.cz/hledam-kapelu/ID789540/",
+      "date": "2026-11-08T22:29:00+01:00",
+      "location": "Praha 10",
+      "author": "Adam.Milosavljevic",
+      "excerpt": "Ahoj hudebníci hledám kapelu v Praze. Jsem 23 letý bubeník a hraju převážně rock, punk a pop (Alkaline Trio, TrustCompany, Neck Deep, Simple Plan, Breaking Benjamin, Brand New...). Zkušebnu mám vlastní, kde je možné i zkoušet. Jsem aktuálně členem jednoho projektu, ale rád bych si rozšířil obzory:) Pokud zakládáš kapelu, nebo…",
+      "description": "Ahoj hudebníci hledám kapelu v Praze. Jsem 23 letý bubeník a hraju převážně rock, punk a pop (Alkaline Trio, TrustCompany, Neck Deep, Simple Plan, Breaking Benjamin, Brand New...). Zkušebnu mám vlastní, kde je možné i zkoušet. Jsem aktuálně členem jednoho projektu, ale rád bych si rozšířil obzory:) Pokud zakládáš kapelu, nebo hledáte bubeníka a je vám 18-30 let, určitě se ozvěte sem, nebo na ig (_adamilo_)",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 72,
+      "reasons": [
+        "Praha 10",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:792368",
       "title": "Punk(tronic) / industrial / elektronika - Praha",
@@ -2449,26 +2469,6 @@
         "emo",
         "grunge",
         "Praha"
-      ]
-    },
-    {
-      "id": "hudebnibazar:789540",
-      "title": "Hledám kapelu",
-      "url": "https://hudebnibazar.cz/hledam-kapelu/ID789540/",
-      "date": "2026-10-24T13:42:00+02:00",
-      "location": "Praha 10",
-      "author": "Adam.Milosavljevic",
-      "excerpt": "Ahoj hudebníci hledám kapelu v Praze. Jsem 23 letý bubeník a hraju převážně rock, punk a pop. Zkušebnu mám vlastní, kde je možné i zkoušet. Jsem aktuálně členem jednoho projektu, ale rád bych si rozšířil obzory:) Pokud zakládáš kapelu, nebo hledáte bubeníka a je vám 18-30 let, určitě se ozvěte sem, nebo na ig (_adamilo_)",
-      "description": "Ahoj hudebníci hledám kapelu v Praze. Jsem 23 letý bubeník a hraju převážně rock, punk a pop. Zkušebnu mám vlastní, kde je možné i zkoušet. Jsem aktuálně členem jednoho projektu, ale rád bych si rozšířil obzory:) Pokud zakládáš kapelu, nebo hledáte bubeníka a je vám 18-30 let, určitě se ozvěte sem, nebo na ig (_adamilo_)",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 72,
-      "reasons": [
-        "Praha 10",
-        "lokální networking"
       ]
     },
     {
