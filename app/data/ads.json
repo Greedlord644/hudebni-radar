@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T17:11:38.517577+00:00",
+  "updatedAt": "2026-11-08T17:21:37.050917+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -235,6 +235,27 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:768475",
+      "title": "Hledáme bicmena/bubenici",
+      "url": "https://hudebnibazar.cz/hledame-bicmena-bubenici/ID768475/",
+      "date": "2026-11-08T18:14:00+01:00",
+      "location": "Brno",
+      "author": "Petr.H",
+      "excerpt": "Rád bych přenechal svůj post někomu, kdo se nezalekne dvojšlapky ani metalových rifů a sluchátek s klikem (kvůli samplům). Vlastní tvorba, cca 10 koncertů za rok, ČR, SR, PL, ... kluby, festy i mezi stromy. Máme svůj specifický styl jak hudebně tak textově, člověka to prostě musí chytnout, vědět o čem to je. Neodcházím z…",
+      "description": "Rád bych přenechal svůj post někomu, kdo se nezalekne dvojšlapky ani metalových rifů a sluchátek s klikem (kvůli samplům). Vlastní tvorba, cca 10 koncertů za rok, ČR, SR, PL, ... kluby, festy i mezi stromy.\nMáme svůj specifický styl jak hudebně tak textově, člověka to prostě musí chytnout, vědět o čem to je.\nNeodcházím z kapely, jen bych se chtěl věnovat věcem kolem, videoklipy, propagace, média a na cvičení na bicí holt už moc toho času nezbývá.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "Brno"
+      ]
+    },
     {
       "id": "hudebnibazar:772011",
       "title": "Hledám zpěváka/zpěvačku - Praha",
@@ -1318,27 +1339,6 @@
         "nu-metal",
         "odkaz na profil / ukázku",
         "Praha 4"
-      ]
-    },
-    {
-      "id": "hudebnibazar:768475",
-      "title": "Hledáme bicmena/bubenici",
-      "url": "https://hudebnibazar.cz/hledame-bicmena-bubenici/ID768475/",
-      "date": "2026-11-03T11:29:00+01:00",
-      "location": "Brno",
-      "author": "Petr.H",
-      "excerpt": "Rád bych přenechal svůj post někomu, kdo se nezalekne dvojšlapky ani metalových rifů a sluchátek s klikem (kvůli samplům). Vlastní tvorba, cca 10 koncertů za rok, ČR, SR, PL, ... kluby, festy i mezi stromy. Máme svůj specifický styl jak hudebně tak textově, člověka to prostě musí chytnout, vědět o čem to je. Neodcházím z…",
-      "description": "Rád bych přenechal svůj post někomu, kdo se nezalekne dvojšlapky ani metalových rifů a sluchátek s klikem (kvůli samplům). Vlastní tvorba, cca 10 koncertů za rok, ČR, SR, PL, ... kluby, festy i mezi stromy.\nMáme svůj specifický styl jak hudebně tak textově, člověka to prostě musí chytnout, vědět o čem to je.\nNeodcházím z kapely, jen bych se chtěl věnovat věcem kolem, videoklipy, propagace, média a na cvičení na bicí holt už moc toho času nezbývá.",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": false,
-      "source": "Hudební bazar",
-      "score": 66,
-      "reasons": [
-        "podrobný inzerát",
-        "jasný projekt / zkušenosti",
-        "Brno"
       ]
     },
     {
