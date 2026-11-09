@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T20:51:37.350648+00:00",
+  "updatedAt": "2026-11-09T21:02:07.833422+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -235,6 +235,31 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:792594",
+      "title": "Looking for a bassist for Thrash Metal band",
+      "url": "https://hudebnibazar.cz/looking-for-a-bassist-for-thrash-metal-band/ID792594/",
+      "date": "2026-11-09T21:55:00+01:00",
+      "location": "Praha 13",
+      "author": "Nikita.Provorov",
+      "excerpt": "Hello! We are Razor Instead Of Tongue, and we are looking for a new band member. If you are responsible, play bass, have a passion for creating music and playing live, are ready to go beyond and express yourself, live in Prague or are ready to drive to the city, text us! Write an email to or here on hudebnibazar We are young,…",
+      "description": "Hello! We are Razor Instead Of Tongue, and we are looking for a new band member.\nIf you are responsible, play bass, have a passion for creating music and playing live, are ready to go beyond and express yourself, live in Prague or are ready to drive to the city, text us!\nWrite an email to or here on hudebnibazar\nWe are young, experienced and full of energy.\nThe band exists since 2024, we have 1 full-length record, did an European tour through many countries and ready for our next chapter.\nhttps://www.instagram.com/razorinsteadoftongue/",
+      "externalLinks": [
+        "https://www.instagram.com/razorinsteadoftongue/",
+        "https://instagram.com/.com"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 83,
+      "reasons": [
+        "Praha 13",
+        "lokální networking",
+        "odkaz na profil / ukázku",
+        "podrobný inzerát"
+      ]
+    },
     {
       "id": "bandmate:e04da6fe-22e1-44ef-aa3f-2bf35d739ba0",
       "title": "Zpěvák hledá ostatní členy pro společné hraní",
