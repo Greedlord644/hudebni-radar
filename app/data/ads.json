@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T16:21:46.384078+00:00",
+  "updatedAt": "2026-11-09T16:31:57.498576+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -235,6 +235,50 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:788089",
+      "title": "Hledá se basák",
+      "url": "https://hudebnibazar.cz/hleda-se-basak/ID788089/",
+      "date": "2026-11-09T17:26:00+01:00",
+      "location": "Uherské Hradiště",
+      "author": "Tomas.Pa",
+      "excerpt": "Čau všichni, v kapele Shreds hledáme basáka. Nedávno jsme vydali druhé album a náš baskytarista musel odejít. Hledáme hlavně pohodového člověka, co má chuť hrát a bude ho to bavit. Zkušebnu máme ve Strážnici. Pokud bys měl zájem nebo o někom věděl, budeme rádi, když přijedeš na zkoušku!",
+      "description": "Čau všichni, v kapele Shreds hledáme basáka. Nedávno jsme vydali druhé album a náš baskytarista musel odejít. Hledáme hlavně pohodového člověka, co má chuť hrát a bude ho to bavit. Zkušebnu máme ve Strážnici. Pokud bys měl zájem nebo o někom věděl, budeme rádi, když přijedeš na zkoušku!",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=G1BkTSaKT3E"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 78,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Uherské Hradiště"
+      ]
+    },
+    {
+      "id": "hudebnibazar:786529",
+      "title": "HLEDÁM SPOLUHRÁČE",
+      "url": "https://hudebnibazar.cz/hledam-spoluhrace/ID786529/",
+      "date": "2026-11-09T17:25:00+01:00",
+      "location": "Praha 4",
+      "author": "Gogen.77",
+      "excerpt": "Jsem kytarista a hledám spoluhráče... ( tím myslím, hotovou kapelu.) Mám solidní zkušenosti, vybavení a hlavně chuť dělat kvalitní, autorskou muziku. (ROCK/HARD) Lokace Praha",
+      "description": "Jsem kytarista a hledám spoluhráče...\n( tím myslím, hotovou kapelu.)\nMám solidní zkušenosti, vybavení a hlavně chuť dělat kvalitní, autorskou muziku. (ROCK/HARD)\nLokace Praha",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "Praha 4",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:775914",
       "title": "Hledáme Baskytaristu/Baskytaristku do Modern Metal Kapely",
@@ -1394,50 +1438,6 @@
         "podrobný inzerát",
         "jasný projekt / zkušenosti",
         "Uherské Hradiště"
-      ]
-    },
-    {
-      "id": "hudebnibazar:788089",
-      "title": "Hledá se basák",
-      "url": "https://hudebnibazar.cz/hleda-se-basak/ID788089/",
-      "date": "2026-11-04T12:43:00+01:00",
-      "location": "Uherské Hradiště",
-      "author": "Tomas.Pa",
-      "excerpt": "Čau všichni, v kapele Shreds hledáme basáka. Nedávno jsme vydali druhé album a náš baskytarista musel odejít. Hledáme hlavně pohodového člověka, co má chuť hrát a bude ho to bavit. Zkušebnu máme ve Strážnici. Pokud bys měl zájem nebo o někom věděl, budeme rádi, když přijedeš na zkoušku!",
-      "description": "Čau všichni, v kapele Shreds hledáme basáka. Nedávno jsme vydali druhé album a náš baskytarista musel odejít. Hledáme hlavně pohodového člověka, co má chuť hrát a bude ho to bavit. Zkušebnu máme ve Strážnici. Pokud bys měl zájem nebo o někom věděl, budeme rádi, když přijedeš na zkoušku!",
-      "externalLinks": [
-        "https://www.youtube.com/watch?v=G1BkTSaKT3E"
-      ],
-      "influences": [],
-      "genres": [],
-      "isPrague": false,
-      "source": "Hudební bazar",
-      "score": 78,
-      "reasons": [
-        "podrobný inzerát",
-        "jasný projekt / zkušenosti",
-        "odkaz na profil / ukázku",
-        "Uherské Hradiště"
-      ]
-    },
-    {
-      "id": "hudebnibazar:786529",
-      "title": "HLEDÁM SPOLUHRÁČE",
-      "url": "https://hudebnibazar.cz/hledam-spoluhrace/ID786529/",
-      "date": "2026-11-04T05:59:00+01:00",
-      "location": "Praha 4",
-      "author": "Gogen.77",
-      "excerpt": "Jsem kytarista a hledám spoluhráče... ( tím myslím, hotovou kapelu.) Mám solidní zkušenosti, vybavení a hlavně chuť dělat kvalitní, autorskou muziku. (ROCK/HARD) Lokace Praha",
-      "description": "Jsem kytarista a hledám spoluhráče...\n( tím myslím, hotovou kapelu.)\nMám solidní zkušenosti, vybavení a hlavně chuť dělat kvalitní, autorskou muziku. (ROCK/HARD)\nLokace Praha",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 69,
-      "reasons": [
-        "Praha 4",
-        "lokální networking"
       ]
     },
     {
