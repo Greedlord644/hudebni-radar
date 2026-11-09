@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T20:31:56.718061+00:00",
+  "updatedAt": "2026-11-09T20:41:30.997299+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -235,6 +235,30 @@
     }
   ],
   "interesting": [
+    {
+      "id": "bandmate:e04da6fe-22e1-44ef-aa3f-2bf35d739ba0",
+      "title": "Zpěvák hledá ostatní členy pro společné hraní",
+      "url": "https://bandmate.cz/inzerat/zp-v-k-hled-ostatn-leny-pro-spole-n-hran-NHqf6f",
+      "date": "2026-11-09T20:39:55.843765+00:00",
+      "location": "Kyjov",
+      "author": "Jakub",
+      "excerpt": "Zpěvák hledá ostatní členy pro společné hraní Ahoj, je mi 27 let a věnuji se zpěvu. Rád bych začal aktivně vystupovat na kulturních akcích, koncertech, slavnostech, vernisážích, svatbách a dalších společenských událostech. Proto hledám klavíristu/klavíristku a kytaristu/kytaristku, kteří by měli chuť společně zkoušet,…",
+      "description": "Zpěvák hledá ostatní členy pro společné hraní Ahoj,\nje mi 27 let a věnuji se zpěvu. Rád bych začal aktivně vystupovat na kulturních akcích, koncertech, slavnostech, vernisážích, svatbách a dalších společenských událostech.\nProto hledám klavíristu/klavíristku a kytaristu/kytaristku, kteří by měli chuť společně zkoušet, připravovat repertoár a vystupovat před publikem.\nKromě interpretace známých skladeb se také snažím skládat vlastní písně, takže bych rád našel někoho, koho baví hudba nejen hrát, ale i tvořit. Budu rád za nápady, aranže a společnou kreativní práci.\nNezáleží mi na věku ani pohlaví. Důležitá je spolehlivost, nadšení pro hudbu a chuť posouvat se dál.\nPokud tě moje nabídka zaujala, ozvi se!\nEmail:\nInstagram: jakublupac\nTěším se na spolupráci a společné hudební projekty! pop klávesy,zpěv,kytara,housle,jiný",
+      "externalLinks": [
+        "https://instagram.com/jakublupac"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Bandmate",
+      "score": 87,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Kyjov"
+      ]
+    },
     {
       "id": "hudebnibazar:783198",
       "title": "Hledáme baskytaristu (rock, autorská tvorba)",
