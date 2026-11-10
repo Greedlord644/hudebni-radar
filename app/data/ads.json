@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T16:11:36.526373+00:00",
+  "updatedAt": "2026-11-10T16:21:35.996758+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -253,6 +253,31 @@
       ],
       "isPrague": false,
       "source": "Hudební bazar",
+      "score": 94,
+      "reasons": [
+        "alt-rock",
+        "odkaz na profil / ukázku",
+        "České Budějovice"
+      ]
+    },
+    {
+      "id": "bandmate:6e48988f-2075-476d-a728-afbd648ed29e",
+      "title": "HLEDÁME BASÁKA DO ALT-ROCKOVÉ KAPELY",
+      "url": "https://bandmate.cz/inzerat/hled-me-bas-ka-do-alt-rockov-kapely-rTUPEj",
+      "date": "2026-11-10T16:14:16.347564+00:00",
+      "location": "České Budějovice",
+      "author": "Sesh!t",
+      "excerpt": "HLEDÁME BASÁKA DO ALT-ROCKOVÉ KAPELY Ahoj, jsme alt-rocková kapela Sesh!t a hledáme nového baskytaristu do sestavy. Chceme znovu naplno rozjet zkoušení, vystupovat na koncertech, nahrávat a vydávat vlastní songy. Hledáme někoho, kdo má chuť na sobě pracovat, na kapele mu bude záležet a nebude se bát přicházet s vlastní…",
+      "description": "HLEDÁME BASÁKA DO ALT-ROCKOVÉ KAPELY Ahoj, jsme alt-rocková kapela Sesh!t a hledáme nového baskytaristu do sestavy.\nChceme znovu naplno rozjet zkoušení, vystupovat na koncertech, nahrávat a vydávat vlastní songy. Hledáme někoho, kdo má chuť na sobě pracovat, na kapele mu bude záležet a nebude se bát přicházet s vlastní iniciativou.\n📍 Lokalita: České Budějovice a okolí – zkoušíme přímo v centru města\n👶🏻 Věk: Ideálně 18-23 let\n🥁 Zkoušky: 1× týdně o víkendech\n🎤 Plány: koncerty, vlastní tvorba a nahrávání\nPokud tě náš inzerát zaujal, napiš nám na instagramový profil @seshit_band anebo na e-mailovou adresu .\nBudeme se těšit! 🤘 basa",
+      "externalLinks": [
+        "https://instagram.com/seshit_band"
+      ],
+      "influences": [],
+      "genres": [
+        "Alt-rock"
+      ],
+      "isPrague": false,
+      "source": "Bandmate",
       "score": 94,
       "reasons": [
         "alt-rock",
