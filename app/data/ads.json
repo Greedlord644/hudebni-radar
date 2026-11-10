@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T11:51:30.615631+00:00",
+  "updatedAt": "2026-11-10T12:02:02.025378+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -235,6 +235,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:770622",
+      "title": "HLEDÁM AUTORSKÝ BAND",
+      "url": "https://hudebnibazar.cz/hledam-autorsky-band/ID770622/",
+      "date": "2026-11-10T12:53:00+01:00",
+      "location": "Praha 4",
+      "author": "Gogen.77",
+      "excerpt": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím. Jen aktivní kapely z Prahy.",
+      "description": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím.\nJen aktivní kapely z Prahy.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "Praha 4",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:785363",
       "title": "Melodic deathmetalová kapela z Prahy hledá bubeníka",
@@ -1566,26 +1586,6 @@
       "score": 66,
       "reasons": [
         "Praha 10",
-        "lokální networking"
-      ]
-    },
-    {
-      "id": "hudebnibazar:770622",
-      "title": "HLEDÁM AUTORSKÝ BAND",
-      "url": "https://hudebnibazar.cz/hledam-autorsky-band/ID770622/",
-      "date": "2026-11-04T21:04:00+01:00",
-      "location": "Praha 4",
-      "author": "Gogen.77",
-      "excerpt": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím. Jen aktivní kapely z Prahy.",
-      "description": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím.\nJen aktivní kapely z Prahy.",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 69,
-      "reasons": [
-        "Praha 4",
         "lokální networking"
       ]
     },
@@ -6122,28 +6122,6 @@
         "Praha",
         "lokální networking",
         "podrobný inzerát"
-      ]
-    },
-    {
-      "id": "hudebnibazar:703932",
-      "title": "Hledáme saxofonistu/ku, trumpetistu/ku střední Morava, Brno",
-      "url": "https://hudebnibazar.cz/hledame-saxofonistu-ku-trumpetistu-ku-stredni-morava-brno/ID703932/",
-      "date": "2026-09-11T13:58:00+02:00",
-      "location": "Olomouc",
-      "author": "David.Drbal",
-      "excerpt": "Ahoj. Kapela hrající vlastní pop/rockovou autorskou tvorbu. Setlist hotov. K dispozici notové podklady. Pro živé hraní jsou dechové party bohatší oproti nahrávce. Dvě desky a více zde: www.kapelanavlnach.cz .. Budeme se těšit. David .. tel/",
-      "description": "Ahoj. Kapela hrající vlastní pop/rockovou autorskou tvorbu. Setlist hotov. K dispozici notové podklady. Pro živé hraní jsou dechové party bohatší oproti nahrávce. Dvě desky a více zde: www.kapelanavlnach.cz .. Budeme se těšit. David .. tel/",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": false,
-      "source": "Hudební bazar",
-      "score": 78,
-      "reasons": [
-        "podrobný inzerát",
-        "jasný projekt / zkušenosti",
-        "odkaz na profil / ukázku",
-        "Olomouc"
       ]
     }
   ]
