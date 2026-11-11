@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T11:21:34.844937+00:00",
+  "updatedAt": "2026-11-11T11:31:53.302508+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -235,6 +235,28 @@
     }
   ],
   "interesting": [
+    {
+      "id": "bandmate:41a81191-b1f2-4187-86a0-ffc595128d3a",
+      "title": "Looking for people to make music with 🎸",
+      "url": "https://bandmate.cz/inzerat/looking-for-people-to-make-music-with-SkGNh9",
+      "date": "2026-11-11T11:23:23.699127+00:00",
+      "location": "Teplice",
+      "author": "Dan Dohnal",
+      "excerpt": "Looking for people to make music with 🎸 Hey! I'm looking to meet some like-minded people who enjoy making music and would be up for playing together. I play acoustic guitar, sing and write my own songs. I'm interested in jamming, experimenting with different sounds, songwriting and generally seeing what happens when creative…",
+      "description": "Looking for people to make music with 🎸 Hey! I'm looking to meet some like-minded people who enjoy making music and would be up for playing together.\nI play acoustic guitar, sing and write my own songs. I'm interested in jamming, experimenting with different sounds, songwriting and generally seeing what happens when creative people get together.\nI'm pretty open-minded about genres and musical directions. Not necessarily looking to start a serious band straight away – I'd just love to connect with people, have fun making music and see where it takes us.\nIf that sounds like your kind of thing, drop me a message!\nBTW I'm still relatively new to playing guitar and singing, so I'm very much a beginner, but I'm enthusiastic about learning, experimenting and making music with others. pop, indie, elektronika, experimentální, drum & bass kytara,zpěv",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Elektronika"
+      ],
+      "isPrague": false,
+      "source": "Bandmate",
+      "score": 59,
+      "reasons": [
+        "elektronika",
+        "Teplice"
+      ]
+    },
     {
       "id": "hudebnibazar:759928",
       "title": "Kapela hledá druhou ke sdílení zkušebny Praha-Palmovka",
