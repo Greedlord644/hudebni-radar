@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T09:51:37.607313+00:00",
+  "updatedAt": "2026-11-11T10:02:00.754849+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -235,6 +235,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:759928",
+      "title": "Kapela hledá druhou ke sdílení zkušebny Praha-Palmovka",
+      "url": "https://hudebnibazar.cz/kapela-hleda-druhou-ke-sdileni-zkusebny-praha-palmovka/ID759928/",
+      "date": "2026-11-11T10:51:00+01:00",
+      "location": "Praha 7",
+      "author": "Olias",
+      "excerpt": "Ahoj, hledáme společníky do místnosti cca 25m, suché, vytápěné a elektronicky zabezpečené. Jednu spolehlivou fungující kapelu, nikoliv jednotlivce. Hraní možné do 22. Všechny další informace rád sdělím osobně po telefonu, zavolejte.",
+      "description": "Ahoj, hledáme společníky do místnosti cca 25m, suché, vytápěné a elektronicky zabezpečené. Jednu spolehlivou fungující kapelu, nikoliv jednotlivce. Hraní možné do 22. Všechny další informace rád sdělím osobně po telefonu, zavolejte.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 72,
+      "reasons": [
+        "Praha 7",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:792818",
       "title": "Zkušený muzikant  hledá sestavu pro pop-rock-metal",
