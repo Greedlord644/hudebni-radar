@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T08:21:39.845394+00:00",
+  "updatedAt": "2026-11-12T08:31:42.698491+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -235,6 +235,30 @@
     }
   ],
   "interesting": [
+    {
+      "id": "bandmate:1d620c8e-5831-43f4-abeb-02a16ba56db7",
+      "title": "Hledáme kytaristu",
+      "url": "https://bandmate.cz/inzerat/hled-me-kytaristu-KyIMPs",
+      "date": "2026-11-12T08:28:43.420531+00:00",
+      "location": "Praha",
+      "author": "Hevasýt",
+      "excerpt": "Hledáme kytaristu Jsme studentská kapela z Prahy a hledáme nového sólového kytaristu, který by s námi chtěl tvořit vlastní muziku, koncertovat a posouvat kapelu dál. Hrajeme alternativní rock / punk, máme za sebou vydané EP Až si budem blízcí a připravujeme album, které vyjde v roce 2027. Naše písně jsou všechny trochu odlišné…",
+      "description": "Hledáme kytaristu Jsme studentská kapela z Prahy a hledáme nového sólového kytaristu, který by s námi chtěl tvořit vlastní muziku, koncertovat a posouvat kapelu dál.\nHrajeme alternativní rock / punk, máme za sebou vydané EP Až si budem blízcí a připravujeme album, které vyjde v roce 2027.\nNaše písně jsou všechny trochu odlišné a míchají se v nich různé žánry. Od punku, alternativního rocku, indie, ema až po grunge. Asi bychom to ale nechtěli škatulkovat. Prostě hrajeme a tvoříme to, co se nám líbí, vždy ale s osobitými českými texty a melancholickou atmosférou.\nZkoušíme v Praze. Věk přibližně 16–20 let. Hledáme někoho se zkušeností s kytarou, kdo by tvořil melodie a sólové linky. Nehledáme jen kytaristu ale i parťáka.\nPokud tě to zaujalo, napiš nám, pošli něco, na čem hraješ, a řekni nám něco o sobě. rock, punk, alternative, emo, grunge kytara",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Alt-rock",
+        "Emo",
+        "Grunge"
+      ],
+      "isPrague": true,
+      "source": "Bandmate",
+      "score": 94,
+      "reasons": [
+        "alternativní rock",
+        "Praha"
+      ]
+    },
     {
       "id": "hudebnibazar:727629",
       "title": "Kytarista / kytaristka do kapely Rousing Numbers",
