@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T12:11:29.595553+00:00",
+  "updatedAt": "2026-11-12T12:21:40.732878+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -254,6 +254,28 @@
         "podrobný inzerát",
         "jasný projekt / zkušenosti",
         "Liberec"
+      ]
+    },
+    {
+      "id": "bandmate:52a312cc-477c-4f2b-afa6-d86c1082761f",
+      "title": "Zahraji na večírcích, zábavách, životní jubileích apod. Lokalita - Praha",
+      "url": "https://bandmate.cz/inzerat/zahraji-na-ve-rc-ch-z-bav-ch-ivotn-jubile-ch-apod-lokalita-p-YFYqYx",
+      "date": "2026-11-12T12:11:45.771381+00:00",
+      "location": "Praha",
+      "author": "IvaS.",
+      "excerpt": "Zahraji na večírcích, zábavách, životní jubileích apod. Lokalita - Praha Nabízím českou a zahraniční pop music od osmdesátých let po současnost. - nabízím: 1) Klávesy a zpěv, 2) Pouze hudba, 3) pěvecké vystoupení, 4) DJ music rock, pop, funk, punk, folk, hip-hop, techno, elektronika, blues, r&b, klasika, house, world klávesy",
+      "description": "Zahraji na večírcích, zábavách, životní jubileích apod. Lokalita - Praha Nabízím českou a zahraniční pop music od osmdesátých let po současnost.\n- nabízím:\n1) Klávesy a zpěv, 2) Pouze hudba, 3) pěvecké vystoupení, 4) DJ music rock, pop, funk, punk, folk, hip-hop, techno, elektronika, blues, r&b, klasika, house, world klávesy",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Elektronika"
+      ],
+      "isPrague": true,
+      "source": "Bandmate",
+      "score": 60,
+      "reasons": [
+        "elektronika",
+        "Praha"
       ]
     },
     {
@@ -6081,30 +6103,6 @@
         "jasný projekt / zkušenosti",
         "odkaz na profil / ukázku",
         "Zlín"
-      ]
-    },
-    {
-      "id": "hudebnibazar:781809",
-      "title": "KAPELA MLOCK HLEDÁ BASÁKA",
-      "url": "https://hudebnibazar.cz/kapela-mlock-hleda-basaka/ID781809/",
-      "date": "2026-09-13T14:17:00+02:00",
-      "location": "Pardubice",
-      "author": "Daniel.Dlouhy",
-      "excerpt": "Jsme kapela MLOCK a hledáme k sobě basáka, který má chuť pravidelně hrát, zkoušet a hlavně vystupovat na koncertech. Hrajeme hlavně rock / heavy rock / metal; Např. Metallica, Ozzy Osbourne, Judas Priest, Billy talent, Van Halen a další Aktuálně jsme 3 - Kytara, Zpěv, Bicí Máme velkou zkušebnu (místní kulturní dům) stále k…",
-      "description": "Jsme kapela MLOCK a hledáme k sobě basáka, který má chuť pravidelně hrát, zkoušet a hlavně vystupovat na koncertech.\nHrajeme hlavně rock / heavy rock / metal; Např. Metallica, Ozzy Osbourne, Judas Priest, Billy talent, Van Halen a další\nAktuálně jsme 3 - Kytara, Zpěv, Bicí\nMáme velkou zkušebnu (místní kulturní dům) stále k dispozici a již domluvené koncerty... Hráli jsme již jeden větší koncert pro skoro 300 lidí a byl to velký úspěch...\nHledáme někoho koho baví hrát, chce se rozvíjet a myslí to s hraním alespoň trochu vážně. Nemusíš být žádný mistr - nikdo z nás není velký profík, jen nás baví hrát a vystupovat.\nJsme ve věku 19 - 22, takže podobnou věkovou kategorii.\nNeváhej a napiš, za to nic nedáš! (Klidně i na Instagram @daniel__dlouhy)",
-      "externalLinks": [
-        "https://instagram.com/daniel__dlouhy"
-      ],
-      "influences": [],
-      "genres": [],
-      "isPrague": false,
-      "source": "Hudební bazar",
-      "score": 84,
-      "reasons": [
-        "podrobný inzerát",
-        "jasný projekt / zkušenosti",
-        "odkaz na profil / ukázku",
-        "Pardubice"
       ]
     }
   ]
