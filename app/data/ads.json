@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T17:41:40.440543+00:00",
+  "updatedAt": "2026-11-12T17:51:35.566123+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -6015,29 +6015,6 @@
       "reasons": [
         "Praha-východ",
         "lokální networking"
-      ]
-    },
-    {
-      "id": "hudebnibazar:744524",
-      "title": "Zpěv",
-      "url": "https://hudebnibazar.cz/zpev/ID744524/",
-      "date": "2026-09-13T19:46:00+02:00",
-      "location": "České Budějovice",
-      "author": "The.Spoon.Others",
-      "excerpt": "Kapela z ČB s parádní zkušebnou, vlastní tvorbou, bicí, kytara, basa ale schází nám někdo, kdo by tomu dal pořádný grády, styl grunge, hardrock, funky, rozjedeme to společně? ozvi se na :)",
-      "description": "Kapela z ČB s parádní zkušebnou, vlastní tvorbou, bicí, kytara, basa ale schází nám někdo, kdo by tomu dal pořádný grády, styl grunge, hardrock, funky, rozjedeme to společně?\nozvi se na :)",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [
-        "Grunge"
-      ],
-      "isPrague": false,
-      "source": "Hudební bazar",
-      "score": 58,
-      "reasons": [
-        "grunge",
-        "vlastní tvorba",
-        "České Budějovice"
       ]
     }
   ]
