@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T17:31:48.040705+00:00",
+  "updatedAt": "2026-11-12T17:41:40.440543+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -235,6 +235,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:709872",
+      "title": "Hledá se kytara nebo baskytaru pro folk-rockové hraní",
+      "url": "https://hudebnibazar.cz/hleda-se-kytara-nebo-baskytaru-pro-folk-rockove-hrani/ID709872/",
+      "date": "2026-11-12T18:36:00+01:00",
+      "location": "Nymburk",
+      "author": "Ondra.Rybka",
+      "excerpt": "Ahoj , 49 letý zpívající kytarista ve stylu folk-rocku hledá spoluhráče na kytaru, baskytaru, nebo něco jiného zapadajícího.Předem děkuji za odpovědi ke stylu podaného inzerátu.Nymburk-Praha.Hezký den a ať vám to hraje!",
+      "description": "Ahoj , 49 letý zpívající kytarista ve stylu folk-rocku hledá spoluhráče na kytaru, baskytaru, nebo něco jiného zapadajícího.Předem děkuji za odpovědi ke stylu podaného inzerátu.Nymburk-Praha.Hezký den a ať vám to hraje!",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Nymburk",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:790284",
       "title": "Hledáme bubeníka a baskytaristu!",
@@ -3481,26 +3501,6 @@
       ]
     },
     {
-      "id": "hudebnibazar:709872",
-      "title": "Hledá se houslistka, flétnistka pro folk-rockové hraní",
-      "url": "https://hudebnibazar.cz/hleda-se-houslistka-fletnistka-pro-folk-rockove-hrani/ID709872/",
-      "date": "2026-10-18T03:12:00+02:00",
-      "location": "Nymburk",
-      "author": "Ondra.Rybka",
-      "excerpt": "Ahoj , 48 letý zpívající kytarista ve stylu folk-rocku hledá ideálně spoluhráčku na housle či flétnu, kytaru, baskytaru, nebo něco jiného zapadajícího.Předem děkuji za odpovědi ke stylu podaného inzerátu.Nymburk-Praha.Hezký den a ať Ti to hraje!",
-      "description": "Ahoj , 48 letý zpívající kytarista ve stylu folk-rocku hledá ideálně spoluhráčku na housle či flétnu, kytaru, baskytaru, nebo něco jiného zapadajícího.Předem děkuji za odpovědi ke stylu podaného inzerátu.Nymburk-Praha.Hezký den a ať Ti to hraje!",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": false,
-      "source": "Hudební bazar",
-      "score": 66,
-      "reasons": [
-        "Nymburk",
-        "lokální networking"
-      ]
-    },
-    {
       "id": "hudebnibazar:748578",
       "title": "Pražská rocková kapela hledá sólový zpěv",
       "url": "https://hudebnibazar.cz/prazska-rockova-kapela-hleda-solovy-zpev/ID748578/",
@@ -6038,26 +6038,6 @@
         "grunge",
         "vlastní tvorba",
         "České Budějovice"
-      ]
-    },
-    {
-      "id": "hudebnibazar:778157",
-      "title": "Kytarista",
-      "url": "https://hudebnibazar.cz/kytarista/ID778157/",
-      "date": "2026-09-13T19:35:00+02:00",
-      "location": "Praha-východ",
-      "author": "Karlos83.Sebesta",
-      "excerpt": "Ahoj hledáme kytaristu, jsme lidi kteří mají něco za sebou, rozhodně nejsme profíci a superstar co si na něco hrajou. Chceme hrát tvrdší muziku něco okolo hardcore mix punk, grind crossover groove, klidně rockové prvky a různě podle nálady... Místo nejlépe Praha... Chceme člověka s kamarádským, lidským a zodpovědným přístupem.",
-      "description": "Ahoj hledáme kytaristu, jsme lidi kteří mají něco za sebou, rozhodně nejsme profíci a superstar co si na něco hrajou. Chceme hrát tvrdší muziku něco okolo hardcore mix punk, grind crossover groove, klidně rockové prvky a různě podle nálady...\nMísto nejlépe Praha...\nChceme člověka s kamarádským, lidským a zodpovědným přístupem.",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 66,
-      "reasons": [
-        "Praha-východ",
-        "lokální networking"
       ]
     }
   ]
