@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T09:41:36.245085+00:00",
+  "updatedAt": "2026-11-13T09:51:34.906682+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -235,6 +235,27 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:793145",
+      "title": "Hledáme zpěváka!",
+      "url": "https://hudebnibazar.cz/hledame-zpevaka/ID793145/",
+      "date": "2026-11-13T10:43:00+01:00",
+      "location": "České Budějovice",
+      "author": "Karel.Sramhauser",
+      "excerpt": "Ahoj, hledáme mužský zpěv do jihočeské blues-rockové kapely s vlastní zkušebnou v centru Českých Budějovic. Hrajeme vlastní tvorbu zpívanou česky. Hrajeme pro radost, ne pro peníze. Chceme, aby nás to bavilo a nestresovat se. Rádi bychom něco mezi 10 až 20 koncerty ročně, ale šlo by zahrát i víc 😉 Taky bychom něco i rádi…",
+      "description": "Ahoj, hledáme mužský zpěv do jihočeské blues-rockové kapely s vlastní zkušebnou v centru Českých Budějovic. Hrajeme vlastní tvorbu zpívanou česky.\nHrajeme pro radost, ne pro peníze. Chceme, aby nás to bavilo a nestresovat se. Rádi bychom něco mezi 10 až 20 koncerty ročně, ale šlo by zahrát i víc 😉\nTaky bychom něco i rádi nahráli. Se špetkou skromnosti můžeme říct, že to není špatná muzika 😅\nJako inspirace nám slouží třeba Led Zeppelin, Vladimír Mišík & Etc., Jimi Hendrix, Karel Plíhal, Frank Zappa, Pink Floyd, Krausberry, Black Keys, Psí vojáci … ono se to těžko vypisuje, protože prostě v tomhle nejsme vyhranění, ale necháváme se inspirovat čímkoliv.\nPreferujeme už nějaké zkušenosti a věk od 30 vejš, ale rádi se necháme překvapit 😉",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 75,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "České Budějovice"
+      ]
+    },
     {
       "id": "hudebnibazar:780093",
       "title": "BUBENÍKA - BUBENICI - natáčení desky a koncerty 2027",
