@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T10:11:35.245814+00:00",
+  "updatedAt": "2026-11-13T10:21:38.132888+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -235,6 +235,28 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:793153",
+      "title": "Last minute koncert",
+      "url": "https://hudebnibazar.cz/last-minute-koncert/ID793153/",
+      "date": "2026-11-13T11:14:00+01:00",
+      "location": "Praha 8",
+      "author": "Pavel.Hromadka",
+      "excerpt": "Nabízíme možnost si dneska zahrát na koncertě v Praze: Club TimeOut (nad Podolským bazénem) - odpadla nám předkapela Projekt Kokrhel (nemoc zpěvačky), takže kdyby náhodou měla nějaká kapely v rámci rocku/punku a příbuzných tvrdších žánrů čas a chuť, tak by se nám tam vešla (cca 19:30 - 20:30). Aparát a organizační věci…",
+      "description": "Nabízíme možnost si dneska zahrát na koncertě v Praze: Club TimeOut (nad Podolským bazénem) - odpadla nám předkapela Projekt Kokrhel (nemoc zpěvačky), takže kdyby náhodou měla nějaká kapely v rámci rocku/punku a příbuzných tvrdších žánrů čas a chuť, tak by se nám tam vešla (cca 19:30 - 20:30).\nAparát a organizační věci pořešeny, stačí přijet a zahrát.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Emo"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "emo",
+        "Praha 8"
+      ]
+    },
     {
       "id": "hudebnibazar:793145",
       "title": "Hledáme zpěváka!",
