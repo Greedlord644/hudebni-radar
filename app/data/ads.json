@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T23:21:38.202624+00:00",
+  "updatedAt": "2026-11-13T23:31:55.778683+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -235,6 +235,29 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:790305",
+      "title": "Bubeník🥁 Hledám kapelu! Praha!",
+      "url": "https://hudebnibazar.cz/bubenik-hledam-kapelu-praha/ID790305/",
+      "date": "2026-11-14T00:22:00+01:00",
+      "location": "Praha 1",
+      "author": "Volodymyr.Hr",
+      "excerpt": "Ahoj! Hledám kapelu, se kterou bych mohl hudebně růst a společně dosahovat nových cílů. 🤘 Rád bych hrál metalcore, hardcore nebo deathcore. Insa: @vvdrmr.d Tak napiš! Čau🫶",
+      "description": "Ahoj! Hledám kapelu, se kterou bych mohl hudebně růst a společně dosahovat nových cílů. 🤘\nRád bych hrál metalcore, hardcore nebo deathcore.\nInsa: @vvdrmr.d\nTak napiš!\nČau🫶",
+      "externalLinks": [
+        "https://instagram.com/vvdrmr.d"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 78,
+      "reasons": [
+        "Praha 1",
+        "lokální networking",
+        "odkaz na profil / ukázku"
+      ]
+    },
     {
       "id": "hudebnibazar:793234",
       "title": "Sdílení vybavené soukromé zkušebny – Praha 9",
@@ -2027,29 +2050,6 @@
         "Bring Me The Horizon",
         "odkaz na profil / ukázku",
         "Tábor"
-      ]
-    },
-    {
-      "id": "hudebnibazar:790305",
-      "title": "Bubeník🥁 Hledám!",
-      "url": "https://hudebnibazar.cz/bubenik-hledam/ID790305/",
-      "date": "2026-11-05T14:56:00+01:00",
-      "location": "Praha 1",
-      "author": "Volodymyr.Hr",
-      "excerpt": "Ahoj! Hledám kapelu, se kterou bych mohl hudebně růst a společně dosahovat nových cílů. 🤘 Rád bych hrál metalcore, hardcore nebo deathcore. Insa: @vvdrmr.d Tak napiš! Čau🫶",
-      "description": "Ahoj! Hledám kapelu, se kterou bych mohl hudebně růst a společně dosahovat nových cílů. 🤘\nRád bych hrál metalcore, hardcore nebo deathcore.\nInsa: @vvdrmr.d\nTak napiš!\nČau🫶",
-      "externalLinks": [
-        "https://instagram.com/vvdrmr.d"
-      ],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 78,
-      "reasons": [
-        "Praha 1",
-        "lokální networking",
-        "odkaz na profil / ukázku"
       ]
     },
     {
