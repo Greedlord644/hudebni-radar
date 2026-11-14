@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T17:11:37.374745+00:00",
+  "updatedAt": "2026-11-14T17:21:40.654070+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -235,6 +235,27 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:788978",
+      "title": "NĚHA BEZBŘEHÁ – Praha | hledáme basu nebo klávesy",
+      "url": "https://hudebnibazar.cz/neha-bezbreha-praha-hledame-basu-nebo-klavesy/ID788978/",
+      "date": "2026-11-14T18:18:00+01:00",
+      "location": "Praha 5",
+      "author": "Franz.Tr",
+      "excerpt": "Jsme dva (kytara-zpěv, bicí-perkuse) a hledáme třetího spoluhráče pro autorský projekt v duchu folku, folkrocku a jemnějšího rocku. Česky zpívané písničky, inspirace Oskarem Petrem, Marsyas, ale i oldies, retro a trochu prog. Hodí se baskytara (bezpražec vítán, kontrabas taky), případně klávesy. Míříme na kavárny, menší kluby a…",
+      "description": "Jsme dva (kytara-zpěv, bicí-perkuse) a hledáme třetího spoluhráče pro autorský projekt v duchu folku, folkrocku a jemnějšího rocku. Česky zpívané písničky, inspirace Oskarem Petrem, Marsyas, ale i oldies, retro a trochu prog.\nHodí se baskytara (bezpražec vítán, kontrabas taky), případně klávesy. Míříme na kavárny, menší kluby a příležitostné hraní do klobouku. Nejde o profesionální provoz, ale o kvalitní společné hraní a příjemné koncerty a společný hudební čas.\nRepertoár máme připravený. Praha, zkoušky u mě doma nebo v Michli, podle dohody.\nJestli tě to oslovuje, napiš pár slov o sobě a pošli případně vlastní ukázku.\nPetr ala Franz a Vili\nNěha bezbřehá",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 80,
+      "reasons": [
+        "Praha 5",
+        "lokální networking",
+        "podrobný inzerát"
+      ]
+    },
     {
       "id": "hudebnibazar:784023",
       "title": "Hledáme bubeníka a basáka. Hard Rock!",
@@ -1456,27 +1477,6 @@
         "jasný projekt / zkušenosti",
         "odkaz na profil / ukázku",
         "Rokycany"
-      ]
-    },
-    {
-      "id": "hudebnibazar:788978",
-      "title": "Kapela kavárenská, ideálně trio",
-      "url": "https://hudebnibazar.cz/kapela-kavarenska-idealne-trio/ID788978/",
-      "date": "2026-11-08T18:18:00+01:00",
-      "location": "Praha 5",
-      "author": "Franz.Tr",
-      "excerpt": "Zdar všem. Máme repec pro kavárenské či maloklubí jemnější hraní ala folk - folkrock, byť naše kořeny jsou u hudby oldies a retro a trochu prog. Chtěl bych Vás oslovit s autorskými písněmi ala Oskar Petr, Marsyas... píšu a zpívám česky. Kdo k nám? Bezpražec? Doublebase? Synťák a kláves? Hráli bychom s citem a užívali si…",
-      "description": "Zdar všem. Máme repec pro kavárenské či maloklubí jemnější hraní ala folk - folkrock, byť naše kořeny jsou u hudby oldies a retro a trochu prog.\nChtěl bych Vás oslovit s autorskými písněmi ala Oskar Petr, Marsyas... píšu a zpívám česky.\nKdo k nám? Bezpražec? Doublebase? Synťák a kláves?\nHráli bychom s citem a užívali si neadrenalinu i adrenalinu. Praha, zkoušky by byly u mě doma, či zkušebna v michli, dokud je..., jemně a napohodu, ale proc zkoušet nějak extra. Ujasnit slozitosti, konce a nastupy, přechody a tradá.\nDo kavárny a do klobouku...\nDejte o sobě prosím vědět. Můžem dát sem tam cover, nebo jen autorsky.\nV odkazu texty a k něčemu demáče, formy se můžou třeba měnit, třeba ne.\nZdar a nesílu. Petr alias Franz a Vili.\nNěha bezbřehá",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 77,
-      "reasons": [
-        "Praha 5",
-        "lokální networking",
-        "podrobný inzerát"
       ]
     },
     {
