@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T17:41:35.483743+00:00",
+  "updatedAt": "2026-11-14T17:51:37.122850+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -235,6 +235,30 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:788089",
+      "title": "Hledá se basák",
+      "url": "https://hudebnibazar.cz/hleda-se-basak/ID788089/",
+      "date": "2026-11-14T18:45:00+01:00",
+      "location": "Uherské Hradiště",
+      "author": "Tomas.Pa",
+      "excerpt": "Čau všichni, v kapele Shreds hledáme basáka. Nedávno jsme vydali druhé album a náš baskytarista musel odejít. Hledáme hlavně pohodového člověka, co má chuť hrát a bude ho to bavit. Zkušebnu máme ve Strážnici. Pokud bys měl zájem nebo o někom věděl, budeme rádi, když přijedeš na zkoušku!",
+      "description": "Čau všichni, v kapele Shreds hledáme basáka. Nedávno jsme vydali druhé album a náš baskytarista musel odejít. Hledáme hlavně pohodového člověka, co má chuť hrát a bude ho to bavit. Zkušebnu máme ve Strážnici. Pokud bys měl zájem nebo o někom věděl, budeme rádi, když přijedeš na zkoušku!",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=G1BkTSaKT3E"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 78,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Uherské Hradiště"
+      ]
+    },
     {
       "id": "hudebnibazar:788978",
       "title": "NĚHA BEZBŘEHÁ – Praha | hledáme basu nebo klávesy",
@@ -1145,30 +1169,6 @@
         "jasný projekt / zkušenosti",
         "odkaz na profil / ukázku",
         "Hradec Králové"
-      ]
-    },
-    {
-      "id": "hudebnibazar:788089",
-      "title": "Hledá se basák",
-      "url": "https://hudebnibazar.cz/hleda-se-basak/ID788089/",
-      "date": "2026-11-09T17:26:00+01:00",
-      "location": "Uherské Hradiště",
-      "author": "Tomas.Pa",
-      "excerpt": "Čau všichni, v kapele Shreds hledáme basáka. Nedávno jsme vydali druhé album a náš baskytarista musel odejít. Hledáme hlavně pohodového člověka, co má chuť hrát a bude ho to bavit. Zkušebnu máme ve Strážnici. Pokud bys měl zájem nebo o někom věděl, budeme rádi, když přijedeš na zkoušku!",
-      "description": "Čau všichni, v kapele Shreds hledáme basáka. Nedávno jsme vydali druhé album a náš baskytarista musel odejít. Hledáme hlavně pohodového člověka, co má chuť hrát a bude ho to bavit. Zkušebnu máme ve Strážnici. Pokud bys měl zájem nebo o někom věděl, budeme rádi, když přijedeš na zkoušku!",
-      "externalLinks": [
-        "https://www.youtube.com/watch?v=G1BkTSaKT3E"
-      ],
-      "influences": [],
-      "genres": [],
-      "isPrague": false,
-      "source": "Hudební bazar",
-      "score": 78,
-      "reasons": [
-        "podrobný inzerát",
-        "jasný projekt / zkušenosti",
-        "odkaz na profil / ukázku",
-        "Uherské Hradiště"
       ]
     },
     {
