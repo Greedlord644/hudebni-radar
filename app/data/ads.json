@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T23:11:32.139368+00:00",
+  "updatedAt": "2026-11-14T23:21:38.617780+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -235,6 +235,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:793443",
+      "title": "Bubeník hledá kapelu",
+      "url": "https://hudebnibazar.cz/bubenik-hleda-kapelu/ID793443/",
+      "date": "2026-11-15T00:18:00+01:00",
+      "location": "Praha-východ",
+      "author": "Milda",
+      "excerpt": "Zdravím. Bubeník z Prahy hledá kapelu. Věk 45+. Rock, country. Žádná divočina. Díky. M.",
+      "description": "Zdravím. Bubeník z Prahy hledá kapelu. Věk 45+. Rock, country. Žádná divočina. Díky. M.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Praha-východ",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:760107",
       "title": "The Light hledá koncert",
