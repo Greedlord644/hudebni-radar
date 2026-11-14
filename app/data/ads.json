@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T11:01:56.064915+00:00",
+  "updatedAt": "2026-11-14T11:11:31.773677+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -235,6 +235,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:784023",
+      "title": "Hledáme bubeníka a basáka. Hard Rock!",
+      "url": "https://hudebnibazar.cz/hledame-bubenika-a-basaka-hard-rock/ID784023/",
+      "date": "2026-11-14T12:04:00+01:00",
+      "location": "Praha 4",
+      "author": "Allen.Novak",
+      "excerpt": "Cuss, jsem solo kytarista, jsou se mnou zpěvák a rythm kytarista. Věkově jsme nějak v rozmezí 18-22 let. Žánrově jsme zaměřeny na 70-80s Hard Rock. Nejvíc nás inspirují kapely jako: Guns N’ Roses, Mötley Crüe, Led Zeppelin, Bon Jovi, Ratt, Cinderella. Neváhejte se psát, O2 arena už se těší na nás!",
+      "description": "Cuss, jsem solo kytarista, jsou se mnou zpěvák a rythm kytarista. Věkově jsme nějak v rozmezí 18-22 let.\nŽánrově jsme zaměřeny na 70-80s Hard Rock. Nejvíc nás inspirují kapely jako: Guns N’ Roses, Mötley Crüe, Led Zeppelin, Bon Jovi, Ratt, Cinderella.\nNeváhejte se psát, O2 arena už se těší na nás!",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Praha 4",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:748578",
       "title": "Pražská rocková kapela hledá sólový zpěv",
@@ -1533,26 +1553,6 @@
         "alternativní rock",
         "odkaz na profil / ukázku",
         "Praha 10"
-      ]
-    },
-    {
-      "id": "hudebnibazar:784023",
-      "title": "Hledáme bubeníka a basáka. Hard Rock!",
-      "url": "https://hudebnibazar.cz/hledame-bubenika-a-basaka-hard-rock/ID784023/",
-      "date": "2026-11-08T01:35:00+01:00",
-      "location": "Praha 4",
-      "author": "Allen.Novak",
-      "excerpt": "Cuss, jsem solo kytarista, jsou se mnou zpěvák a rythm kytarista. Věkově jsme nějak v rozmezí 18-22 let. Žánrově jsme zaměřeny na 70-80s Hard Rock. Nejvíc nás inspirují kapely jako: Guns N’ Roses, Mötley Crüe, Led Zeppelin, Bon Jovi, Ratt, Cinderella. Neváhejte se psát, O2 arena už se těší na nás!",
-      "description": "Cuss, jsem solo kytarista, jsou se mnou zpěvák a rythm kytarista. Věkově jsme nějak v rozmezí 18-22 let.\nŽánrově jsme zaměřeny na 70-80s Hard Rock. Nejvíc nás inspirují kapely jako: Guns N’ Roses, Mötley Crüe, Led Zeppelin, Bon Jovi, Ratt, Cinderella.\nNeváhejte se psát, O2 arena už se těší na nás!",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 66,
-      "reasons": [
-        "Praha 4",
-        "lokální networking"
       ]
     },
     {
