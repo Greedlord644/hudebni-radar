@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T22:11:36.060111+00:00",
+  "updatedAt": "2026-11-14T22:21:39.345037+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -235,6 +235,30 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:760107",
+      "title": "The Light hledá koncert",
+      "url": "https://hudebnibazar.cz/the-light-hleda-koncert/ID760107/",
+      "date": "2026-11-14T23:19:00+01:00",
+      "location": "Ostrava",
+      "author": "Vaclav.Kucza",
+      "excerpt": "Dobrý den, jsme nová a mladá kapela The Light a hledáme možnosti vystoupení. Hrajeme Alternativní velice atmosférický metal, Bude-li zájem, víc než rádi zašleme videa ze zkoušek/koncertu Budeme vděční za každou příležitost nebo radu kde by se dalo hrát. Instagram - 7helightband",
+      "description": "Dobrý den, jsme nová a mladá kapela The Light a hledáme možnosti vystoupení.\nHrajeme Alternativní velice atmosférický metal,\nBude-li zájem, víc než rádi zašleme videa ze zkoušek/koncertu\nBudeme vděční za každou příležitost nebo radu kde by se dalo hrát.\nInstagram - 7helightband",
+      "externalLinks": [
+        "https://instagram.com/7helightband"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 75,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Ostrava"
+      ]
+    },
     {
       "id": "hudebnibazar:783227",
       "title": "HLEDÁM AUTORSKÝ BAND",
