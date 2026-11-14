@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T12:11:31.758494+00:00",
+  "updatedAt": "2026-11-14T12:21:35.842972+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -5941,28 +5941,6 @@
         "alternativní rock",
         "odkaz na profil / ukázku",
         "Praha 8"
-      ]
-    },
-    {
-      "id": "hudebnibazar:775643",
-      "title": "Kytarista hledá | Olomouc",
-      "url": "https://hudebnibazar.cz/kytarista-hleda-olomouc/ID775643/",
-      "date": "2026-09-15T14:18:00+02:00",
-      "location": "Olomouc",
-      "author": "Elektrickej.Kytarista",
-      "excerpt": "Je mi 22 let a hledám kapelu v Olomouci nebo okolí. Hraju především rock, alt-rock a pop. Mám zkušenosti z několika kapel a přibližně 30 odehraných koncertů. Hledám kapelu, která chce hlavně hrát. Jsem otevřený i záskokům nebo občasnému hraní. Pokud sháníte kytaristu, případně víte o někom, kdo ho hledá, napište.",
-      "description": "Je mi 22 let a hledám kapelu v Olomouci nebo okolí.\nHraju především rock, alt-rock a pop.\nMám zkušenosti z několika kapel a přibližně 30 odehraných koncertů.\nHledám kapelu, která chce hlavně hrát. Jsem otevřený i záskokům nebo občasnému hraní.\nPokud sháníte kytaristu, případně víte o někom, kdo ho hledá, napište.",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [
-        "Alt-rock"
-      ],
-      "isPrague": false,
-      "source": "Hudební bazar",
-      "score": 88,
-      "reasons": [
-        "alt-rock",
-        "Olomouc"
       ]
     }
   ]
