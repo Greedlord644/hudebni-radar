@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T18:01:59.307311+00:00",
+  "updatedAt": "2026-11-15T18:11:40.809196+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -215,6 +215,28 @@
     }
   ],
   "interesting": [
+    {
+      "id": "bandmate:f5938b5d-0311-408b-a4b4-9610b67dd9c6",
+      "title": "Nadpis: Hledám parťačku / zpěvačku pro společnou tvorbu Vocal Trance (vybavení zajistím)",
+      "url": "https://bandmate.cz/inzerat/nadpis-hled-m-par-a-ku-zp-va-ku-pro-spole-nou-tvorbu-vocal-t-z0aotf",
+      "date": "2026-11-15T18:02:35.930825+00:00",
+      "location": "Třebíč",
+      "author": "Jeník",
+      "excerpt": "Nadpis: Hledám parťačku / zpěvačku pro společnou tvorbu Vocal Trance (vybavení zajistím) Ahoj, miluji elektronickou hudbu – hlavně Vocal Trance (styl Armin van Buuren, Tiësto apod.) – a rozhodl jsem se začít tvořit vlastní skladby. Sám zpívám jako tenor ve sboru, mám hudební sluch, ale v produkci a ovládání programů jsem zatím…",
+      "description": "Nadpis: Hledám parťačku / zpěvačku pro společnou tvorbu Vocal Trance (vybavení zajistím) Ahoj,\nmiluji elektronickou hudbu – hlavně Vocal Trance (styl Armin van Buuren, Tiësto apod.) – a rozhodl jsem se začít tvořit vlastní skladby. Sám zpívám jako tenor ve sboru, mám hudební sluch, ale v produkci a ovládání programů jsem zatím začátečník.\nHledám parťačku (zpěvačku nebo začínající producentku), kterou baví trance a elektronická hudba, má cit pro melodii nebo zpěv a chtěla by se na tvorbě podílet společně. Pokud máš talent a chuť tvořit, ale nemáš finance na vlastní software, klávesy nebo studio, veškeré vybavení (FL Studio, MIDI klávesy, mikrofon) pořídím a zajistím já.\nBudu moc rád, když se ozveš a zkusíme společně dát dohromady první věci – buď osobně (okolí Třebíče / Vysočina), nebo klid elektronika klávesy,zpěv,jiný",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Elektronika"
+      ],
+      "isPrague": false,
+      "source": "Bandmate",
+      "score": 59,
+      "reasons": [
+        "elektronika",
+        "Třebíč"
+      ]
+    },
     {
       "id": "hudebnibazar:784002",
       "title": "Kytarista hledá Trash metal band",
