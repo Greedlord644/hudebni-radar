@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T21:51:26.611055+00:00",
+  "updatedAt": "2026-11-15T22:01:58.807336+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -215,6 +215,28 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:793637",
+      "title": "Podklady, tracky, Half-playback",
+      "url": "https://hudebnibazar.cz/podklady-tracky-half-playback/ID793637/",
+      "date": "2026-11-15T23:00:00+01:00",
+      "location": "Praha 2",
+      "author": "Nik.Ole",
+      "excerpt": "Potřebuju někoho, kdo dokáže udělat zajímavé podklady (nebo backing tracky) na live hraní – něco kde by byly kliky a nějaký samply / elektronika a tak. Jsme trio: kytara, bicí, basa. Harajeme Hendrixe, tvrdší muziku, psychedelic a tak. Ale chceme co celé udělat trochu jinak. Najde se někdo kreativní?",
+      "description": "Potřebuju někoho, kdo dokáže udělat zajímavé podklady (nebo backing tracky) na live hraní – něco kde by byly kliky a nějaký samply / elektronika a tak. Jsme trio: kytara, bicí, basa. Harajeme Hendrixe, tvrdší muziku, psychedelic a tak. Ale chceme co celé udělat trochu jinak. Najde se někdo kreativní?",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Elektronika"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 60,
+      "reasons": [
+        "elektronika",
+        "Praha 2"
+      ]
+    },
     {
       "id": "bandmate:8942bfea-ef00-416f-a76b-876410c318bf",
       "title": "Učitel fl studia a klaves se zpěvem",
