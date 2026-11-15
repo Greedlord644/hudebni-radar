@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T09:41:33.934379+00:00",
+  "updatedAt": "2026-11-15T09:51:36.762285+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -235,6 +235,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:784002",
+      "title": "Kytarista hledá Trash metal band",
+      "url": "https://hudebnibazar.cz/kytarista-hleda-trash-metal-band/ID784002/",
+      "date": "2026-11-15T10:47:00+01:00",
+      "location": "Praha-západ",
+      "author": "D.Vi",
+      "excerpt": "Ahoj. Hledám partičku, která postrádá kytaru na trash, crossover trash, trash/death. Já 35 let, kousek od Prahy, ale nemám problém dojezdu v rozumné vzdálenosti. Zkušenosti s podiem a vlastní gear mám🙂🤘",
+      "description": "Ahoj. Hledám partičku, která postrádá kytaru na trash, crossover trash, trash/death. Já 35 let, kousek od Prahy, ale nemám problém dojezdu v rozumné vzdálenosti. Zkušenosti s podiem a vlastní gear mám🙂🤘",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Praha-západ",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:793443",
       "title": "Bubeník hledá kapelu",
@@ -3188,26 +3208,6 @@
         "emo",
         "grunge",
         "Praha"
-      ]
-    },
-    {
-      "id": "hudebnibazar:784002",
-      "title": "Kytarista hledá Trash metal band",
-      "url": "https://hudebnibazar.cz/kytarista-hleda-trash-metal-band/ID784002/",
-      "date": "2026-10-24T11:31:00+02:00",
-      "location": "Praha-západ",
-      "author": "D.Vi",
-      "excerpt": "Ahoj! Na kytaru hraju 7 let a rád bych dal dohromady projekt ve stylu Slayer, Enforced, Power Trip apod. Nebo pokud nějaká thrashová partička podobného rázu v okolí Prahy hledá kytaristu, rád se přidám.",
-      "description": "Ahoj! Na kytaru hraju 7 let a rád bych dal dohromady projekt ve stylu Slayer, Enforced, Power Trip apod.\nNebo pokud nějaká thrashová partička podobného rázu v okolí Prahy hledá kytaristu, rád se přidám.",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 69,
-      "reasons": [
-        "Praha-západ",
-        "lokální networking"
       ]
     },
     {
