@@ -67,12 +67,16 @@ DISCOVERY_TERMS = GENRES + ["metal", "rock", "hardcore", "electro"]
 # entertainment/cover projects are outside the radar even if they also mention
 # a preferred genre, Prague or one of the owner's reference bands.
 HARD_EXCLUDES = [
-    "zábavová", "zabavova", "zábavovka", "zabavovka", "zábavy", "zabavy",
+    "zábavová", "zabavova", "zábavové", "zabavove", "zábavovka", "zabavovka",
+    "zábavy", "zabavy", "zábavách", "zabavach", "zábavový repertoár", "zabavovy repertoar",
+    "taneční zábav", "tanecni zabav", "večír", "vecir", "životní jubile", "zivotni jubile",
+    "rodinné oslavy", "rodinne oslavy", "svatb", "plesový repertoár", "plesovy repertoar",
+    "na plese", "na plesy", "firemní akce", "firemni akce",
     "pivní slavnosti", "pivni slavnosti", "motosraz", "moto sraz",
     "bigbít", "bigbit", "big beat", "tribute", "revival", "cover band",
     "covery", "coverů", "coveru", "coverech", "coverem", "coverům", "coverama",
     "coverová", "coverova", "coverové", "coverove", "coverový", "coverovy",
-    "převzaté skladby", "prevzate skladby", "převzaté písně", "prevzate pisne",
+    "převzat", "prevzat",
     "dechovka", "cimbál", "country kapel", "jazzov", "soulov",
 ]
 SINGER_EXCLUDES = HARD_EXCLUDES + ["čistě žensk", "ženskou kapelu", "jen muzikantky"]
@@ -331,6 +335,19 @@ def explicit_age_over_40(text: str) -> bool:
     ages = [int(n) for n in re.findall(r"(?:je mi|mně je|muj věk je|můj věk je|věk)\s*[:\-]?\s*([1-8]\d)", text)]
     return bool(ages and min(ages) >= 40)
 
+def explicit_age_near_50_plus(text: str) -> bool:
+    """Recognize an author's stated age around 50+, without treating years of practice as age."""
+    value = plain(text)
+    ages = []
+    for pattern in (
+        r"(?:je mi|mně je|mne je|můj věk je|muj vek je|věk|vek)\s*[:\-]?\s*([1-8]\d)",
+        r"\b([4-8]\d)\s*(?:let(?:ý|á|í)?|lety|roků|roku)\b",
+    ):
+        ages.extend(int(number) for number in re.findall(pattern, value))
+    return any(age >= 48 for age in ages) or any(
+        marker in value for marker in ("padesátník", "padesatnik", "po padesátce", "po padesatce")
+    )
+
 def local(location: str, text: str) -> bool:
     value = plain(location + " " + text)
     central = ["praha", "středočesk", "kladno", "beroun", "mělník", "kolín", "příbram", "rakovník", "benešov", "nymburk", "mladá boleslav"]
@@ -367,6 +384,13 @@ def interesting_score(text: str, location: str) -> tuple[int, list[str]]:
     quality = [x for x in QUALITY if x in value]
     linked = has_external_link(value)
     prague = "praha" in plain(location) or "praha" in value
+    # Ads by people around 50+ need a concrete reason to surface. A preferred
+    # genre/reference band or a public profile/media link is enough; a generic
+    # folk/country/rock ad is not.
+    if explicit_age_near_50_plus(value):
+        relevant_for_older = bool(influence or genres or linked or re.search(r"\bmetal\b", value))
+        if not relevant_for_older:
+            return 0, []
     # A named reference band is an explicit owner preference and overrides all
     # other positive/negative scoring rules in this broad networking section.
     if influence:
