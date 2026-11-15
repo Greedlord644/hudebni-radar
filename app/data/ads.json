@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T18:11:40.809196+00:00",
+  "updatedAt": "2026-11-15T18:21:16.986472+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -215,6 +215,28 @@
     }
   ],
   "interesting": [
+    {
+      "id": "bandmate:8942bfea-ef00-416f-a76b-876410c318bf",
+      "title": "Učitel fl studia a klaves se zpěvem",
+      "url": "https://bandmate.cz/inzerat/u-itel-fl-studia-a-klaves-se-zp-vem-G0Pj8Z",
+      "date": "2026-11-15T18:12:54.255098+00:00",
+      "location": "Třebíč",
+      "author": "Jeník",
+      "excerpt": "Učitel fl studia a klaves se zpěvem Ahoj, miluji elektronickou hudbu – hlavně Vocal Trance (styl Armin van Buuren, Tiësto apod.) – a rozhodl jsem se naučit tvořit vlastní skladby. Sám zpívám jako tenor ve sboru, mám hudební sluch, ale v ovládání programů (FL Studio) a hraní na klávesy jsem zatím úplný začátečník. Hledám…",
+      "description": "Učitel fl studia a klaves se zpěvem Ahoj,\nmiluji elektronickou hudbu – hlavně Vocal Trance (styl Armin van Buuren, Tiësto apod.) – a rozhodl jsem se naučit tvořit vlastní skladby. Sám zpívám jako tenor ve sboru, mám hudební sluch, ale v ovládání programů (FL Studio) a hraní na klávesy jsem zatím úplný začátečník.\nHledám zkušenou ženu – producentku a zpěvačku v jedné osobě – která už umí skládat elektronickou hudbu, rozumí programu FL Studio (nebo klávesám) a bude ochotná mě vše krok za krokem naučit, zatímco do společných skladeb využijeme i její krásný hlas.\nPokud umíš tvořit, zpíváš, ale nemáš finance na vlastní software, klávesy nebo studiové vybavení, veškerou techniku (FL Studio, MIDI klávesy, mikrofon) pořídím a zajistím já. Hledám tedy nejen hlas, ale hlavně trpělivou učitelku a parťačku pro společnou tvorbu (osobně v elektronika klávesy",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Elektronika"
+      ],
+      "isPrague": false,
+      "source": "Bandmate",
+      "score": 100,
+      "reasons": [
+        "hledá produkci / pomoc se skladbami",
+        "Třebíč"
+      ]
+    },
     {
       "id": "bandmate:f5938b5d-0311-408b-a4b4-9610b67dd9c6",
       "title": "Nadpis: Hledám parťačku / zpěvačku pro společnou tvorbu Vocal Trance (vybavení zajistím)",
