@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T22:11:20.638908+00:00",
+  "updatedAt": "2026-11-15T22:21:34.267994+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -215,6 +215,29 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:793639",
+      "title": "Kytarista Brno",
+      "url": "https://hudebnibazar.cz/kytarista-brno/ID793639/",
+      "date": "2026-11-15T23:11:00+01:00",
+      "location": "Brno",
+      "author": "Roman.Laus",
+      "excerpt": "Do nového českého projektu hledáme zkušeného kytaristu s vlastním aparátem, kterému jsou blízké styly jako nu-metal, grunge, rock nebo metal. S kapelou Mean Daddies jsme hráli na Rock for People, United Islands, Karviná Rocks a dalších akcích. Teď hledáme špičkového kytaristu pro nový projekt. Zkoušíme ve vlastní zkušebně v…",
+      "description": "Do nového českého projektu hledáme zkušeného kytaristu s vlastním aparátem, kterému jsou blízké styly jako nu-metal, grunge, rock nebo metal.\nS kapelou Mean Daddies jsme hráli na Rock for People, United Islands, Karviná Rocks a dalších akcích. Teď hledáme špičkového kytaristu pro nový projekt. Zkoušíme ve vlastní zkušebně v Brně.\nPokud tě to zaujalo, pošli něco o sobě a ukázky svého hraní na .",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Nu-metal",
+        "Grunge"
+      ],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 88,
+      "reasons": [
+        "nu-metal",
+        "Brno"
+      ]
+    },
     {
       "id": "hudebnibazar:793637",
       "title": "Podklady, tracky, Half-playback",
