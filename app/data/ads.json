@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T12:21:31.906860+00:00",
+  "updatedAt": "2026-11-16T12:31:50.152587+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -215,6 +215,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:791801",
+      "title": "Hledám country partu/kapelu",
+      "url": "https://hudebnibazar.cz/hledam-country-partu-kapelu/ID791801/",
+      "date": "2026-11-16T13:27:00+01:00",
+      "location": "Praha 4",
+      "author": "B.G",
+      "excerpt": "S houslemi nebo s el. kytarou doplním pohodovou partu, nejraději ve stylu country music, country folk, country rock, honky tonk .... ale i blues, folk, bluegrass, případně další .... Hledám partu staršího věku, kde se už nemusí ztrácet čas zkouškami a o to častěji se hraje, především pro vlastní zábavu ... Praha (ideálně blízko…",
+      "description": "S houslemi nebo s el. kytarou doplním pohodovou partu, nejraději ve stylu country music, country folk, country rock, honky tonk .... ale i blues, folk, bluegrass, případně další .... Hledám partu staršího věku, kde se už nemusí ztrácet čas zkouškami a o to častěji se hraje, především pro vlastní zábavu ... Praha (ideálně blízko MHD), případně i její okolí (ideálně s dobrým parkováním pro auto)",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Praha 4",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:786529",
       "title": "HLEDÁM SPOLUHRÁČE",
@@ -1005,26 +1025,6 @@
         "Praha-západ",
         "lokální networking",
         "odkaz na profil / ukázku"
-      ]
-    },
-    {
-      "id": "hudebnibazar:791801",
-      "title": "Hledám country partu/kapelu",
-      "url": "https://hudebnibazar.cz/hledam-country-partu-kapelu/ID791801/",
-      "date": "2026-11-10T18:31:00+01:00",
-      "location": "Praha 4",
-      "author": "B.G",
-      "excerpt": "S houslemi nebo s el. kytarou doplním pohodovou partu, nejraději ve stylu country music, country folk, country rock, honky tonk .... ale i blues, folk, bluegrass, případně další .... Hledám partu staršího věku, kde se už nemusí ztrácet čas zkouškami a o to častěji se hraje a zpívá, především pro vlastní zábavu ... Praha…",
-      "description": "S houslemi nebo s el. kytarou doplním pohodovou partu, nejraději ve stylu country music, country folk, country rock, honky tonk .... ale i blues, folk, bluegrass, případně další .... Hledám partu staršího věku, kde se už nemusí ztrácet čas zkouškami a o to častěji se hraje a zpívá, především pro vlastní zábavu ... Praha (ideálně blízko MHD), případně i její okolí (ideálně s dobrým parkováním pro auto)",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 66,
-      "reasons": [
-        "Praha 4",
-        "lokální networking"
       ]
     },
     {
@@ -5763,31 +5763,6 @@
       "reasons": [
         "Praha 4",
         "lokální networking"
-      ]
-    },
-    {
-      "id": "hudebnibazar:782569",
-      "title": "Kapela Darebax (Grunge/NuMetal) hľadá nového basáka",
-      "url": "https://hudebnibazar.cz/kapela-darebax-grunge-numetal-hlada-noveho-basaka/ID782569/",
-      "date": "2026-09-17T14:22:00+02:00",
-      "location": "Brno",
-      "author": "Gregor.Soltis",
-      "excerpt": "nazdar. Sme kapela Darebax. Hráme Grunge / NuMetal / Alternative. Hľadáme nového basáka. Vokál je výhoda. Sídlime v Brne a máme super skúšobňu. Robíme vlastné songy a občas nejaký cover.",
-      "description": "nazdar.\nSme kapela Darebax.\nHráme Grunge / NuMetal / Alternative.\nHľadáme nového basáka.\nVokál je výhoda.\nSídlime v Brne a máme super skúšobňu.\nRobíme vlastné songy a občas nejaký cover.",
-      "externalLinks": [
-        "https://www.youtube.com/watch?v=YV2Jzir7oKI"
-      ],
-      "influences": [],
-      "genres": [
-        "Grunge"
-      ],
-      "isPrague": false,
-      "source": "Hudební bazar",
-      "score": 64,
-      "reasons": [
-        "grunge",
-        "odkaz na profil / ukázku",
-        "Brno"
       ]
     }
   ]
