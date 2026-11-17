@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T18:02:02.498961+00:00",
+  "updatedAt": "2026-11-17T18:11:34.195083+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -235,6 +235,30 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:780586",
+      "title": "Zavedena metalova kapela hleda bubenika!",
+      "url": "https://hudebnibazar.cz/zavedena-metalova-kapela-hleda-bubenika/ID780586/",
+      "date": "2026-11-17T19:09:00+01:00",
+      "location": "Praha 3",
+      "author": "V.S5",
+      "excerpt": "Do zavedené metalové kapely hledáme bubeníka, který ovládá dvojšlapku, skankbeaty, blastbeaty a jiné druhy brambor. Jsme kapela Ewenay, osmičlenná banda se dvěma zpěváky a živými houslemi. Hrajeme energetickou hudbu, do které mícháme všechno možné. Věkově jsme mezi 25 a 36 lety. Náš cíl je hrát 2-3 kvalitní koncerty do měsíce…",
+      "description": "Do zavedené metalové kapely hledáme bubeníka, který ovládá dvojšlapku, skankbeaty, blastbeaty a jiné druhy brambor.\nJsme kapela Ewenay, osmičlenná banda se dvěma zpěváky a živými houslemi. Hrajeme energetickou hudbu, do které mícháme všechno možné. Věkově jsme mezi 25 a 36 lety. Náš cíl je hrát 2-3 kvalitní koncerty do měsíce (větší festivaly, zajímavé klubové akce) a tvořit.\nMáme vlastní, plně vybavenou zkušebnu v Praze, kterou s nikým nesdílíme. Zkoušíme jednou týdně. Hrajeme digitálně, vlastníme rack a nachystaný pro tebe bude i in-ear monitoring (vlastní sluchátka nutná).\nBonusové body za zmysl pro humor a chuť se s námi tvořivě vyblbnout - nejen hudebně, ale třeba i před kamerou na videu pro pozvánky a podobné blbosti.\nOzvi se a přilož ukázku jak hraješ - klidně natočenou na telefon.\nNaše tvorba: https://open.spotify.com/artist/4d69tmYaaoHDxzReB74emh",
+      "externalLinks": [
+        "https://open.spotify.com/artist/4d69tmYaaoHDxzReB74emh"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 89,
+      "reasons": [
+        "Praha 3",
+        "lokální networking",
+        "odkaz na profil / ukázku",
+        "podrobný inzerát"
+      ]
+    },
     {
       "id": "hudebnibazar:785747",
       "title": "HLEDÁM SPOLUHRÁČE",
@@ -2852,30 +2876,6 @@
       "reasons": [
         "Praha",
         "lokální networking",
-        "podrobný inzerát"
-      ]
-    },
-    {
-      "id": "hudebnibazar:780586",
-      "title": "Zavedena metalova kapela hleda bubenika!",
-      "url": "https://hudebnibazar.cz/zavedena-metalova-kapela-hleda-bubenika/ID780586/",
-      "date": "2026-10-29T18:45:00+01:00",
-      "location": "Praha 3",
-      "author": "V.S5",
-      "excerpt": "Do zavedené metalové kapely hledáme bubeníka, který ovládá dvojšlapku, skankbeaty, blastbeaty a jiné druhy brambor. Jsme kapela Ewenay, osmičlenná banda se dvěma zpěváky a živými houslemi. Hrajeme energetickou hudbu, do které mícháme všechno možné. Věkově jsme mezi 25 a 36 lety. Náš cíl je hrát 2-3 kvalitní koncerty do měsíce…",
-      "description": "Do zavedené metalové kapely hledáme bubeníka, který ovládá dvojšlapku, skankbeaty, blastbeaty a jiné druhy brambor.\nJsme kapela Ewenay, osmičlenná banda se dvěma zpěváky a živými houslemi. Hrajeme energetickou hudbu, do které mícháme všechno možné. Věkově jsme mezi 25 a 36 lety. Náš cíl je hrát 2-3 kvalitní koncerty do měsíce (větší festivaly, zajímavé klubové akce) a tvořit.\nMáme vlastní, plně vybavenou zkušebnu v Praze, kterou s nikým nesdílíme. Zkoušíme jednou týdně. Hrajeme digitálně, vlastníme rack a nachystaný pro tebe bude i in-ear monitoring (vlastní sluchátka nutná).\nBonusové body za zmysl pro humor a chuť se s námi tvořivě vyblbnout - nejen hudebně, ale třeba i před kamerou na videu pro pozvánky a podobné blbosti.\nOzvi se a přilož ukázku jak hraješ - klidně natočenou na telefon.\nNaše tvorba: https://open.spotify.com/artist/4d69tmYaaoHDxzReB74emh",
-      "externalLinks": [
-        "https://open.spotify.com/artist/4d69tmYaaoHDxzReB74emh"
-      ],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 89,
-      "reasons": [
-        "Praha 3",
-        "lokální networking",
-        "odkaz na profil / ukázku",
         "podrobný inzerát"
       ]
     },
@@ -5806,28 +5806,6 @@
       "reasons": [
         "Praha-východ",
         "lokální networking"
-      ]
-    },
-    {
-      "id": "bandmate:6621710a-1b0a-49d4-9006-c1b5a0463069",
-      "title": "Sedím doma, dělám mixtapy. Jak dlouho děláš hudbu?",
-      "url": "https://bandmate.cz/inzerat/sed-m-doma-d-l-m-mixtapy-jak-dlouho-d-l-hudbu-32DWbC",
-      "date": "2026-09-18T18:08:00.677009+00:00",
-      "location": "Frýdlant nad Ostravicí",
-      "author": "Abraham Erstein",
-      "excerpt": "Sedím doma, dělám mixtapy. Jak dlouho děláš hudbu? Vyrůstál jsem od mala v hudbě, ale nikdy jsem na nic nehrál. Zůstal mi jen hlas, emoce a příběhy. Píšu texty a umím snad i zpívat, ale už nechci jen nahrávat na několik stop sám ve svém studiu. Už se chci posunout a vyzkoušet si opravdu v realném čase s celou kapelou zahrát…",
-      "description": "Sedím doma, dělám mixtapy. Jak dlouho děláš hudbu? Vyrůstál jsem od mala v hudbě, ale nikdy jsem na nic nehrál. Zůstal mi jen hlas, emoce a příběhy. Píšu texty a umím snad i zpívat, ale už nechci jen nahrávat na několik stop sám ve svém studiu. Už se chci posunout a vyzkoušet si opravdu v realném čase s celou kapelou zahrát nějakou píseň/track. Zatím jsem si vše dělal sám. Umím improvizovat, a jak už jsem psal, není pro mne složité něco nahrát, jen dlouhodobě hledám lidi k propojení.\nMám jen emoce, příběhy, zážitky a svou hlavu.\nNapsat text je jako krájet chleba. Pouze se zaměřuju na inovativní tvorbu. Nerad replikuju umění.\nMám temné stavy, takže ke mě se spíše hodí temná hudba.\n(Však si kdyžtak najdi můj pills rap) metal, hip-hop, rap, experimentální, alternative, hardcore, jazz, post-rock, punk, blues kytara,basa,bicí,klávesy",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [
-        "Emo"
-      ],
-      "isPrague": false,
-      "source": "Bandmate",
-      "score": 65,
-      "reasons": [
-        "emo",
-        "Frýdlant nad Ostravicí"
       ]
     }
   ]
