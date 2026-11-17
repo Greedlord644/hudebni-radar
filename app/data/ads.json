@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T20:21:07.767227+00:00",
+  "updatedAt": "2026-11-17T20:31:50.627835+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -5785,26 +5785,6 @@
       "score": 69,
       "reasons": [
         "Praha 4",
-        "lokální networking"
-      ]
-    },
-    {
-      "id": "hudebnibazar:782853",
-      "title": "hledám kapelu",
-      "url": "https://hudebnibazar.cz/hledam-kapelu/ID782853/",
-      "date": "2026-09-18T22:22:00+02:00",
-      "location": "Praha-východ",
-      "author": "Jan.Vesely7",
-      "excerpt": "bubeník nic moc, bicí mám, něco zahraju, rock Praha-východ",
-      "description": "bubeník nic moc, bicí mám, něco zahraju, rock\nPraha-východ",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 66,
-      "reasons": [
-        "Praha-východ",
         "lokální networking"
       ]
     }
