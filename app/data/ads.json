@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T16:21:22.033583+00:00",
+  "updatedAt": "2026-11-17T16:31:47.826193+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -235,6 +235,52 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:794031",
+      "title": "Pop-punk Xanax hledaji zpev!",
+      "url": "https://hudebnibazar.cz/pop-punk-xanax-hledaji-zpev/ID794031/",
+      "date": "2026-11-17T17:22:00+01:00",
+      "location": "Praha 5",
+      "author": "Martin.Fialka",
+      "excerpt": "Hledame zpěváka do pop-punk kapely XanaX XanaX, https://youtu.be/TxAT2NWh49o?si=yUYXdUFvhisstPn1 XanaX — Live & Loud · Česká pop-punková kapela https://share.google/6gUZ0wCQItHtaPRZf",
+      "description": "Hledame zpěváka do pop-punk kapely XanaX\nXanaX, https://youtu.be/TxAT2NWh49o?si=yUYXdUFvhisstPn1\nXanaX — Live & Loud · Česká pop-punková kapela https://share.google/6gUZ0wCQItHtaPRZf",
+      "externalLinks": [
+        "https://youtu.be/TxAT2NWh49o?si=yUYXdUFvhisstPn1",
+        "https://share.google/6gUZ0wCQItHtaPRZf"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 78,
+      "reasons": [
+        "Praha 5",
+        "lokální networking",
+        "odkaz na profil / ukázku"
+      ]
+    },
+    {
+      "id": "hudebnibazar:762845",
+      "title": "Extreme vocalist is looking for a band",
+      "url": "https://hudebnibazar.cz/extreme-vocalist-is-looking-for-a-band/ID762845/",
+      "date": "2026-11-17T17:21:00+01:00",
+      "location": "Praha 10",
+      "author": "Anton.Karpukhin",
+      "excerpt": "Ahoj hledám kapelu, dělám scream a growl, mohu poslat demo. Ideálně deathcore, death metal, metalcore, alternative, bsdm a podobné",
+      "description": "Ahoj hledám kapelu, dělám scream a growl, mohu poslat demo. Ideálně deathcore, death metal, metalcore, alternative, bsdm a podobné",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Emo"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 60,
+      "reasons": [
+        "emo",
+        "Praha 10"
+      ]
+    },
     {
       "id": "hudebnibazar:793955",
       "title": "Zpěvačka se chce někam upíchnout",
@@ -2033,28 +2079,6 @@
         "grunge",
         "odkaz na profil / ukázku",
         "Psáry"
-      ]
-    },
-    {
-      "id": "hudebnibazar:762845",
-      "title": "Extreme vocalist is looking for a band",
-      "url": "https://hudebnibazar.cz/extreme-vocalist-is-looking-for-a-band/ID762845/",
-      "date": "2026-11-06T10:25:00+01:00",
-      "location": "Praha 10",
-      "author": "Anton.Karpukhin",
-      "excerpt": "Ahoj hledám kapelu, dělám scream a growl, mohu poslat demo. Ideálně deathcore, death metal, metalcore, alternative, bsdm a podobné",
-      "description": "Ahoj hledám kapelu, dělám scream a growl, mohu poslat demo. Ideálně deathcore, death metal, metalcore, alternative, bsdm a podobné",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [
-        "Emo"
-      ],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 60,
-      "reasons": [
-        "emo",
-        "Praha 10"
       ]
     },
     {
