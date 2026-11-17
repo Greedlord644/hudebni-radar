@@ -1,7 +1,33 @@
 {
-  "updatedAt": "2026-11-17T21:31:35.009914+00:00",
+  "updatedAt": "2026-11-17T21:41:33.099940+00:00",
   "windowDays": 60,
   "singerSeeking": [
+    {
+      "id": "bandmate:9b71ece3-2cf0-4b98-9b35-2548aae77987",
+      "title": "Zpěváčka hledá kapelu která hlavě elektronickou hudbu EBM",
+      "url": "https://bandmate.cz/inzerat/zp-v-ka-hled-kapelu-kter-hlav-elektronickou-hudbu-ebm-FdWq8M",
+      "date": "2026-11-17T21:32:35.500822+00:00",
+      "location": "Praha",
+      "author": "Sergie",
+      "excerpt": "Zpěváčka hledá kapelu která hlavě elektronickou hudbu EBM Jsem zpěvačka a autorka vlastní hudby. Hudbě se věnuji přibližně 4 roky. Mám zkušenosti s psaním vlastních textů, tvorbou melodií a živým vystupováním. Mým hudebním směrem je především EBM, elektronická hudba, industrial, darkwave a alternativní rock. Mám ráda výrazný…",
+      "description": "Zpěváčka hledá kapelu která hlavě elektronickou hudbu EBM Jsem zpěvačka a autorka vlastní hudby. Hudbě se věnuji přibližně 4 roky. Mám zkušenosti s psaním vlastních textů, tvorbou melodií a živým vystupováním.\nMým hudebním směrem je především EBM, elektronická hudba, industrial, darkwave a alternativní rock. Mám ráda výrazný hlasový projev, hlubší vokály, energii a temnější atmosféru.\nHledám kapelu nebo muzikanty v Praze a okolí, se kterými bych mohla spolupracovat jako hlavní zpěvačka (frontwoman). Ráda bych se posunula dál, získala nové zkušenosti, vystupovala na koncertech a společně tvořila vlastní hudbu.\nMoje inspirace jsou Depeche Mode, And One, Oomph!, Dave Gahan, Steve Naghavi a Dero Goi.\nJsem otevřená novým hudebním nápadům a spolupráci. elektronika zpěv",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Alt-rock",
+        "Elektronika",
+        "Industrial"
+      ],
+      "isPrague": true,
+      "source": "Bandmate",
+      "score": 85,
+      "reasons": [
+        "zpěv hledá",
+        "Praha",
+        "alternativní rock",
+        "podrobný inzerát"
+      ]
+    },
     {
       "id": "hudebnibazar:793955",
       "title": "Zpěvačka se chce někam upíchnout",
@@ -235,6 +261,30 @@
     }
   ],
   "interesting": [
+    {
+      "id": "bandmate:9b71ece3-2cf0-4b98-9b35-2548aae77987",
+      "title": "Zpěváčka hledá kapelu která hlavě elektronickou hudbu EBM",
+      "url": "https://bandmate.cz/inzerat/zp-v-ka-hled-kapelu-kter-hlav-elektronickou-hudbu-ebm-FdWq8M",
+      "date": "2026-11-17T21:32:35.500822+00:00",
+      "location": "Praha",
+      "author": "Sergie",
+      "excerpt": "Zpěváčka hledá kapelu která hlavě elektronickou hudbu EBM Jsem zpěvačka a autorka vlastní hudby. Hudbě se věnuji přibližně 4 roky. Mám zkušenosti s psaním vlastních textů, tvorbou melodií a živým vystupováním. Mým hudebním směrem je především EBM, elektronická hudba, industrial, darkwave a alternativní rock. Mám ráda výrazný…",
+      "description": "Zpěváčka hledá kapelu která hlavě elektronickou hudbu EBM Jsem zpěvačka a autorka vlastní hudby. Hudbě se věnuji přibližně 4 roky. Mám zkušenosti s psaním vlastních textů, tvorbou melodií a živým vystupováním.\nMým hudebním směrem je především EBM, elektronická hudba, industrial, darkwave a alternativní rock. Mám ráda výrazný hlasový projev, hlubší vokály, energii a temnější atmosféru.\nHledám kapelu nebo muzikanty v Praze a okolí, se kterými bych mohla spolupracovat jako hlavní zpěvačka (frontwoman). Ráda bych se posunula dál, získala nové zkušenosti, vystupovala na koncertech a společně tvořila vlastní hudbu.\nMoje inspirace jsou Depeche Mode, And One, Oomph!, Dave Gahan, Steve Naghavi a Dero Goi.\nJsem otevřená novým hudebním nápadům a spolupráci. elektronika zpěv",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Alt-rock",
+        "Elektronika",
+        "Industrial"
+      ],
+      "isPrague": true,
+      "source": "Bandmate",
+      "score": 94,
+      "reasons": [
+        "alternativní rock",
+        "Praha"
+      ]
+    },
     {
       "id": "hudebnibazar:780586",
       "title": "Zavedena metalova kapela hleda bubenika!",
