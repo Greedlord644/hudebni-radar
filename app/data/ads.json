@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T16:51:32.325229+00:00",
+  "updatedAt": "2026-11-17T17:02:01.020632+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -235,6 +235,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:785747",
+      "title": "HLEDÁM SPOLUHRÁČE",
+      "url": "https://hudebnibazar.cz/hledam-spoluhrace/ID785747/",
+      "date": "2026-11-17T17:58:00+01:00",
+      "location": "Praha 4",
+      "author": "Gogen.77",
+      "excerpt": "Jsem kytarista a hledám spoluhráče... ( tím myslím, hotovou kapelu.) Mám solidní zkušenosti, vybavení a hlavně chuť dělat kvalitní, autorskou muziku. (ROCK/HARD) Lokalita Praha",
+      "description": "Jsem kytarista a hledám spoluhráče...\n( tím myslím, hotovou kapelu.)\nMám solidní zkušenosti, vybavení a hlavně chuť dělat kvalitní, autorskou muziku. (ROCK/HARD)\nLokalita Praha",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "Praha 4",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:794031",
       "title": "Pop-punk Xanax hledaji zpev!",
@@ -1154,26 +1174,6 @@
         "Praha 8",
         "lokální networking",
         "podrobný inzerát"
-      ]
-    },
-    {
-      "id": "hudebnibazar:785747",
-      "title": "HLEDÁM SPOLUHRÁČE",
-      "url": "https://hudebnibazar.cz/hledam-spoluhrace/ID785747/",
-      "date": "2026-11-11T02:28:00+01:00",
-      "location": "Praha 4",
-      "author": "Gogen.77",
-      "excerpt": "Jsem kytarista a hledám spoluhráče... ( tím myslím, hotovou kapelu.) Mám solidní zkušenosti, vybavení a hlavně chuť dělat kvalitní, autorskou muziku. (ROCK/HARD) Lokalita Praha",
-      "description": "Jsem kytarista a hledám spoluhráče...\n( tím myslím, hotovou kapelu.)\nMám solidní zkušenosti, vybavení a hlavně chuť dělat kvalitní, autorskou muziku. (ROCK/HARD)\nLokalita Praha",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 69,
-      "reasons": [
-        "Praha 4",
-        "lokální networking"
       ]
     },
     {
