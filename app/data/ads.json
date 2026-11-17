@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-11-17T13:02:10.176650+00:00",
+  "updatedAt": "2026-11-17T13:11:32.753195+00:00",
   "windowDays": 60,
   "singerSeeking": [
+    {
+      "id": "hudebnibazar:793955",
+      "title": "Zpěvačka se chce někam upíchnout",
+      "url": "https://hudebnibazar.cz/zpevacka-se-chce-nekam-upichnout/ID793955/",
+      "date": "2026-11-17T14:10:00+01:00",
+      "location": "Praha-západ",
+      "author": "Lucie.H2",
+      "excerpt": "V civilu spisovatelka, filmová a divadelní scenáristka, matka, maželka,... 38 let. Duší zpívajíci \"anděl\", čili zpěv miluji, zpívám a chci zpívat. Nic tvrdého... Pop, pop-rock, swing,... Hledám pouze vážně. Nabídek v řádu desítek už jsem předchozí roky měla a když mělo dojít na věc...jakože se sejít a začít tvořit, tak skutek…",
+      "description": "V civilu spisovatelka, filmová a divadelní scenáristka, matka, maželka,... 38 let.\nDuší zpívajíci \"anděl\", čili zpěv miluji, zpívám a chci zpívat. Nic tvrdého... Pop, pop-rock, swing,...\nHledám pouze vážně. Nabídek v řádu desítek už jsem předchozí roky měla a když mělo dojít na věc...jakože se sejít a začít tvořit, tak skutek utekl. Už to pomalu začínám vzdávat :D\nPouze Praha a blízké okolí směrem na Slapy.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 62,
+      "reasons": [
+        "zpěv hledá",
+        "Praha-západ"
+      ]
+    },
     {
       "id": "hudebnibazar:792170",
       "title": "Zpěvák hledá novou kapelu",
@@ -215,6 +235,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:793955",
+      "title": "Zpěvačka se chce někam upíchnout",
+      "url": "https://hudebnibazar.cz/zpevacka-se-chce-nekam-upichnout/ID793955/",
+      "date": "2026-11-17T14:10:00+01:00",
+      "location": "Praha-západ",
+      "author": "Lucie.H2",
+      "excerpt": "V civilu spisovatelka, filmová a divadelní scenáristka, matka, maželka,... 38 let. Duší zpívajíci \"anděl\", čili zpěv miluji, zpívám a chci zpívat. Nic tvrdého... Pop, pop-rock, swing,... Hledám pouze vážně. Nabídek v řádu desítek už jsem předchozí roky měla a když mělo dojít na věc...jakože se sejít a začít tvořit, tak skutek…",
+      "description": "V civilu spisovatelka, filmová a divadelní scenáristka, matka, maželka,... 38 let.\nDuší zpívajíci \"anděl\", čili zpěv miluji, zpívám a chci zpívat. Nic tvrdého... Pop, pop-rock, swing,...\nHledám pouze vážně. Nabídek v řádu desítek už jsem předchozí roky měla a když mělo dojít na věc...jakože se sejít a začít tvořit, tak skutek utekl. Už to pomalu začínám vzdávat :D\nPouze Praha a blízké okolí směrem na Slapy.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Praha-západ",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:780041",
       "title": "Kytarista hledá kapelu",
