@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T22:31:52.093033+00:00",
+  "updatedAt": "2026-11-18T22:41:34.747396+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -261,6 +261,32 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:794315",
+      "title": "Moorah hledá kytaristu",
+      "url": "https://hudebnibazar.cz/moorah-hleda-kytaristu/ID794315/",
+      "date": "2026-11-18T23:33:00+01:00",
+      "location": "Praha 4",
+      "author": "C.H",
+      "excerpt": "Metalová Moorah hledá kytaristu. Právě vyšlo druhé album, pracujemena třetím, rýsují se dost zajímavé koncerty. Chybí nám nám spolehlivý, přiměřeně ambiciózní kytarista (máme dvě kytary), který má touhu hrát. Nehledáme technického přeborníka. Důležitý je přístup, touha, slovo chlapa. A taky rychlá pravačka. Zkoušíme 1x-2x za 14…",
+      "description": "Metalová Moorah hledá kytaristu.\nPrávě vyšlo druhé album, pracujemena třetím, rýsují se dost zajímavé koncerty. Chybí nám nám spolehlivý, přiměřeně ambiciózní kytarista (máme dvě kytary), který má touhu hrát.\nNehledáme technického přeborníka. Důležitý je přístup, touha, slovo chlapa. A taky rychlá pravačka.\nZkoušíme 1x-2x za 14 dní v Praze.\nhttps://www.youtube.com/watch?v=n69WrtFpY9I\nhttps://www.youtube.com/watch?v=LCwUlolVaFM\nhttps://www.youtube.com/watch?v=Fv8cfDjbWak",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=n69WrtFpY9I",
+        "https://www.youtube.com/watch?v=LCwUlolVaFM",
+        "https://www.youtube.com/watch?v=Fv8cfDjbWak"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 92,
+      "reasons": [
+        "Praha 4",
+        "lokální networking",
+        "odkaz na profil / ukázku",
+        "podrobný inzerát"
+      ]
+    },
     {
       "id": "bandmate:9ff123cf-1e98-4886-9609-ad31249c897e",
       "title": "Kytaristka hledá kapelu",
