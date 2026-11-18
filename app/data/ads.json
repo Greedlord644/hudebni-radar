@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T09:02:01.909819+00:00",
+  "updatedAt": "2026-11-18T09:11:36.765452+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -261,6 +261,27 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:794164",
+      "title": "Zpěv rock/punk/metal",
+      "url": "https://hudebnibazar.cz/zpev-rock-punk-metal/ID794164/",
+      "date": "2026-11-18T10:05:00+01:00",
+      "location": "Mělník",
+      "author": "Edii.Hurrycane",
+      "excerpt": "Ahoj, je mi 29 let jsem začínající zpěvák a rád bych se někde uchytil nebo založil vlastní projekt. Příležitostně hraji i na baskytaru, ale to je takové domácí hraní, na kapelu to není. Co bych chtěl dělat? ideálně Gothic rock/Hardcore punk, ale nebráním se žádné kytarové hudbě. Jedu spíše čistý hlas, harsh mi nejde. Co mě…",
+      "description": "Ahoj, je mi 29 let jsem začínající zpěvák a rád bych se někde uchytil nebo založil vlastní projekt.\nPříležitostně hraji i na baskytaru, ale to je takové domácí hraní, na kapelu to není.\nCo bych chtěl dělat? ideálně Gothic rock/Hardcore punk, ale nebráním se žádné kytarové hudbě. Jedu spíše čistý hlas, harsh mi nejde.\nCo mě inspiruje? Danzig, Misfits, The Cult, Charon, Type O Negative, Paradise Lost, Alice In Chains, Black Sabbath, Agnostic Front, U2, Corrosion of Conformity….z české scény zejména Lucie, Wanastowi Vjecy a Visací Zámek či Krucipüsk.\nPreferovaný jazyk? čeština, v angličtině neexceluji.\nOdkud jsem? Neratovice, preferuji nějáký radius Neratovice-Praha-Roudnice řekněme.\nBudu rád za jakoukoliv zprávu. Děkuji.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 74,
+      "reasons": [
+        "Mělník",
+        "lokální networking",
+        "podrobný inzerát"
+      ]
+    },
     {
       "id": "bandmate:9b71ece3-2cf0-4b98-9b35-2548aae77987",
       "title": "Zpěváčka hledá kapelu která hlavě elektronickou hudbu EBM",
