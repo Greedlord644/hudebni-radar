@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T10:21:31.481854+00:00",
+  "updatedAt": "2026-11-18T10:31:34.797262+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -261,6 +261,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:784806",
+      "title": "HLEDÁM AUTORSKÝ BAND",
+      "url": "https://hudebnibazar.cz/hledam-autorsky-band/ID784806/",
+      "date": "2026-11-18T11:25:00+01:00",
+      "location": "Praha 4",
+      "author": "Gogen.77",
+      "excerpt": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím. Jen aktivní kapely z Prahy.",
+      "description": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím.\nJen aktivní kapely z Prahy.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "Praha 4",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:794174",
       "title": "Synthwave, Horrorwave, Metal",
@@ -1144,26 +1164,6 @@
         "nu-metal",
         "odkaz na profil / ukázku",
         "Kroměříž"
-      ]
-    },
-    {
-      "id": "hudebnibazar:784806",
-      "title": "HLEDÁM AUTORSKÝ BAND",
-      "url": "https://hudebnibazar.cz/hledam-autorsky-band/ID784806/",
-      "date": "2026-11-11T21:20:00+01:00",
-      "location": "Praha 4",
-      "author": "Gogen.77",
-      "excerpt": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím. Jen aktivní kapely z Prahy.",
-      "description": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím.\nJen aktivní kapely z Prahy.",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 69,
-      "reasons": [
-        "Praha 4",
-        "lokální networking"
       ]
     },
     {
