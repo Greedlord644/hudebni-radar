@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T12:01:59.131828+00:00",
+  "updatedAt": "2026-11-18T12:11:28.914418+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -376,18 +376,19 @@
       "date": "2026-11-18T10:05:00+01:00",
       "location": "Mělník",
       "author": "Edii.Hurrycane",
-      "excerpt": "Ahoj, je mi 29 let jsem začínající zpěvák a rád bych se někde uchytil nebo založil vlastní projekt. Příležitostně hraji i na baskytaru, ale to je takové domácí hraní, na kapelu to není. Co bych chtěl dělat? ideálně Gothic rock/Hardcore punk, ale nebráním se žádné kytarové hudbě. Jedu spíše čistý hlas, harsh mi nejde. Co mě…",
-      "description": "Ahoj, je mi 29 let jsem začínající zpěvák a rád bych se někde uchytil nebo založil vlastní projekt.\nPříležitostně hraji i na baskytaru, ale to je takové domácí hraní, na kapelu to není.\nCo bych chtěl dělat? ideálně Gothic rock/Hardcore punk, ale nebráním se žádné kytarové hudbě. Jedu spíše čistý hlas, harsh mi nejde.\nCo mě inspiruje? Danzig, Misfits, The Cult, Charon, Type O Negative, Paradise Lost, Alice In Chains, Black Sabbath, Agnostic Front, U2, Corrosion of Conformity….z české scény zejména Lucie, Wanastowi Vjecy a Visací Zámek či Krucipüsk.\nPreferovaný jazyk? čeština, v angličtině neexceluji.\nOdkud jsem? Neratovice, preferuji nějáký radius Neratovice-Praha-Roudnice řekněme.\nBudu rád za jakoukoliv zprávu. Děkuji.",
+      "excerpt": "Ahoj, je mi 29 let jsem začínající zpěvák a rád bych se někde uchytil nebo založil vlastní projekt. Příležitostně hraji i na baskytaru, ale to je takové domácí hraní, na kapelu to není. Co bych chtěl dělat? ideálně Gothic rock/Hardcore punk/grunge, ale nebráním se žádné kytarové hudbě. Jedu spíše čistý hlas, harsh mi nejde. Co…",
+      "description": "Ahoj, je mi 29 let jsem začínající zpěvák a rád bych se někde uchytil nebo založil vlastní projekt.\nPříležitostně hraji i na baskytaru, ale to je takové domácí hraní, na kapelu to není.\nCo bych chtěl dělat? ideálně Gothic rock/Hardcore punk/grunge, ale nebráním se žádné kytarové hudbě. Jedu spíše čistý hlas, harsh mi nejde.\nCo mě inspiruje? Danzig, Misfits, The Cult, Charon, Type O Negative, Paradise Lost, Alice In Chains, Black Sabbath, Agnostic Front, U2, Corrosion of Conformity….z české scény zejména Lucie, Wanastowi Vjecy a Visací Zámek či Krucipüsk.\nPreferovaný jazyk? čeština, v angličtině neexceluji.\nOdkud jsem? Neratovice, preferuji nějáký radius Neratovice-Praha-Roudnice řekněme.\nBudu rád za jakoukoliv zprávu. Děkuji.",
       "externalLinks": [],
       "influences": [],
-      "genres": [],
+      "genres": [
+        "Grunge"
+      ],
       "isPrague": false,
       "source": "Hudební bazar",
-      "score": 74,
+      "score": 70,
       "reasons": [
-        "Mělník",
-        "lokální networking",
-        "podrobný inzerát"
+        "grunge",
+        "Mělník"
       ]
     },
     {
