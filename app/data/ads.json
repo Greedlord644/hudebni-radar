@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T10:51:34.559819+00:00",
+  "updatedAt": "2026-11-18T11:02:05.034605+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -261,6 +261,29 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:780593",
+      "title": "Hledáme bubeníka",
+      "url": "https://hudebnibazar.cz/hledame-bubenika/ID780593/",
+      "date": "2026-11-18T11:50:00+01:00",
+      "location": "Praha 9",
+      "author": "Tomas.Roucka2",
+      "excerpt": "Heavy metalová kapela Soul Keeper hledá bubeníka. Více info do zpráv nebo po telefonu.",
+      "description": "Heavy metalová kapela Soul Keeper hledá bubeníka. Více info do zpráv nebo po telefonu.",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=ytCfQFt7LJs"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 78,
+      "reasons": [
+        "Praha 9",
+        "lokální networking",
+        "odkaz na profil / ukázku"
+      ]
+    },
     {
       "id": "hudebnibazar:784806",
       "title": "HLEDÁM AUTORSKÝ BAND",
@@ -1615,7 +1638,7 @@
     {
       "id": "midi:259475",
       "title": "Profesionální univerzální kytarista hledá aktivní kapelu nebo záskoky (Praha)",
-      "url": "https://www.midi.cz/inzerat/259475/profesionalni-univerzalni-kytarista-hleda-aktivni-kapelu-nebo-zaskoky-praha/",
+      "url": "http://www.midi.cz/inzerat/259475/profesionalni-univerzalni-kytarista-hleda-aktivni-kapelu-nebo-zaskoky-praha/",
       "date": "2026-11-09T15:12:00+01:00",
       "location": "Praha",
       "author": "Paul Seedorenko",
@@ -3852,29 +3875,6 @@
       "reasons": [
         "Praha-východ",
         "lokální networking"
-      ]
-    },
-    {
-      "id": "hudebnibazar:780593",
-      "title": "Hledáme bubeníka",
-      "url": "https://hudebnibazar.cz/hledame-bubenika/ID780593/",
-      "date": "2026-10-16T11:13:00+02:00",
-      "location": "Praha 9",
-      "author": "Tomas.Roucka2",
-      "excerpt": "Heavy metalová kapela Soul Keeper hledá bubeníka. Více info do zpráv nebo po telefonu.",
-      "description": "Heavy metalová kapela Soul Keeper hledá bubeníka. Více info do zpráv nebo po telefonu.",
-      "externalLinks": [
-        "https://www.youtube.com/watch?v=ytCfQFt7LJs"
-      ],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 78,
-      "reasons": [
-        "Praha 9",
-        "lokální networking",
-        "odkaz na profil / ukázku"
       ]
     },
     {
