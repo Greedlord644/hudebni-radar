@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T20:11:38.336974+00:00",
+  "updatedAt": "2026-11-18T20:21:34.924140+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -261,6 +261,30 @@
     }
   ],
   "interesting": [
+    {
+      "id": "bandmate:9ff123cf-1e98-4886-9609-ad31249c897e",
+      "title": "Kytaristka hledá kapelu",
+      "url": "https://bandmate.cz/inzerat/kytaristka-hled-kapelu-RdVo3G",
+      "date": "2026-11-18T20:20:04.358998+00:00",
+      "location": "Olomouc",
+      "author": "Anna",
+      "excerpt": "Kytaristka hledá kapelu Ahojky, hledam kapelu. Na kytaru hraju dva roky, jsem pilna, spolehliva a pracovita. Jsem velmi prizpusobiva. S minulou kapelou mi to nevyslo, ale nechci to vzdat. rock, metal, punk, emo, grunge basa,bicí,klávesy,zpěv",
+      "description": "Kytaristka hledá kapelu Ahojky, hledam kapelu. Na kytaru hraju dva roky, jsem pilna, spolehliva a pracovita. Jsem velmi prizpusobiva. S minulou kapelou mi to nevyslo, ale nechci to vzdat. rock, metal, punk, emo, grunge basa,bicí,klávesy,zpěv",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Emo",
+        "Grunge"
+      ],
+      "isPrague": false,
+      "source": "Bandmate",
+      "score": 67,
+      "reasons": [
+        "emo",
+        "grunge",
+        "Olomouc"
+      ]
+    },
     {
       "id": "hudebnibazar:772011",
       "title": "Hledám zpěváka/zpěvačku - Praha",
