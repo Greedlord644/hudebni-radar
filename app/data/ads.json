@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T07:51:35.575825+00:00",
+  "updatedAt": "2026-11-19T08:02:05.583810+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -261,6 +261,51 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:788736",
+      "title": "písničkář hledá další nadšené muzikanty !!!",
+      "url": "https://hudebnibazar.cz/pisnickar-hleda-dalsi-nadsene-muzikanty/ID788736/",
+      "date": "2026-11-19T08:55:00+01:00",
+      "location": "Praha 4",
+      "author": "Martin.Nemec4",
+      "excerpt": "Příležitostný písničkář s rockovou duší hledá hudební nadšence, kteří by se nebáli zapojit do nového alternativního projektu vyznačujícího se akustickým základem, různorodou dynamikou a melancholickými emocemi. Zváni jsou aktivní muzikanti, ale i pasivní jedinci, kteří si mysleli, že už mají to nejlepší za sebou. Potřeba jsou…",
+      "description": "Příležitostný písničkář s rockovou duší hledá hudební nadšence, kteří by se nebáli zapojit do nového alternativního projektu vyznačujícího se akustickým základem, různorodou dynamikou a melancholickými emocemi. Zváni jsou aktivní muzikanti, ale i pasivní jedinci, kteří si mysleli, že už mají to nejlepší za sebou. Potřeba jsou všichni, co umí vyluzovat jakékoliv zvuky, ale především Ti co umí mlátit do škopků, napínat struny, či trápit svoje hlasivky.\nPraha, 30-50let\nUKÁZKY MÉ TVORBY VIZ ODKAZ NÍŽE",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Emo"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 70,
+      "reasons": [
+        "emo",
+        "Praha 4"
+      ]
+    },
+    {
+      "id": "bandmate:7dd25757-f99d-4c6d-a90a-fc3c463b0e61",
+      "title": "Hledáme bubeníka do kapely alternativní rock/core",
+      "url": "https://bandmate.cz/inzerat/hled-me-buben-ka-do-kapely-alternativn-rock-core-hrhlq5",
+      "date": "2026-11-19T07:53:00.909422+00:00",
+      "location": "Teplice",
+      "author": "Maxie Tony",
+      "excerpt": "Hledáme bubeníka do kapely alternativní rock/core Do naší kapely hledáme bubeníka, který má chuť hrát, tvořit vlastní hudbu a posouvat se společně dál. Hrajeme vlastní tvorbu ve stylu moderního rocku / alternative rocku / post-hardcoru. Co hledáme: * Nadšení pro hudbu a chuť pravidelně zkoušet * Spolehlivost a zodpovědný…",
+      "description": "Hledáme bubeníka do kapely alternativní rock/core Do naší kapely hledáme bubeníka, který má chuť hrát, tvořit vlastní hudbu a posouvat se společně dál.\nHrajeme vlastní tvorbu ve stylu moderního rocku / alternative rocku / post-hardcoru.\nCo hledáme:\n* Nadšení pro hudbu a chuť pravidelně zkoušet\n* Spolehlivost a zodpovědný přístup\n* Vlastní nápady a kreativitu\n* Chuť tvořit originální hudbu, koncertovat a budovat kapelu\nZkoušíme pravidelně (cca 3× týdně, 2–3 hodiny).\n📍 Působíme v Ústeckým kraji, mame zkoušenu v Teplice ale rádi se domluvíme i s někým z okolí.\nNejde nám jen o to najít někoho, kdo bude hrát na bicí. Hledáme parťáka, který chce být součástí kapely a společně s námi něco vybudovat. rock, metal, alternative bicí",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Alt-rock"
+      ],
+      "isPrague": false,
+      "source": "Bandmate",
+      "score": 88,
+      "reasons": [
+        "alternative rock",
+        "alternativní rock",
+        "Teplice"
+      ]
+    },
     {
       "id": "hudebnibazar:794315",
       "title": "Moorah hledá kytaristu",
@@ -1255,28 +1300,6 @@
         "jasný projekt / zkušenosti",
         "odkaz na profil / ukázku",
         "Olomouc"
-      ]
-    },
-    {
-      "id": "hudebnibazar:788736",
-      "title": "písničkář hledá další nadšené muzikanty !!!",
-      "url": "https://hudebnibazar.cz/pisnickar-hleda-dalsi-nadsene-muzikanty/ID788736/",
-      "date": "2026-11-12T14:04:00+01:00",
-      "location": "Praha 4",
-      "author": "Martin.Nemec4",
-      "excerpt": "Příležitostný písničkář s rockovou duší hledá hudební nadšence, kteří by se nebáli zapojit do nového alternativního projektu vyznačujícího se akustickým základem, různorodou dynamikou a melancholickými emocemi. Zváni jsou aktivní muzikanti, ale i pasivní jedinci, kteří si mysleli, že už mají to nejlepší za sebou. Potřeba jsou…",
-      "description": "Příležitostný písničkář s rockovou duší hledá hudební nadšence, kteří by se nebáli zapojit do nového alternativního projektu vyznačujícího se akustickým základem, různorodou dynamikou a melancholickými emocemi. Zváni jsou aktivní muzikanti, ale i pasivní jedinci, kteří si mysleli, že už mají to nejlepší za sebou. Potřeba jsou všichni, co umí vyluzovat jakékoliv zvuky, ale především Ti co umí mlátit do škopků, napínat struny, či trápit svoje hlasivky.\nPraha, 30-50let\nUKÁZKY MÉ TVORBY VIZ ODKAZ NÍŽE",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [
-        "Emo"
-      ],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 70,
-      "reasons": [
-        "emo",
-        "Praha 4"
       ]
     },
     {
