@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T16:21:40.668911+00:00",
+  "updatedAt": "2026-11-20T16:31:52.417959+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -241,6 +241,31 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:792203",
+      "title": "Hledá se basák (vlastní tvorba, metal, drop C)",
+      "url": "https://hudebnibazar.cz/hleda-se-basak-vlastni-tvorba-metal-drop-c/ID792203/",
+      "date": "2026-11-20T17:23:00+01:00",
+      "location": "Praha 11",
+      "author": "Vojtech.Jedlicka2",
+      "excerpt": "Zdar, bubeník a kytarista hledá basáka na založení metalové kapely žánr nu-metal/ trash (není pevně dáno ale něco na ten styl) ladění drop C. Věkově hledám vrstevníky takže kolem 20 let. Nehledám úplné virtuózy nebo znalce hudební teorie ale bylo by fajn ten nástroj nějak ovládat. V případě zájmu pište klidně na ig: Hugacak_007…",
+      "description": "Zdar, bubeník a kytarista hledá basáka na založení metalové kapely žánr nu-metal/ trash (není pevně dáno ale něco na ten styl) ladění drop C. Věkově hledám vrstevníky takže kolem 20 let. Nehledám úplné virtuózy nebo znalce hudební teorie ale bylo by fajn ten nástroj nějak ovládat.\nV případě zájmu pište klidně na ig:\nHugacak_007 (na profilovce trpaslík)",
+      "externalLinks": [
+        "https://instagram.com/Hugacak_007"
+      ],
+      "influences": [],
+      "genres": [
+        "Nu-metal"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 100,
+      "reasons": [
+        "nu-metal",
+        "odkaz na profil / ukázku",
+        "Praha 11"
+      ]
+    },
     {
       "id": "hudebnibazar:794595",
       "title": "HLEDÁME METALOVÉHO KYTARISTU",
@@ -2038,31 +2063,6 @@
         "alternativní rock",
         "odkaz na profil / ukázku",
         "Praha 10"
-      ]
-    },
-    {
-      "id": "hudebnibazar:792203",
-      "title": "Hledám bubeníka, basáka",
-      "url": "https://hudebnibazar.cz/hledam-bubenika-basaka/ID792203/",
-      "date": "2026-11-08T00:25:00+01:00",
-      "location": "Praha 11",
-      "author": "Vojtech.Jedlicka2",
-      "excerpt": "Zdar, hledám lidi na založení metalové kapely žánr nu-metal/ trash (není pevně dáno ale něco na ten styl) ladění drop C. Věkově hledám vrstevníky takže kolem 20 let. Nehledám úplné virtuózy nebo znalce hudební teorie ale bylo by fajn ten nástroj nějak ovládat. V případě zájmu pište na ig: Hugacak_007 (na profilovce trpaslík)",
-      "description": "Zdar, hledám lidi na založení metalové kapely žánr nu-metal/ trash (není pevně dáno ale něco na ten styl) ladění drop C. Věkově hledám vrstevníky takže kolem 20 let. Nehledám úplné virtuózy nebo znalce hudební teorie ale bylo by fajn ten nástroj nějak ovládat.\nV případě zájmu pište na ig:\nHugacak_007 (na profilovce trpaslík)",
-      "externalLinks": [
-        "https://instagram.com/Hugacak_007"
-      ],
-      "influences": [],
-      "genres": [
-        "Nu-metal"
-      ],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 100,
-      "reasons": [
-        "nu-metal",
-        "odkaz na profil / ukázku",
-        "Praha 11"
       ]
     },
     {
