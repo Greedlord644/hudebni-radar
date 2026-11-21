@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T23:31:41.921696+00:00",
+  "updatedAt": "2026-11-21T23:41:35.798380+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -220,6 +220,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "bandmate:49dd4c51-39e3-4762-b966-ad02c6926622",
+      "title": "Potřebujeme pořádného bubeníka",
+      "url": "https://bandmate.cz/inzerat/pot-ebujeme-po-dn-ho-buben-ka-Bgo0BK",
+      "date": "2026-11-21T23:32:11.153273+00:00",
+      "location": "Praha",
+      "author": "Charlie.666",
+      "excerpt": "Potřebujeme pořádného bubeníka Čau jsem Charlie v kapele jako Wendigo naše nově skoro sestavená kepela criptidi název se možná změní jsem nejstarší ze skupiny takže 15 let jsem vokalista a potřebujeme pořádného metalového bubeníka hrajeme hodně druhů metalu za tím zkoušíme různý kapely a kytaristi z kapely jedou jak dead z…",
+      "description": "Potřebujeme pořádného bubeníka Čau jsem Charlie v kapele jako Wendigo naše nově skoro sestavená kepela criptidi název se možná změní jsem nejstarší ze skupiny takže 15 let jsem vokalista a potřebujeme pořádného metalového bubeníka hrajeme hodně druhů metalu za tím zkoušíme různý kapely a kytaristi z kapely jedou jak dead z kapely mayhem kapela kriptidy Praha Radotín a česky umět metal, punk, rock bicí",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Bandmate",
+      "score": 66,
+      "reasons": [
+        "Praha",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:794799",
       "title": "HLEDÁME KAPELU NA KONCERT",
