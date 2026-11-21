@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T11:41:31.549077+00:00",
+  "updatedAt": "2026-11-21T11:51:35.596407+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -241,6 +241,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:791801",
+      "title": "Hledám country partu/kapelu",
+      "url": "https://hudebnibazar.cz/hledam-country-partu-kapelu/ID791801/",
+      "date": "2026-11-21T12:49:00+01:00",
+      "location": "Praha 4",
+      "author": "B.G",
+      "excerpt": "S houslemi nebo s el. kytarou doplním pohodovou partu, nejraději ve stylu country music, country folk, country rock, honky tonk .... ale i blues, folk, bluegrass, případně další .... Hledám partu staršího věku, kde se už nemusí ztrácet čas zkouškami a o to častěji se hraje, především pro vlastní zábavu ... Praha (ideálně blízko…",
+      "description": "S houslemi nebo s el. kytarou doplním pohodovou partu, nejraději ve stylu country music, country folk, country rock, honky tonk .... ale i blues, folk, bluegrass, případně další .... Hledám partu staršího věku, kde se už nemusí ztrácet čas zkouškami a o to častěji se hraje, především pro vlastní zábavu ... Praha (ideálně blízko MHD), případně i její okolí (ideálně s dobrým parkováním pro auto)",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Praha 4",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:786529",
       "title": "HLEDÁM SPOLUHRÁČE",
@@ -1258,26 +1278,6 @@
         "jasný projekt / zkušenosti",
         "odkaz na profil / ukázku",
         "Náchod"
-      ]
-    },
-    {
-      "id": "hudebnibazar:791801",
-      "title": "Hledám country partu/kapelu",
-      "url": "https://hudebnibazar.cz/hledam-country-partu-kapelu/ID791801/",
-      "date": "2026-11-16T13:27:00+01:00",
-      "location": "Praha 4",
-      "author": "B.G",
-      "excerpt": "S houslemi nebo s el. kytarou doplním pohodovou partu, nejraději ve stylu country music, country folk, country rock, honky tonk .... ale i blues, folk, bluegrass, případně další .... Hledám partu staršího věku, kde se už nemusí ztrácet čas zkouškami a o to častěji se hraje, především pro vlastní zábavu ... Praha (ideálně blízko…",
-      "description": "S houslemi nebo s el. kytarou doplním pohodovou partu, nejraději ve stylu country music, country folk, country rock, honky tonk .... ale i blues, folk, bluegrass, případně další .... Hledám partu staršího věku, kde se už nemusí ztrácet čas zkouškami a o to častěji se hraje, především pro vlastní zábavu ... Praha (ideálně blízko MHD), případně i její okolí (ideálně s dobrým parkováním pro auto)",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 66,
-      "reasons": [
-        "Praha 4",
-        "lokální networking"
       ]
     },
     {
