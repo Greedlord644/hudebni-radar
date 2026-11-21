@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T13:21:35.607163+00:00",
+  "updatedAt": "2026-11-21T13:31:45.542577+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -241,6 +241,31 @@
     }
   ],
   "interesting": [
+    {
+      "id": "bandmate:b330db96-0a1c-4891-9d8f-174f37d27b06",
+      "title": "Jesen hledá kytaristku / kytaristu – Brno",
+      "url": "https://bandmate.cz/inzerat/jesen-hled-kytaristku-kytaristu-brno-ax8XBp",
+      "date": "2026-11-21T13:27:20.494266+00:00",
+      "location": "Brno",
+      "author": "Bohdan Lukáš",
+      "excerpt": "Jesen hledá kytaristku / kytaristu – Brno Jsme brněnská autorská kapela hrající český alternativní indie-rock. Výrazné kytary, klavír, syrovost, melancholie a trochu absurdity. Sami tomu říkáme mikroepika z duševní periferie. Hledáme kytaristu nebo kytaristku do fungující kapely s hotovým repertoárem a koncertními ambicemi.…",
+      "description": "Jesen hledá kytaristku / kytaristu – Brno Jsme brněnská autorská kapela hrající český alternativní indie-rock. Výrazné kytary, klavír, syrovost, melancholie a trochu absurdity. Sami tomu říkáme mikroepika z duševní periferie.\nHledáme kytaristu nebo kytaristku do fungující kapely s hotovým repertoárem a koncertními ambicemi.\nNepotřebujeme virtuóza, ale někoho schopného sehrát se s ostatními a chuť koncertovat. Prostor pro vlastní zvuk a nápady v kytarových aranžích určitě je.\nJak hrajeme: https://youtu.be/YScmoEZvMQk\nWeb: https://jesen.band/\nOzvi se, pokud tě naše hudba osloví. Rádi se potkáme na společné zkoušce.\nindie, alternative, rock, pop kytara",
+      "externalLinks": [
+        "https://youtu.be/YScmoEZvMQk",
+        "https://jesen.band/"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Bandmate",
+      "score": 87,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Brno"
+      ]
+    },
     {
       "id": "hudebnibazar:791801",
       "title": "Hledám country partu/kapelu",
