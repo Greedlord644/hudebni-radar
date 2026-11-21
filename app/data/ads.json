@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T14:21:34.497089+00:00",
+  "updatedAt": "2026-11-21T14:32:30.122896+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -215,27 +215,6 @@
         "zpěv hledá",
         "Praha 5",
         "vlastní tvorba",
-        "podrobný inzerát"
-      ]
-    },
-    {
-      "id": "hudebnibazar:783560",
-      "title": "Zpěvačka hledá kapelu?",
-      "url": "https://hudebnibazar.cz/zpevacka-hleda-kapelu/ID783560/",
-      "date": "2026-09-22T16:28:00+02:00",
-      "location": "Praha 10",
-      "author": "Margaret.M",
-      "excerpt": "Ahoj hudebníci, jmenuji se Markéta, je mi 25 let a ráda bych si tady v Praze našla parťáky a vytvořila nějaký nový hudební celek. Ideálně někoho, kdo hraje na kytaru/bicí/basu/klávesy, atd. Se zpíváním mám mnoho zkušeností, jak po sólové dráze, tak s kapelou. Ideálně bych to viděla na nějaký indie rock, alt, folk, ale vlastně…",
-      "description": "Ahoj hudebníci,\njmenuji se Markéta, je mi 25 let a ráda bych si tady v Praze našla parťáky a vytvořila nějaký nový hudební celek. Ideálně někoho, kdo hraje na kytaru/bicí/basu/klávesy, atd.\nSe zpíváním mám mnoho zkušeností, jak po sólové dráze, tak s kapelou. Ideálně bych to viděla na nějaký indie rock, alt, folk, ale vlastně jsem otevřená téměř čemukoliv:).\nPokud hraješ na nějaký nástroj, nebo už kapelu máš a sháníte zpěvačku, budu ráda, když mi napíšeš a pošleme si hudební ukázky:).\nHezký den!?\nMarkéta",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 67,
-      "reasons": [
-        "zpěv hledá",
-        "Praha 10",
         "podrobný inzerát"
       ]
     }
@@ -5846,27 +5825,6 @@
       "reasons": [
         "Praha-východ",
         "lokální networking"
-      ]
-    },
-    {
-      "id": "hudebnibazar:783560",
-      "title": "Zpěvačka hledá kapelu?",
-      "url": "https://hudebnibazar.cz/zpevacka-hleda-kapelu/ID783560/",
-      "date": "2026-09-22T16:28:00+02:00",
-      "location": "Praha 10",
-      "author": "Margaret.M",
-      "excerpt": "Ahoj hudebníci, jmenuji se Markéta, je mi 25 let a ráda bych si tady v Praze našla parťáky a vytvořila nějaký nový hudební celek. Ideálně někoho, kdo hraje na kytaru/bicí/basu/klávesy, atd. Se zpíváním mám mnoho zkušeností, jak po sólové dráze, tak s kapelou. Ideálně bych to viděla na nějaký indie rock, alt, folk, ale vlastně…",
-      "description": "Ahoj hudebníci,\njmenuji se Markéta, je mi 25 let a ráda bych si tady v Praze našla parťáky a vytvořila nějaký nový hudební celek. Ideálně někoho, kdo hraje na kytaru/bicí/basu/klávesy, atd.\nSe zpíváním mám mnoho zkušeností, jak po sólové dráze, tak s kapelou. Ideálně bych to viděla na nějaký indie rock, alt, folk, ale vlastně jsem otevřená téměř čemukoliv:).\nPokud hraješ na nějaký nástroj, nebo už kapelu máš a sháníte zpěvačku, budu ráda, když mi napíšeš a pošleme si hudební ukázky:).\nHezký den!?\nMarkéta",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 71,
-      "reasons": [
-        "Praha 10",
-        "lokální networking",
-        "podrobný inzerát"
       ]
     }
   ]
