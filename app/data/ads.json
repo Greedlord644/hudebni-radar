@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T14:41:34.688233+00:00",
+  "updatedAt": "2026-11-21T14:51:33.316492+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -220,6 +220,52 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:794799",
+      "title": "HLEDÁME KAPELU NA KONCERT",
+      "url": "https://hudebnibazar.cz/hledame-kapelu-na-koncert/ID794799/",
+      "date": "2026-11-21T15:42:00+01:00",
+      "location": "Praha 9",
+      "author": "Michal.Kubs",
+      "excerpt": "Čus, hledám se svojí kapelou Hellriders nějakou mladou, klidně začínající nebo novou kapelu, která by s náma zahrála 24.1. v Jammclubu na Hradčanský. Hrajem 80-90s heavy/power metal-metallica, helloween, megadeth... tak by bylo dobrý kdybyste hráli něco podobnýho. Jestli máte zájem, napište prosím na ig @hellridersoff",
+      "description": "Čus, hledám se svojí kapelou Hellriders nějakou mladou, klidně začínající nebo novou kapelu, která by s náma zahrála 24.1. v Jammclubu na Hradčanský.\nHrajem 80-90s heavy/power metal-metallica, helloween, megadeth... tak by bylo dobrý kdybyste hráli něco podobnýho.\nJestli máte zájem, napište prosím na ig @hellridersoff",
+      "externalLinks": [
+        "https://instagram.com/hellridersoff"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 81,
+      "reasons": [
+        "Praha 9",
+        "lokální networking",
+        "odkaz na profil / ukázku"
+      ]
+    },
+    {
+      "id": "bandmate:f363e3c3-29e9-48d2-a090-3ff8edff8890",
+      "title": "HLEDÁME KAPELU NA KONCERT",
+      "url": "https://bandmate.cz/inzerat/hled-me-kapelu-na-koncert-y3TSlL",
+      "date": "2026-11-21T14:41:04.560101+00:00",
+      "location": "Praha",
+      "author": "Mikey",
+      "excerpt": "HLEDÁME KAPELU NA KONCERT Čus, hledám se svojí kapelou Hellriders nějakou mladou, klidně začínající nebo novou kapelu, která by s náma zahrála 24.1. v Jammclubu na Hradčanský. Hrajem 80-90s heavy/power metal-metallica, helloween, megadeth... tak by bylo dobrý kdybyste hráli něco podobnýho. Jestli máte zájem, napište prosím na…",
+      "description": "HLEDÁME KAPELU NA KONCERT Čus, hledám se svojí kapelou Hellriders nějakou mladou, klidně začínající nebo novou kapelu, která by s náma zahrála 24.1. v Jammclubu na Hradčanský.\nHrajem 80-90s heavy/power metal-metallica, helloween, megadeth... tak by bylo dobrý kdybyste hráli něco podobnýho.\nJestli máte zájem, napište prosím na ig @hellridersoff metal jiný",
+      "externalLinks": [
+        "https://instagram.com/hellridersoff"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Bandmate",
+      "score": 81,
+      "reasons": [
+        "Praha",
+        "lokální networking",
+        "odkaz na profil / ukázku"
+      ]
+    },
     {
       "id": "bandmate:b330db96-0a1c-4891-9d8f-174f37d27b06",
       "title": "Jesen hledá kytaristku / kytaristu – Brno",
