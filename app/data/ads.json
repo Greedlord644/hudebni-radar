@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T15:01:46.960595+00:00",
+  "updatedAt": "2026-11-22T15:11:35.470120+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -220,6 +220,28 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:795021",
+      "title": "Kapela hledá bicí a zpěv - Litoměřice",
+      "url": "https://hudebnibazar.cz/kapela-hleda-bici-a-zpev-litomerice/ID795021/",
+      "date": "2026-11-22T16:03:00+01:00",
+      "location": "Litoměřice",
+      "author": "Bramboraky.Se.Syrem",
+      "excerpt": "Ahoj, jsme kapela z Litoměřic (zkušebnu máme) a hledáme bicí a zpěv. Hodilo by se aby vám bylo max. 20 let. Hrajeme něco od nu metalu po death metal. Bicí i mikrofony ve zkušebně máme. Pokud máte zájem tak budeme rádi když se ozvete.",
+      "description": "Ahoj, jsme kapela z Litoměřic (zkušebnu máme) a hledáme bicí a zpěv. Hodilo by se aby vám bylo max. 20 let. Hrajeme něco od nu metalu po death metal. Bicí i mikrofony ve zkušebně máme. Pokud máte zájem tak budeme rádi když se ozvete.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Nu-metal"
+      ],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 88,
+      "reasons": [
+        "nu metal",
+        "Litoměřice"
+      ]
+    },
     {
       "id": "hudebnibazar:780041",
       "title": "Kytarista hledá kapelu",
