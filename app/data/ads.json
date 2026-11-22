@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T19:42:11.253217+00:00",
+  "updatedAt": "2026-11-22T19:51:33.646297+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -220,6 +220,28 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:793637",
+      "title": "Podklady, tracky, Half-playback",
+      "url": "https://hudebnibazar.cz/podklady-tracky-half-playback/ID793637/",
+      "date": "2026-11-22T20:47:00+01:00",
+      "location": "Praha 2",
+      "author": "Nik.Ole",
+      "excerpt": "Potřebuju někoho, kdo dokáže udělat zajímavé podklady (nebo backing tracky) na live hraní – něco kde by byly kliky a nějaký samply / elektronika a tak. Jsme trio: kytara, bicí, basa. Harajeme Hendrixe, tvrdší muziku, psychedelic a tak. Ale chceme co celé udělat trochu jinak. Najde se někdo kreativní?",
+      "description": "Potřebuju někoho, kdo dokáže udělat zajímavé podklady (nebo backing tracky) na live hraní – něco kde by byly kliky a nějaký samply / elektronika a tak. Jsme trio: kytara, bicí, basa. Harajeme Hendrixe, tvrdší muziku, psychedelic a tak. Ale chceme co celé udělat trochu jinak. Najde se někdo kreativní?",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Elektronika"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 60,
+      "reasons": [
+        "elektronika",
+        "Praha 2"
+      ]
+    },
     {
       "id": "hudebnibazar:795061",
       "title": "Kytarista 40+ (hardrock / heavy metal) – autorská tvorba",
@@ -1437,28 +1459,6 @@
       "reasons": [
         "nu-metal",
         "Brno"
-      ]
-    },
-    {
-      "id": "hudebnibazar:793637",
-      "title": "Podklady, tracky, Half-playback",
-      "url": "https://hudebnibazar.cz/podklady-tracky-half-playback/ID793637/",
-      "date": "2026-11-15T23:00:00+01:00",
-      "location": "Praha 2",
-      "author": "Nik.Ole",
-      "excerpt": "Potřebuju někoho, kdo dokáže udělat zajímavé podklady (nebo backing tracky) na live hraní – něco kde by byly kliky a nějaký samply / elektronika a tak. Jsme trio: kytara, bicí, basa. Harajeme Hendrixe, tvrdší muziku, psychedelic a tak. Ale chceme co celé udělat trochu jinak. Najde se někdo kreativní?",
-      "description": "Potřebuju někoho, kdo dokáže udělat zajímavé podklady (nebo backing tracky) na live hraní – něco kde by byly kliky a nějaký samply / elektronika a tak. Jsme trio: kytara, bicí, basa. Harajeme Hendrixe, tvrdší muziku, psychedelic a tak. Ale chceme co celé udělat trochu jinak. Najde se někdo kreativní?",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [
-        "Elektronika"
-      ],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 60,
-      "reasons": [
-        "elektronika",
-        "Praha 2"
       ]
     },
     {
