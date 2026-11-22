@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T21:31:44.902954+00:00",
+  "updatedAt": "2026-11-22T21:41:31.508983+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -242,6 +242,26 @@
         "lokální networking",
         "odkaz na profil / ukázku",
         "podrobný inzerát"
+      ]
+    },
+    {
+      "id": "bandmate:e9273c1a-d11d-4727-a9d1-4063d50fc62c",
+      "title": "hledáme bubenika vymrdanej jazz",
+      "url": "https://bandmate.cz/inzerat/hled-me-bubenika-vymrdanej-jazz-v59uAJ",
+      "date": "2026-11-22T21:39:25.113606+00:00",
+      "location": "Praha",
+      "author": "krakaticd",
+      "excerpt": "hledáme bubenika vymrdanej jazz Praha. musíš hulit. chceme hrát groovy jazz s vymrdanyma lyrics. jazz, funk, reggae, experimentální bicí",
+      "description": "hledáme bubenika vymrdanej jazz Praha. musíš hulit. chceme hrát groovy jazz s vymrdanyma lyrics. jazz, funk, reggae, experimentální bicí",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Bandmate",
+      "score": 66,
+      "reasons": [
+        "Praha",
+        "lokální networking"
       ]
     },
     {
