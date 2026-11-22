@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T00:02:02.278090+00:00",
+  "updatedAt": "2026-11-22T00:11:35.691608+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -220,6 +220,28 @@
     }
   ],
   "interesting": [
+    {
+      "id": "bandmate:d545d9bf-5d47-4a3c-ba5f-32e547bcce7a",
+      "title": "Hledáme bubeníka",
+      "url": "https://bandmate.cz/inzerat/hled-me-buben-ka-gapSFA",
+      "date": "2026-11-22T00:07:36.216023+00:00",
+      "location": "Praha",
+      "author": "Charlie.666",
+      "excerpt": "Hledáme bubeníka Cau, my jsme kapela s nazvem cryptidi ktery jeste možná zmenime, spolecne hledame metaloveho sikovneho bubenika do nasi nove zalozene sestavy, kapela tvori zatim 4 cleni: Wendigo 15 let(vokaly) Chupacabra (hlavni kytara, 13 let),samuel (basa,13 let) Vojtech 13 let (druha kytara). Hrajeme pomerne kazdou…",
+      "description": "Hledáme bubeníka Cau, my jsme kapela s nazvem cryptidi ktery jeste možná zmenime, spolecne hledame metaloveho sikovneho bubenika do nasi nove zalozene sestavy, kapela tvori zatim 4 cleni: Wendigo 15 let(vokaly) Chupacabra (hlavni kytara, 13 let),samuel (basa,13 let) Vojtech 13 let (druha kytara). Hrajeme pomerne kazdou kategorii metalu od heavy metalu az po black metal, krome nu metalu atd…\nJsme z praha 16 kde probihaji nase zkousky, (zapoměl jsem na čárky) rock, metal, punk bicí",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Nu-metal"
+      ],
+      "isPrague": true,
+      "source": "Bandmate",
+      "score": 94,
+      "reasons": [
+        "nu metal",
+        "Praha"
+      ]
+    },
     {
       "id": "bandmate:49dd4c51-39e3-4762-b966-ad02c6926622",
       "title": "Potřebujeme pořádného bubeníka",
