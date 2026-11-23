@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T10:02:02.216915+00:00",
+  "updatedAt": "2026-11-23T10:11:34.132570+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -220,6 +220,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:770622",
+      "title": "HLEDÁM AUTORSKÝ BAND",
+      "url": "https://hudebnibazar.cz/hledam-autorsky-band/ID770622/",
+      "date": "2026-11-23T11:09:00+01:00",
+      "location": "Praha 4",
+      "author": "Gogen.77",
+      "excerpt": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím. Jen aktivní kapely z Prahy.",
+      "description": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím.\nJen aktivní kapely z Prahy.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "Praha 4",
+        "lokální networking"
+      ]
+    },
     {
       "id": "bandmate:fbe84d04-809b-4cee-9766-8d95c669e2e6",
       "title": "🎙️ Zakládám novou kapelu | Hledám mladé muzikanty 18–27 let | Děčín a Ústí nad Labem",
@@ -1437,26 +1457,6 @@
         "podrobný inzerát",
         "jasný projekt / zkušenosti",
         "Hradec Králové"
-      ]
-    },
-    {
-      "id": "hudebnibazar:770622",
-      "title": "HLEDÁM AUTORSKÝ BAND",
-      "url": "https://hudebnibazar.cz/hledam-autorsky-band/ID770622/",
-      "date": "2026-11-17T09:14:00+01:00",
-      "location": "Praha 4",
-      "author": "Gogen.77",
-      "excerpt": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím. Jen aktivní kapely z Prahy.",
-      "description": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím.\nJen aktivní kapely z Prahy.",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 69,
-      "reasons": [
-        "Praha 4",
-        "lokální networking"
       ]
     },
     {
