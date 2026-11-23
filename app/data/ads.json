@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T16:21:36.847497+00:00",
+  "updatedAt": "2026-11-23T16:31:56.990782+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -220,6 +220,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:789540",
+      "title": "Hledám kapelu",
+      "url": "https://hudebnibazar.cz/hledam-kapelu/ID789540/",
+      "date": "2026-11-23T17:30:00+01:00",
+      "location": "Praha 10",
+      "author": "Adam.Milosavljevic",
+      "excerpt": "Ahoj hudebníci hledám kapelu v Praze. Jsem 23 letý bubeník a hraju převážně rock, punk a pop (Alkaline Trio, TrustCompany, Neck Deep, Simple Plan, Breaking Benjamin, Brand New, Weezer...). Zkušebnu mám vlastní, kde je možné i zkoušet. Jsem aktuálně členem jednoho projektu, ale rád bych si rozšířil obzory:) Pokud zakládáš…",
+      "description": "Ahoj hudebníci hledám kapelu v Praze. Jsem 23 letý bubeník a hraju převážně rock, punk a pop (Alkaline Trio, TrustCompany, Neck Deep, Simple Plan, Breaking Benjamin, Brand New, Weezer...). Zkušebnu mám vlastní, kde je možné i zkoušet. Jsem aktuálně členem jednoho projektu, ale rád bych si rozšířil obzory:) Pokud zakládáš kapelu, nebo hledáte bubeníka a je vám 18-30 let, určitě se ozvěte sem, nebo na ig (_adamilo_)",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 72,
+      "reasons": [
+        "Praha 10",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:770622",
       "title": "HLEDÁM AUTORSKÝ BAND",
@@ -2115,7 +2135,7 @@
     {
       "id": "midi:259475",
       "title": "Profesionální univerzální kytarista hledá aktivní kapelu nebo záskoky (Praha)",
-      "url": "http://www.midi.cz/inzerat/259475/profesionalni-univerzalni-kytarista-hleda-aktivni-kapelu-nebo-zaskoky-praha/",
+      "url": "https://www.midi.cz/inzerat/259475/profesionalni-univerzalni-kytarista-hleda-aktivni-kapelu-nebo-zaskoky-praha/",
       "date": "2026-11-09T15:12:00+01:00",
       "location": "Praha",
       "author": "Paul Seedorenko",
@@ -2228,26 +2248,6 @@
         "emo",
         "odkaz na profil / ukázku",
         "Praha 7"
-      ]
-    },
-    {
-      "id": "hudebnibazar:789540",
-      "title": "Hledám kapelu",
-      "url": "https://hudebnibazar.cz/hledam-kapelu/ID789540/",
-      "date": "2026-11-08T22:29:00+01:00",
-      "location": "Praha 10",
-      "author": "Adam.Milosavljevic",
-      "excerpt": "Ahoj hudebníci hledám kapelu v Praze. Jsem 23 letý bubeník a hraju převážně rock, punk a pop (Alkaline Trio, TrustCompany, Neck Deep, Simple Plan, Breaking Benjamin, Brand New...). Zkušebnu mám vlastní, kde je možné i zkoušet. Jsem aktuálně členem jednoho projektu, ale rád bych si rozšířil obzory:) Pokud zakládáš kapelu, nebo…",
-      "description": "Ahoj hudebníci hledám kapelu v Praze. Jsem 23 letý bubeník a hraju převážně rock, punk a pop (Alkaline Trio, TrustCompany, Neck Deep, Simple Plan, Breaking Benjamin, Brand New...). Zkušebnu mám vlastní, kde je možné i zkoušet. Jsem aktuálně členem jednoho projektu, ale rád bych si rozšířil obzory:) Pokud zakládáš kapelu, nebo hledáte bubeníka a je vám 18-30 let, určitě se ozvěte sem, nebo na ig (_adamilo_)",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 72,
-      "reasons": [
-        "Praha 10",
-        "lokální networking"
       ]
     },
     {
