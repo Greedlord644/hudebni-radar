@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T20:21:22.654785+00:00",
+  "updatedAt": "2026-11-24T20:31:40.426360+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -238,6 +238,28 @@
       "reasons": [
         "Praha 10",
         "lokální networking"
+      ]
+    },
+    {
+      "id": "bandmate:0307f2ba-a988-469c-baef-04f730ab0223",
+      "title": "hledáme bubeníka na pomalejší tempa",
+      "url": "https://bandmate.cz/inzerat/hled-me-buben-ka-na-pomalej-tempa-hQd7dn",
+      "date": "2026-11-24T20:31:24.04154+00:00",
+      "location": "Praha",
+      "author": "břit",
+      "excerpt": "hledáme bubeníka na pomalejší tempa Hrajeme středně rychlý až hodně pomalý songy – introspektivní texty, nástrojový minimalismus a prostorovost. kromě shody na bpm samozřejmě doufáme i v nějaký hodnotový průnik :) indie, folk, elektronika, post-rock, ambient, shoegaze bicí",
+      "description": "hledáme bubeníka na pomalejší tempa Hrajeme středně rychlý až hodně pomalý songy – introspektivní texty, nástrojový minimalismus a prostorovost. kromě shody na bpm samozřejmě doufáme i v nějaký hodnotový průnik :) indie, folk, elektronika, post-rock, ambient, shoegaze bicí",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Elektronika"
+      ],
+      "isPrague": true,
+      "source": "Bandmate",
+      "score": 60,
+      "reasons": [
+        "elektronika",
+        "Praha"
       ]
     },
     {
