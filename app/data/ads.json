@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T20:01:59.237240+00:00",
+  "updatedAt": "2026-11-24T20:11:36.015751+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -220,6 +220,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:791573",
+      "title": "hledá se basák",
+      "url": "https://hudebnibazar.cz/hleda-se-basak/ID791573/",
+      "date": "2026-11-24T21:01:00+01:00",
+      "location": "Praha 10",
+      "author": "Jindrich.Cip",
+      "excerpt": "Zaběhlá Hardcore kapela hledá basáka. Jsme 30 let na scéně, hrajeme festivaly a kluby. Jsme laděný do B, zkoušky máme jednou týdně, když je potřeba tak víc. Musíš bejt spolehlivej a cejtit rytmus.",
+      "description": "Zaběhlá Hardcore kapela hledá basáka.\nJsme 30 let na scéně, hrajeme festivaly a kluby.\nJsme laděný do B, zkoušky máme jednou týdně, když je potřeba tak víc. Musíš bejt spolehlivej a cejtit rytmus.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "Praha 10",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:795504",
       "title": "Hledám zkušenějšího beatmakera - Olomouc a okolí",
@@ -1987,26 +2007,6 @@
         "lokální networking",
         "odkaz na profil / ukázku",
         "podrobný inzerát"
-      ]
-    },
-    {
-      "id": "hudebnibazar:791573",
-      "title": "hledá se basák",
-      "url": "https://hudebnibazar.cz/hleda-se-basak/ID791573/",
-      "date": "2026-11-10T22:46:00+01:00",
-      "location": "Praha 10",
-      "author": "Jindrich.Cip",
-      "excerpt": "Zaběhlá Hardcore kapela hledá basáka. Jsme 30 let na scéně, hrajeme festivaly a kluby. Jsme laděný do B, zkoušky máme jednou týdně, když je potřeba tak víc. Musíš bejt spolehlivej a cejtit rytmus.",
-      "description": "Zaběhlá Hardcore kapela hledá basáka.\nJsme 30 let na scéně, hrajeme festivaly a kluby.\nJsme laděný do B, zkoušky máme jednou týdně, když je potřeba tak víc. Musíš bejt spolehlivej a cejtit rytmus.",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 69,
-      "reasons": [
-        "Praha 10",
-        "lokální networking"
       ]
     },
     {
