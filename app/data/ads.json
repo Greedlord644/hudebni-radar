@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T09:21:11.361122+00:00",
+  "updatedAt": "2026-11-24T09:31:52.324198+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -220,6 +220,30 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:795397",
+      "title": "Hledám hudebníky",
+      "url": "https://hudebnibazar.cz/hledam-hudebniky/ID795397/",
+      "date": "2026-11-24T10:21:00+01:00",
+      "location": "Beroun",
+      "author": "Josef.Zlamal2",
+      "excerpt": "Duo, možná trio. Já kytara a zpěv. Rád se poznám s šikovným klávesistou, violoncellistou, vokakalistkou, vlastně s každým kdo by měl chuť na Berounsku dělat autorskou rockovou muziku. Repertoár a zkušebna k dispozici",
+      "description": "Duo, možná trio. Já kytara a zpěv. Rád se poznám s šikovným klávesistou, violoncellistou, vokakalistkou, vlastně s každým kdo by měl chuť na Berounsku dělat autorskou rockovou muziku.\nRepertoár a zkušebna k dispozici",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=GXhbxkR3-74"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 78,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Beroun"
+      ]
+    },
     {
       "id": "hudebnibazar:788736",
       "title": "NOVĚ VZNIKAJÍCÍ KAPELA HLEDÁ KYTARU",
