@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T07:11:44.988994+00:00",
+  "updatedAt": "2026-11-24T07:21:34.214191+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -220,6 +220,28 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:788736",
+      "title": "NOVĚ VZNIKAJÍCÍ KAPELA HLEDÁ KYTARU",
+      "url": "https://hudebnibazar.cz/nove-vznikajici-kapela-hleda-kytaru/ID788736/",
+      "date": "2026-11-24T08:14:00+01:00",
+      "location": "Praha 4",
+      "author": "Martin.Nemec4",
+      "excerpt": "Nově vzniklá skupina vyzrálých muzikantů, kteří po delší době oprašují své nádobíčko, hledá do svých řad amatérského kouzelníka s elektrickou kytarou. Hrajeme folkový základ s rockovou duší. Různorodá dynamika, melancholické melodie a české texty. Praha, 35-55let NAŠE TVORBA VYCHÁZÍ Z DEMO NAHRÁVEK VIZ ODKAZ NÍŽE",
+      "description": "Nově vzniklá skupina vyzrálých muzikantů, kteří po delší době oprašují své nádobíčko, hledá do svých řad amatérského kouzelníka s elektrickou kytarou. Hrajeme folkový základ s rockovou duší. Různorodá dynamika, melancholické melodie a české texty.\nPraha, 35-55let\nNAŠE TVORBA VYCHÁZÍ Z DEMO NAHRÁVEK VIZ ODKAZ NÍŽE",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Emo"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 63,
+      "reasons": [
+        "emo",
+        "Praha 4"
+      ]
+    },
     {
       "id": "hudebnibazar:780093",
       "title": "BUBENÍKA - natáčení desky a koncerty v roce 2027",
@@ -1056,28 +1078,6 @@
         "Praha-západ",
         "lokální networking",
         "odkaz na profil / ukázku"
-      ]
-    },
-    {
-      "id": "hudebnibazar:788736",
-      "title": "písničkář hledá další nadšené muzikanty !!!",
-      "url": "https://hudebnibazar.cz/pisnickar-hleda-dalsi-nadsene-muzikanty/ID788736/",
-      "date": "2026-11-19T08:55:00+01:00",
-      "location": "Praha 4",
-      "author": "Martin.Nemec4",
-      "excerpt": "Příležitostný písničkář s rockovou duší hledá hudební nadšence, kteří by se nebáli zapojit do nového alternativního projektu vyznačujícího se akustickým základem, různorodou dynamikou a melancholickými emocemi. Zváni jsou aktivní muzikanti, ale i pasivní jedinci, kteří si mysleli, že už mají to nejlepší za sebou. Potřeba jsou…",
-      "description": "Příležitostný písničkář s rockovou duší hledá hudební nadšence, kteří by se nebáli zapojit do nového alternativního projektu vyznačujícího se akustickým základem, různorodou dynamikou a melancholickými emocemi. Zváni jsou aktivní muzikanti, ale i pasivní jedinci, kteří si mysleli, že už mají to nejlepší za sebou. Potřeba jsou všichni, co umí vyluzovat jakékoliv zvuky, ale především Ti co umí mlátit do škopků, napínat struny, či trápit svoje hlasivky.\nPraha, 30-50let\nUKÁZKY MÉ TVORBY VIZ ODKAZ NÍŽE",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [
-        "Emo"
-      ],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 70,
-      "reasons": [
-        "emo",
-        "Praha 4"
       ]
     },
     {
