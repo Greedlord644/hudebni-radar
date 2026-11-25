@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T01:11:37.917550+00:00",
+  "updatedAt": "2026-11-25T01:21:37.909553+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -220,6 +220,28 @@
     }
   ],
   "interesting": [
+    {
+      "id": "bandmate:610c1b3f-ca68-42e7-a6c0-355cb4d72417",
+      "title": "Zpěvák hledá beatmakera - Olomouc a okolí",
+      "url": "https://bandmate.cz/inzerat/zp-v-k-hled-beatmakera-olomouc-a-okol-D8zMrH",
+      "date": "2026-11-25T01:17:16.826556+00:00",
+      "location": "Olomouc",
+      "author": "David",
+      "excerpt": "Zpěvák hledá beatmakera - Olomouc a okolí Ahoj, jsem zpěvák z Olomouckého kraje a hledám jednoho stálého beatmakera na dlouhodobou spolupráci směřující k profi úrovni. Soustředím se čistě na zpěv a interpretaci, hledám parťáka pro styl: / pop / R&B / melodic trap - emoce / se kterým budeme stavět věci od nuly. Ideálně osobní…",
+      "description": "Zpěvák hledá beatmakera - Olomouc a okolí Ahoj, jsem zpěvák z Olomouckého kraje a hledám jednoho stálého beatmakera na dlouhodobou spolupráci směřující k profi úrovni. Soustředím se čistě na zpěv a interpretaci, hledám parťáka pro styl: / pop / R&B / melodic trap - emoce / se kterým budeme stavět věci od nuly.\nIdeálně osobní seznámení či sessions na Olomoucku (Olomouc, Šumperk, Mohelnice a okolí) + práce klidně na dálku. Podíly atd. Vše férově. Pokud máš zájem, tak se mi ozvi. ☺️ pop, rap, r&b, soul mix/master,zvukař",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Emo"
+      ],
+      "isPrague": false,
+      "source": "Bandmate",
+      "score": 62,
+      "reasons": [
+        "emo",
+        "Olomouc"
+      ]
+    },
     {
       "id": "hudebnibazar:791573",
       "title": "hledá se basák",
