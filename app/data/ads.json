@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T23:41:34.461791+00:00",
+  "updatedAt": "2026-11-25T23:51:32.209440+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -220,6 +220,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "bandmate:d7101ad5-4066-4381-83dd-bdacf0e4d7fb",
+      "title": "🎸 Hledám holky do kapely v Praze! 🖤",
+      "url": "https://bandmate.cz/inzerat/hled-m-holky-do-kapely-v-praze-WKLZwU",
+      "date": "2026-11-25T23:43:10.725149+00:00",
+      "location": "Praha",
+      "author": "Feefah",
+      "excerpt": "🎸 Hledám holky do kapely v Praze! 🖤 Hledám bubenici, zpěvačku, kytaristku a klávesistku pro nově vznikající čistě ženskou kapelu. Stylově indie, alternative, dream pop a experimentálnější hudba. Cílem je tvořit vlastní songy a společně něco rozjet. Zkušenosti nejsou podmínkou, důležitá je chuť hrát a tvořit!…",
+      "description": "🎸 Hledám holky do kapely v Praze! 🖤 Hledám bubenici, zpěvačku, kytaristku a klávesistku pro nově vznikající čistě ženskou kapelu.\nStylově indie, alternative, dream pop a experimentálnější hudba. Cílem je tvořit vlastní songy a společně něco rozjet.\nZkušenosti nejsou podmínkou, důležitá je chuť hrát a tvořit! kytara,bicí,klávesy,zpěv,saxofon,trumpeta,housle",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Bandmate",
+      "score": 66,
+      "reasons": [
+        "Praha",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:794505",
       "title": "Insinistra looking for a bassist",
