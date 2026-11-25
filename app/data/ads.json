@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T12:31:31.408178+00:00",
+  "updatedAt": "2026-11-25T12:41:21.148672+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -220,6 +220,27 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:758823",
+      "title": "Kytara do celtic kapely",
+      "url": "https://hudebnibazar.cz/kytara-do-celtic-kapely/ID758823/",
+      "date": "2026-11-25T13:37:00+01:00",
+      "location": "Praha 8",
+      "author": "Jecmen.Barley",
+      "excerpt": "Irsko-skotsko-bretaňsko-autorská kapela Ječmen (viz Bandzone) uvítá šikovnou muzikální bytost s kytarou! :-) Věkově jsme 50-70... Ty libovolně... :-)",
+      "description": "Irsko-skotsko-bretaňsko-autorská kapela Ječmen (viz Bandzone) uvítá šikovnou muzikální bytost s kytarou! :-)\nVěkově jsme 50-70... Ty libovolně... :-)",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 81,
+      "reasons": [
+        "Praha 8",
+        "lokální networking",
+        "odkaz na profil / ukázku"
+      ]
+    },
     {
       "id": "hudebnibazar:794315",
       "title": "Moorah hledá kytaristu",
