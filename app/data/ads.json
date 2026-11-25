@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-11-25T16:11:33.999333+00:00",
+  "updatedAt": "2026-11-25T16:21:10.556374+00:00",
   "windowDays": 60,
   "singerSeeking": [
+    {
+      "id": "hudebnibazar:761523",
+      "title": "Zpěvačka hledá kapelu :)",
+      "url": "https://hudebnibazar.cz/zpevacka-hleda-kapelu/ID761523/",
+      "date": "2026-11-25T17:17:00+01:00",
+      "location": "Praha 5",
+      "author": "Tereza.X",
+      "excerpt": "Ahoj, rozkoukávám se po pražské kapele, která hledá zpěvačku a se kterou bychom si hudebně i lidsky sedli. Zpívám pop/rock, ale nebráním se ani jiným žánrům, baví mě elektro, liquid dnb, indie rock, hip hop; mám v lásce fakt spoustu žánrů. Nemám sice za sebou studia nebo velké arény, ale po letech zpívání se už nepovažuju ani…",
+      "description": "Ahoj, rozkoukávám se po pražské kapele, která hledá zpěvačku a se kterou bychom si hudebně i lidsky sedli.\nZpívám pop/rock, ale nebráním se ani jiným žánrům, baví mě elektro, liquid dnb, indie rock, hip hop; mám v lásce fakt spoustu žánrů. Nemám sice za sebou studia nebo velké arény, ale po letech zpívání se už nepovažuju ani za úplnou amatérku (mám taky dlouhodobě skvělou lektorku zpěvu). Zpívala jsem roky v kapele a mám i nějaké zkušenosti se skládáním vlastní tvorby.\nÚplně nejbáječnější by bylo, kdyby se jednalo o kapelu mix muži/ženy ve věku 25–45 let s vlastní tvorbou. Budu ráda, když se ozvete a zjistíme, jestli jsme na podobné vlně. Ukázky zpěvu ráda pošlu.\nTěším se!\nTereza",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 75,
+      "reasons": [
+        "zpěv hledá",
+        "Praha 5",
+        "vlastní tvorba",
+        "podrobný inzerát"
+      ]
+    },
     {
       "id": "bandmate:9b71ece3-2cf0-4b98-9b35-2548aae77987",
       "title": "Zpěváčka hledá kapelu která hlavě elektronickou hudbu EBM",
@@ -195,12 +217,14 @@
         "zpěv hledá",
         "Praha 5"
       ]
-    },
+    }
+  ],
+  "interesting": [
     {
       "id": "hudebnibazar:761523",
       "title": "Zpěvačka hledá kapelu :)",
       "url": "https://hudebnibazar.cz/zpevacka-hleda-kapelu/ID761523/",
-      "date": "2026-10-03T20:19:00+02:00",
+      "date": "2026-11-25T17:17:00+01:00",
       "location": "Praha 5",
       "author": "Tereza.X",
       "excerpt": "Ahoj, rozkoukávám se po pražské kapele, která hledá zpěvačku a se kterou bychom si hudebně i lidsky sedli. Zpívám pop/rock, ale nebráním se ani jiným žánrům, baví mě elektro, liquid dnb, indie rock, hip hop; mám v lásce fakt spoustu žánrů. Nemám sice za sebou studia nebo velké arény, ale po letech zpívání se už nepovažuju ani…",
@@ -210,16 +234,13 @@
       "genres": [],
       "isPrague": true,
       "source": "Hudební bazar",
-      "score": 75,
+      "score": 77,
       "reasons": [
-        "zpěv hledá",
         "Praha 5",
-        "vlastní tvorba",
+        "lokální networking",
         "podrobný inzerát"
       ]
-    }
-  ],
-  "interesting": [
+    },
     {
       "id": "hudebnibazar:720493",
       "title": "Hledáme bubeníka",
@@ -5258,27 +5279,6 @@
         "jasný projekt / zkušenosti",
         "odkaz na profil / ukázku",
         "Vsetín"
-      ]
-    },
-    {
-      "id": "hudebnibazar:761523",
-      "title": "Zpěvačka hledá kapelu :)",
-      "url": "https://hudebnibazar.cz/zpevacka-hleda-kapelu/ID761523/",
-      "date": "2026-10-03T20:19:00+02:00",
-      "location": "Praha 5",
-      "author": "Tereza.X",
-      "excerpt": "Ahoj, rozkoukávám se po pražské kapele, která hledá zpěvačku a se kterou bychom si hudebně i lidsky sedli. Zpívám pop/rock, ale nebráním se ani jiným žánrům, baví mě elektro, liquid dnb, indie rock, hip hop; mám v lásce fakt spoustu žánrů. Nemám sice za sebou studia nebo velké arény, ale po letech zpívání se už nepovažuju ani…",
-      "description": "Ahoj, rozkoukávám se po pražské kapele, která hledá zpěvačku a se kterou bychom si hudebně i lidsky sedli.\nZpívám pop/rock, ale nebráním se ani jiným žánrům, baví mě elektro, liquid dnb, indie rock, hip hop; mám v lásce fakt spoustu žánrů. Nemám sice za sebou studia nebo velké arény, ale po letech zpívání se už nepovažuju ani za úplnou amatérku (mám taky dlouhodobě skvělou lektorku zpěvu). Zpívala jsem roky v kapele a mám i nějaké zkušenosti se skládáním vlastní tvorby.\nÚplně nejbáječnější by bylo, kdyby se jednalo o kapelu mix muži/ženy ve věku 25–45 let s vlastní tvorbou. Budu ráda, když se ozvete a zjistíme, jestli jsme na podobné vlně. Ukázky zpěvu ráda pošlu.\nTěším se!\nTereza",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 77,
-      "reasons": [
-        "Praha 5",
-        "lokální networking",
-        "podrobný inzerát"
       ]
     },
     {
