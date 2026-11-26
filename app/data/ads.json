@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T17:11:39.568039+00:00",
+  "updatedAt": "2026-11-26T17:21:41.215373+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -220,6 +220,29 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:794675",
+      "title": "Post-rockový bubeník vítán",
+      "url": "https://hudebnibazar.cz/post-rockovy-bubenik-vitan/ID794675/",
+      "date": "2026-11-26T18:16:00+01:00",
+      "location": "Praha 3",
+      "author": "Jakub.Brych",
+      "excerpt": "Ahoj, hledáme někoho na bicí, případně na sampler či pady do rozběhnuté kapely – songy jsou pomalý až středně rychlý, s proměnlivou dynamikou. Rádi bychom našli někoho, s kým se potkáme nejen na bpm, ale i hodnotově. Dole v inzerátu je live video ze zkušebny, který přesně vypovídá o tom, jak chceme znít. Zkoušíme jednou týdně v…",
+      "description": "Ahoj, hledáme někoho na bicí, případně na sampler či pady do rozběhnuté kapely – songy jsou pomalý až středně rychlý, s proměnlivou dynamikou. Rádi bychom našli někoho, s kým se potkáme nejen na bpm, ale i hodnotově. Dole v inzerátu je live video ze zkušebny, který přesně vypovídá o tom, jak chceme znít.\nZkoušíme jednou týdně v Hostivaři.",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=71N6f_hnMhI"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 81,
+      "reasons": [
+        "Praha 3",
+        "lokální networking",
+        "odkaz na profil / ukázku"
+      ]
+    },
     {
       "id": "hudebnibazar:768623",
       "title": "deftones anyone?",
@@ -1318,29 +1341,6 @@
       "reasons": [
         "alternative metal",
         "Plzeň"
-      ]
-    },
-    {
-      "id": "hudebnibazar:794675",
-      "title": "Post-rockový bubeník vítán",
-      "url": "https://hudebnibazar.cz/post-rockovy-bubenik-vitan/ID794675/",
-      "date": "2026-11-20T22:03:00+01:00",
-      "location": "Praha 3",
-      "author": "Jakub.Brych",
-      "excerpt": "Ahoj, hledáme někoho na bicí, případně na sampler či pady do rozběhnuté kapely – songy jsou pomalý až středně rychlý, s proměnlivou dynamikou. Rádi bychom našli někoho, s kým se potkáme nejen na bpm, ale i hodnotově. Dole v inzerátu je live video ze zkušebny, který přesně vypovídá o tom, jak chceme znít. Zkoušíme jednou týdně v…",
-      "description": "Ahoj, hledáme někoho na bicí, případně na sampler či pady do rozběhnuté kapely – songy jsou pomalý až středně rychlý, s proměnlivou dynamikou. Rádi bychom našli někoho, s kým se potkáme nejen na bpm, ale i hodnotově. Dole v inzerátu je live video ze zkušebny, který přesně vypovídá o tom, jak chceme znít.\nZkoušíme jednou týdně v Hostivaři.",
-      "externalLinks": [
-        "https://www.youtube.com/watch?v=71N6f_hnMhI"
-      ],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 81,
-      "reasons": [
-        "Praha 3",
-        "lokální networking",
-        "odkaz na profil / ukázku"
       ]
     },
     {
