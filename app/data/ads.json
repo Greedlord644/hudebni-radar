@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T20:21:38.517983+00:00",
+  "updatedAt": "2026-11-26T20:31:56.924983+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -325,6 +325,26 @@
       "reasons": [
         "emo",
         "Pardubice"
+      ]
+    },
+    {
+      "id": "hudebnibazar:785807",
+      "title": "VOLNÝ KYTARISTA",
+      "url": "https://hudebnibazar.cz/volny-kytarista/ID785807/",
+      "date": "2026-11-26T09:37:00+01:00",
+      "location": "Praha 4",
+      "author": "Gogen.77",
+      "excerpt": "Hledám schopné muzikanty (kapelu) co tvoří nebo chtějí tvořit, pouze vlastní muziku. (Hard Rock/Soft Heavy) pro upřesnění.. Jen Praha.",
+      "description": "Hledám schopné muzikanty (kapelu) co tvoří nebo chtějí tvořit, pouze vlastní muziku.\n(Hard Rock/Soft Heavy) pro upřesnění..\nJen Praha.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Praha 4",
+        "lokální networking"
       ]
     },
     {
