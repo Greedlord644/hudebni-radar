@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T08:21:31.710585+00:00",
+  "updatedAt": "2026-11-26T08:31:50.423049+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -220,6 +220,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:795747",
+      "title": "producent projektů, druhý názor pro posun",
+      "url": "https://hudebnibazar.cz/producent-projektu-druhy-nazor-pro-posun/ID795747/",
+      "date": "2026-11-26T09:28:00+01:00",
+      "location": "Praha 5",
+      "author": "Franz.Tr",
+      "excerpt": "Pro sebe a své projekty - od akutria pres retrorock a postpunk k sólohraní, skládání a nahrávání ... hledám producenta, který by pro radost (prachy v tom nejsou) byl ochoten se sem tam sejít, posoudit tvorbu a směr uměleckého vývoje. Bydlím na praze 5, kousek u Cibulky, doma mám ministudio. Hraju v 3 autorských kapelách, je mi…",
+      "description": "Pro sebe a své projekty - od akutria pres retrorock a postpunk k sólohraní, skládání a nahrávání ... hledám producenta, který by pro radost (prachy v tom nejsou) byl ochoten se sem tam sejít, posoudit tvorbu a směr uměleckého vývoje.\nBydlím na praze 5, kousek u Cibulky, doma mám ministudio. Hraju v 3 autorských kapelách, je mi 49, a než zdechnu, chci sám sebou někam pohnout.\nNějaké poloprofi nahrávky jsou za mnou, viz odkaz dole, archív domademáčů bobtná, jsem schopný textař, svojský zpěvák a docela dobrý kytarista, hraju obstojně na basu a někdy má produkce trpí nedostatkem soudnosti.\nJsem dobrý kuchař, takže vždy večeři třeba za to, apod.\nPetr alias Franz",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 100,
+      "reasons": [
+        "hledá produkci / pomoc se skladbami",
+        "Praha 5"
+      ]
+    },
     {
       "id": "bandmate:0b8c8248-60a2-4642-b125-41e16696de05",
       "title": "HLEDÁME STÁLÉHO ZVUKAŘE – ROCKOVÁ KAPELA / STŘEDNÍ ČECHY",
