@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T13:04:33.634680+00:00",
+  "updatedAt": "2026-11-26T13:11:33.522524+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -220,6 +220,46 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:761277",
+      "title": "SINGER WANTED, ROCK/FOLK ROCK",
+      "url": "https://hudebnibazar.cz/singer-wanted-rock-folk-rock/ID761277/",
+      "date": "2026-11-26T14:00:00+01:00",
+      "location": "Praha 1",
+      "author": "Petr.Burke",
+      "excerpt": "Looking for SINGER, NEW SONGS, ROCK, FOLK ROCK, BLUES ROCK. New songs. Hledá se ZPĚVÁK, ROCK, FOLK ROCK, BLUES ROCK. Chci dělat nové songy, rock, folk rock, blues rock.",
+      "description": "Looking for SINGER, NEW SONGS, ROCK, FOLK ROCK, BLUES ROCK. New songs.\nHledá se ZPĚVÁK, ROCK, FOLK ROCK, BLUES ROCK. Chci dělat nové songy, rock, folk rock, blues rock.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Praha 1",
+        "lokální networking"
+      ]
+    },
+    {
+      "id": "hudebnibazar:795805",
+      "title": "Hledám country partu/kapelu",
+      "url": "https://hudebnibazar.cz/hledam-country-partu-kapelu/ID795805/",
+      "date": "2026-11-26T13:55:00+01:00",
+      "location": "Praha 4",
+      "author": "B.G",
+      "excerpt": "S houslemi nebo s el. kytarou doplním pohodovou partu, nejraději ve stylu country music, country folk, country rock, honky tonk .... ale i blues, folk, bluegrass, případně další .... Hledám partu staršího věku, kde se už neztrácí čas zkouškami a o to častěji se hraje, především pro vlastní zábavu ... Praha (ideálně blízko MHD),…",
+      "description": "S houslemi nebo s el. kytarou doplním pohodovou partu, nejraději ve stylu country music, country folk, country rock, honky tonk .... ale i blues, folk, bluegrass, případně další .... Hledám partu staršího věku, kde se už neztrácí čas zkouškami a o to častěji se hraje, především pro vlastní zábavu ... Praha (ideálně blízko MHD), případně i její okolí (ideálně s dobrým parkováním pro auto)",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 66,
+      "reasons": [
+        "Praha 4",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:795772",
       "title": "ZKUŠENÁ ZPĚVAČKA HLEDÁ KLÁVESISTU (Šanson, pop, rock)",
@@ -1203,6 +1243,40 @@
       ]
     },
     {
+      "id": "hudebnibazar:775914",
+      "title": "Hledáme Baskytaristu/Baskytaristku do Modern Metal Kapely",
+      "url": "https://hudebnibazar.cz/hledame-baskytaristu-baskytaristku-do-modern-metal-kapely/ID775914/",
+      "date": "2026-11-21T00:43:00+01:00",
+      "location": "Ostrava",
+      "author": "Vitek.Krizek",
+      "excerpt": "Zdravím Kytarista (17), bubeník (16) a zpěvačka (18) hledají baskytaristu/baskytaristku do modern metalové kapely ve stylu : Bad Omens, Dayseeker, Spiritbox, The Plot In You, Bring Me The Horizon a Normandie. Hrajeme v nízkém ladění Drop C# až po Drop F. Ideální by bylo kdybys měl/a 5 strunnou baskytaru (není podmínkou). Věk…",
+      "description": "Zdravím\nKytarista (17), bubeník (16) a zpěvačka (18) hledají baskytaristu/baskytaristku do modern metalové kapely ve stylu : Bad Omens, Dayseeker, Spiritbox, The Plot In You, Bring Me The Horizon a Normandie.\nHrajeme v nízkém ladění Drop C# až po Drop F.\nIdeální by bylo kdybys měl/a 5 strunnou baskytaru (není podmínkou).\nVěk okolo 14-21 let.\nZkušebnu máme v Ostravě a zkoušky bývají co týden o víkendu podle domluvy.\nPokud bys měl/a zájem tak klidně napiš, nejlépe na Instagram\n@vitothecross nebo @damianstross\nNíže je odkaz na naší nahrávku.",
+      "externalLinks": [
+        "https://instagram.com/vitothecross",
+        "https://instagram.com/damianstross"
+      ],
+      "influences": [
+        "Bring Me The Horizon",
+        "Bad Omens",
+        "Spiritbox",
+        "The Plot In You",
+        "Dayseeker",
+        "Normandie"
+      ],
+      "genres": [
+        "Modern metal"
+      ],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 100,
+      "reasons": [
+        "Bring Me The Horizon",
+        "Bad Omens",
+        "odkaz na profil / ukázku",
+        "Ostrava"
+      ]
+    },
+    {
       "id": "hudebnibazar:782314",
       "title": "Hledáme bubeníka do Metalcore/Alternative metal kapely",
       "url": "https://hudebnibazar.cz/hledame-bubenika-do-metalcore-alternative-metal-kapely/ID782314/",
@@ -1552,26 +1626,6 @@
         "emo",
         "grunge",
         "Olomouc"
-      ]
-    },
-    {
-      "id": "hudebnibazar:761277",
-      "title": "SINGER WANTED, ROCK/FOLK ROCK",
-      "url": "https://hudebnibazar.cz/singer-wanted-rock-folk-rock/ID761277/",
-      "date": "2026-11-18T18:09:00+01:00",
-      "location": "Praha 1",
-      "author": "Petr.Burke",
-      "excerpt": "Looking for SINGER, NEW SONGS, ROCK, FOLK ROCK, BLUES ROCK. New songs. Hledá se ZPĚVÁK, ROCK, FOLK ROCK, BLUES ROCK. Chci dělat nové songy, rock, folk rock, blues rock.",
-      "description": "Looking for SINGER, NEW SONGS, ROCK, FOLK ROCK, BLUES ROCK. New songs.\nHledá se ZPĚVÁK, ROCK, FOLK ROCK, BLUES ROCK. Chci dělat nové songy, rock, folk rock, blues rock.",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 66,
-      "reasons": [
-        "Praha 1",
-        "lokální networking"
       ]
     },
     {
@@ -5793,6 +5847,37 @@
         "alt metal",
         "odkaz na profil / ukázku",
         "Praha 3"
+      ]
+    },
+    {
+      "id": "hudebnibazar:775768",
+      "title": "Hledáme bubeníka",
+      "url": "https://hudebnibazar.cz/hledame-bubenika/ID775768/",
+      "date": "2026-09-28T10:39:00+02:00",
+      "location": "Praha 10",
+      "author": "Jan.O2",
+      "excerpt": "Naše nově vznikající kapela hledá bubeníka. Žánrově se chceme pohybovat v metalu s ženským hlasem (VIZ UKÁZKA). Potřebujeme někoho, kdo si dobře rozumí s dvojšlapkou. Všichni již máme zkušenosti s koncerty, nahráváním i s videoklipy z předchozích kapel. Věkově kolem 40-ti let. Zkušebnu máme v Kralupech nad Vltavou. Inspirace:…",
+      "description": "Naše nově vznikající kapela hledá bubeníka. Žánrově se chceme pohybovat v metalu s ženským hlasem (VIZ UKÁZKA). Potřebujeme někoho, kdo si dobře rozumí s dvojšlapkou. Všichni již máme zkušenosti s koncerty, nahráváním i s videoklipy z předchozích kapel. Věkově kolem 40-ti let. Zkušebnu máme v Kralupech nad Vltavou.\nInspirace:\nBad Omens, Wage War, Caskets, Poppy, Amaranthe, Diamante, Ankor, Motionless In White, Falling In Revers, Make Them Suffer, Currents, Polaris, Architects, Red Hook...",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=Wh9NMQXWUNU"
+      ],
+      "influences": [
+        "Bad Omens",
+        "Architects",
+        "Poppy",
+        "Caskets",
+        "Motionless In White",
+        "Falling In Reverse"
+      ],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 100,
+      "reasons": [
+        "Bad Omens",
+        "Architects",
+        "odkaz na profil / ukázku",
+        "Praha 10"
       ]
     },
     {
