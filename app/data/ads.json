@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T14:32:32.277135+00:00",
+  "updatedAt": "2026-11-27T14:41:37.093945+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -220,6 +220,31 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:780196",
+      "title": "Black'n'roll ze studia shání bubenici, bubeníka na stage",
+      "url": "https://hudebnibazar.cz/black-n-roll-ze-studia-shani-bubenici-bubenika-na-stage/ID780196/",
+      "date": "2026-11-27T15:39:00+01:00",
+      "location": "Náchod",
+      "author": "Jan.Hamersky2",
+      "excerpt": "Je nám jedno, jestli hraješ jednoduše nebo složitě. Stačí, když si sedneme a budeš vědět, kdy a jak co (ne)trefit. Chceme z převážně studiového projektu vykřesat koncertní power trio. Kytaru s vokálem máme, basu taky, ale chybí nám pohon. Dole je ukázka. Kdyby Ti to přišlo zajímavý, piš. Okresy Náchod, Trutnov, Rychnov nad…",
+      "description": "Je nám jedno, jestli hraješ jednoduše nebo složitě. Stačí, když si sedneme a budeš vědět, kdy a jak co (ne)trefit.\nChceme z převážně studiového projektu vykřesat koncertní power trio. Kytaru s vokálem máme, basu taky, ale chybí nám pohon. Dole je ukázka. Kdyby Ti to přišlo zajímavý, piš. Okresy Náchod, Trutnov, Rychnov nad Kněžnou, a Hradec Králové, prosím.)\nLink: https://bandzone.cz/abbe",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=Xboq_JmrusU&pp=ygUOYWJiw6kgdmFnYWJ1bmQ%3D",
+        "https://bandzone.cz/abbe"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 78,
+      "reasons": [
+        "podrobný inzerát",
+        "jasný projekt / zkušenosti",
+        "odkaz na profil / ukázku",
+        "Náchod"
+      ]
+    },
     {
       "id": "hudebnibazar:795974",
       "title": "!!! Zpěvák!!!",
@@ -1982,31 +2007,6 @@
         "podrobný inzerát",
         "jasný projekt / zkušenosti",
         "Ostrava"
-      ]
-    },
-    {
-      "id": "hudebnibazar:780196",
-      "title": "Black'n'roll ze studia shání bubenici, bubeníka na stage",
-      "url": "https://hudebnibazar.cz/black-n-roll-ze-studia-shani-bubenici-bubenika-na-stage/ID780196/",
-      "date": "2026-11-16T21:37:00+01:00",
-      "location": "Náchod",
-      "author": "Jan.Hamersky2",
-      "excerpt": "Je nám jedno, jestli hraješ jednoduše nebo složitě. Stačí, když si sedneme a budeš vědět, kdy a jak co (ne)trefit. Chceme z převážně studiového projektu vykřesat koncertní power trio. Kytaru s vokálem máme, basu taky, ale chybí nám pohon. Dole je ukázka. Kdyby Ti to přišlo zajímavý, piš. Okresy Náchod, Trutnov, Rychnov nad…",
-      "description": "Je nám jedno, jestli hraješ jednoduše nebo složitě. Stačí, když si sedneme a budeš vědět, kdy a jak co (ne)trefit.\nChceme z převážně studiového projektu vykřesat koncertní power trio. Kytaru s vokálem máme, basu taky, ale chybí nám pohon. Dole je ukázka. Kdyby Ti to přišlo zajímavý, piš. Okresy Náchod, Trutnov, Rychnov nad Kněžnou, a Hradec Králové, prosím.)\nLink: https://bandzone.cz/abbe",
-      "externalLinks": [
-        "https://www.youtube.com/watch?v=Xboq_JmrusU&pp=ygUOYWJiw6kgdmFnYWJ1bmQ%3D",
-        "https://bandzone.cz/abbe"
-      ],
-      "influences": [],
-      "genres": [],
-      "isPrague": false,
-      "source": "Hudební bazar",
-      "score": 78,
-      "reasons": [
-        "podrobný inzerát",
-        "jasný projekt / zkušenosti",
-        "odkaz na profil / ukázku",
-        "Náchod"
       ]
     },
     {
@@ -5865,28 +5865,6 @@
       "reasons": [
         "grunge",
         "Písek"
-      ]
-    },
-    {
-      "id": "hudebnibazar:773145",
-      "title": "Basák v Praze",
-      "url": "https://hudebnibazar.cz/basak-v-praze/ID773145/",
-      "date": "2026-09-28T16:36:00+02:00",
-      "location": "Praha 4",
-      "author": "Petr.P",
-      "excerpt": "Basák hledá kapelu / projekt. Baví mě melodičtější věci (rock, pop, soul, jazz), ale nebráním se ani alternativě (post-rock, grunge, hip-hop, blues). Původně hraju na kytaru, ale teď se chci víc věnovat base a začít hrát živě. Pokud někoho takového hledáte, ozvěte se.",
-      "description": "Basák hledá kapelu / projekt.\nBaví mě melodičtější věci (rock, pop, soul, jazz), ale nebráním se ani alternativě (post-rock, grunge, hip-hop, blues).\nPůvodně hraju na kytaru, ale teď se chci víc věnovat base a začít hrát živě.\nPokud někoho takového hledáte, ozvěte se.",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [
-        "Grunge"
-      ],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 63,
-      "reasons": [
-        "grunge",
-        "Praha 4"
       ]
     }
   ]
