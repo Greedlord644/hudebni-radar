@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T22:21:35.893718+00:00",
+  "updatedAt": "2026-11-27T22:31:50.668321+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -220,6 +220,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:786529",
+      "title": "HLEDÁM SPOLUHRÁČE",
+      "url": "https://hudebnibazar.cz/hledam-spoluhrace/ID786529/",
+      "date": "2026-11-27T23:27:00+01:00",
+      "location": "Praha 4",
+      "author": "Gogen.77",
+      "excerpt": "Jsem kytarista a hledám spoluhráče... ( tím myslím, hotovou kapelu.) Mám solidní zkušenosti, vybavení a hlavně chuť dělat kvalitní, autorskou muziku. (Hard Rock / Sofistikovaný Metal) Lokace Praha",
+      "description": "Jsem kytarista a hledám spoluhráče...\n( tím myslím, hotovou kapelu.)\nMám solidní zkušenosti, vybavení a hlavně chuť dělat kvalitní, autorskou muziku. (Hard Rock / Sofistikovaný Metal)\nLokace Praha",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "Praha 4",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:780041",
       "title": "Kytarista hledá kapelu",
@@ -1596,26 +1616,6 @@
       "isPrague": true,
       "source": "Hudební bazar",
       "score": 66,
-      "reasons": [
-        "Praha 4",
-        "lokální networking"
-      ]
-    },
-    {
-      "id": "hudebnibazar:786529",
-      "title": "HLEDÁM SPOLUHRÁČE",
-      "url": "https://hudebnibazar.cz/hledam-spoluhrace/ID786529/",
-      "date": "2026-11-21T10:07:00+01:00",
-      "location": "Praha 4",
-      "author": "Gogen.77",
-      "excerpt": "Jsem kytarista a hledám spoluhráče... ( tím myslím, hotovou kapelu.) Mám solidní zkušenosti, vybavení a hlavně chuť dělat kvalitní, autorskou muziku. (ROCK/HARD) Lokace Praha",
-      "description": "Jsem kytarista a hledám spoluhráče...\n( tím myslím, hotovou kapelu.)\nMám solidní zkušenosti, vybavení a hlavně chuť dělat kvalitní, autorskou muziku. (ROCK/HARD)\nLokace Praha",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 69,
       "reasons": [
         "Praha 4",
         "lokální networking"
