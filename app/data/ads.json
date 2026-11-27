@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T19:11:36.209216+00:00",
+  "updatedAt": "2026-11-27T19:21:39.272959+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -220,6 +220,32 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:796030",
+      "title": "HLEDÁME BUBENÍKA - HARD ROCK & METAL - PRAHA",
+      "url": "https://hudebnibazar.cz/hledame-bubenika-hard-rock-metal-praha/ID796030/",
+      "date": "2026-11-27T20:14:00+01:00",
+      "location": "Praha 4",
+      "author": "Karel.Dinda",
+      "excerpt": "Jsme KULTIVÁTOR, 10 let na scéně. Členové kapely všichni kolem čtyřicítky. Hrajeme vlastní tvorbu. Stylově od hard rocku přes heavy až po thrash metal. Současný bubeník odchází a na příští rok a domluvených 8 koncertů sháníme nového. Nejde o náhradu, hledáme novou krev a drive. Bubeníka, který má chuť hrát naplno a stát se…",
+      "description": "Jsme KULTIVÁTOR, 10 let na scéně.\nČlenové kapely všichni kolem čtyřicítky. Hrajeme vlastní tvorbu. Stylově od hard rocku přes heavy až po thrash metal. Současný bubeník odchází a na příští rok a domluvených 8 koncertů sháníme nového. Nejde o náhradu, hledáme novou krev a drive. Bubeníka, který má chuť hrát naplno a stát se součástí kapely dlouhodobě.\nNeřešíme věk ani délku vlasů – ale parťáka, co zapadne.\nCo od Tebe očekáváme:\nspolehlivost a chuť makat,\nvlastní bicí,\nčas na 1–2 zkoušky týdně,\nchuť koncertovat a podílet se na tvorbě nových skladeb.\nMáme nesdílenou zkušebnu v Praze – Krči.\nVe všední dny 17:00–22:00, o víkendech možnost hraní 6:00–22:00.\nPoslechni si naše demo na Spotify:\nhttps://open.spotify.com/artist/2mPD8ex094ga2P6TGLZtUh?si=GIXY0ar4T7qthql8refjMA\nJestli hledáš kapelu, která to myslí vážně, chce pravidelně koncertovat a posunout se na další úroveň, ozvi se.\nDo zprávy nám klidně napiš něco o sobě, pošli odkaz na video, nahrávku nebo sociální sítě. Rádi se potkáme na společné zkoušce.\nKarel Dinda",
+      "externalLinks": [
+        "https://open.spotify.com/artist/2mPD8ex094ga2P6TGLZtUh?si=GIXY0ar4T7qthql8refjMA"
+      ],
+      "influences": [],
+      "genres": [
+        "Emo"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 95,
+      "reasons": [
+        "emo",
+        "odkaz na profil / ukázku",
+        "vlastní tvorba",
+        "Praha 4"
+      ]
+    },
     {
       "id": "hudebnibazar:780196",
       "title": "Black'n'roll ze studia shání bubenici, bubeníka na stage",
