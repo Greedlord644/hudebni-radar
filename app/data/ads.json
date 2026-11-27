@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T09:51:33.866131+00:00",
+  "updatedAt": "2026-11-27T10:01:45.409718+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -220,6 +220,31 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:765094",
+      "title": "Baskytara wanted!",
+      "url": "https://hudebnibazar.cz/baskytara-wanted/ID765094/",
+      "date": "2026-11-27T10:55:00+01:00",
+      "location": "Praha 4",
+      "author": "Josef.R",
+      "excerpt": "Pražská nu-metalová kapela Jesper Snow hledá baskytaristu (nebo baskytaristku!) Hledáme někoho, kdo má touhu a vůli to někam dotáhnout a je ochotný pro to udělat maximum! Holka, kluk, věk ideálně mezi 17 a 30 lety. Máme vlastní zkušebnu na Praze 4. Hrajeme vlastní věci s anglickými texty - viz:…",
+      "description": "Pražská nu-metalová kapela Jesper Snow hledá baskytaristu (nebo baskytaristku!)\nHledáme někoho, kdo má touhu a vůli to někam dotáhnout a je ochotný pro to udělat maximum! Holka, kluk, věk ideálně mezi 17 a 30 lety.\nMáme vlastní zkušebnu na Praze 4.\nHrajeme vlastní věci s anglickými texty - viz:\nhttps://open.spotify.com/artist/3pKuiJSQ49gmZIoMXd11QH?si=sSbL-pneRdW9D3e8UtjrGQ\nPošli nám o sobě pár informací a případně ukázek na . Těšíme se na tebe!",
+      "externalLinks": [
+        "https://open.spotify.com/artist/3pKuiJSQ49gmZIoMXd11QH?si=sSbL-pneRdW9D3e8UtjrGQ"
+      ],
+      "influences": [],
+      "genres": [
+        "Nu-metal"
+      ],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 100,
+      "reasons": [
+        "nu-metal",
+        "odkaz na profil / ukázku",
+        "Praha 4"
+      ]
+    },
     {
       "id": "hudebnibazar:775914",
       "title": "Hledáme Baskytaristu/Baskytaristku do Modern Metal Kapely",
@@ -3206,31 +3231,6 @@
         "podrobný inzerát",
         "jasný projekt / zkušenosti",
         "Písek"
-      ]
-    },
-    {
-      "id": "hudebnibazar:765094",
-      "title": "Baskytara wanted!",
-      "url": "https://hudebnibazar.cz/baskytara-wanted/ID765094/",
-      "date": "2026-11-03T14:15:00+01:00",
-      "location": "Praha 4",
-      "author": "Josef.R",
-      "excerpt": "Pražská nu-metalová kapela Jesper Snow hledá baskytaristu (nebo baskytaristku!) Hledáme někoho, kdo má touhu a vůli to někam dotáhnout a je ochotný pro to udělat maximum! Holka, kluk, věk ideálně mezi 17 a 30 lety. Máme vlastní zkušebnu na Praze 4. Hrajeme vlastní věci s anglickými texty - viz:…",
-      "description": "Pražská nu-metalová kapela Jesper Snow hledá baskytaristu (nebo baskytaristku!)\nHledáme někoho, kdo má touhu a vůli to někam dotáhnout a je ochotný pro to udělat maximum! Holka, kluk, věk ideálně mezi 17 a 30 lety.\nMáme vlastní zkušebnu na Praze 4.\nHrajeme vlastní věci s anglickými texty - viz:\nhttps://open.spotify.com/artist/3pKuiJSQ49gmZIoMXd11QH?si=sSbL-pneRdW9D3e8UtjrGQ\nPošli nám o sobě pár informací a případně ukázek na . Těšíme se na tebe!",
-      "externalLinks": [
-        "https://open.spotify.com/artist/3pKuiJSQ49gmZIoMXd11QH?si=sSbL-pneRdW9D3e8UtjrGQ"
-      ],
-      "influences": [],
-      "genres": [
-        "Nu-metal"
-      ],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 100,
-      "reasons": [
-        "nu-metal",
-        "odkaz na profil / ukázku",
-        "Praha 4"
       ]
     },
     {
