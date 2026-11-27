@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T08:31:54.073656+00:00",
+  "updatedAt": "2026-11-27T08:41:31.985612+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -220,6 +220,73 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:775914",
+      "title": "Hledáme Baskytaristu/Baskytaristku do Modern Metal Kapely",
+      "url": "https://hudebnibazar.cz/hledame-baskytaristu-baskytaristku-do-modern-metal-kapely/ID775914/",
+      "date": "2026-11-27T09:35:00+01:00",
+      "location": "Ostrava",
+      "author": "Vitek.Krizek",
+      "excerpt": "Zdravím Kytarista (17), bubeník (16) a zpěvačka (18) hledají baskytaristu/baskytaristku do modern metalové kapely ve stylu : Bad Omens, Dayseeker, Spiritbox, The Plot In You, Bring Me The Horizon a Normandie. Hrajeme v nízkém ladění Drop C# až po Drop F. Ideální by bylo kdybys měl/a 5 strunnou baskytaru (není podmínkou). Věk…",
+      "description": "Zdravím\nKytarista (17), bubeník (16) a zpěvačka (18) hledají baskytaristu/baskytaristku do modern metalové kapely ve stylu : Bad Omens, Dayseeker, Spiritbox, The Plot In You, Bring Me The Horizon a Normandie.\nHrajeme v nízkém ladění Drop C# až po Drop F.\nIdeální by bylo kdybys měl/a 5 strunnou baskytaru (není podmínkou).\nVěk okolo 14-21 let.\nZkušebnu máme v Ostravě a zkoušky bývají co týden o víkendu podle domluvy.\nPokud bys měl/a zájem tak klidně napiš, nejlépe na Instagram\n@vitothecross nebo @damianstross\nNíže je odkaz na naší nahrávku.",
+      "externalLinks": [
+        "https://instagram.com/vitothecross",
+        "https://instagram.com/damianstross"
+      ],
+      "influences": [
+        "Bring Me The Horizon",
+        "Bad Omens",
+        "Spiritbox",
+        "The Plot In You",
+        "Dayseeker",
+        "Normandie"
+      ],
+      "genres": [
+        "Modern metal"
+      ],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 100,
+      "reasons": [
+        "Bring Me The Horizon",
+        "Bad Omens",
+        "odkaz na profil / ukázku",
+        "Ostrava"
+      ]
+    },
+    {
+      "id": "hudebnibazar:794691",
+      "title": "Hledáme Zpěváka/Zpěvačku do Modern Metal Kapely",
+      "url": "https://hudebnibazar.cz/hledame-zpevaka-zpevacku-do-modern-metal-kapely/ID794691/",
+      "date": "2026-11-27T09:35:00+01:00",
+      "location": "Ostrava",
+      "author": "Vitek.Krizek",
+      "excerpt": "Zdravím Kytarista (17) a bubeník (16) hledají zpěváka/zpěvačku do modern metalové kapely ve stylu: The Plot In You, Spiritbox, Bad Omens, A Day to Remember a Bring Me The Horizon. Hledáme někoho, kdo by zvládl čistý zpěv. Zpěv a texty bychom chtěli v angličtině. Věk okolo 14-21 let. Zkušebnu máme v Ostravě. Pokud bys měl/a…",
+      "description": "Zdravím\nKytarista (17) a bubeník (16) hledají zpěváka/zpěvačku do modern metalové kapely ve stylu: The Plot In You, Spiritbox, Bad Omens, A Day to Remember a Bring Me The Horizon.\nHledáme někoho, kdo by zvládl čistý zpěv.\nZpěv a texty bychom chtěli v angličtině.\nVěk okolo 14-21 let.\nZkušebnu máme v Ostravě.\nPokud bys měl/a zájem tak klidně napiš, nejlépe na Instagram\n@vitothecross nebo @damianstross\nNíže je odkaz na naší nahrávku:\nhttps://drive.google.com/file/d/1NurvJXZZgWt5Y3n_CCzHwQCZV9cu0Atx/view?usp=sharing",
+      "externalLinks": [
+        "https://drive.google.com/file/d/1NurvJXZZgWt5Y3n_CCzHwQCZV9cu0Atx/view?usp=sharing",
+        "https://instagram.com/vitothecross",
+        "https://instagram.com/damianstross"
+      ],
+      "influences": [
+        "Bring Me The Horizon",
+        "Bad Omens",
+        "Spiritbox",
+        "The Plot In You"
+      ],
+      "genres": [
+        "Modern metal"
+      ],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 100,
+      "reasons": [
+        "Bring Me The Horizon",
+        "Bad Omens",
+        "odkaz na profil / ukázku",
+        "Ostrava"
+      ]
+    },
     {
       "id": "hudebnibazar:790284",
       "title": "Hledáme bubeníka a baskytaristu!",
@@ -1326,73 +1393,6 @@
       ]
     },
     {
-      "id": "hudebnibazar:794691",
-      "title": "Hledáme Zpěváka/Zpěvačku do Modern Metal Kapely",
-      "url": "https://hudebnibazar.cz/hledame-zpevaka-zpevacku-do-modern-metal-kapely/ID794691/",
-      "date": "2026-11-21T00:51:00+01:00",
-      "location": "Ostrava",
-      "author": "Vitek.Krizek",
-      "excerpt": "Zdravím Kytarista (17) a bubeník (16) hledají zpěváka/zpěvačku do modern metalové kapely ve stylu: The Plot In You, Spiritbox, Bad Omens, A Day to Remember a Bring Me The Horizon. Hledáme někoho, kdo by zvládl čistý zpěv. Zpěv a texty bychom chtěli v angličtině. Věk okolo 14-21 let. Zkušebnu máme v Ostravě. Pokud bys měl/a…",
-      "description": "Zdravím\nKytarista (17) a bubeník (16) hledají zpěváka/zpěvačku do modern metalové kapely ve stylu: The Plot In You, Spiritbox, Bad Omens, A Day to Remember a Bring Me The Horizon.\nHledáme někoho, kdo by zvládl čistý zpěv.\nZpěv a texty bychom chtěli v angličtině.\nVěk okolo 14-21 let.\nZkušebnu máme v Ostravě.\nPokud bys měl/a zájem tak klidně napiš, nejlépe na Instagram\n@vitothecross nebo @damianstross\nNíže je odkaz na naší nahrávku:\nhttps://drive.google.com/file/d/1NurvJXZZgWt5Y3n_CCzHwQCZV9cu0Atx/view?usp=sharing",
-      "externalLinks": [
-        "https://drive.google.com/file/d/1NurvJXZZgWt5Y3n_CCzHwQCZV9cu0Atx/view?usp=sharing",
-        "https://instagram.com/vitothecross",
-        "https://instagram.com/damianstross"
-      ],
-      "influences": [
-        "Bring Me The Horizon",
-        "Bad Omens",
-        "Spiritbox",
-        "The Plot In You"
-      ],
-      "genres": [
-        "Modern metal"
-      ],
-      "isPrague": false,
-      "source": "Hudební bazar",
-      "score": 100,
-      "reasons": [
-        "Bring Me The Horizon",
-        "Bad Omens",
-        "odkaz na profil / ukázku",
-        "Ostrava"
-      ]
-    },
-    {
-      "id": "hudebnibazar:775914",
-      "title": "Hledáme Baskytaristu/Baskytaristku do Modern Metal Kapely",
-      "url": "https://hudebnibazar.cz/hledame-baskytaristu-baskytaristku-do-modern-metal-kapely/ID775914/",
-      "date": "2026-11-21T00:43:00+01:00",
-      "location": "Ostrava",
-      "author": "Vitek.Krizek",
-      "excerpt": "Zdravím Kytarista (17), bubeník (16) a zpěvačka (18) hledají baskytaristu/baskytaristku do modern metalové kapely ve stylu : Bad Omens, Dayseeker, Spiritbox, The Plot In You, Bring Me The Horizon a Normandie. Hrajeme v nízkém ladění Drop C# až po Drop F. Ideální by bylo kdybys měl/a 5 strunnou baskytaru (není podmínkou). Věk…",
-      "description": "Zdravím\nKytarista (17), bubeník (16) a zpěvačka (18) hledají baskytaristu/baskytaristku do modern metalové kapely ve stylu : Bad Omens, Dayseeker, Spiritbox, The Plot In You, Bring Me The Horizon a Normandie.\nHrajeme v nízkém ladění Drop C# až po Drop F.\nIdeální by bylo kdybys měl/a 5 strunnou baskytaru (není podmínkou).\nVěk okolo 14-21 let.\nZkušebnu máme v Ostravě a zkoušky bývají co týden o víkendu podle domluvy.\nPokud bys měl/a zájem tak klidně napiš, nejlépe na Instagram\n@vitothecross nebo @damianstross\nNíže je odkaz na naší nahrávku.",
-      "externalLinks": [
-        "https://instagram.com/vitothecross",
-        "https://instagram.com/damianstross"
-      ],
-      "influences": [
-        "Bring Me The Horizon",
-        "Bad Omens",
-        "Spiritbox",
-        "The Plot In You",
-        "Dayseeker",
-        "Normandie"
-      ],
-      "genres": [
-        "Modern metal"
-      ],
-      "isPrague": false,
-      "source": "Hudební bazar",
-      "score": 100,
-      "reasons": [
-        "Bring Me The Horizon",
-        "Bad Omens",
-        "odkaz na profil / ukázku",
-        "Ostrava"
-      ]
-    },
-    {
       "id": "hudebnibazar:782314",
       "title": "Hledáme bubeníka do Metalcore/Alternative metal kapely",
       "url": "https://hudebnibazar.cz/hledame-bubenika-do-metalcore-alternative-metal-kapely/ID782314/",
@@ -2485,7 +2485,7 @@
     {
       "id": "midi:259475",
       "title": "Profesionální univerzální kytarista hledá aktivní kapelu nebo záskoky (Praha)",
-      "url": "http://www.midi.cz/inzerat/259475/profesionalni-univerzalni-kytarista-hleda-aktivni-kapelu-nebo-zaskoky-praha/",
+      "url": "https://www.midi.cz/inzerat/259475/profesionalni-univerzalni-kytarista-hleda-aktivni-kapelu-nebo-zaskoky-praha/",
       "date": "2026-11-09T15:12:00+01:00",
       "location": "Praha",
       "author": "Paul Seedorenko",
@@ -5870,37 +5870,6 @@
         "alt metal",
         "odkaz na profil / ukázku",
         "Praha 3"
-      ]
-    },
-    {
-      "id": "hudebnibazar:775768",
-      "title": "Hledáme bubeníka",
-      "url": "https://hudebnibazar.cz/hledame-bubenika/ID775768/",
-      "date": "2026-09-28T10:39:00+02:00",
-      "location": "Praha 10",
-      "author": "Jan.O2",
-      "excerpt": "Naše nově vznikající kapela hledá bubeníka. Žánrově se chceme pohybovat v metalu s ženským hlasem (VIZ UKÁZKA). Potřebujeme někoho, kdo si dobře rozumí s dvojšlapkou. Všichni již máme zkušenosti s koncerty, nahráváním i s videoklipy z předchozích kapel. Věkově kolem 40-ti let. Zkušebnu máme v Kralupech nad Vltavou. Inspirace:…",
-      "description": "Naše nově vznikající kapela hledá bubeníka. Žánrově se chceme pohybovat v metalu s ženským hlasem (VIZ UKÁZKA). Potřebujeme někoho, kdo si dobře rozumí s dvojšlapkou. Všichni již máme zkušenosti s koncerty, nahráváním i s videoklipy z předchozích kapel. Věkově kolem 40-ti let. Zkušebnu máme v Kralupech nad Vltavou.\nInspirace:\nBad Omens, Wage War, Caskets, Poppy, Amaranthe, Diamante, Ankor, Motionless In White, Falling In Revers, Make Them Suffer, Currents, Polaris, Architects, Red Hook...",
-      "externalLinks": [
-        "https://www.youtube.com/watch?v=Wh9NMQXWUNU"
-      ],
-      "influences": [
-        "Bad Omens",
-        "Architects",
-        "Poppy",
-        "Caskets",
-        "Motionless In White",
-        "Falling In Reverse"
-      ],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 100,
-      "reasons": [
-        "Bad Omens",
-        "Architects",
-        "odkaz na profil / ukázku",
-        "Praha 10"
       ]
     }
   ]
