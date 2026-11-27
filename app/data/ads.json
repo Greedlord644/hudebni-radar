@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T17:41:38.649652+00:00",
+  "updatedAt": "2026-11-27T17:51:52.938985+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -495,6 +495,28 @@
       "reasons": [
         "alt metal",
         "Praha 3"
+      ]
+    },
+    {
+      "id": "hudebnibazar:796019",
+      "title": "Hledáme klávesy z UH",
+      "url": "https://hudebnibazar.cz/hledame-klavesy-z-uh/ID796019/",
+      "date": "2026-11-26T16:10:00+01:00",
+      "location": "Uherské Hradiště",
+      "author": "Risa.Kisa",
+      "excerpt": "a okolí, jsme kapela RENNY s okolí Uherského hradiště i zkušebna je v okolí nyní děláme rekonstrukci kapely hrajeme modern rock s atraktivním ženským zpěvem. Složení kytara, basa , buben, \"klávesy\" a zpěvačka. Skladby jako podklady děláme na PC. Nejsou složité, jsou melodické a líbivé. Na vlastní uši lze slyšet na živé zkoušce…",
+      "description": "a okolí, jsme kapela RENNY s okolí Uherského hradiště i zkušebna je v okolí nyní děláme rekonstrukci kapely hrajeme modern rock s atraktivním ženským zpěvem. Složení kytara, basa , buben, \"klávesy\" a zpěvačka. Skladby jako podklady děláme na PC. Nejsou složité, jsou melodické a líbivé. Na vlastní uši lze slyšet na živé zkoušce ve čtvrtek. Nesháníme virtuosa. Na věku nezáleží. Přijdi se podívat, poslechnout a zkusit to, jsme v pohodě.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Modern rock"
+      ],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 62,
+      "reasons": [
+        "modern rock",
+        "Uherské Hradiště"
       ]
     },
     {
