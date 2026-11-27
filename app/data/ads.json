@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T10:21:39.618687+00:00",
+  "updatedAt": "2026-11-27T10:31:55.183840+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -220,6 +220,29 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:795964",
+      "title": "🎤 HLEDÁME ZPĚVÁKA / ZPĚVAČKU DO NOVÉHO METALOVÉHO PROJEKTU!",
+      "url": "https://hudebnibazar.cz/hledame-zpevaka-zpevacku-do-noveho-metaloveho-projektu/ID795964/",
+      "date": "2026-11-27T11:22:00+01:00",
+      "location": "Svitavy",
+      "author": "Patrik.Safar",
+      "excerpt": "🎤 HLEDÁME ZPĚVÁKA / ZPĚVAČKU DO NOVÉHO METALOVÉHO PROJEKTU! Dáváme dohromady nový hudební projekt zaměřený na kombinaci různých subžánrů metalu (melodické vyhrávky, riffy, atmosférické pasáže) a hledáme někoho za mikrofon, kdo má chuť tvořit, posouvat se a společně dělat muziku. CO HLEDÁME * Věk maximálně 40 let * Zkušenosti s…",
+      "description": "🎤 HLEDÁME ZPĚVÁKA / ZPĚVAČKU DO NOVÉHO METALOVÉHO PROJEKTU!\nDáváme dohromady nový hudební projekt zaměřený na kombinaci různých subžánrů metalu (melodické vyhrávky, riffy, atmosférické pasáže) a hledáme někoho za mikrofon, kdo má chuť tvořit, posouvat se a společně dělat muziku.\nCO HLEDÁME\n* Věk maximálně 40 let\n* Zkušenosti s koncertováním\n* Zkušenosti se zpěvem, growlem, screamem\n* Kreativního člověka s vlastními nápady\n* Chuť tvořit výhradně vlastní tvorbu\n* Spolehlivost a chuť do společného fungování\n* Nebát se experimentovat a hledat vlastní zvuk\nCO NABÍZÍME\n* Vlastní zkušebnu\n* Prostor pro kreativitu a vlastní nápady\n* Chuť dělat hudbu, nahrávat a koncertovat\n📍 Zkušebna: Jevíčko a okolí\nPokud tě baví moderní metal, tvrdé riffy, atmosféra, melodie a energie a chceš být součástí něčeho nového, ozvi se nám!\nNapiš nám něco o sobě, svém pohledu na hudbu, pošli ukázku, nebo se rovnou můžeme domluvit na setkání.\nHledáme někoho, s kým si budeme rozumět po lidské i hudební stránce. 🤘",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [
+        "Modern metal"
+      ],
+      "isPrague": false,
+      "source": "Hudební bazar",
+      "score": 75,
+      "reasons": [
+        "moderní metal",
+        "vlastní tvorba",
+        "Svitavy"
+      ]
+    },
     {
       "id": "hudebnibazar:783227",
       "title": "HLEDÁM AUTORSKÝ BAND",
