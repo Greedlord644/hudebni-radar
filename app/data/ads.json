@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T16:21:32.877584+00:00",
+  "updatedAt": "2026-11-28T16:31:48.487489+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -220,6 +220,26 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:770622",
+      "title": "HLEDÁM AUTORSKÝ BAND",
+      "url": "https://hudebnibazar.cz/hledam-autorsky-band/ID770622/",
+      "date": "2026-11-28T17:26:00+01:00",
+      "location": "Praha 4",
+      "author": "Gogen.77",
+      "excerpt": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím. Jen aktivní kapely z Prahy.",
+      "description": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím.\nJen aktivní kapely z Prahy.",
+      "externalLinks": [],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 69,
+      "reasons": [
+        "Praha 4",
+        "lokální networking"
+      ]
+    },
     {
       "id": "hudebnibazar:774889",
       "title": "HLEDÁME ZPĚV!",
@@ -1406,26 +1426,6 @@
       "score": 72,
       "reasons": [
         "Praha 10",
-        "lokální networking"
-      ]
-    },
-    {
-      "id": "hudebnibazar:770622",
-      "title": "HLEDÁM AUTORSKÝ BAND",
-      "url": "https://hudebnibazar.cz/hledam-autorsky-band/ID770622/",
-      "date": "2026-11-23T11:09:00+01:00",
-      "location": "Praha 4",
-      "author": "Gogen.77",
-      "excerpt": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím. Jen aktivní kapely z Prahy.",
-      "description": "Pokud vám chybí nebo naopak překáží kytarista ve zkušeném ROCK-bandu, tak ho ochotně nahradím.\nJen aktivní kapely z Prahy.",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 69,
-      "reasons": [
-        "Praha 4",
         "lokální networking"
       ]
     },
@@ -5873,27 +5873,6 @@
         "podrobný inzerát",
         "jasný projekt / zkušenosti",
         "Plzeň"
-      ]
-    },
-    {
-      "id": "hudebnibazar:784957",
-      "title": "Basák do Crossover Thrash / Hardcore | Hraní v zahraničí",
-      "url": "https://hudebnibazar.cz/basak-do-crossover-thrash-hardcore-hrani-v-zahranici/ID784957/",
-      "date": "2026-09-29T18:27:00+02:00",
-      "location": "Praha 9",
-      "author": "Ales.R2",
-      "excerpt": "Ahoj, do velice zajeté a ambiciózní kapely, hledáme člověka, co to s námi bude myslet vážně. Máme vlastní tvorbu a aktuálně pracujeme na čtvrté desce. Na rok 2027 máme už teď přes 15 velkých koncertů, z čehož je polovina v zahraničí a další budou přibývat. V plánu je také i tour po Mexiku. Požadujeme: - Zodpovědnost,…",
-      "description": "Ahoj, do velice zajeté a ambiciózní kapely, hledáme člověka, co to s námi bude myslet vážně. Máme vlastní tvorbu a aktuálně pracujeme na čtvrté desce. Na rok 2027 máme už teď přes 15 velkých koncertů, z čehož je polovina v zahraničí a další budou přibývat. V plánu je také i tour po Mexiku.\nPožadujeme:\n- Zodpovědnost, dochvilnost a připravenost\n- Profesionální přístup\n- Vlastní kvalitní gear\n- Flexibilní zaměstnání\n- Mindset na živé a čím dál častější hraní\nVelkou výhodou:\n- Vlastní dodávka\nS námluvami můžeme začít už hned, ať můžeš v lednu naskočit na první koncert",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 77,
-      "reasons": [
-        "Praha 9",
-        "lokální networking",
-        "podrobný inzerát"
       ]
     }
   ]
