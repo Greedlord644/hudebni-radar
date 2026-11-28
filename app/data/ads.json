@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T12:51:34.077257+00:00",
+  "updatedAt": "2026-11-28T13:02:01.615078+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -220,6 +220,31 @@
     }
   ],
   "interesting": [
+    {
+      "id": "hudebnibazar:774889",
+      "title": "HLEDÁME ZPĚV!",
+      "url": "https://hudebnibazar.cz/hledame-zpev/ID774889/",
+      "date": "2026-11-28T13:58:00+01:00",
+      "location": "Praha 4",
+      "author": "Johnny.Beer",
+      "excerpt": "Čau, Nově vznikající tříčlenná zkušená rock/metal kapela (ještě třicátníků :D) s vlastní zkušebnou na Jižáku na Praze 4. hledá Frontmana! Máme vlastní songy a hledáme poslední článek! Máš styl a troufneš si na frontmana a skládání textů? Vyžadujeme češtinu a spolehlivost! V odkazu dema:…",
+      "description": "Čau,\nNově vznikající tříčlenná zkušená rock/metal kapela (ještě třicátníků :D) s vlastní zkušebnou na Jižáku na Praze 4. hledá Frontmana!\nMáme vlastní songy a hledáme poslední článek!\nMáš styl a troufneš si na frontmana a skládání textů?\nVyžadujeme češtinu a spolehlivost!\nV odkazu dema:\nhttps://www.youtube.com/watch?v=z0HVfl_TBRA\nhttps://www.youtube.com/watch?v=T0ETXvSfths",
+      "externalLinks": [
+        "https://www.youtube.com/watch?v=z0HVfl_TBRA",
+        "https://www.youtube.com/watch?v=T0ETXvSfths"
+      ],
+      "influences": [],
+      "genres": [],
+      "isPrague": true,
+      "source": "Hudební bazar",
+      "score": 89,
+      "reasons": [
+        "Praha 4",
+        "lokální networking",
+        "odkaz na profil / ukázku",
+        "podrobný inzerát"
+      ]
+    },
     {
       "id": "bandmate:77d31ccb-50b1-4417-b6b2-c79f2a8a3eb2",
       "title": "Muzikant' hledám kytaristu (nebo jiné strunne nástroje) pro pravidelné hraní a tvoření",
@@ -4570,31 +4595,6 @@
         "grunge",
         "odkaz na profil / ukázku",
         "Praha 3"
-      ]
-    },
-    {
-      "id": "hudebnibazar:774889",
-      "title": "HLEDÁME ZPĚV!",
-      "url": "https://hudebnibazar.cz/hledame-zpev/ID774889/",
-      "date": "2026-10-18T17:29:00+02:00",
-      "location": "Praha 4",
-      "author": "Johnny.Beer",
-      "excerpt": "Čau, Nově vznikající tříčlenná zkušená rock/metal kapela (ještě třicátníků :D) s vlastní zkušebnou na Jižáku na Praze 4. hledá Frontmana! Máme vlastní songy a hledáme poslední článek! Máš styl a troufneš si na frontmana a skládání textů? Vyžadujeme češtinu a spolehlivost! V odkazu dema:…",
-      "description": "Čau,\nNově vznikající tříčlenná zkušená rock/metal kapela (ještě třicátníků :D) s vlastní zkušebnou na Jižáku na Praze 4. hledá Frontmana!\nMáme vlastní songy a hledáme poslední článek!\nMáš styl a troufneš si na frontmana a skládání textů?\nVyžadujeme češtinu a spolehlivost!\nV odkazu dema:\nhttps://www.youtube.com/watch?v=z0HVfl_TBRA\nhttps://www.youtube.com/watch?v=T0ETXvSfths",
-      "externalLinks": [
-        "https://www.youtube.com/watch?v=z0HVfl_TBRA",
-        "https://www.youtube.com/watch?v=T0ETXvSfths"
-      ],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 89,
-      "reasons": [
-        "Praha 4",
-        "lokální networking",
-        "odkaz na profil / ukázku",
-        "podrobný inzerát"
       ]
     },
     {
