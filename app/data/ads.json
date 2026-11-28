@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T12:41:41.807967+00:00",
+  "updatedAt": "2026-11-28T12:51:34.077257+00:00",
   "windowDays": 60,
   "singerSeeking": [
     {
@@ -5913,26 +5913,6 @@
       "score": 66,
       "reasons": [
         "Praha-východ",
-        "lokální networking"
-      ]
-    },
-    {
-      "id": "hudebnibazar:784885",
-      "title": "HLEDÁM SPOLUHRÁČE",
-      "url": "https://hudebnibazar.cz/hledam-spoluhrace/ID784885/",
-      "date": "2026-09-29T14:51:00+02:00",
-      "location": "Praha 4",
-      "author": "Gogen.77",
-      "excerpt": "Jsem kytarista: Solidní zkušenosti, vybavení a hlavně chuť dělat kvalitní, autorskou muziku. (ROCK/HARD) Lokace Praha",
-      "description": "Jsem kytarista:\nSolidní zkušenosti, vybavení a hlavně chuť dělat kvalitní, autorskou muziku. (ROCK/HARD)\nLokace Praha",
-      "externalLinks": [],
-      "influences": [],
-      "genres": [],
-      "isPrague": true,
-      "source": "Hudební bazar",
-      "score": 69,
-      "reasons": [
-        "Praha 4",
         "lokální networking"
       ]
     }
